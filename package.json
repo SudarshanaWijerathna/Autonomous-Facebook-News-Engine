@@ -1,0 +1,30 @@
+{
+  "name": "briefsphere-fb-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "tsx src/pipeline.ts",
+    "feedback": "tsx src/feedback/sync.ts",
+    "preview": "tsx tools/preview.ts",
+    "preview:breaking": "tsx tools/preview.ts -- --variant breaking --category Breaking",
+    "preview:sports": "tsx tools/preview.ts -- --variant sports --category Sports",
+    "preview:sensitive": "tsx tools/preview.ts -- --variant sensitive",
+    "typecheck": "tsc --noEmit",
+    "dev": "echo 'This is a pipeline project, not a web server. Use: npm run preview (generate PNG) or open tools/preview-flyer.html in your browser (visual editor)'"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "cheerio": "^1.0.0",
+    "rss-parser": "^3.13.0",
+    "satori": "^0.10.13",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/sharp": "^0.31.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}

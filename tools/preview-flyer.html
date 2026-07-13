@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BriefSphere — Flyer Template Preview</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    @font-face {
+      font-family: 'Vastago Grotesk';
+      src: url('../fonts/VastagoGrotesk-Regular.otf') format('opentype');
+      font-weight: 400;
+    }
+    @font-face {
+      font-family: 'Vastago Grotesk';
+      src: url('../fonts/VastagoGrotesk-Bold.otf') format('opentype');
+      font-weight: 700;
+    }
+    @font-face {
+      font-family: 'Vastago Grotesk';
+      src: url('../fonts/VastagoGrotesk-Black.otf') format('opentype');
+      font-weight: 800;
+    }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: #2e3348;
+      --text: #e8eaf6;
+      --text-muted: #7b82a8;
+      --accent: #4268d1;
+      --radius: 10px;
+    }
+
+    body {
+      font-family: 'Vastago Grotesk', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ─────────────────────────────────────────────────────── */
+    header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 24px;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+    }
+    .logo { font-size: 20px; font-weight: 800; font-family: 'Vastago Grotesk'; }
+    .logo span:first-child { color: var(--accent); }
+    .logo span:last-child  { color: var(--text); }
+    header h1 { font-size: 14px; color: var(--text-muted); font-weight: 500; }
+    .header-actions { margin-left: auto; display: flex; gap: 8px; }
+    button {
+      font-family: inherit;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 16px;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+      transition: opacity 0.15s, transform 0.1s;
+    }
+    button:hover { opacity: 0.85; }
+    button:active { transform: scale(0.97); }
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-ghost { background: var(--surface2); color: var(--text); border: 1px solid var(--border); }
+
+    /* ── Layout ─────────────────────────────────────────────────────── */
+    .workspace {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* ── Sidebar ─────────────────────────────────────────────────────── */
+    .sidebar {
+      width: 320px;
+      min-width: 280px;
+      background: var(--surface);
+      border-right: 1px solid var(--border);
+      overflow-y: auto;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .section-title {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 10px;
+    }
+
+    label {
+      display: block;
+      font-size: 12px;
+      color: var(--text-muted);
+      margin-bottom: 5px;
+    }
+
+    input[type="text"],
+    textarea {
+      width: 100%;
+      font-family: inherit;
+      font-size: 13px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 9px 12px;
+      border-radius: 6px;
+      margin-bottom: 12px;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    input[type="text"]:focus,
+    textarea:focus { border-color: var(--accent); }
+    textarea { resize: vertical; min-height: 72px; line-height: 1.5; }
+
+    /* Background image upload */
+    .bg-upload-zone {
+      border: 2px dashed var(--border);
+      border-radius: 8px;
+      padding: 20px;
+      text-align: center;
+      cursor: pointer;
+      transition: border-color 0.15s;
+      margin-bottom: 12px;
+    }
+    .bg-upload-zone:hover { border-color: #555; }
+    .bg-upload-zone.has-image { border-color: #059669; border-style: solid; }
+    .bg-upload-zone input { display: none; }
+    .bg-upload-label { font-size: 12px; color: var(--text-muted); }
+    .bg-upload-label strong { color: var(--text); display: block; margin-top: 4px; }
+
+    /* Color swatches for quick gradients */
+    .swatch-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+    .swatch {
+      width: 36px;
+      height: 36px;
+      border-radius: 6px;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: border-color 0.15s, transform 0.1s;
+    }
+    .swatch:hover { transform: scale(1.1); }
+    .swatch.active { border-color: #fff; }
+
+    /* Font size slider display */
+    .slider-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .slider-row input[type="range"] {
+      flex: 1;
+      accent-color: var(--accent);
+      margin-bottom: 0;
+      height: auto;
+      padding: 0;
+      border: none;
+      background: none;
+    }
+    .slider-val {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text);
+      min-width: 28px;
+      text-align: right;
+    }
+
+    /* ── Canvas area ─────────────────────────────────────────────────── */
+    .canvas-area {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 40px;
+      background:
+        radial-gradient(ellipse at 30% 30%, rgba(66,104,209,0.04), transparent 60%),
+        var(--bg);
+      overflow: auto;
+    }
+
+    .canvas-wrap {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .canvas-label {
+      font-size: 12px;
+      color: var(--text-muted);
+      background: var(--surface2);
+      padding: 4px 12px;
+      border-radius: 20px;
+    }
+
+    /* The flyer preview — 1080×1080 scaled down */
+    #flyer-preview {
+      width: 540px;
+      height: 540px;
+      position: relative;
+      overflow: hidden;
+      border-radius: 4px;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.6), 0 0 0 1px rgba(255,255,255,0.05);
+      font-family: 'Vastago Grotesk', sans-serif;
+      transform-origin: top center;
+      /* Everything inside is at half scale for display */
+      font-size: 50%;
+    }
+
+    .flyer-bg {
+      position: absolute;
+      inset: 0;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .flyer-frame {
+      position: absolute;
+      inset: 0;
+      background-image: url('../SVG/frame.svg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    /* Text block */
+    .flyer-text {
+      position: absolute;
+      bottom: 240px; /* 120px in 1080 coords, doubled for 50% scale coordinate system */
+      left: 200px;
+      right: 200px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .flyer-headline {
+      color: #fff;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.2;
+      margin-bottom: 40px;
+      word-break: break-word;
+      font-family: 'Vastago Grotesk', sans-serif;
+    }
+    .flyer-summary {
+      color: rgba(255,255,255,0.82);
+      font-size: 56px; /* 28px in 1080, doubled */
+      font-weight: 400;
+      line-height: 1.5;
+      word-break: break-word;
+      font-family: 'Vastago Grotesk', sans-serif;
+    }
+
+    .info-row {
+      display: flex;
+      gap: 12px;
+      font-size: 12px;
+    }
+    .info-tag {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      padding: 4px 10px;
+      border-radius: 20px;
+      color: var(--text-muted);
+    }
+    .info-tag strong { color: var(--text); }
+
+    @media (max-width: 900px) {
+      .workspace { flex-direction: column; }
+      .sidebar { width: 100%; border-right: none; border-bottom: 1px solid var(--border); max-height: 40vh; }
+      #flyer-preview { width: 360px; height: 360px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo"><span>Brief</span><span>Sphere</span></div>
+  <h1>Frame Template Preview</h1>
+  <div class="header-actions">
+    <button class="btn-ghost" onclick="resetDefaults()">Reset</button>
+    <button class="btn-primary" onclick="downloadPng()">Download PNG</button>
+  </div>
+</header>
+
+<div class="workspace">
+
+  <aside class="sidebar">
+    <div>
+      <p class="section-title">Content</p>
+      <label for="inp-headline">Headline</label>
+      <textarea id="inp-headline" rows="3" placeholder="Enter the news headline…">Heavy rains triggers flood warnings across western province</textarea>
+
+      <label for="inp-summary">Summary (2–3 lines)</label>
+      <textarea id="inp-summary" rows="3" placeholder="Short summary for the flyer…">The department of meteorology has issued urgent flood alerts as river levels rise across several districts, with residents in low-lying areas urged to evacuate.</textarea>
+    </div>
+
+    <div>
+      <p class="section-title">Headline Font Size</p>
+      <div class="slider-row">
+        <input type="range" id="font-size-slider" min="30" max="90" value="70" step="2"
+               oninput="setFontSizeOverride(this.value); document.getElementById('font-size-val').textContent = this.value + 'px'">
+        <span class="slider-val" id="font-size-val">auto</span>
+      </div>
+      <button class="btn-ghost" style="width:100%;margin-bottom:8px" onclick="resetFontSize()">Auto (match pipeline logic)</button>
+    </div>
+
+    <div>
+      <p class="section-title">Background</p>
+      <div class="bg-upload-zone" id="drop-zone" onclick="document.getElementById('bg-file').click()">
+        <input type="file" id="bg-file" accept="image/*" onchange="loadBgImage(this)" />
+        <div class="bg-upload-label">
+          Click or drag an image here
+          <strong id="bg-file-name">No image selected (gradient used)</strong>
+        </div>
+      </div>
+
+      <p style="font-size:12px;color:var(--text-muted);margin-bottom:8px;">Quick gradient presets:</p>
+      <div class="swatch-row" id="swatch-row">
+        <div class="swatch active" data-gradient="linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%)"
+             style="background:linear-gradient(135deg,#0f172a,#1e3a5f)" onclick="setBgGradient(this)"></div>
+        <div class="swatch" data-gradient="linear-gradient(135deg, #1a0a00 0%, #7c2d12 100%)"
+             style="background:linear-gradient(135deg,#1a0a00,#7c2d12)" onclick="setBgGradient(this)"></div>
+        <div class="swatch" data-gradient="linear-gradient(135deg, #0a001a 0%, #3b0764 100%)"
+             style="background:linear-gradient(135deg,#0a001a,#3b0764)" onclick="setBgGradient(this)"></div>
+        <div class="swatch" data-gradient="linear-gradient(135deg, #001a0a 0%, #064e3b 100%)"
+             style="background:linear-gradient(135deg,#001a0a,#064e3b)" onclick="setBgGradient(this)"></div>
+        <div class="swatch" data-gradient="linear-gradient(135deg, #1a1a00 0%, #713f12 100%)"
+             style="background:linear-gradient(135deg,#1a1a00,#713f12)" onclick="setBgGradient(this)"></div>
+        <div class="swatch" data-gradient="linear-gradient(160deg, #0f172a 0%, #374151 50%, #111827 100%)"
+             style="background:linear-gradient(160deg,#0f172a,#374151,#111827)" onclick="setBgGradient(this)"></div>
+      </div>
+      <button class="btn-ghost" style="width:100%;margin-top:4px;font-size:12px" onclick="clearBgImage()">Clear image</button>
+    </div>
+
+    <div style="padding-top:8px;border-top:1px solid var(--border);">
+      <p class="section-title">Design Info</p>
+      <p style="font-size:12px;color:var(--text-muted);line-height:1.6">
+        This preview uses <code style="color:#a78bfa">SVG/frame.svg</code> directly as the visual frame overlay.<br><br>
+        Text is rendered in the local <code style="color:#a78bfa">Vastago Grotesk</code> font, matching the backend rendering engine.
+      </p>
+    </div>
+  </aside>
+
+  <main class="canvas-area">
+    <div class="canvas-wrap">
+      <div class="canvas-label">Preview — 1080×1080 at 50% scale</div>
+
+      <div id="flyer-preview">
+        <div class="flyer-bg" id="flyer-bg"></div>
+        <div class="flyer-frame" id="flyer-frame"></div>
+        <div class="flyer-text">
+          <div class="flyer-headline" id="headline-el"></div>
+          <div class="flyer-summary" id="summary-el"></div>
+        </div>
+      </div>
+
+      <div class="info-row">
+        <div class="info-tag">Frame: <strong>frame.svg</strong></div>
+        <div class="info-tag">Font: <strong id="info-fontsize">auto</strong></div>
+        <div class="info-tag">1080 × 1080 px</div>
+      </div>
+    </div>
+  </main>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+<script>
+  let currentBgImage = null;
+  let currentBgGradient = 'linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%)';
+  let fontSizeOverride = null;
+
+  function autoFontSize(headline) {
+    const len = headline.length;
+    // Doubled for 50% coordinate space
+    if (len <= 40) return 140;
+    if (len <= 55) return 120;
+    if (len <= 75) return 104;
+    if (len <= 95) return 88;
+    return 76;
+  }
+
+  function updateFlyer() {
+    const headline = document.getElementById('inp-headline').value.trim() || 'Headline goes here';
+    const summary  = document.getElementById('inp-summary').value.trim() || 'Summary text.';
+
+    const fs = fontSizeOverride !== null
+      ? fontSizeOverride * 2
+      : autoFontSize(headline);
+
+    document.getElementById('headline-el').style.fontSize = fs + 'px';
+    document.getElementById('headline-el').textContent = headline.slice(0, 140);
+    document.getElementById('summary-el').textContent = summary.slice(0, 120) + (summary.length > 120 ? '…' : '');
+
+    const bg = document.getElementById('flyer-bg');
+    if (currentBgImage) {
+      bg.style.backgroundImage = `url(${currentBgImage})`;
+    } else {
+      bg.style.backgroundImage = currentBgGradient;
+    }
+
+    document.getElementById('info-fontsize').textContent = fontSizeOverride !== null ? fontSizeOverride + 'px' : 'auto';
+  }
+
+  function setFontSizeOverride(val) {
+    fontSizeOverride = parseInt(val);
+    updateFlyer();
+  }
+
+  function resetFontSize() {
+    fontSizeOverride = null;
+    document.getElementById('font-size-val').textContent = 'auto';
+    updateFlyer();
+  }
+
+  function loadBgImage(input) {
+    const file = input.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      currentBgImage = e.target.result;
+      document.getElementById('bg-file-name').textContent = file.name;
+      document.getElementById('drop-zone').classList.add('has-image');
+      document.querySelectorAll('.swatch').forEach(s => s.classList.remove('active'));
+      updateFlyer();
+    };
+    reader.readAsDataURL(file);
+  }
+
+  function clearBgImage() {
+    currentBgImage = null;
+    document.getElementById('bg-file-name').textContent = 'No image selected (gradient used)';
+    document.getElementById('drop-zone').classList.remove('has-image');
+    document.getElementById('bg-file').value = '';
+    updateFlyer();
+  }
+
+  function setBgGradient(el) {
+    currentBgImage = null;
+    currentBgGradient = el.dataset.gradient;
+    document.getElementById('bg-file-name').textContent = 'No image selected (gradient used)';
+    document.getElementById('drop-zone').classList.remove('has-image');
+    document.getElementById('bg-file').value = '';
+    document.querySelectorAll('.swatch').forEach(s => s.classList.remove('active'));
+    el.classList.add('active');
+    updateFlyer();
+  }
+
+  function resetDefaults() {
+    document.getElementById('inp-headline').value = 'Heavy rains triggers flood warnings across western province';
+    document.getElementById('inp-summary').value = 'The department of meteorology has issued urgent flood alerts as river levels rise across several districts, with residents in low-lying areas urged to evacuate.';
+    fontSizeOverride = null;
+    document.getElementById('font-size-val').textContent = 'auto';
+    currentBgGradient = 'linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%)';
+    currentBgImage = null;
+    document.querySelectorAll('.swatch').forEach((s, i) => { s.classList.toggle('active', i === 0); });
+    clearBgImage();
+    updateFlyer();
+  }
+
+  const dropZone = document.getElementById('drop-zone');
+  dropZone.addEventListener('dragover', (e) => { e.preventDefault(); dropZone.style.borderColor = '#4268d1'; });
+  dropZone.addEventListener('dragleave', () => { dropZone.style.borderColor = ''; });
+  dropZone.addEventListener('drop', (e) => {
+    e.preventDefault();
+    dropZone.style.borderColor = '';
+    const file = e.dataTransfer.files[0];
+    if (file && file.type.startsWith('image/')) {
+      const reader = new FileReader();
+      reader.onload = (ev) => {
+        currentBgImage = ev.target.result;
+        document.getElementById('bg-file-name').textContent = file.name;
+        dropZone.classList.add('has-image');
+        updateFlyer();
+      };
+      reader.readAsDataURL(file);
+    }
+  });
+
+  document.getElementById('inp-headline').addEventListener('input', updateFlyer);
+  document.getElementById('inp-summary').addEventListener('input', updateFlyer);
+
+  async function downloadPng() {
+    const el = document.getElementById('flyer-preview');
+    el.style.transform = 'scale(2)';
+    el.style.transformOrigin = 'top left';
+    el.style.width = '1080px';
+    el.style.height = '1080px';
+    el.style.fontSize = '100%';
+
+    // Scale text block positioning
+    const textBlock = el.querySelector('.flyer-text');
+    textBlock.style.bottom = '120px';
+    textBlock.style.left = '100px';
+    textBlock.style.right = '100px';
+
+    try {
+      const canvas = await html2canvas(el, {
+        width: 1080,
+        height: 1080,
+        scale: 1,
+        useCORS: true,
+        allowTaint: true,
+        backgroundColor: null,
+      });
+
+      const link = document.createElement('a');
+      link.download = `briefsphere-flyer-${Date.now()}.png`;
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    } catch (err) {
+      alert('Download failed: ' + err.message);
+    } finally {
+      el.style.transform = '';
+      el.style.transformOrigin = '';
+      el.style.width = '';
+      el.style.height = '';
+      el.style.fontSize = '';
+      textBlock.style.bottom = '';
+      textBlock.style.left = '';
+      textBlock.style.right = '';
+      updateFlyer();
+    }
+  }
+
+  updateFlyer();
+</script>
+</body>
+</html>

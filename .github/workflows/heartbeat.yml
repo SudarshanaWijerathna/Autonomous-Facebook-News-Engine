@@ -1,0 +1,87 @@
+# BriefSphere Heartbeat — runs the main pipeline on schedule
+#
+# Schedule: approximately every 2 hours during Sri Lankan waking hours
+# (06:00–23:00 UTC+5:30 = 00:30–17:30 UTC)
+# These cron times are UTC. Adjust them by editing the list below;
+# the pipeline also reads rules.json → schedule for documentation purposes.
+#
+# IMPORTANT: After changing the schedule, ensure cron times stay within
+# the UTC range that maps to 06:00-23:00 Sri Lanka time.
+
+name: BriefSphere Heartbeat
+
+on:
+  schedule:
+    # UTC times covering 06:00-23:00 Sri Lanka time (UTC+5:30)
+    - cron: '00 01 * * *'   # 06:30 SL
+    - cron: '00 03 * * *'   # 08:30 SL
+    - cron: '30 05 * * *'   # 11:00 SL
+    - cron: '00 08 * * *'   # 13:30 SL
+    - cron: '30 10 * * *'   # 16:00 SL
+    - cron: '00 13 * * *'   # 18:30 SL
+    - cron: '30 15 * * *'   # 21:00 SL
+    - cron: '30 17 * * *'   # 23:00 SL
+
+  # Manual trigger for testing — runs immediately on demand
+  workflow_dispatch:
+    inputs:
+      shadow_override:
+        description: 'Force shadow mode regardless of rules.json (true/false)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+permissions:
+  contents: write  # Needed to commit data/ changes back to the repo
+
+jobs:
+  pipeline:
+    name: Run Pipeline
+    runs-on: ubuntu-latest
+    timeout-minutes: 20  # Each run should complete well under this
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Persist credentials so we can push the data/ commit back
+          persist-credentials: true
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_SYSTEM_USER_TOKEN: ${{ secrets.FB_SYSTEM_USER_TOKEN }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Allow manual workflow_dispatch to override shadow mode
+          SHADOW_OVERRIDE: ${{ github.event.inputs.shadow_override || 'false' }}
+        run: npm run pipeline
+
+      - name: Commit data changes back to repo
+        run: |
+          git config user.name "BriefSphere Bot"
+          git config user.email "bot@briefsphere.lk"
+          git add data/
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "chore: pipeline run [skip ci]"
+            git push
+          fi

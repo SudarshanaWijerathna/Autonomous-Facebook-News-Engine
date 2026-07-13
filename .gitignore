@@ -1,0 +1,28 @@
+node_modules/
+dist/
+
+# Temporary images generated during a pipeline run — not committed
+data/tmp/
+
+# Environment variables — NEVER commit
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs from local runs (GitHub Actions logs are in the UI)
+data/run-logs/
+
+# Large generated artifacts
+*.png
+*.jpg
+*.jpeg
+# EXCEPT the fallback template backgrounds which are part of the repo
+!templates/fallback/*.png

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "ada-derana-en",
+    "name": "Ada Derana",
+    "baseUrl": "https://www.adaderana.lk",
+    "enabled": true,
+    "rssUrls": [
+      "https://www.adaderana.lk/rss.php"
+    ],
+    "scrapeFallback": {
+      "enabled": false,
+      "listSelector": ".news-item",
+      "itemSelectors": {
+        "headline": ".news-item .title a",
+        "link": ".news-item .title a",
+        "excerpt": ".news-item .description",
+        "image": ".news-item img"
+      }
+    },
+    "userAgent": "BriefSphere-NewsBot/1.0 (+https://briefsphere.lk/about)"
+  },
+  {
+    "id": "hiru-news-en",
+    "name": "Hiru News",
+    "baseUrl": "https://www.hirunews.lk",
+    "enabled": true,
+    "rssUrls": [
+      "https://www.hirunews.lk/english/rss",
+      "https://www.hirunews.lk/rss",
+      "https://www.hirunews.lk/feed"
+    ],
+    "scrapeFallback": {
+      "enabled": true,
+      "listSelector": ".news-list .news-item",
+      "itemSelectors": {
+        "headline": "h3 a, h2 a",
+        "link": "h3 a, h2 a",
+        "excerpt": ".description, .excerpt, p",
+        "image": "img"
+      }
+    },
+    "userAgent": "BriefSphere-NewsBot/1.0 (+https://briefsphere.lk/about)"
+  },
+  {
+    "id": "news-first-en",
+    "name": "News First",
+    "baseUrl": "https://newsfirst.lk",
+    "enabled": true,
+    "rssUrls": [
+      "https://newsfirst.lk/feed/",
+      "https://newsfirst.lk/rss.xml",
+      "https://newsfirst.lk/rss"
+    ],
+    "scrapeFallback": {
+      "enabled": true,
+      "listSelector": "article, .post-item",
+      "itemSelectors": {
+        "headline": "h2 a, h3 a, .entry-title a",
+        "link": "h2 a, h3 a, .entry-title a",
+        "excerpt": ".entry-summary, .excerpt, p",
+        "image": ".post-thumbnail img, .featured-image img, img"
+      }
+    },
+    "userAgent": "BriefSphere-NewsBot/1.0 (+https://briefsphere.lk/about)"
+  },
+  {
+    "id": "itn-en",
+    "name": "ITN",
+    "baseUrl": "https://www.itnnews.lk",
+    "enabled": true,
+    "rssUrls": [
+      "https://www.itnnews.lk/feed/",
+      "https://www.itnnews.lk/rss.xml",
+      "https://itnnews.lk/feed"
+    ],
+    "scrapeFallback": {
+      "enabled": true,
+      "listSelector": "article, .news-item",
+      "itemSelectors": {
+        "headline": "h2 a, h3 a, .entry-title a",
+        "link": "h2 a, h3 a, .entry-title a",
+        "excerpt": ".entry-summary, p",
+        "image": "img"
+      }
+    },
+    "userAgent": "BriefSphere-NewsBot/1.0 (+https://briefsphere.lk/about)"
+  }
+]

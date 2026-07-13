@@ -1,0 +1,56 @@
+{
+  "_comment": "All pipeline thresholds and caps live here. Change values here — never in code. Shadow mode is ON by default for safety.",
+
+  "paused": false,
+  "shadowMode": true,
+
+  "scoring": {
+    "publishThreshold": 75,
+    "gracefulDegradationThreshold": 65,
+    "breakingThreshold": 92
+  },
+
+  "pacing": {
+    "dailyMinimum": 4,
+    "weeklyTarget": 50,
+    "maxPostsPerRun": 2
+  },
+
+  "memory": {
+    "windowDays": 45,
+    "dedupeHashWords": 30,
+    "crossSourceSimilarityThreshold": 0.82,
+    "crossSourceTimeWindowHours": 6
+  },
+
+  "categoryCapsDailyMax": {
+    "Sri Lanka": 3,
+    "World": 2,
+    "AI & Tech": 2,
+    "Business": 1,
+    "Sports": 2,
+    "Breaking": 99
+  },
+
+  "feedback": {
+    "engagementWeightBoundPct": 5,
+    "minPostsBeforeLearning": 20
+  },
+
+  "facebook": {
+    "graphApiVersion": "v25.0"
+  },
+
+  "gemini": {
+    "model": "gemini-2.5-flash",
+    "maxRetries": 2
+  },
+
+  "imageStyle": "flat editorial illustration, muted earth-tone and cool-grey palette, no embedded text, clean composition, professional news magazine aesthetic, quiet and visually calm lower-third zone suitable for text overlay",
+
+  "schedule": {
+    "_comment": "Sri Lanka time (UTC+5:30). These are the target run windows — the heartbeat.yml cron is the actual trigger.",
+    "windows": ["06:00", "08:30", "11:00", "13:30", "16:00", "18:30", "21:00", "23:00"],
+    "timezone": "Asia/Colombo"
+  }
+}

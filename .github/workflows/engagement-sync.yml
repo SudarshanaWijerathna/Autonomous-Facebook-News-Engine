@@ -1,0 +1,59 @@
+# BriefSphere Engagement Sync — runs once daily to pull Facebook post metrics
+# and feed them into the category weighting and timing optimization system.
+#
+# Runs at 01:00 UTC (06:30 SL time) — before the first heartbeat of the day.
+# This ensures weights are updated before the day's posts are selected.
+
+name: Engagement Sync
+
+on:
+  schedule:
+    - cron: '00 01 * * *'  # 01:00 UTC = 06:30 SL time
+
+  # Manual trigger for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  engagement-sync:
+    name: Sync Engagement Data
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run engagement sync
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_SYSTEM_USER_TOKEN: ${{ secrets.FB_SYSTEM_USER_TOKEN }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm run feedback
+
+      - name: Commit engagement data
+        run: |
+          git config user.name "BriefSphere Bot"
+          git config user.email "bot@briefsphere.lk"
+          git add data/engagement.json data/category-weights.json data/timing.json
+          if git diff --cached --quiet; then
+            echo "No engagement data changes"
+          else
+            git commit -m "chore: engagement sync [skip ci]"
+            git push
+          fi
