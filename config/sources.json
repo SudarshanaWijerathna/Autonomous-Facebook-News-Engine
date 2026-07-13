@@ -22,7 +22,7 @@
   {
     "id": "hiru-news-en",
     "name": "Hiru News",
-    "baseUrl": "https://www.hirunews.lk",
+    "baseUrl": "https://www.hirunews.lk/english",
     "enabled": true,
     "rssUrls": [
       "https://www.hirunews.lk/english/rss",
@@ -31,12 +31,12 @@
     ],
     "scrapeFallback": {
       "enabled": true,
-      "listSelector": ".news-list .news-item",
+      "listSelector": "a[class^=\"card-\"]",
       "itemSelectors": {
-        "headline": "h3 a, h2 a",
-        "link": "h3 a, h2 a",
-        "excerpt": ".description, .excerpt, p",
-        "image": "img"
+        "headline": ".title",
+        "link": "",
+        "excerpt": ".description",
+        "image": ".image-wrp img"
       }
     },
     "userAgent": "BriefSphere-NewsBot/1.0 (+https://briefsphere.lk/about)"
@@ -53,12 +53,12 @@
     ],
     "scrapeFallback": {
       "enabled": true,
-      "listSelector": "article, .post-item",
+      "listSelector": "div.latest_news_main_div a, div.featured_news_main a, div.local_news a",
       "itemSelectors": {
-        "headline": "h2 a, h3 a, .entry-title a",
-        "link": "h2 a, h3 a, .entry-title a",
-        "excerpt": ".entry-summary, .excerpt, p",
-        "image": ".post-thumbnail img, .featured-image img, img"
+        "headline": "h4.sub_news_title, h3.top_stories_sub_header",
+        "link": "",
+        "excerpt": "p.latest_news_detail, div.top_stories_sub_detail",
+        "image": "img"
       }
     },
     "userAgent": "BriefSphere-NewsBot/1.0 (+https://briefsphere.lk/about)"

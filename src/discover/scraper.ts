@@ -124,7 +124,7 @@ export async function scrapeSource(source: Source, dedupeWordCount: number): Pro
     // Try headline + link
     const $link = $el.find(itemSelectors.headline).first();
     const headline = extractText($link);
-    const rawHref = $link.attr('href') || $el.find('a').first().attr('href');
+    const rawHref = $link.attr('href') || $el.find('a').first().attr('href') || $el.attr('href');
     const url = resolveUrl(rawHref, source.baseUrl);
 
     if (!headline || !url) return;  // skip malformed items
