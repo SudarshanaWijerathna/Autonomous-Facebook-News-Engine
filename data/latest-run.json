@@ -1,44 +1,38 @@
 {
-  "runId": "66d221b9",
-  "startedAt": "2026-07-13T11:41:07.465Z",
-  "finishedAt": "2026-07-13T11:46:37.555Z",
+  "runId": "58cdeaa0",
+  "startedAt": "2026-07-13T15:40:55.253Z",
+  "finishedAt": "2026-07-13T15:42:49.630Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 37,
-  "scored": 0,
-  "selected": 0,
-  "published": 0,
-  "skipped": [],
-  "errors": [
+  "scored": 6,
+  "selected": 2,
+  "published": 2,
+  "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/13/special-presidential-commission-on-coal-transcations-continues-hearings-for-a-third-day",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/07/10/can-governments-beat-corruption-south-korea-s-answer-is-data-transparency-and-ai",
+      "headline": "Is This World's Smartest Anti-Corruption System?",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/sinner-holds-off-zverev-to-defend-wimbledon-title",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/07/09/corruption-and-drug-trafficking-fuel-each-other-in-dangerous-global-cycle",
+      "headline": "Corruption and Drug Trafficking Fuel Each Other",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/sri-lanka-bans-imports-made-using-forced-labour",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/13/final-rites-of-veteran-singer-mariazelle-goonetilleke-to-be-held-today",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/13/22-year-old-arrested-in-maharagama-with-firearm",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/07/13/38-mn-project-to-tackle-mercury-pollution-and-waste-management",
+      "headline": "$38M Project for Mercury and Waste Management",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "headline": "Heard About Korea's 'No Name, No Fear' System?",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
-  ]
+  ],
+  "errors": []
 }
