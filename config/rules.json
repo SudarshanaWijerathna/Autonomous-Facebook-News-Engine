@@ -42,7 +42,7 @@
   },
 
   "gemini": {
-    "model": "gemini-flash-latest",
+    "model": "gemini-flash-lite-latest",
     "maxRetries": 2
   },
 
