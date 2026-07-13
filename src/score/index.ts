@@ -45,12 +45,22 @@ SCORING RUBRIC (total 100 points — be realistic, most stories score 50–80):
   Novelty (0–15): Genuinely new information vs. incremental update to an ongoing story?
 
 CAPTION REQUIREMENTS:
-  1. Hook line: single most important fact, front-loaded (Facebook truncates after ~3 lines)
-  2. 2–4 sentences of original context in your own words (NEVER copy or closely paraphrase source text)
-  3. Why it matters specifically to Sri Lankans (if there's a genuine local angle)
-  4. Source line: exactly "📰 Source: ${story.sourceName}"
-  5. A genuine question (NOT engagement bait like "comment YES" or "tag a friend")
-  6. 3–6 hashtags: always include #BriefSphere, then 1–2 topical, 1 location-based
+  1. Title line: Write a prominent, attention-grabbing title/headline in CAPITAL LETTERS, preceded by a relevant emoji (e.g., 🚨, 🏥, 🗳️, 📈, 🏆, 📰, 💰, ⚖️).
+  2. Story description: 3-4 sentences of original context in your own words (never copy or closely paraphrase source text). Explain what happened and why it matters specifically to Sri Lankans. Keep it informative, clean, and engaging.
+  3. Source line: exactly "📰 Source: ${story.sourceName}".
+  4. Hashtags: 3-6 hashtags, always starting with #BriefSphere, then 1-2 topical, and 1 location-based (e.g. #SriLanka).
+
+CAPTION FORMAT (Ensure exactly two newlines / blank lines between each section, keeping it clean and easy to read):
+[Title line]
+
+
+[Story description]
+
+
+[Source line]
+
+
+[Hashtags]
 
 CAPTION RULES:
   - English only
@@ -68,7 +78,7 @@ Respond with ONLY this exact JSON structure (no markdown, no commentary):
   "category": "<one of the valid categories above>",
   "isBreaking": <true if score >= 92 AND this is a major breaking event, otherwise false>,
   "reasoning": "<one sentence explaining the score — be specific about what drove it up or down>",
-  "caption": "<full Facebook caption following the structure above>"
+  "caption": "<full Facebook caption following the format above>"
 }`;
 }
 
