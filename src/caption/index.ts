@@ -54,7 +54,7 @@ function stripEngagementBait(text: string): string {
     }
     pattern.lastIndex = 0;  // Reset regex state
   }
-  return clean.replace(/\[removed\]/g, '').replace(/\s{2,}/g, ' ').trim();
+  return clean.replace(/\[removed\]/g, '').replace(/[ \t]{2,}/g, ' ').trim();
 }
 
 /** Ensure the source attribution line is present */

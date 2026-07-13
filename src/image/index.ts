@@ -30,13 +30,13 @@ const TARGET_SIZE = 1080;
 /** Build the text-to-image prompt from story context and the house style guide */
 function buildImagePrompt(story: ScoredStory, styleGuide: string): string {
   const contextLines: string[] = [
-    `News illustration for: ${story.headline}`,
+    `Press photo showing: ${story.headline}`,
     story.heroImageAlt ? `Scene context: ${story.heroImageAlt}` : '',
     `Category: ${story.category}`,
-    story.excerpt ? `Story context: ${story.excerpt.slice(0, 200)}` : '',
+    story.excerpt ? `Story details: ${story.excerpt.slice(0, 200)}` : '',
   ].filter(Boolean);
 
-  return `${contextLines.join('. ')}. Style: ${styleGuide}. CRITICAL: Do not include any written text, words, spelling, letters, labels, or typography inside the image. The image must be pure illustration without any writing.`;
+  return `Realistic news photo, candid photojournalism. ${contextLines.join('. ')}. Style: ${styleGuide}. CRITICAL: Pure visual image only. Absolutely no text, no letters, no words, no spelling, no typography, and no logos inside the photo itself.`;
 }
 
 /** Resize any buffer to exactly 1080×1080 PNG */
