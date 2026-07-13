@@ -38,7 +38,23 @@ export async function publishToFacebook(
   graphApiVersion: string
 ): Promise<string> {
   const pageId = requireEnv('FB_PAGE_ID');
-  const accessToken = requireEnv('FB_SYSTEM_USER_TOKEN');
+  const systemUserToken = requireEnv('FB_SYSTEM_USER_TOKEN');
+
+  // Fetch Page Access Token from System User Token to post as the Page
+  let pageAccessToken = systemUserToken;
+  try {
+    const tokenUrl = `https://graph.facebook.com/${graphApiVersion}/${pageId}?fields=access_token&access_token=${systemUserToken}`;
+    const tokenRes = await fetch(tokenUrl);
+    const tokenData = await tokenRes.json() as any;
+    if (tokenRes.ok && tokenData.access_token) {
+      pageAccessToken = tokenData.access_token;
+      console.log(`[publish] Successfully retrieved Page Access Token for Page: ${pageId}`);
+    } else {
+      console.warn(`[publish] Could not retrieve Page Access Token: ${tokenData?.error?.message || 'Unknown error'}. Falling back to system user token.`);
+    }
+  } catch (err) {
+    console.warn(`[publish] Failed to retrieve Page Access Token: ${(err as Error).message}. Falling back to system user token.`);
+  }
 
   const endpoint = `https://graph.facebook.com/${graphApiVersion}/${pageId}/photos`;
 
@@ -50,7 +66,7 @@ export async function publishToFacebook(
 
       // Build multipart form data
       const form = new FormData();
-      form.append('access_token', accessToken);
+      form.append('access_token', pageAccessToken);
       form.append('message', caption);
       form.append('published', 'true');
       form.append(
