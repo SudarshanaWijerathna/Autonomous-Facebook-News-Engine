@@ -36,7 +36,7 @@ function buildImagePrompt(story: ScoredStory, styleGuide: string): string {
     story.excerpt ? `Story context: ${story.excerpt.slice(0, 200)}` : '',
   ].filter(Boolean);
 
-  return `${contextLines.join('. ')}. Style: ${styleGuide}`;
+  return `${contextLines.join('. ')}. Style: ${styleGuide}. CRITICAL: Do not include any written text, words, spelling, letters, labels, or typography inside the image. The image must be pure illustration without any writing.`;
 }
 
 /** Resize any buffer to exactly 1080×1080 PNG */
