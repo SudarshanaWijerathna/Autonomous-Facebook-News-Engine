@@ -1,137 +1,42 @@
 {
-  "runId": "62c7f10e",
-  "startedAt": "2026-07-13T09:56:06.353Z",
-  "finishedAt": "2026-07-13T10:00:39.191Z",
-  "shadowMode": true,
-  "discovered": 25,
-  "afterDedup": 25,
+  "runId": "66d221b9",
+  "startedAt": "2026-07-13T11:41:07.465Z",
+  "finishedAt": "2026-07-13T11:46:37.555Z",
+  "shadowMode": false,
+  "discovered": 37,
+  "afterDedup": 37,
   "scored": 0,
   "selected": 0,
   "published": 0,
   "skipped": [],
   "errors": [
     {
-      "url": "https://adaderana.lk/news/cmrj13hqz000b356p34yg8dls",
+      "url": "https://newsfirst.lk/2026/07/13/special-presidential-commission-on-coal-transcations-continues-hearings-for-a-third-day",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://adaderana.lk/news/cmrj052sd0003356pzz7sv9rk",
+      "url": "https://newsfirst.lk/2026/07/13/sinner-holds-off-zverev-to-defend-wimbledon-title",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://adaderana.lk/news/cmrizj86c0002356ptw1otw3n",
+      "url": "https://newsfirst.lk/2026/07/13/sri-lanka-bans-imports-made-using-forced-labour",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://adaderana.lk/news/cmrizd48i0001356pn2tnb3uo",
+      "url": "https://newsfirst.lk/2026/07/13/final-rites-of-veteran-singer-mariazelle-goonetilleke-to-be-held-today",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://adaderana.lk/news/cmriy9v120000356plidf3c3s",
+      "url": "https://newsfirst.lk/2026/07/13/22-year-old-arrested-in-maharagama-with-firearm",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://adaderana.lk/news/cmrj1fytb0004356pxz6r61fz",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmripopug0004356pvpdb3mk6",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrihhl410002356p5d7nuies",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrhsxuu1000f356pnti3uh6z",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrhpm4nx0009356pt4d9zvje",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrit5grv0006356pahlwceem",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrg09ax60001356qnctta5km",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrepz95t000k356p50um9nxw",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrenvd15000g356pxbrkgoo3",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrbj72dp0000356qf1hpk33x",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmritrecz0007356pbriv8tbt",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrimvxz6000b356pdc30lb9q",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrhj6ezv0000356qx9b3yaxt",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrg4slbs0003356qcorjea5n",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmreof0zj000h356p4wn3rzdx",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrizlbfi000a356pryfnwmfs",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrinmcxg0000356pyintlfmp",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrhs7w3s000d356p8j1zko3x",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrhrntlj000c356pr7b3sp9z",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrhdxabc0002356qurn4ra4k",
+      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
