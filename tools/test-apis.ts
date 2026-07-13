@@ -86,7 +86,7 @@ async function testGemini() {
 
   try {
     const ai = new GoogleGenerativeAI(apiKey);
-    const model = ai.getGenerativeModel({ model: 'gemini-2.5-flash' });
+    const model = ai.getGenerativeModel({ model: 'gemini-flash-latest' });
     const result = await model.generateContent('Say: Gemini connection verified');
     const text = result.response.text();
     console.log(`${colors.green}✓ Google Gemini API: Connection successful! Response: "${text.trim()}"${colors.reset}`);
