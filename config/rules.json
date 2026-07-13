@@ -2,7 +2,7 @@
   "_comment": "All pipeline thresholds and caps live here. Change values here — never in code. Shadow mode is ON by default for safety.",
 
   "paused": false,
-  "shadowMode": true,
+  "shadowMode": false,
 
   "scoring": {
     "publishThreshold": 75,
