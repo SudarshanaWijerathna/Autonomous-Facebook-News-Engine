@@ -29,14 +29,15 @@ const TARGET_SIZE = 1080;
 
 /** Build the text-to-image prompt from story context and the house style guide */
 function buildImagePrompt(story: ScoredStory, styleGuide: string): string {
-  const contextLines: string[] = [
-    `Press photo showing: ${story.headline}`,
-    story.heroImageAlt ? `Scene context: ${story.heroImageAlt}` : '',
-    `Category: ${story.category}`,
-    story.excerpt ? `Story details: ${story.excerpt.slice(0, 200)}` : '',
-  ].filter(Boolean);
+  // Use the Gemini-generated imagePrompt if available, otherwise fall back
+  const baseDescription = story.imagePrompt || story.headline;
+  const cleanDescription = baseDescription.replace(/['"“”]/g, '');
 
-  return `Realistic news photo, candid photojournalism. ${contextLines.join('. ')}. Style: ${styleGuide}. CRITICAL: Pure visual image only. Absolutely no text, no letters, no words, no spelling, no typography, and no logos inside the photo itself.`;
+  // Place negative constraints at the very front to override default behavior of Flux
+  return `[CRITICAL: NO TEXT, NO WORDS, NO LETTERS, NO SIGNAGE, NO BANNERS, NO LOGOS, NO GRAPHICS] ` +
+    `Realistic news photo, candid photojournalism depicting: ${cleanDescription}. ` +
+    `Style: ${styleGuide}. ` +
+    `CRITICAL: This is a pure photographic visual scene only. Absolutely do NOT render any text, writing, alphabets, labels, logos, watermarks, or user interface elements onto the image. Under no circumstances should any words, numbers, or letters be visible in the image.`;
 }
 
 /** Resize any buffer to exactly 1080×1080 PNG */

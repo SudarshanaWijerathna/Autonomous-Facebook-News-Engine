@@ -28,7 +28,7 @@ function buildPrompt(story: RawStory, imageStyle: string): string {
 
   return `You are the editorial AI for BriefSphere, a Sri Lankan news Facebook Page publishing in English.
 
-Your task: score this story for publication suitability and write a Facebook caption.
+Your task: score this story for publication suitability, write a Facebook caption, and generate a text-free visual image prompt.
 
 STORY:
   Headline: ${story.headline}
@@ -70,6 +70,13 @@ CAPTION RULES:
   - Political coverage: factual and neutral
   - Under 350 words total
 
+IMAGE PROMPT REQUIREMENT:
+  Write a purely visual, descriptive, text-free scene description to be used for generating an image for this story.
+  - Describe only physical elements (objects, people, environment, colors, lighting).
+  - Under no circumstances should the prompt mention any text, writing, labels, titles, signs, logos, or spelling.
+  - It must describe the scene in a Sri Lankan context if applicable.
+  - Example for a housing project story: "Unfinished concrete buildings with orange roofs under a cloudy sky, with construction materials on the ground."
+
 VALID CATEGORIES: ${CATEGORIES.join(' | ')}
 
 Respond with ONLY this exact JSON structure (no markdown, no commentary):
@@ -78,7 +85,8 @@ Respond with ONLY this exact JSON structure (no markdown, no commentary):
   "category": "<one of the valid categories above>",
   "isBreaking": <true if score >= 92 AND this is a major breaking event, otherwise false>,
   "reasoning": "<one sentence explaining the score — be specific about what drove it up or down>",
-  "caption": "<full Facebook caption following the format above>"
+  "caption": "<full Facebook caption following the format above>",
+  "imagePrompt": "<1-2 sentence visual scene description following the image prompt requirement above>"
 }`;
 }
 
@@ -92,7 +100,8 @@ function parseGeminiResponse(text: string, story: RawStory): GeminiScoreResponse
       !CATEGORIES.includes(parsed.category as Category) ||
       typeof parsed.isBreaking !== 'boolean' ||
       typeof parsed.caption !== 'string' ||
-      typeof parsed.reasoning !== 'string'
+      typeof parsed.reasoning !== 'string' ||
+      typeof parsed.imagePrompt !== 'string'
     ) {
       console.warn(`[score] Invalid response shape for "${story.headline.slice(0, 50)}"`);
       return null;
@@ -154,6 +163,7 @@ export async function scoreAndCaption(
           isBreaking: parsed.isBreaking,
           captionDraft: parsed.caption,
           scoreReasoning: parsed.reasoning,
+          imagePrompt: parsed.imagePrompt,
         };
       }
 

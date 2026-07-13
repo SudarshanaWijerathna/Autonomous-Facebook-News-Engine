@@ -54,6 +54,7 @@ const mockStory: ScoredStory = {
   isBreaking:    variant === 'breaking',
   captionDraft:  `${headline}\n\n${summary}\n\n📰 Source: Preview Tool\n\n#BriefSphere #${category.replace(/\s/g, '')} #SriLanka`,
   scoreReasoning: 'Preview mode — no real scoring',
+  imagePrompt:   'A representative generic news photo',
 };
 
 // ── Generate a solid gradient background (no API key needed) ──────────────────
