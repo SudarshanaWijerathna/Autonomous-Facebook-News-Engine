@@ -1,37 +1,37 @@
 {
-  "runId": "58cdeaa0",
-  "startedAt": "2026-07-13T15:40:55.253Z",
-  "finishedAt": "2026-07-13T15:42:49.630Z",
+  "runId": "1b75452c",
+  "startedAt": "2026-07-13T17:27:51.932Z",
+  "finishedAt": "2026-07-13T17:29:25.038Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 37,
+  "discovered": 25,
+  "afterDedup": 25,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/10/can-governments-beat-corruption-south-korea-s-answer-is-data-transparency-and-ai",
-      "headline": "Is This World's Smartest Anti-Corruption System?",
+      "url": "https://adaderana.lk/news/cmrjd85s4000m356p6icw3jud",
+      "headline": "Sri Lanka aims to eliminate rabies by 2030",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/09/corruption-and-drug-trafficking-fuel-each-other-in-dangerous-global-cycle",
-      "headline": "Corruption and Drug Trafficking Fuel Each Other",
+      "url": "https://adaderana.lk/news/cmrjgmdro000q356psgo45gm8",
+      "headline": "PCB clears Shaheen Afridi for Lanka Premier League stint",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/38-mn-project-to-tackle-mercury-pollution-and-waste-management",
-      "headline": "$38M Project for Mercury and Waste Management",
-      "reason": "max-posts-per-run-reached",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
-      "headline": "Heard About Korea's 'No Name, No Fear' System?",
+      "url": "https://adaderana.lk/news/cmrj7ewoo000b356pd6nqr2rd",
+      "headline": "India beat England in historic first women's test at Lord's",
       "reason": "max-posts-per-run-reached",
       "score": 68
+    },
+    {
+      "url": "https://adaderana.lk/news/cmrjgzu3a000r356pw2k2e8j9",
+      "headline": "SLFP’s Deepa Edirisinghe resigns from Colombo Municipal Council",
+      "reason": "max-posts-per-run-reached",
+      "score": 58
     }
   ],
   "errors": []

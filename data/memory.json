@@ -22,5 +22,29 @@
     "score": 78,
     "addedAt": "2026-07-13T15:42:49.629Z",
     "isShadow": false
+  },
+  {
+    "url": "https://adaderana.lk/news/cmrje9s4j000n356pbwkrqkck",
+    "contentHash": "878d1ecc31a2d0e33e06de21f240efe6296903901f2aa0ad07e3aa1f34adb271",
+    "headline": "Oil prices jump 5% after Donald Trump reimposes Iran blockade",
+    "sourceId": "ada-derana-en",
+    "publishedAt": "2026-07-13T17:27:54.019Z",
+    "fbPostId": "1278802861974766_122095053897402039",
+    "category": "Business",
+    "score": 88,
+    "addedAt": "2026-07-13T17:29:12.226Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://adaderana.lk/news/cmrjg8rkg000p356pjihoftsf",
+    "contentHash": "843b8a2d13f5a18f05f384e84ebdc1bc8fb83eb8af5225a305ed49d0c7ef452a",
+    "headline": "Colombo–KKS intercity train service to resume daily operations",
+    "sourceId": "ada-derana-en",
+    "publishedAt": "2026-07-13T17:27:54.019Z",
+    "fbPostId": "1278802861974766_122095054119402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-07-13T17:29:25.037Z",
+    "isShadow": false
   }
 ]
