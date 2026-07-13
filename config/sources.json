@@ -22,7 +22,7 @@
   {
     "id": "hiru-news-en",
     "name": "Hiru News",
-    "baseUrl": "https://www.hirunews.lk/english",
+    "baseUrl": "https://www.hirunews.lk/english/",
     "enabled": true,
     "rssUrls": [
       "https://www.hirunews.lk/english/rss",

@@ -133,9 +133,16 @@ async function runPipeline(): Promise<void> {
     }
 
     // ── Step 4: Score + Caption ──────────────────────────────────────────────
-    log.info(`Scoring ${kept.length} stories via Gemini (${rules.gemini.model})...`);
+    // Sort by publication date (most recent first)
+    kept.sort((a, b) => b.publishedAt.getTime() - a.publishedAt.getTime());
+
+    // Limit to top 6 stories to conserve Gemini API quota
+    const MAX_STORIES_TO_SCORE = 6;
+    const storiesToScore = kept.slice(0, MAX_STORIES_TO_SCORE);
+
+    log.info(`Scoring top ${storiesToScore.length}/${kept.length} stories via Gemini (${rules.gemini.model})...`);
     const { scored, failed: scoreFailed } = await scoreAll(
-      kept,
+      storiesToScore,
       rules.gemini.model,
       rules.imageStyle,
       rules.gemini.maxRetries
