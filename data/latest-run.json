@@ -1,41 +1,53 @@
 {
-  "runId": "19e57e8b",
-  "startedAt": "2026-07-14T07:24:51.214Z",
-  "finishedAt": "2026-07-14T07:26:25.275Z",
+  "runId": "b77d4f73",
+  "startedAt": "2026-07-14T14:48:25.319Z",
+  "finishedAt": "2026-07-14T14:49:27.425Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/13/pillayan-back-to-remand-over-killings-in-2008",
-      "headline": "Pillayan Back To Remand Over Killings In 2008",
+      "url": "https://newsfirst.lk/2026/07/10/can-governments-beat-corruption-south-korea-s-answer-is-data-transparency-and-ai",
+      "headline": "Is This World's Smartest Anti-Corruption System?",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/cabraal-s-bid-to-halt-greek-bonds-case-fails",
-      "headline": "Cabraal's Bid to Halt Greek Bonds Case Fails",
+      "url": "https://newsfirst.lk/2026/07/14/police-warn-public-against-fake-traffic-fine-payment-messages",
+      "headline": "Police Warn Against Fake Traffic Fine Messages",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/court-efficiency-push-new-high-courts-more-magistrates",
-      "headline": "New High Courts, More Magistrates",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/14/philippine-woman-arrested-at-bia-with-kush-worth-over-rs-60-million",
+      "headline": "Philippine Woman Arrested At BIA With Kush",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/14/renovation-of-800-rural-bridges-begins-today",
+      "headline": "Renovation Of 800 Rural Bridges Begins Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
       "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
       "headline": "Heard About Korea's 'No Name, No Fear' System?",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/14/president-chairs-discussion-on-2027-budget-proposals-for-the-ministry-of-industry-and-entrepreneurship-development",
+      "headline": "President Discusses 2027 Budget Proposals",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
   ],
