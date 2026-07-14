@@ -1,37 +1,37 @@
 {
-  "runId": "1b75452c",
-  "startedAt": "2026-07-13T17:27:51.932Z",
-  "finishedAt": "2026-07-13T17:29:25.038Z",
+  "runId": "69317797",
+  "startedAt": "2026-07-14T03:50:39.598Z",
+  "finishedAt": "2026-07-14T03:51:58.052Z",
   "shadowMode": false,
-  "discovered": 25,
-  "afterDedup": 25,
+  "discovered": 37,
+  "afterDedup": 37,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
     {
-      "url": "https://adaderana.lk/news/cmrjd85s4000m356p6icw3jud",
-      "headline": "Sri Lanka aims to eliminate rabies by 2030",
+      "url": "https://newsfirst.lk/2026/07/13/india-pledges-rs-600-mn-in-medical-equipment-for-new-deniyaya-hospital",
+      "headline": "India Pledges Rs. 600 Mn for New Deniyaya Hospital",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://adaderana.lk/news/cmrjgmdro000q356psgo45gm8",
-      "headline": "PCB clears Shaheen Afridi for Lanka Premier League stint",
+      "url": "https://newsfirst.lk/2026/07/13/38-mn-project-to-tackle-mercury-pollution-and-waste-management",
+      "headline": "$38M Project for Mercury and Waste Management",
       "reason": "max-posts-per-run-reached",
-      "score": 78
+      "score": 76
     },
     {
-      "url": "https://adaderana.lk/news/cmrj7ewoo000b356pd6nqr2rd",
-      "headline": "India beat England in historic first women's test at Lord's",
+      "url": "https://newsfirst.lk/2026/07/13/travel-vlogger-praises-colombo-after-incredible-lost-and-found-moment",
+      "headline": "Forgotten at Lotus Tower, Found Hours Later",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://adaderana.lk/news/cmrjgzu3a000r356pw2k2e8j9",
-      "headline": "SLFP’s Deepa Edirisinghe resigns from Colombo Municipal Council",
+      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
+      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
       "reason": "max-posts-per-run-reached",
-      "score": 58
+      "score": 68
     }
   ],
   "errors": []
