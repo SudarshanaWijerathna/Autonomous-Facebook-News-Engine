@@ -1,35 +1,40 @@
 {
-  "runId": "69317797",
-  "startedAt": "2026-07-14T03:50:39.598Z",
-  "finishedAt": "2026-07-14T03:51:58.052Z",
+  "runId": "19e57e8b",
+  "startedAt": "2026-07-14T07:24:51.214Z",
+  "finishedAt": "2026-07-14T07:26:25.275Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 37,
+  "afterDedup": 36,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/13/india-pledges-rs-600-mn-in-medical-equipment-for-new-deniyaya-hospital",
-      "headline": "India Pledges Rs. 600 Mn for New Deniyaya Hospital",
+      "url": "https://newsfirst.lk/2026/07/13/pillayan-back-to-remand-over-killings-in-2008",
+      "headline": "Pillayan Back To Remand Over Killings In 2008",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/13/cabraal-s-bid-to-halt-greek-bonds-case-fails",
+      "headline": "Cabraal's Bid to Halt Greek Bonds Case Fails",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/13/court-efficiency-push-new-high-courts-more-magistrates",
+      "headline": "New High Courts, More Magistrates",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/38-mn-project-to-tackle-mercury-pollution-and-waste-management",
-      "headline": "$38M Project for Mercury and Waste Management",
-      "reason": "max-posts-per-run-reached",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/13/travel-vlogger-praises-colombo-after-incredible-lost-and-found-moment",
-      "headline": "Forgotten at Lotus Tower, Found Hours Later",
+      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
+      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
-      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
+      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
+      "headline": "Heard About Korea's 'No Name, No Fear' System?",
       "reason": "max-posts-per-run-reached",
       "score": 68
     }
