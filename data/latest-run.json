@@ -1,23 +1,24 @@
 {
-  "runId": "0fc6f096",
-  "startedAt": "2026-07-15T07:28:49.911Z",
-  "finishedAt": "2026-07-15T07:30:10.437Z",
+  "runId": "dbabdabb",
+  "startedAt": "2026-07-15T09:54:16.029Z",
+  "finishedAt": "2026-07-15T09:55:21.769Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/10/can-governments-beat-corruption-south-korea-s-answer-is-data-transparency-and-ai",
-      "headline": "Is This World's Smartest Anti-Corruption System?",
+      "url": "https://newsfirst.lk/2026/07/15/two-russian-firms-registered-as-fuel-suppliers-to-sri-lanka",
+      "headline": "2 Russian Firms Registered as Fuel Suppliers to SL",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/14/sri-lanka-among-world%e2%80%99s-top-50-food-destinations-for-2026",
-      "headline": "Sri Lanka Among World’s Top 50 Food Destinations",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/07/15/legal-action-against-10-000-as-dengue-cases-near-70-000",
+      "headline": "Legal Action Against 10,000 as Dengue Cases Rise",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
@@ -26,21 +27,27 @@
       "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/14/286-people-questioned-over-negombo-prison-clash",
-      "headline": "286 People Questioned Over Negombo Prison Clash",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/14/sri-lanka-s-main-opposition-crisis-1-3-wants-its-own-voice",
+      "headline": "Main Opposition Crisis: 1/3 Wants Its Own Voice",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/15/excavation-of-south-asia%e2%80%99s-longest-irrigation-tunnel-to-be-completed-today",
+      "headline": "Longest Irrigation Tunnel Excavation To Conclude",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/15/coal-probe-intensifies-with-six-called-to-testify",
+      "headline": "Coal Probe Intensifies with Six Called to Testify",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
       "headline": "Heard About Korea's 'No Name, No Fear' System?",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
-      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
   ],
