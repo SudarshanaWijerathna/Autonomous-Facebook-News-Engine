@@ -1,7 +1,7 @@
 {
-  "runId": "de9fab26",
-  "startedAt": "2026-07-15T16:49:37.390Z",
-  "finishedAt": "2026-07-15T16:50:48.546Z",
+  "runId": "7e7c18b1",
+  "startedAt": "2026-07-15T18:35:07.891Z",
+  "finishedAt": "2026-07-15T18:35:59.587Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 37,
@@ -16,10 +16,16 @@
       "score": 88
     },
     {
+      "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
+      "headline": "Can Sri Lanka Get Its Stolen Assets Back?",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/15/coal-probe-uncovers-missing-lakvijaya-data",
       "headline": "Coal Probe Uncovers Missing Lakvijaya Data",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/07/15/s-b-dissanayake%e2%80%99s-brother-arrested-in-alleged-rs-27-5-million-scam",
@@ -28,20 +34,14 @@
       "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/15/central-province-governor-sarath-abeykoon-resigns",
-      "headline": "Central Province Governor Sarath Abeykoon Resigns",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/15/car-sales-owner-linked-to-alleged-vehicle-racket",
-      "headline": "Car Sales Owner Linked to Alleged Vehicle Racket",
+      "url": "https://newsfirst.lk/2026/07/15/open-warrant-issued-for-ex-srilankan-ceo-s-wife",
+      "headline": "Open Warrant Issued for Ex-SriLankan CEO' s Wife",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
-      "headline": "Heard About Korea's 'No Name, No Fear' System?",
+      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
+      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
