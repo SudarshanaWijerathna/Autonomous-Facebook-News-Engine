@@ -1,10 +1,10 @@
 {
-  "runId": "34aa8041",
-  "startedAt": "2026-07-15T05:34:13.361Z",
-  "finishedAt": "2026-07-15T05:35:44.755Z",
+  "runId": "0fc6f096",
+  "startedAt": "2026-07-15T07:28:49.911Z",
+  "finishedAt": "2026-07-15T07:30:10.437Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -15,26 +15,31 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/14/court-to-hear-writ-petition-seeking-protection-from-arrest-in-ganemulla-sanjeewa-murder-case",
-      "headline": "Court To Hear Writ Petition In Ganemulla Sanjeewa",
+      "url": "https://newsfirst.lk/2026/07/14/sri-lanka-among-world%e2%80%99s-top-50-food-destinations-for-2026",
+      "headline": "Sri Lanka Among World’s Top 50 Food Destinations",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
+      "headline": "Can Sri Lanka Get Its Stolen Assets Back?",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/14/286-people-questioned-over-negombo-prison-clash",
+      "headline": "286 People Questioned Over Negombo Prison Clash",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/14/new-measures-planned-to-prevent-irregularities-in-paddy-purchasing",
-      "headline": "Paddy Purchase Irregularities To Be Prevented",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
-      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
+      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
+      "headline": "Heard About Korea's 'No Name, No Fear' System?",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
-      "headline": "Heard About Korea's 'No Name, No Fear' System?",
+      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
+      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
       "reason": "max-posts-per-run-reached",
       "score": 68
     }
