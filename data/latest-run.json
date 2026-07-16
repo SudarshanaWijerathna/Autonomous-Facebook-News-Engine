@@ -1,13 +1,13 @@
 {
-  "runId": "1abe32d1",
-  "startedAt": "2026-07-16T11:57:37.801Z",
-  "finishedAt": "2026-07-16T11:58:45.839Z",
+  "runId": "692a5e38",
+  "startedAt": "2026-07-16T16:47:48.870Z",
+  "finishedAt": "2026-07-16T16:49:07.693Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
@@ -15,40 +15,34 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/india-s-nsa-meets-with-sri-lanka-s-defence-secretary-in-delhi",
-      "headline": "IN NSA Meets with SL Defence Secretary in Delhi",
+      "url": "https://newsfirst.lk/2026/07/16/questionable-coal-costs-sri-lanka-rs-4-5-bn-in-just-four-months",
+      "headline": "Faulty Coal Imports Forced Costly Power Generation",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/substandard-coal-forced-costly-shift-to-diesel-power",
+      "headline": "Substandard Coal Forced Costly Shift to Diesel",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/sri-lanka-braces-for-potential-el-ni%c3%b1o-impact",
+      "headline": "Sri Lanka Braces for Potential El Niño Impact",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
-      "headline": "Why Is Nutritious Food Becoming a Luxury?",
+      "url": "https://newsfirst.lk/2026/07/16/education-council-proposal-wins-approval",
+      "headline": "Education Council Proposal Wins Approval",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/india-uk-ceta-comes-into-force-boosting-trade-investment-and-market-access",
-      "headline": "India-UK CETA Comes Into Force",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
-      "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
-      "headline": "Heard About Korea's 'No Name, No Fear' System?",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/16/strategic-sri-lanka-key-to-t%c3%bcrkiye%e2%80%99s-regional-vision-ambassador",
-      "headline": "Strategic Lanka Key to Türkiye’s Regional Vision",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/16/cardinal-seeks-to-intervene-in-salley-s-court-challenge",
+      "headline": "Cardinal Seeks Intervention in Salley's Court Case",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     }
   ],
   "errors": []
