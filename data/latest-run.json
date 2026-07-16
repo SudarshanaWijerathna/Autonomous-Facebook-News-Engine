@@ -1,13 +1,13 @@
 {
-  "runId": "fa9e052d",
-  "startedAt": "2026-07-16T07:35:55.285Z",
-  "finishedAt": "2026-07-16T07:37:14.166Z",
+  "runId": "1abe32d1",
+  "startedAt": "2026-07-16T11:57:37.801Z",
+  "finishedAt": "2026-07-16T11:58:45.839Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
@@ -15,16 +15,22 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/ndcu-launches-special-dengue-control-programme-across-11-districts",
-      "headline": "NDCU Launches Special Dengue Control Programme",
+      "url": "https://newsfirst.lk/2026/07/16/india-s-nsa-meets-with-sri-lanka-s-defence-secretary-in-delhi",
+      "headline": "IN NSA Meets with SL Defence Secretary in Delhi",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/no-evidence-linking-8-year-old-student-to-kurunegala-school-car-fire",
-      "headline": "No Evidence Linking 8-y/o Student Car Fire",
+      "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
+      "headline": "Why Is Nutritious Food Becoming a Luxury?",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/india-uk-ceta-comes-into-force-boosting-trade-investment-and-market-access",
+      "headline": "India-UK CETA Comes Into Force",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
@@ -39,10 +45,10 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/period-to-register-elders-homes-until-september-2026",
-      "headline": "Period to Register Elders' Homes Until September",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/16/strategic-sri-lanka-key-to-t%c3%bcrkiye%e2%80%99s-regional-vision-ambassador",
+      "headline": "Strategic Lanka Key to Türkiye’s Regional Vision",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
