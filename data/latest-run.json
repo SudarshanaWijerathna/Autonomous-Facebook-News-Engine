@@ -1,48 +1,36 @@
 {
-  "runId": "7e7c18b1",
-  "startedAt": "2026-07-15T18:35:07.891Z",
-  "finishedAt": "2026-07-15T18:35:59.587Z",
+  "runId": "2f7f9034",
+  "startedAt": "2026-07-16T05:42:53.882Z",
+  "finishedAt": "2026-07-16T05:44:24.687Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 37,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/15/dengue-cases-rise-to-71-235-as-death-toll-reaches-49",
-      "headline": "Dengue Cases Rise To 71,235 As Death Rises",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
-      "headline": "Can Sri Lanka Get Its Stolen Assets Back?",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/15/coal-probe-uncovers-missing-lakvijaya-data",
-      "headline": "Coal Probe Uncovers Missing Lakvijaya Data",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/15/s-b-dissanayake%e2%80%99s-brother-arrested-in-alleged-rs-27-5-million-scam",
-      "headline": "S.B. Dissanayake’s Brother Arrested For Fraud",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/15/open-warrant-issued-for-ex-srilankan-ceo-s-wife",
-      "headline": "Open Warrant Issued for Ex-SriLankan CEO' s Wife",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/07/15/near-miss-in-the-sky-training-aircraft-hit-by-kite-string-in-ratmalana",
+      "headline": "Training Aircraft Hit by Kite String in Ratmalana",
+      "reason": "max-posts-per-run-reached",
       "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/15/s-b-dissanayake-s-brother-granted-bail-in-rs-27-5-mn-fraud-case",
+      "headline": "S.B. Dissanayake's Brother Granted Bail",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/13/fox-jaffna-among-sri-lanka%e2%80%99s-most-celebrated-dining-experiences",
       "headline": "Fox Jaffna Among Sri Lanka’s 30 Best Dining Spots",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/10/have-you-heard-about-south-korea-s-proxy-reporting-system-for-whistleblowers",
+      "headline": "Heard About Korea's 'No Name, No Fear' System?",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     }
   ],
