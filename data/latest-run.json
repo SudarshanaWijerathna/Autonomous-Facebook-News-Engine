@@ -1,14 +1,19 @@
 {
-  "runId": "692a5e38",
-  "startedAt": "2026-07-16T16:47:48.870Z",
-  "finishedAt": "2026-07-16T16:49:07.693Z",
+  "runId": "67ac77cf",
+  "startedAt": "2026-07-16T18:36:28.437Z",
+  "finishedAt": "2026-07-16T18:37:46.240Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
+      "headline": "Sri Lanka’s First AI-Enabled Surgery",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
       "headline": "Can Sri Lanka Get Its Stolen Assets Back?",
