@@ -1,17 +1,22 @@
 {
-  "runId": "67ac77cf",
-  "startedAt": "2026-07-16T18:36:28.437Z",
-  "finishedAt": "2026-07-16T18:37:46.240Z",
+  "runId": "7ae5ba1d",
+  "startedAt": "2026-07-17T03:54:13.650Z",
+  "finishedAt": "2026-07-17T03:55:55.393Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
+      "headline": "Why Is Nutritious Food Becoming a Luxury?",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -20,34 +25,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/questionable-coal-costs-sri-lanka-rs-4-5-bn-in-just-four-months",
-      "headline": "Faulty Coal Imports Forced Costly Power Generation",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/16/substandard-coal-forced-costly-shift-to-diesel-power",
-      "headline": "Substandard Coal Forced Costly Shift to Diesel",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/16/sri-lanka-braces-for-potential-el-ni%c3%b1o-impact",
-      "headline": "Sri Lanka Braces for Potential El Niño Impact",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/16/education-council-proposal-wins-approval",
       "headline": "Education Council Proposal Wins Approval",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/16/cardinal-seeks-to-intervene-in-salley-s-court-challenge",
       "headline": "Cardinal Seeks Intervention in Salley's Court Case",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/sri-lanka%e2%80%99s-opposition-splinters-as-alliances-battle-for-political-relevance",
+      "headline": "SL Opposition: Alliances Struggle for Relevance",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/sri-lanka-to-host-6th-bimstec-security-chiefs%e2%80%99-meeting-in-2027",
+      "headline": "SL to Host 6th BIMSTEC Security Chiefs’ Meeting",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []
