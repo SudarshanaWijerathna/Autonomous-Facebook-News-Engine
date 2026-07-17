@@ -1,7 +1,7 @@
 {
-  "runId": "3fe668e2",
-  "startedAt": "2026-07-17T11:49:11.391Z",
-  "finishedAt": "2026-07-17T11:50:34.063Z",
+  "runId": "3dc57404",
+  "startedAt": "2026-07-17T14:42:15.077Z",
+  "finishedAt": "2026-07-17T14:43:35.778Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 33,
@@ -9,11 +9,6 @@
   "selected": 1,
   "published": 1,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/07/17/dengue-cases-top-73-000-in-sri-lanka-so-far-this-year",
-      "headline": "Dengue Cases Top 73,000",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
@@ -30,34 +25,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/07/17/cpc-to-build-seven-new-oil-tanks-in-muthurajawela",
+      "headline": "CPC To Build Seven New Oil Tanks In Muthurajawela",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/17/substandard-coal-costs-sri-lanka-over-rs-4-5-billion-in-four-months",
       "headline": "Substandard Coal Costs SL Rs. 4.5B in 4 months",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
       "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
       "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
       "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/16/sri-lanka%e2%80%99s-opposition-splinters-as-alliances-battle-for-political-relevance",
-      "headline": "SL Opposition: Alliances Struggle for Relevance",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/16/money-laundering-case-against-yoshitha-to-proceed-in-august",
       "headline": "Yoshitha Money Laundering Trial Set for August",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/sri-lanka-to-host-6th-bimstec-security-chiefs%e2%80%99-meeting-in-2027",
-      "headline": "SL to Host 6th BIMSTEC Security Chiefs’ Meeting",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/17/sdig-waruna-jayasundara-transferred-to-police-children-women-bureau",
+      "headline": "SDIG Waruna Jayasundara Transferred",
+      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/public-consultation-on-renewable-energy-procurement-pricing-begins",
+      "headline": "Public Consultation On Renewable Energy",
+      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
+      "score": 78
     }
   ],
   "errors": []
