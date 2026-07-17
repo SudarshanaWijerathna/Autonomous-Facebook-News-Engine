@@ -1,13 +1,13 @@
 {
-  "runId": "7ae5ba1d",
-  "startedAt": "2026-07-17T03:54:13.650Z",
-  "finishedAt": "2026-07-17T03:55:55.393Z",
+  "runId": "052ecb91",
+  "startedAt": "2026-07-17T07:32:34.048Z",
+  "finishedAt": "2026-07-17T07:33:42.237Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 34,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -25,27 +25,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/education-council-proposal-wins-approval",
-      "headline": "Education Council Proposal Wins Approval",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/16/cardinal-seeks-to-intervene-in-salley-s-court-challenge",
-      "headline": "Cardinal Seeks Intervention in Salley's Court Case",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/07/16/substandard-coal-forced-costly-shift-to-diesel-power",
+      "headline": "Substandard Coal Forced Costly Shift to Diesel",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/07/16/sri-lanka%e2%80%99s-opposition-splinters-as-alliances-battle-for-political-relevance",
       "headline": "SL Opposition: Alliances Struggle for Relevance",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/sdig-waruna-jayasundara-transferred-to-children-and-women-affairs-division",
+      "headline": "SDIG Waruna Jayasundara Transferred",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/colombo-slashes-entertainment-tax",
+      "headline": "Colombo Slashes Entertainment Tax",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/07/16/sri-lanka-to-host-6th-bimstec-security-chiefs%e2%80%99-meeting-in-2027",
       "headline": "SL to Host 6th BIMSTEC Security Chiefs’ Meeting",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
   ],
