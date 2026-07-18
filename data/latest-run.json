@@ -1,13 +1,13 @@
 {
-  "runId": "3dc57404",
-  "startedAt": "2026-07-17T14:42:15.077Z",
-  "finishedAt": "2026-07-17T14:43:35.778Z",
+  "runId": "8e5bde96",
+  "startedAt": "2026-07-18T03:47:46.369Z",
+  "finishedAt": "2026-07-18T03:49:08.182Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -25,39 +25,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/17/cpc-to-build-seven-new-oil-tanks-in-muthurajawela",
-      "headline": "CPC To Build Seven New Oil Tanks In Muthurajawela",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/17/substandard-coal-costs-sri-lanka-over-rs-4-5-billion-in-four-months",
-      "headline": "Substandard Coal Costs SL Rs. 4.5B in 4 months",
-      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
-      "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
-      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/16/money-laundering-case-against-yoshitha-to-proceed-in-august",
-      "headline": "Yoshitha Money Laundering Trial Set for August",
-      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/17/sdig-waruna-jayasundara-transferred-to-police-children-women-bureau",
-      "headline": "SDIG Waruna Jayasundara Transferred",
-      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/17/public-consultation-on-renewable-energy-procurement-pricing-begins",
       "headline": "Public Consultation On Renewable Energy",
-      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/bail-application-to-be-made-for-rakhitha-rajapakshe-and-two-others",
+      "headline": "Bail Plea for Rakhitha Rajapakshe and Two Others",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/18/two-prison-guards-awarded-posthumous-promotions",
+      "headline": "Two Prison Guards Awarded Posthumous Promotions",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/ceo-of-mbc-networks-buddhi-wickramanayake-wins-the-%e2%80%98executive-of-the-year%e2%80%99-award-of-capital-maharaja-group",
+      "headline": "Buddhi Wickramanayake Wins ‘EOTY'",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []

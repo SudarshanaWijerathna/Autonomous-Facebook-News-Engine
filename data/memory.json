@@ -262,5 +262,29 @@
     "score": 94,
     "addedAt": "2026-07-17T14:43:35.778Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
+    "contentHash": "c1612491fde5c00010cd912a33ef083ba6097e61484829b93baafbc73bef238f",
+    "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-18T03:48:10.839Z",
+    "fbPostId": "1278802861974766_122097826449402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-18T03:49:01.252Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/17/substandard-coal-costs-sri-lanka-over-rs-4-5-billion-in-four-months",
+    "contentHash": "8d77f5aaf574264ea1f7c8522c77eca57a3d41718ef68ca3ae97fa4ef8e67992",
+    "headline": "Substandard Coal Costs SL Rs. 4.5B in 4 months",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-18T03:48:10.838Z",
+    "fbPostId": "1278802861974766_122097826581402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-18T03:49:08.181Z",
+    "isShadow": false
   }
 ]
