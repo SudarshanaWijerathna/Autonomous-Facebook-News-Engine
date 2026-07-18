@@ -1,13 +1,13 @@
 {
-  "runId": "8e5bde96",
-  "startedAt": "2026-07-18T03:47:46.369Z",
-  "finishedAt": "2026-07-18T03:49:08.182Z",
+  "runId": "920c55ba",
+  "startedAt": "2026-07-18T07:13:57.548Z",
+  "finishedAt": "2026-07-18T07:15:23.343Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 32,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -25,27 +25,43 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/17/public-consultation-on-renewable-energy-procurement-pricing-begins",
-      "headline": "Public Consultation On Renewable Energy",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/07/17/substandard-coal-costs-sri-lanka-over-rs-4-5-billion-in-four-months",
+      "headline": "Substandard Coal Costs SL Rs. 4.5B in 4 months",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
+      "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/07/17/bail-application-to-be-made-for-rakhitha-rajapakshe-and-two-others",
       "headline": "Bail Plea for Rakhitha Rajapakshe and Two Others",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/18/angolan-national-arrested-with-cocaine-worth-rs-10-million",
+      "headline": "Angolan National Arrested With Cocaine Worth",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/18/five-sentenced-to-death-over-2001-attanagalla-murder",
+      "headline": "5 Sentenced to Death Over 2001 Attanagalla Murder",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/18/two-prison-guards-awarded-posthumous-promotions",
       "headline": "Two Prison Guards Awarded Posthumous Promotions",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/17/ceo-of-mbc-networks-buddhi-wickramanayake-wins-the-%e2%80%98executive-of-the-year%e2%80%99-award-of-capital-maharaja-group",
-      "headline": "Buddhi Wickramanayake Wins ‘EOTY'",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/18/former-igp-s-final-rites-to-be-held-on-monday",
+      "headline": "Former IGP's Final Rites to Be Held on Monday",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
   ],
