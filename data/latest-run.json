@@ -1,13 +1,13 @@
 {
-  "runId": "920c55ba",
-  "startedAt": "2026-07-18T07:13:57.548Z",
-  "finishedAt": "2026-07-18T07:15:23.343Z",
+  "runId": "9f9aa931",
+  "startedAt": "2026-07-18T11:28:01.106Z",
+  "finishedAt": "2026-07-18T11:29:09.407Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 32,
+  "afterDedup": 33,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -25,24 +25,25 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/17/substandard-coal-costs-sri-lanka-over-rs-4-5-billion-in-four-months",
-      "headline": "Substandard Coal Costs SL Rs. 4.5B in 4 months",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://adaderana.lk/news/cmrq789fr0008356qgioktnhg",
+      "headline": "Sri Lanka Cricket expresses condolences on passing of Sir Garfield Sobers",
+      "reason": "batch-cross-source-duplicate-of-ada-derana-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
-      "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/17/bail-application-to-be-made-for-rakhitha-rajapakshe-and-two-others",
-      "headline": "Bail Plea for Rakhitha Rajapakshe and Two Others",
+      "url": "https://newsfirst.lk/2026/07/17/two-police-teams-deployed-to-investigate-death-of-former-igp-c-d-wickramaratne",
+      "headline": "Probe into Death Of Former IGP C.D. Wickramaratne",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/angolan-national-arrested-with-cocaine-worth-rs-10-million",
-      "headline": "Angolan National Arrested With Cocaine Worth",
+      "url": "https://newsfirst.lk/2026/07/18/dengue-death-toll-rises-to-53-as-cases-top-75-000",
+      "headline": "Dengue Death Toll Rises to 53 as Cases Top 75,000",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/court-of-appeal-sets-august-4-for-intervening-petitions-in-suresh-salley-case",
+      "headline": "Suresh Salley case: Hearing on Aug 4",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
@@ -53,14 +54,14 @@
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/two-prison-guards-awarded-posthumous-promotions",
-      "headline": "Two Prison Guards Awarded Posthumous Promotions",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/18/former-igp-s-final-rites-to-be-held-on-monday",
       "headline": "Former IGP's Final Rites to Be Held on Monday",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/17/ceo-of-mbc-networks-buddhi-wickramanayake-wins-the-%e2%80%98executive-of-the-year%e2%80%99-award-of-capital-maharaja-group",
+      "headline": "Buddhi Wickramanayake Wins ‘EOTY'",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
