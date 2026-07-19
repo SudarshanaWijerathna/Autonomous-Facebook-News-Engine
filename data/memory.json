@@ -322,5 +322,29 @@
     "score": 88,
     "addedAt": "2026-07-19T07:40:45.165Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/19/majority-dengue-cases-linked-to-denv-2-strain",
+    "contentHash": "cd2533b8ae33b66dce9437877edef22da279604c28b9616e80a175c6c8f002cc",
+    "headline": "Majority Dengue Cases Linked To DENV-2 Strain",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-19T16:25:42.920Z",
+    "fbPostId": "1278802861974766_122099028687402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-19T16:26:41.251Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/19/fire-breaks-out-at-apartment-complex-in-ratmalana",
+    "contentHash": "ef0098bb9763b680b386c405f14674e390a57531469e1ecdea1d566760afff0b",
+    "headline": "Fire Breaks Out At Apartment Complex in Ratmalana",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-19T16:25:42.922Z",
+    "fbPostId": "1278802861974766_122099028849402039",
+    "category": "Breaking",
+    "score": 78,
+    "addedAt": "2026-07-19T16:26:56.425Z",
+    "isShadow": false
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "runId": "0feb8897",
-  "startedAt": "2026-07-19T07:39:19.724Z",
-  "finishedAt": "2026-07-19T07:40:45.166Z",
+  "runId": "74059891",
+  "startedAt": "2026-07-19T16:25:14.516Z",
+  "finishedAt": "2026-07-19T16:26:56.426Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 34,
@@ -25,28 +25,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/malaysian-national-arrested-at-bia-with-cocaine-worth-rs-90-8-million",
-      "headline": "Malaysian National Arrested At BIA With Cocaine",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/07/19/rise-in-drug-trafficking-through-postal-services",
+      "headline": "Rise in Drug Trafficking Through Postal Services",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/measures-taken-to-protect-wildlife-amid-dry-weather-at-yala",
-      "headline": "Measures Taken To Protect Wildlife At Yala",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/07/19/20-rabies-deaths-recorded-so-far",
+      "headline": "20 Rabies Deaths Recorded So Far",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/finance-ministry-begins-work-on-2027-budget-proposals",
-      "headline": "Finance Ministry Begins Work On 2027 Budget",
+      "url": "https://newsfirst.lk/2026/07/19/large-haul-of-ice-and-heroin-seized",
+      "headline": "Large Haul of Ice And Heroin Seized",
       "reason": "max-posts-per-run-reached",
-      "score": 68
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/19/305mt-of-paddy-procured-during-paddy-purchasing-programme",
       "headline": "305MT of Paddy Procured During So Far",
       "reason": "max-posts-per-run-reached",
-      "score": 68
+      "score": 62
     }
   ],
   "errors": []
