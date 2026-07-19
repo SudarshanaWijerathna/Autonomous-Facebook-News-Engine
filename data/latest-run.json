@@ -1,13 +1,13 @@
 {
-  "runId": "882459f1",
-  "startedAt": "2026-07-18T16:26:43.958Z",
-  "finishedAt": "2026-07-18T16:27:37.099Z",
+  "runId": "0feb8897",
+  "startedAt": "2026-07-19T07:39:19.724Z",
+  "finishedAt": "2026-07-19T07:40:45.166Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 34,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -25,39 +25,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/probe-into-former-igp-c-d-wickramaratne%e2%80%99s-death-intensifies",
-      "headline": "Probe into C.D. Wickramaratne’s Death Intensifies",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/18/malaysian-national-arrested-at-bia-with-cocaine-worth-rs-90-8-million",
       "headline": "Malaysian National Arrested At BIA With Cocaine",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/five-sentenced-to-death-over-2001-attanagalla-murder",
-      "headline": "5 Sentenced to Death Over 2001 Attanagalla Murder",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "url": "https://newsfirst.lk/2026/07/18/measures-taken-to-protect-wildlife-amid-dry-weather-at-yala",
+      "headline": "Measures Taken To Protect Wildlife At Yala",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/two-prison-guards-awarded-posthumous-promotions",
-      "headline": "Two Prison Guards Awarded Posthumous Promotions",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/07/18/finance-ministry-begins-work-on-2027-budget-proposals",
+      "headline": "Finance Ministry Begins Work On 2027 Budget",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/18/former-igp-s-final-rites-to-be-held-on-monday",
-      "headline": "Former IGP's Final Rites to Be Held on Monday",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/18/president-meets-prisons-officials",
-      "headline": "President Meets Prisons Officials",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/07/19/305mt-of-paddy-procured-during-paddy-purchasing-programme",
+      "headline": "305MT of Paddy Procured During So Far",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     }
   ],
