@@ -1,10 +1,10 @@
 {
-  "runId": "818c5408",
-  "startedAt": "2026-07-20T04:29:35.890Z",
-  "finishedAt": "2026-07-20T04:30:52.833Z",
+  "runId": "ebd58fba",
+  "startedAt": "2026-07-20T06:20:10.714Z",
+  "finishedAt": "2026-07-20T06:21:27.762Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 32,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -25,6 +25,11 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/07/19/20-rabies-deaths-recorded-so-far",
+      "headline": "20 Rabies Deaths Recorded So Far",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/19/majority-dengue-cases-linked-to-denv-2-strain",
       "headline": "Majority Dengue Cases Linked To DENV-2 Strain",
       "reason": "exact-duplicate-in-memory"
@@ -32,18 +37,18 @@
     {
       "url": "https://newsfirst.lk/2026/07/20/former-igp-c-d-wickramaratne-to-be-laid-to-rest-with-full-police-honours-today",
       "headline": "Former IGP C. D. Wickramaratne To Be Laid To Rest",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/19/direct-flights-to-ho-chi-minh-strengthens-connectivity-between-sri-lanka-and-vietnam",
-      "headline": "Direct Flights To Ho Chi Minh Launched",
+      "url": "https://newsfirst.lk/2026/07/20/guidelines-on-dengue-surveillance-prevention-to-be-launched-for-all-universities",
+      "headline": "Guidelines Issued on Dengue Surveillance in Uni's",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/19/attempted-assault-on-police-officers-in-piliyandala-one-suspect-at-large",
-      "headline": "Attempted Assault on Police in Piliyandala",
+      "url": "https://newsfirst.lk/2026/07/19/vehicle-condition-checks-to-be-made-mandatory-for-public-buses",
+      "headline": "Vehicle Condition Checks To Be Made Mandatory",
       "reason": "max-posts-per-run-reached",
       "score": 78
     },

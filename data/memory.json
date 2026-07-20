@@ -370,5 +370,29 @@
     "score": 88,
     "addedAt": "2026-07-20T04:30:52.832Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/20/dengue-control-through-wolbachia-to-begin-next-month",
+    "contentHash": "c355ec00bb447aa4441e302575fd49f242c0bbce704396cb5c5f35fbb9503320",
+    "headline": "Dengue Control Through Wolbachia From Next Month",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-20T06:20:23.636Z",
+    "fbPostId": "1278802861974766_122099379459402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-20T06:21:17.548Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/19/direct-flights-to-ho-chi-minh-strengthens-connectivity-between-sri-lanka-and-vietnam",
+    "contentHash": "4167166c093549391b71adcdd197fd8fe0d1c8410fcb8d6e0d7a6aa332c9ea86",
+    "headline": "Direct Flights To Ho Chi Minh Launched",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-20T06:20:23.638Z",
+    "fbPostId": "1278802861974766_122099379651402039",
+    "category": "Business",
+    "score": 78,
+    "addedAt": "2026-07-20T06:21:27.761Z",
+    "isShadow": false
   }
 ]
