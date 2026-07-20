@@ -346,5 +346,29 @@
     "score": 78,
     "addedAt": "2026-07-19T16:26:56.425Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/19/20-rabies-deaths-recorded-so-far",
+    "contentHash": "0ba88737dc2ba1fca231629b79ea771f0e33e47122647b54a5b732129e9ca232",
+    "headline": "20 Rabies Deaths Recorded So Far",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-20T04:29:54.813Z",
+    "fbPostId": "1278802861974766_122099333475402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-20T04:30:44.419Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/19/extraordinary-gazette-issued-to-ban-sanitary-napkins-without-sls-certification",
+    "contentHash": "e5efa051bfb51904e4bbb0ea762ba68374a33fe6fa71d30101993152a5b5eefe",
+    "headline": "Gazette Bans Non-SLS Certified Sanitary Napkins",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-20T04:29:54.812Z",
+    "fbPostId": "1278802861974766_122099333559402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-20T04:30:52.832Z",
+    "isShadow": false
   }
 ]
