@@ -1,13 +1,13 @@
 {
-  "runId": "891784f9",
-  "startedAt": "2026-07-20T10:44:00.947Z",
-  "finishedAt": "2026-07-20T10:45:09.184Z",
+  "runId": "c8df94c4",
+  "startedAt": "2026-07-20T16:52:20.414Z",
+  "finishedAt": "2026-07-20T16:53:44.284Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -20,9 +20,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/dengue-control-through-wolbachia-to-begin-next-month",
-      "headline": "Dengue Control Through Wolbachia From Next Month",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/07/20/dengue-cases-surge-to-76-044-death-toll-rises-to-53",
+      "headline": "Dengue Cases Hit 76,044; 53 Dead",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 90
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/30-000-teacher-appointments-and-over-120-000-to-be-recruited-for-public-service-this-year",
@@ -31,27 +32,15 @@
       "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/50-vocational-universities-to-be-established-within-two-years",
-      "headline": "50 Vocational Universities in Next Two Years",
+      "url": "https://newsfirst.lk/2026/07/20/43-military-rounds-found-near-hurulu-wewa-bathing-site",
+      "headline": "43 Military Rounds Found Near Hurulu Wewa",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/former-igp-c-d-wickramaratne-to-be-laid-to-rest-with-full-police-honours-today",
-      "headline": "Former IGP C. D. Wickramaratne To Be Laid To Rest",
+      "url": "https://newsfirst.lk/2026/07/20/website-launched-to-manage-traffic-congestion-during-kataragama-esala-perahera",
+      "headline": "Website To Manage Traffic During Esala Perahera",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/guidelines-on-dengue-surveillance-prevention-to-be-launched-for-all-universities",
-      "headline": "Guidelines Issued on Dengue Surveillance in Uni's",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/vietjet-launches-direct-flights-between-colombo-and-ho-chi-minh-city",
-      "headline": "VietJet Launches Colombo-Ho Chi Minh Flights",
-      "reason": "category-cap-reached (Business: 1/1 today)",
       "score": 78
     },
     {
