@@ -1,13 +1,13 @@
 {
-  "runId": "ebd58fba",
-  "startedAt": "2026-07-20T06:20:10.714Z",
-  "finishedAt": "2026-07-20T06:21:27.762Z",
+  "runId": "891784f9",
+  "startedAt": "2026-07-20T10:44:00.947Z",
+  "finishedAt": "2026-07-20T10:45:09.184Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 32,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -20,43 +20,45 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
-      "headline": "Can Sri Lanka Get Its Stolen Assets Back?",
+      "url": "https://newsfirst.lk/2026/07/20/dengue-control-through-wolbachia-to-begin-next-month",
+      "headline": "Dengue Control Through Wolbachia From Next Month",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/19/20-rabies-deaths-recorded-so-far",
-      "headline": "20 Rabies Deaths Recorded So Far",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/07/20/30-000-teacher-appointments-and-over-120-000-to-be-recruited-for-public-service-this-year",
+      "headline": "30,000 Teacher Appointments For Public Service",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/19/majority-dengue-cases-linked-to-denv-2-strain",
-      "headline": "Majority Dengue Cases Linked To DENV-2 Strain",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/07/20/50-vocational-universities-to-be-established-within-two-years",
+      "headline": "50 Vocational Universities in Next Two Years",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/former-igp-c-d-wickramaratne-to-be-laid-to-rest-with-full-police-honours-today",
       "headline": "Former IGP C. D. Wickramaratne To Be Laid To Rest",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/guidelines-on-dengue-surveillance-prevention-to-be-launched-for-all-universities",
       "headline": "Guidelines Issued on Dengue Surveillance in Uni's",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/19/vehicle-condition-checks-to-be-made-mandatory-for-public-buses",
-      "headline": "Vehicle Condition Checks To Be Made Mandatory",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/20/vietjet-launches-direct-flights-between-colombo-and-ho-chi-minh-city",
+      "headline": "VietJet Launches Colombo-Ho Chi Minh Flights",
+      "reason": "category-cap-reached (Business: 1/1 today)",
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/50-vocational-universities-to-be-established-within-two-years",
-      "headline": "50 Vocational Universities in Next Two Years",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (58 < 75)",
+      "score": 58
     }
   ],
   "errors": []
