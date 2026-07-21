@@ -454,5 +454,29 @@
     "score": 88,
     "addedAt": "2026-07-21T12:08:06.514Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/21/five-killed-in-homagama-factory-fire",
+    "contentHash": "9921647445300ebc9bdf3684b148a80c912e5671f6d74f5820020cfbbcffa7b6",
+    "headline": "Five Killed In Homagama Factory Fire",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-21T15:02:37.418Z",
+    "fbPostId": "1278802861974766_122100517413402039",
+    "category": "Breaking",
+    "score": 94,
+    "addedAt": "2026-07-21T15:03:50.786Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/21/planning-a-trip-to-taiwan-sri-lankans-face-stricter-visa-conditions-from-july-2026",
+    "contentHash": "72d0759fe6f8c6a5d1465c6fd4c0b19fce0795cd4b81b62f77e68b39106d3ed6",
+    "headline": "Planning a Trip to Taiwan? New Rules for Sri Lanka",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-21T15:02:37.418Z",
+    "fbPostId": "1278802861974766_122100517563402039",
+    "category": "World",
+    "score": 82,
+    "addedAt": "2026-07-21T15:04:01.010Z",
+    "isShadow": false
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "runId": "8baa549a",
-  "startedAt": "2026-07-21T12:06:39.021Z",
-  "finishedAt": "2026-07-21T12:08:06.515Z",
+  "runId": "f7cc8604",
+  "startedAt": "2026-07-21T15:02:20.290Z",
+  "finishedAt": "2026-07-21T15:04:01.011Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -20,28 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/sri-lankan-airlines-suspends-kuwait-flights-for-one-week-amid-regional-tensions",
-      "headline": "Sri Lankan Airlines Suspends Kuwait Flights",
+      "url": "https://newsfirst.lk/2026/07/21/dengue-cases-rise-to-77-028-as-death-toll-reaches-56",
+      "headline": "Dengue Cases Rise To 77,028; Death Toll Reaches 56",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/parliament-to-debate-referring-cope-corruption-findings-to-bribery-commission-today",
-      "headline": "Parliament To Debate Referring COPE Corruption",
-      "reason": "max-posts-per-run-reached",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/07/21/airbus-scandal-cid-ciaboc-team-flies-to-australia",
+      "headline": "AirBus Scandal: CID, CIABOC Flies to Australia",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/07/21/coal-probe-exposes-absence-of-long-term-purchase-records",
       "headline": "Probe Exposes Absence of Long-Term Purchase Record",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/national-dengue-control-programme-continues-across-western-province-today",
-      "headline": "National Dengue Control Programme Continues",
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
       "reason": "max-posts-per-run-reached",
-      "score": 78
+      "score": 58
     }
   ],
   "errors": []
