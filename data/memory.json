@@ -430,5 +430,29 @@
     "score": 88,
     "addedAt": "2026-07-21T04:10:25.244Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/21/navy-seizes-over-2-6-tonnes-of-narcotics-in-operations-this-year",
+    "contentHash": "8fc81f57a8df90f8a1452fd055a438cf5e0119069cdbe509db754ac9b89d60c9",
+    "headline": "Navy Seizes Over 2.6 Tonnes Of Narcotics",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-21T12:07:03.964Z",
+    "fbPostId": "1278802861974766_122100346821402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-21T12:07:55.665Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/21/sri-lanka-to-launch-1-200mw-battery-storage-system",
+    "contentHash": "b7367e77207048c02cef18d6f3c1efd90eef2eadfe086d16fdda6759724a61f9",
+    "headline": "Sri Lanka to Launch 1,200MW Battery Storage System",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-21T12:07:03.963Z",
+    "fbPostId": "1278802861974766_122100347025402039",
+    "category": "Business",
+    "score": 88,
+    "addedAt": "2026-07-21T12:08:06.514Z",
+    "isShadow": false
   }
 ]

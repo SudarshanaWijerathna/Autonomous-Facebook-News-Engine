@@ -1,7 +1,7 @@
 {
-  "runId": "6d91319f",
-  "startedAt": "2026-07-21T04:08:51.670Z",
-  "finishedAt": "2026-07-21T04:10:25.245Z",
+  "runId": "8baa549a",
+  "startedAt": "2026-07-21T12:06:39.021Z",
+  "finishedAt": "2026-07-21T12:08:06.515Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -20,28 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/andy-burnham-officially-becomes-uk-prime-minister",
-      "headline": "Andy Burnham Officially Becomes UK Prime Minister",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/21/sri-lankan-airlines-suspends-kuwait-flights-for-one-week-amid-regional-tensions",
+      "headline": "Sri Lankan Airlines Suspends Kuwait Flights",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/43-military-rounds-found-near-hurulu-wewa-bathing-site",
-      "headline": "43 Military Rounds Found Near Hurulu Wewa",
+      "url": "https://newsfirst.lk/2026/07/21/parliament-to-debate-referring-cope-corruption-findings-to-bribery-commission-today",
+      "headline": "Parliament To Debate Referring COPE Corruption",
+      "reason": "max-posts-per-run-reached",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/21/coal-probe-exposes-absence-of-long-term-purchase-records",
+      "headline": "Probe Exposes Absence of Long-Term Purchase Record",
+      "reason": "max-posts-per-run-reached",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/21/national-dengue-control-programme-continues-across-western-province-today",
+      "headline": "National Dengue Control Programme Continues",
       "reason": "max-posts-per-run-reached",
       "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "max-posts-per-run-reached",
-      "score": 58
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/commander-of-the-navy-calls-on-secretary-to-the-president",
-      "headline": "Navy Commander calls on Secretary to the President",
-      "reason": "max-posts-per-run-reached",
-      "score": 55
     }
   ],
   "errors": []
