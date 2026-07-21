@@ -1,13 +1,13 @@
 {
-  "runId": "f7cc8604",
-  "startedAt": "2026-07-21T15:02:20.290Z",
-  "finishedAt": "2026-07-21T15:04:01.011Z",
+  "runId": "082a7fbd",
+  "startedAt": "2026-07-21T18:46:38.493Z",
+  "finishedAt": "2026-07-21T18:47:49.945Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 33,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -20,28 +20,44 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/dengue-cases-rise-to-77-028-as-death-toll-reaches-56",
-      "headline": "Dengue Cases Rise To 77,028; Death Toll Reaches 56",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "url": "https://newsfirst.lk/2026/07/21/sri-lanka-to-launch-1-200mw-battery-storage-system",
+      "headline": "Sri Lanka to Launch 1,200MW Battery Storage System",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/21/planning-a-trip-to-taiwan-sri-lankans-face-stricter-visa-conditions-from-july-2026",
+      "headline": "Planning a Trip to Taiwan? New Rules for Sri Lanka",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/07/21/airbus-scandal-cid-ciaboc-team-flies-to-australia",
       "headline": "AirBus Scandal: CID, CIABOC Flies to Australia",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/21/sri-lanka%e2%80%99s-inflation-hits-6-5-in-june",
+      "headline": "Sri Lanka’s Inflation Hits 6.5% in June",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/07/21/coal-probe-exposes-absence-of-long-term-purchase-records",
       "headline": "Probe Exposes Absence of Long-Term Purchase Record",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/21/ex-state-minister%e2%80%99s-son-arrested-over-rs-20-mn-robbery",
+      "headline": "Ex-State Minister’s Son Arrested In Rs. 20M Theft",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "max-posts-per-run-reached",
-      "score": 58
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
