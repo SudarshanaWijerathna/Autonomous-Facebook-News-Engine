@@ -1,13 +1,13 @@
 {
-  "runId": "c8df94c4",
-  "startedAt": "2026-07-20T16:52:20.414Z",
-  "finishedAt": "2026-07-20T16:53:44.284Z",
+  "runId": "6d91319f",
+  "startedAt": "2026-07-21T04:08:51.670Z",
+  "finishedAt": "2026-07-21T04:10:25.245Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -20,34 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/dengue-cases-surge-to-76-044-death-toll-rises-to-53",
-      "headline": "Dengue Cases Hit 76,044; 53 Dead",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 90
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/30-000-teacher-appointments-and-over-120-000-to-be-recruited-for-public-service-this-year",
-      "headline": "30,000 Teacher Appointments For Public Service",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/07/20/andy-burnham-officially-becomes-uk-prime-minister",
+      "headline": "Andy Burnham Officially Becomes UK Prime Minister",
+      "reason": "max-posts-per-run-reached",
       "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/43-military-rounds-found-near-hurulu-wewa-bathing-site",
       "headline": "43 Military Rounds Found Near Hurulu Wewa",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/website-launched-to-manage-traffic-congestion-during-kataragama-esala-perahera",
-      "headline": "Website To Manage Traffic During Esala Perahera",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (58 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 58
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/commander-of-the-navy-calls-on-secretary-to-the-president",
+      "headline": "Navy Commander calls on Secretary to the President",
+      "reason": "max-posts-per-run-reached",
+      "score": 55
     }
   ],
   "errors": []

@@ -406,5 +406,29 @@
     "score": 78,
     "addedAt": "2026-07-20T16:53:44.283Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/20/dengue-cases-surge-to-76-044-death-toll-rises-to-53",
+    "contentHash": "2fd0dda238324172490fc48f15af2b91f9c5d3156684c44c6bd6951f3474e040",
+    "headline": "Dengue Cases Hit 76,044; 53 Dead",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-21T04:09:17.984Z",
+    "fbPostId": "1278802861974766_122100005553402039",
+    "category": "Sri Lanka",
+    "score": 90,
+    "addedAt": "2026-07-21T04:10:09.978Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/20/30-000-teacher-appointments-and-over-120-000-to-be-recruited-for-public-service-this-year",
+    "contentHash": "074647377d1a4383e36080cc8f72da0c2f1eecbdb87e5dd3f324745ce0e34f54",
+    "headline": "30,000 Teacher Appointments For Public Service",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-21T04:09:17.984Z",
+    "fbPostId": "1278802861974766_122100005721402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-07-21T04:10:25.244Z",
+    "isShadow": false
   }
 ]
