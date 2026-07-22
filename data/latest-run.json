@@ -1,7 +1,7 @@
 {
-  "runId": "cf89f252",
-  "startedAt": "2026-07-22T16:54:56.115Z",
-  "finishedAt": "2026-07-22T16:56:04.379Z",
+  "runId": "b63e6179",
+  "startedAt": "2026-07-22T18:37:56.945Z",
+  "finishedAt": "2026-07-22T18:39:06.645Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -20,16 +20,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/how-715-million-quietly-left-sri-lanka-billion-rupee-scheme-investigators-say-fooled-the-system",
-      "headline": "Fake Invoices, Drug Money And Overseas Transfers",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/22/dengue-cases-rise-to-78-125-162-moh-divisions-marked-high-risk",
       "headline": "Dengue Cases Rise To 78,125",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/07/22/ccib-takes-over-rs-20m-robbery-case-following-arrest-of-ex-state-minister-s-son",
@@ -38,16 +32,22 @@
       "score": 75
     },
     {
+      "url": "https://newsfirst.lk/2026/07/22/patali-summoned-before-coal-probe-commission",
+      "headline": "Patali Summoned Before Coal Probe Commission",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/22/accident-in-nallathanniya-claims-two-lives-injures-three-students",
       "headline": "Accident in Nallathanniya Claims Two Lives",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/the-latest-on-cjp-potests-in-delhi-demonstrations-escalate-as-rahul-gandhi-joins-cjp-stir",
-      "headline": "CJP Potests:Escalations as Rahul Gandhi Joins Stir",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/07/22/stronger-china-grows-more-peaceful-world-will-be-ambassador",
+      "headline": "Stronger China Grows, More Peaceful World Will Be",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
