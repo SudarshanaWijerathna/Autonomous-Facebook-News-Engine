@@ -101,6 +101,11 @@ Standard Page tokens expire every 60 days. To get a **non-expiring** token:
 7. Generate a token from the **System User settings** (not from the API explorer)
    — this token does not expire on a 60-day timer
 8. Required permissions: `pages_manage_posts`, `pages_read_engagement`, `pages_show_list`
+9. **IMPORTANT**: Switch your Facebook App to **Live Mode** in the Meta Developer Portal!
+   - Go to your App Dashboard, select the App, and fill in the required fields in **Settings > Basic** (Privacy Policy URL, Category, and Contact Email).
+   - Toggle the App Mode switch at the top from **Development** to **Live** (or "Production").
+   - *Why this matters*: If left in Development mode, any feed posts published via the API will ONLY be visible to App admins and developers, and public visitors will see a blank timeline (though the uploaded images will still show up in the Page's "Photos" tab).
+   - *Note*: You do not need App Review for these permissions if the App and Page are owned by the same Business Portfolio and you use a System User Token.
 
 The pipeline runs a token health check at the start of every run. If the token is revoked or invalid, it alerts you and skips publishing (doesn't crash).
 

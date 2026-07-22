@@ -9,6 +9,13 @@
  *
  * Token strategy: System User token from Business Manager (non-expiring).
  * See token-health.ts for how to validate it before use.
+ *
+ * IMPORTANT NOTE ON VISIBILITY:
+ * The Facebook App associated with the System User Token must be switched to
+ * "Live" mode on the Meta Developer Portal. If the App is left in "Development"
+ * mode, any feed posts published via the API will ONLY be visible to App admins
+ * and developers, and public page visitors will see a blank feed, even though
+ * the uploaded images will still show up under the Page's "Photos" tab.
  */
 
 import { requireEnv, sleep } from '../config.js';
