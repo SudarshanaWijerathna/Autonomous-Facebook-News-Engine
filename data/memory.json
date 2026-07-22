@@ -490,5 +490,29 @@
     "score": 85,
     "addedAt": "2026-07-21T18:47:49.944Z",
     "isShadow": false
+  },
+  {
+    "url": "https://adaderana.lk/news/cmrvmc6ar0002356qm5ciex32",
+    "contentHash": "f310d65c6ddfaf9916cda7ef1d5340fcb1fb5ff4e88d64860dd1c6dda15af08b",
+    "headline": "Dengue cases surge past 78,000; 56 deaths reported this year",
+    "sourceId": "ada-derana-en",
+    "publishedAt": "2026-07-22T05:52:41.346Z",
+    "fbPostId": "1278802861974766_122100952689402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-07-22T05:54:06.395Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://adaderana.lk/news/cmrvme40h000g356p571usfx6",
+    "contentHash": "1576fba47fe07902b1a845b780ae15f5dc79f95c06c67c1bd3e72395ea15b598",
+    "headline": "Ex-Navy Commander Ravindra Wijegunaratne granted bail in abduction case",
+    "sourceId": "ada-derana-en",
+    "publishedAt": "2026-07-22T05:52:41.346Z",
+    "fbPostId": "1278802861974766_122100952887402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-07-22T05:54:14.210Z",
+    "isShadow": false
   }
 ]

@@ -1,63 +1,37 @@
 {
-  "runId": "082a7fbd",
-  "startedAt": "2026-07-21T18:46:38.493Z",
-  "finishedAt": "2026-07-21T18:47:49.945Z",
+  "runId": "33047e7c",
+  "startedAt": "2026-07-22T05:52:40.231Z",
+  "finishedAt": "2026-07-22T05:54:14.211Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 33,
+  "discovered": 25,
+  "afterDedup": 25,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
-      "headline": "Sri Lanka’s First AI-Enabled Surgery",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://adaderana.lk/news/cmrvm4kht000f356p4f1m6x9e",
+      "headline": "Man escapes shooting attempt after firearm fails to discharge in Mount Lavinia",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
-      "headline": "Why Is Nutritious Food Becoming a Luxury?",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://adaderana.lk/news/cmrvnu5fn000h356pski6y48d",
+      "headline": "Chartered Institute of Computing to strengthen future of Sri Lanka’s digital sector",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/sri-lanka-to-launch-1-200mw-battery-storage-system",
-      "headline": "Sri Lanka to Launch 1,200MW Battery Storage System",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://adaderana.lk/news/cmrvbih4e0002356pddsshu29",
+      "headline": "Kandy beat Dambulla by 43 runs for first win of LPL 2026",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/planning-a-trip-to-taiwan-sri-lankans-face-stricter-visa-conditions-from-july-2026",
-      "headline": "Planning a Trip to Taiwan? New Rules for Sri Lanka",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/21/airbus-scandal-cid-ciaboc-team-flies-to-australia",
-      "headline": "AirBus Scandal: CID, CIABOC Flies to Australia",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/21/sri-lanka%e2%80%99s-inflation-hits-6-5-in-june",
-      "headline": "Sri Lanka’s Inflation Hits 6.5% in June",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/21/coal-probe-exposes-absence-of-long-term-purchase-records",
-      "headline": "Probe Exposes Absence of Long-Term Purchase Record",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/21/ex-state-minister%e2%80%99s-son-arrested-over-rs-20-mn-robbery",
-      "headline": "Ex-State Minister’s Son Arrested In Rs. 20M Theft",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://adaderana.lk/news/cmruwskun000h356pbm8zmep6",
+      "headline": "La Liga chief accuses FIFA of 'destroying football industry', calls for Infantino to quit",
+      "reason": "max-posts-per-run-reached",
+      "score": 48
     }
   ],
   "errors": []
