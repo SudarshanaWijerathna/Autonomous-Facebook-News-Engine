@@ -514,5 +514,29 @@
     "score": 75,
     "addedAt": "2026-07-22T05:54:14.210Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/22/sri-lanka-to-repay-us-1-billion-in-foreign-debt-this-year",
+    "contentHash": "c8d804589a97f645bdf9620d19d8a0d93c5f933f3976d8e55bc1f60f4e06528e",
+    "headline": "Sri Lanka To Repay US$1 Billion In Foreign Debt",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-22T07:54:19.671Z",
+    "fbPostId": "1278802861974766_122101014705402039",
+    "category": "Business",
+    "score": 86,
+    "addedAt": "2026-07-22T07:55:10.462Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/22/dengue-cases-top-77-000-as-high-risk-areas-remain-under-surveillance",
+    "contentHash": "7517d432d0e209016b610c569c1d9417e189a52afbdff0bba1d1c2cb07469290",
+    "headline": "Dengue Cases Top 77,000",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-22T07:54:19.672Z",
+    "fbPostId": "1278802861974766_122101014813402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-07-22T07:55:24.028Z",
+    "isShadow": false
   }
 ]

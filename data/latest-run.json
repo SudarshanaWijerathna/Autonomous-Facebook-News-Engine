@@ -1,37 +1,47 @@
 {
-  "runId": "33047e7c",
-  "startedAt": "2026-07-22T05:52:40.231Z",
-  "finishedAt": "2026-07-22T05:54:14.211Z",
+  "runId": "9b2d8fc5",
+  "startedAt": "2026-07-22T07:54:08.360Z",
+  "finishedAt": "2026-07-22T07:55:24.029Z",
   "shadowMode": false,
-  "discovered": 25,
-  "afterDedup": 25,
+  "discovered": 37,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
     {
-      "url": "https://adaderana.lk/news/cmrvm4kht000f356p4f1m6x9e",
-      "headline": "Man escapes shooting attempt after firearm fails to discharge in Mount Lavinia",
+      "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
+      "headline": "Sri Lanka’s First AI-Enabled Surgery",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
+      "headline": "Why Is Nutritious Food Becoming a Luxury?",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/21/sri-lanka-evaluates-japanese-qdenga-vaccine",
+      "headline": "Sri Lanka Evaluates Japanese Qdenga Vaccine",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/22/the-central-bank-of-sri-lanka-keeps-the-overnight-policy-rate-opr-unchanged",
+      "headline": "CBSL keeps the Overnight Policy Rate Unchanged",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/22/two-arrested-in-kompannavidiya-with-over-rs-27-million-in-undisclosed-funds",
+      "headline": "Arrests In Kompannavidiya Over Undisclosed Funds",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://adaderana.lk/news/cmrvnu5fn000h356pski6y48d",
-      "headline": "Chartered Institute of Computing to strengthen future of Sri Lanka’s digital sector",
+      "url": "https://newsfirst.lk/2026/07/22/cea-reveals-homagama-factory-lost-environmental-license-renewal",
+      "headline": "Homagama Factory Lost License Renewal",
       "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://adaderana.lk/news/cmrvbih4e0002356pddsshu29",
-      "headline": "Kandy beat Dambulla by 43 runs for first win of LPL 2026",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
-    },
-    {
-      "url": "https://adaderana.lk/news/cmruwskun000h356pbm8zmep6",
-      "headline": "La Liga chief accuses FIFA of 'destroying football industry', calls for Infantino to quit",
-      "reason": "max-posts-per-run-reached",
-      "score": 48
     }
   ],
   "errors": []
