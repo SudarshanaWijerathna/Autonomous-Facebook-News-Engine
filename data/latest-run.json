@@ -1,7 +1,7 @@
 {
-  "runId": "922ff5ea",
-  "startedAt": "2026-07-22T12:10:27.094Z",
-  "finishedAt": "2026-07-22T12:11:34.292Z",
+  "runId": "cf89f252",
+  "startedAt": "2026-07-22T16:54:56.115Z",
+  "finishedAt": "2026-07-22T16:56:04.379Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -20,14 +20,14 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/dengue-cases-rise-to-78-125-162-moh-divisions-marked-high-risk",
-      "headline": "Dengue Cases Rise To 78,125",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/22/how-715-million-quietly-left-sri-lanka-billion-rupee-scheme-investigators-say-fooled-the-system",
       "headline": "Fake Invoices, Drug Money And Overseas Transfers",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/22/dengue-cases-rise-to-78-125-162-moh-divisions-marked-high-risk",
+      "headline": "Dengue Cases Rise To 78,125",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
@@ -35,13 +35,13 @@
       "url": "https://newsfirst.lk/2026/07/22/ccib-takes-over-rs-20m-robbery-case-following-arrest-of-ex-state-minister-s-son",
       "headline": "CCIB Takes Over Rs. 20M Robbery Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/07/22/accident-in-nallathanniya-claims-two-lives-injures-three-students",
       "headline": "Accident in Nallathanniya Claims Two Lives",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/07/22/the-latest-on-cjp-potests-in-delhi-demonstrations-escalate-as-rahul-gandhi-joins-cjp-stir",
