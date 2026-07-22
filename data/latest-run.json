@@ -1,13 +1,13 @@
 {
-  "runId": "9b2d8fc5",
-  "startedAt": "2026-07-22T07:54:08.360Z",
-  "finishedAt": "2026-07-22T07:55:24.029Z",
+  "runId": "922ff5ea",
+  "startedAt": "2026-07-22T12:10:27.094Z",
+  "finishedAt": "2026-07-22T12:11:34.292Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -20,28 +20,40 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/21/sri-lanka-evaluates-japanese-qdenga-vaccine",
-      "headline": "Sri Lanka Evaluates Japanese Qdenga Vaccine",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/07/22/dengue-cases-rise-to-78-125-162-moh-divisions-marked-high-risk",
+      "headline": "Dengue Cases Rise To 78,125",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/the-central-bank-of-sri-lanka-keeps-the-overnight-policy-rate-opr-unchanged",
-      "headline": "CBSL keeps the Overnight Policy Rate Unchanged",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/07/22/how-715-million-quietly-left-sri-lanka-billion-rupee-scheme-investigators-say-fooled-the-system",
+      "headline": "Fake Invoices, Drug Money And Overseas Transfers",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/two-arrested-in-kompannavidiya-with-over-rs-27-million-in-undisclosed-funds",
-      "headline": "Arrests In Kompannavidiya Over Undisclosed Funds",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/22/ccib-takes-over-rs-20m-robbery-case-following-arrest-of-ex-state-minister-s-son",
+      "headline": "CCIB Takes Over Rs. 20M Robbery Case",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/22/accident-in-nallathanniya-claims-two-lives-injures-three-students",
+      "headline": "Accident in Nallathanniya Claims Two Lives",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/cea-reveals-homagama-factory-lost-environmental-license-renewal",
-      "headline": "Homagama Factory Lost License Renewal",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/22/the-latest-on-cjp-potests-in-delhi-demonstrations-escalate-as-rahul-gandhi-joins-cjp-stir",
+      "headline": "CJP Potests:Escalations as Rahul Gandhi Joins Stir",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
