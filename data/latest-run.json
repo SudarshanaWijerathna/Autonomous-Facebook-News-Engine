@@ -1,13 +1,13 @@
 {
-  "runId": "bdb180c9",
-  "startedAt": "2026-07-23T05:57:07.798Z",
-  "finishedAt": "2026-07-23T05:58:33.617Z",
+  "runId": "427ac435",
+  "startedAt": "2026-07-23T10:13:43.681Z",
+  "finishedAt": "2026-07-23T10:15:04.124Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,33 +15,34 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
-      "headline": "Why Is Nutritious Food Becoming a Luxury?",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/07/23/heat-advisory-issued-for-nine-districts",
+      "headline": "Heat Advisory Issued for Nine Districts",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/sri-lanka-records-best-passport-ranking-since-2019",
-      "headline": "Sri Lanka Records Best Passport Ranking Since 2019",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/07/23/government-conducts-nationwide-safety-audits-at-factories",
+      "headline": "Government Conducts Safety Audits At Factories",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/07/22/ravindra-wijegunaratne-back-before-court-given-bail",
-      "headline": "Ravindra Wijegunaratne Given Bail",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/22/dr-asiri-karunawardena-appointed-as-new-secretary-to-ministry-of-transport-highways-and-urban-development",
-      "headline": "Dr.Karunawardena Appointed as New Min.Secretary",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/23/russia-s-lavrov-meets-sri-lankan-fm-in-manila",
+      "headline": "Russia's Lavrov Meets Sri Lankan FM in Manila",
+      "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "max-posts-per-run-reached",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/07/23/us-signs-landmark-nuclear-deal-with-saudi-arabia",
+      "headline": "US Signs Landmark Nuclear Deal with Saudi Arabia",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/yemen%e2%80%99s-houthis-claim-attack-on-two-saudi-oil-tankers",
+      "headline": "Houthis Claim Attack on Two Saudi Oil Tankers",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
