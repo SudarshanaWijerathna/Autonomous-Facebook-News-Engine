@@ -538,5 +538,29 @@
     "score": 85,
     "addedAt": "2026-07-22T07:55:24.028Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/22/24-hour-detention-for-shantha-bandara-s-son-in-rs-20m-robbery",
+    "contentHash": "9f7d89c1f89fd3ae479911e8482c014e1074a21ed304fbb8400899eec0927b37",
+    "headline": "Shantha Bandara's Son Detained Over Robbery",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-23T05:57:33.474Z",
+    "fbPostId": "1278802861974766_122101942461402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-07-23T05:58:25.524Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/22/sri-lankan-passport-hits-highest-ranking-in-a-decade-climbs-to-94th-globally",
+    "contentHash": "6b2844d8e9cdca15366522c1eb80952fec4fab42209545849b2a70631abc774d",
+    "headline": "Lankan Passport Hits Highest Ranking In A Decade",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-23T05:57:33.474Z",
+    "fbPostId": "1278802861974766_122101942641402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-07-23T05:58:33.616Z",
+    "isShadow": false
   }
 ]
