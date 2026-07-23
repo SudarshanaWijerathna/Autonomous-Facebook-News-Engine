@@ -1,13 +1,13 @@
 {
-  "runId": "5aa2e537",
-  "startedAt": "2026-07-23T15:08:41.934Z",
-  "finishedAt": "2026-07-23T15:09:57.453Z",
+  "runId": "23fb1769",
+  "startedAt": "2026-07-23T16:54:48.755Z",
+  "finishedAt": "2026-07-23T16:55:53.464Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,16 +15,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/sc-rules-rights-of-aragalaya-era-activist-were-violated",
-      "headline": "SC Upholds Aragalaya Activist's Rights",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/07/23/record-export-growth-sri-lanka-crosses-major-us-9-billion-milestone-in-first-half-of-2026",
+      "headline": "Record Export Growth: S$9 Bn in First Half of 2026",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pistol-found-in-vehicle-linked-to-colombo-port-city-clash",
       "headline": "Pistol Found in Vehicle Linked to Port City Clash",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/sc-rules-rights-of-aragalaya-era-activist-were-violated",
+      "headline": "SC Upholds Aragalaya Activist's Rights",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/sri-lanka-s-vijitha-herath-meets-secretary-of-state-marco-rubio-in-manila",
+      "headline": "Vijitha Herath Meets Marco Rubio in Manila",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/ex-state-minister%e2%80%99s-son-remanded-over-rs-20-mn-robbery",
@@ -39,8 +50,8 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
       "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
