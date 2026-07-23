@@ -1,13 +1,13 @@
 {
-  "runId": "427ac435",
-  "startedAt": "2026-07-23T10:13:43.681Z",
-  "finishedAt": "2026-07-23T10:15:04.124Z",
+  "runId": "5dd581b3",
+  "startedAt": "2026-07-23T12:08:48.099Z",
+  "finishedAt": "2026-07-23T12:09:50.408Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,34 +15,45 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/heat-advisory-issued-for-nine-districts",
-      "headline": "Heat Advisory Issued for Nine Districts",
+      "url": "https://newsfirst.lk/2026/07/23/court-rejects-bid-to-postpone-sri-lanka%e2%80%99s-a-l-exam",
+      "headline": "Court Rejects Bid to Postpone Sri Lanka’s A/L Exam",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/chinese-nationals-clash-at-colombo-port-city-two-injured-one-allegedly-abducted",
+      "headline": "Chinese Nationals Clash at Colombo Port City",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/government-conducts-nationwide-safety-audits-at-factories",
-      "headline": "Government Conducts Safety Audits At Factories",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/07/23/pictures-warships-marines-and-air-force-unite-for-trinex-26",
+      "headline": "Warships, Marines and Air Force Unite For TRINEX",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/russia-s-lavrov-meets-sri-lankan-fm-in-manila",
       "headline": "Russia's Lavrov Meets Sri Lankan FM in Manila",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/us-signs-landmark-nuclear-deal-with-saudi-arabia",
-      "headline": "US Signs Landmark Nuclear Deal with Saudi Arabia",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/23/rs-16-9-mn-gold-haul-uncovered-in-wattegama-gold-dealer-among-suspects",
+      "headline": "Rs. 16.9 Mn Gold Haul Uncovered in Wattegama",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/yemen%e2%80%99s-houthis-claim-attack-on-two-saudi-oil-tankers",
-      "headline": "Houthis Claim Attack on Two Saudi Oil Tankers",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
