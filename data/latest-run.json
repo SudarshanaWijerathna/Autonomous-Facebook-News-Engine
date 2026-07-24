@@ -1,13 +1,13 @@
 {
-  "runId": "3d8c3034",
-  "startedAt": "2026-07-24T05:51:56.949Z",
-  "finishedAt": "2026-07-24T05:53:12.833Z",
+  "runId": "70e7c983",
+  "startedAt": "2026-07-24T07:53:42.012Z",
+  "finishedAt": "2026-07-24T07:54:47.111Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,8 +15,8 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/sri-lanka-invesitgating-three-chinese-linked-cases-port-city-abduction-body-discovery-and-rs-20-mn-theft",
-      "headline": "Sri Lanka Invesitgating Three Chinese-Linked Cases",
+      "url": "https://newsfirst.lk/2026/07/23/negombo-prison-riots-autopsy-reports-reveal-how-28-victims-died",
+      "headline": "Negombo Prison : Autopsy Reveal How 28 Died",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -26,26 +26,32 @@
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/namal-appears-for-gota-in-easter-attacks-arrest-prevention-petition",
-      "headline": "Namal Appears for Gota In Easter Arrest Prevention",
+      "url": "https://newsfirst.lk/2026/07/24/parliament-to-debate-no-confidence-motion-against-justice-minister-today",
+      "headline": "No Confidence Motion Against Justice Min. Debate",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/safety-of-chinese-nationals-a-priority-says-chinese-embassy",
-      "headline": "Safety of Chinese Nationals a Priority, Says Emb.",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/24/namal-appears-for-gota-in-easter-attacks-arrest-prevention-petition",
+      "headline": "Namal Appears for Gota In Easter Arrest Prevention",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "url": "https://newsfirst.lk/2026/07/23/motorcycle-gunman-opens-fire-near-kuppiyawatta-cemetery",
+      "headline": "Motorcycle Gunman Opens Fire In Dematagoda",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
       "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
