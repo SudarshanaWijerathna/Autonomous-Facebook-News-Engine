@@ -1,13 +1,13 @@
 {
-  "runId": "4030da78",
-  "startedAt": "2026-07-24T14:53:10.281Z",
-  "finishedAt": "2026-07-24T14:54:16.134Z",
+  "runId": "38b433be",
+  "startedAt": "2026-07-24T18:52:47.094Z",
+  "finishedAt": "2026-07-24T18:54:01.843Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,22 +15,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/two-police-teams-probe-deadly-port-city-clash-involving-chinese-nationals",
-      "headline": "Deadly Port City Clash Involving Chinese Nationals",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/24/rs-332m-cost-despite-dissolved-provincial-councils",
       "headline": "332M Cost Despite Dissolved Provincial Councils",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/24/colombo-forttalaimannar-train-services-resume-today",
-      "headline": "Colombo Fort–Talaimannar Train Services Resume",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/07/24/same-table-different-history-opposition-meeting-brings-back-old-political-ghosts",
@@ -49,6 +37,12 @@
       "headline": "Pakistan and SL Deepen Economic Ties",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
