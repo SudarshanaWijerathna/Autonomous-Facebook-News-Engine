@@ -1,13 +1,13 @@
 {
-  "runId": "8da4435c",
-  "startedAt": "2026-07-24T03:59:50.504Z",
-  "finishedAt": "2026-07-24T04:01:19.452Z",
+  "runId": "3d8c3034",
+  "startedAt": "2026-07-24T05:51:56.949Z",
+  "finishedAt": "2026-07-24T05:53:12.833Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,27 +15,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/ex-state-minister%e2%80%99s-son-remanded-over-rs-20-mn-robbery",
-      "headline": "Ex-State Minister’s Son Remanded",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/07/23/sri-lanka-invesitgating-three-chinese-linked-cases-port-city-abduction-body-discovery-and-rs-20-mn-theft",
+      "headline": "Sri Lanka Invesitgating Three Chinese-Linked Cases",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/chinese-gang-clash-spills-into-colombo-abducted-man-found-bound-and-dead-hours-later",
+      "headline": "Chinese Gang Clash Spills Into Colombo?",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/24/namal-appears-for-gota-in-easter-attacks-arrest-prevention-petition",
+      "headline": "Namal Appears for Gota In Easter Arrest Prevention",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/safety-of-chinese-nationals-a-priority-says-chinese-embassy",
       "headline": "Safety of Chinese Nationals a Priority, Says Emb.",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "max-posts-per-run-reached",
-      "score": 45
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
   ],
