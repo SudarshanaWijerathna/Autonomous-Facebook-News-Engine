@@ -1,10 +1,10 @@
 {
-  "runId": "702108ff",
-  "startedAt": "2026-07-24T11:59:18.083Z",
-  "finishedAt": "2026-07-24T12:00:24.033Z",
+  "runId": "4030da78",
+  "startedAt": "2026-07-24T14:53:10.281Z",
+  "finishedAt": "2026-07-24T14:54:16.134Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 36,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -15,33 +15,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/sri-lanka-among-17-economies-facing-10-us-tariff-under-section-301-action",
-      "headline": "Sri Lanka Named in Sweeping US Trade Action",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/24/two-police-teams-probe-deadly-port-city-clash-involving-chinese-nationals",
       "headline": "Deadly Port City Clash Involving Chinese Nationals",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/sri-lanka-secures-major-us-trade-victory-as-tariffs-drop-from-44-to-10",
-      "headline": "Sri Lanka Scores Big as US Tariffs Plunge to 10%",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/07/24/rs-332m-cost-despite-dissolved-provincial-councils",
+      "headline": "332M Cost Despite Dissolved Provincial Councils",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/amcham-sri-lanka-standard-chartered-to-host-secure-2026-cybersecurity-forum",
-      "headline": "SeCure 2026 Cybersecurity Forum",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/24/colombo-forttalaimannar-train-services-resume-today",
+      "headline": "Colombo Fort–Talaimannar Train Services Resume",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/japanese-grant-brings-accessible-low-floor-buses-to-sri-lanka",
-      "headline": "Japan Grants Low-Floor Buses to Sri Lanka",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/24/same-table-different-history-opposition-meeting-brings-back-old-political-ghosts",
+      "headline": "Once at Odds, Now on the Same Side",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/07/24/39-year-old-killed-in-drug-related-shooting-at-wattala-birthday-party",
@@ -50,8 +45,8 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/same-table-different-history-opposition-meeting-brings-back-old-political-ghosts",
-      "headline": "Once at Odds, Now on the Same Side",
+      "url": "https://newsfirst.lk/2026/07/24/pakistan-and-sri-lanka-commit-to-deepening-economic-and-regional-cooperation",
+      "headline": "Pakistan and SL Deepen Economic Ties",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
