@@ -1,13 +1,13 @@
 {
-  "runId": "70e7c983",
-  "startedAt": "2026-07-24T07:53:42.012Z",
-  "finishedAt": "2026-07-24T07:54:47.111Z",
+  "runId": "7891708d",
+  "startedAt": "2026-07-24T10:10:01.475Z",
+  "finishedAt": "2026-07-24T10:11:16.588Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,39 +15,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/negombo-prison-riots-autopsy-reports-reveal-how-28-victims-died",
-      "headline": "Negombo Prison : Autopsy Reveal How 28 Died",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/chinese-gang-clash-spills-into-colombo-abducted-man-found-bound-and-dead-hours-later",
-      "headline": "Chinese Gang Clash Spills Into Colombo?",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/24/parliament-to-debate-no-confidence-motion-against-justice-minister-today",
-      "headline": "No Confidence Motion Against Justice Min. Debate",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/24/namal-appears-for-gota-in-easter-attacks-arrest-prevention-petition",
       "headline": "Namal Appears for Gota In Easter Arrest Prevention",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/motorcycle-gunman-opens-fire-near-kuppiyawatta-cemetery",
-      "headline": "Motorcycle Gunman Opens Fire In Dematagoda",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/07/24/cope-refers-23-cases-from-eight-institutions-to-ciaboc",
+      "headline": "COPE Refers 23 Cases From 8 Institutions To CIABOC",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/07/24/amcham-sri-lanka-standard-chartered-to-host-secure-2026-cybersecurity-forum",
+      "headline": "SeCure 2026 Cybersecurity Forum",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/24/japanese-grant-brings-accessible-low-floor-buses-to-sri-lanka",
+      "headline": "Japan Grants Low-Floor Buses to Sri Lanka",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
