@@ -1,13 +1,13 @@
 {
-  "runId": "7891708d",
-  "startedAt": "2026-07-24T10:10:01.475Z",
-  "finishedAt": "2026-07-24T10:11:16.588Z",
+  "runId": "702108ff",
+  "startedAt": "2026-07-24T11:59:18.083Z",
+  "finishedAt": "2026-07-24T12:00:24.033Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,16 +15,21 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/namal-appears-for-gota-in-easter-attacks-arrest-prevention-petition",
-      "headline": "Namal Appears for Gota In Easter Arrest Prevention",
+      "url": "https://newsfirst.lk/2026/07/24/sri-lanka-among-17-economies-facing-10-us-tariff-under-section-301-action",
+      "headline": "Sri Lanka Named in Sweeping US Trade Action",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/24/two-police-teams-probe-deadly-port-city-clash-involving-chinese-nationals",
+      "headline": "Deadly Port City Clash Involving Chinese Nationals",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/cope-refers-23-cases-from-eight-institutions-to-ciaboc",
-      "headline": "COPE Refers 23 Cases From 8 Institutions To CIABOC",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/07/24/sri-lanka-secures-major-us-trade-victory-as-tariffs-drop-from-44-to-10",
+      "headline": "Sri Lanka Scores Big as US Tariffs Plunge to 10%",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/07/24/amcham-sri-lanka-standard-chartered-to-host-secure-2026-cybersecurity-forum",
@@ -39,10 +44,16 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/07/24/39-year-old-killed-in-drug-related-shooting-at-wattala-birthday-party",
+      "headline": "39-Year-Old Killed in Drug-Related Shooting",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/24/same-table-different-history-opposition-meeting-brings-back-old-political-ghosts",
+      "headline": "Once at Odds, Now on the Same Side",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
