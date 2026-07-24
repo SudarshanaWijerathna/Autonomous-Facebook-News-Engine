@@ -1,13 +1,13 @@
 {
-  "runId": "06868e5b",
-  "startedAt": "2026-07-23T18:41:52.566Z",
-  "finishedAt": "2026-07-23T18:42:57.494Z",
+  "runId": "8da4435c",
+  "startedAt": "2026-07-24T03:59:50.504Z",
+  "finishedAt": "2026-07-24T04:01:19.452Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,44 +15,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/record-export-growth-sri-lanka-crosses-major-us-9-billion-milestone-in-first-half-of-2026",
-      "headline": "Record Export Growth: S$9 Bn in First Half of 2026",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/sc-rules-rights-of-aragalaya-era-activist-were-violated",
-      "headline": "SC Upholds Aragalaya Activist's Rights",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pistol-found-in-vehicle-linked-to-colombo-port-city-clash",
-      "headline": "Pistol Found in Vehicle Linked to Port City Clash",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/sri-lanka-invesitgating-three-chinese-linked-cases-port-city-abduction-body-discovery-and-rs-20-mn-theft",
-      "headline": "Sri Lanka Invesitgating Three Chinese-Linked Cases",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/07/23/ex-state-minister%e2%80%99s-son-remanded-over-rs-20-mn-robbery",
+      "headline": "Ex-State Minister’s Son Remanded",
+      "reason": "max-posts-per-run-reached",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/rs-16-9-mn-gold-haul-uncovered-in-wattegama-gold-dealer-among-suspects",
-      "headline": "Rs. 16.9 Mn Gold Haul Uncovered in Wattegama",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/07/23/safety-of-chinese-nationals-a-priority-says-chinese-embassy",
+      "headline": "Safety of Chinese Nationals a Priority, Says Emb.",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     }
   ],
