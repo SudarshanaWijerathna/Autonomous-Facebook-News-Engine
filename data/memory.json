@@ -646,5 +646,29 @@
     "score": 85,
     "addedAt": "2026-07-24T18:54:01.842Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/24/pillayan-remanded-until-august-4",
+    "contentHash": "01b01af4e73d88ce5a40708f902b81ca6fd1b11ae7b3003f8d56e01923e1610a",
+    "headline": "Pillayan Remanded Until August 4",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-25T03:56:48.234Z",
+    "fbPostId": "1278802861974766_122103848865402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-07-25T03:57:41.223Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/24/rs-332m-cost-despite-dissolved-provincial-councils",
+    "contentHash": "0d7fa086ea2241db2ee810441f44cb50b263f20ae628c52c147f31835ed6859a",
+    "headline": "332M Cost Despite Dissolved Provincial Councils",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-25T03:56:48.234Z",
+    "fbPostId": "1278802861974766_122103848919402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-07-25T03:57:51.506Z",
+    "isShadow": false
   }
 ]
