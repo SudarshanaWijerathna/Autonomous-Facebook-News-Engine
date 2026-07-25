@@ -1,13 +1,13 @@
 {
-  "runId": "33243fb3",
-  "startedAt": "2026-07-25T03:56:17.576Z",
-  "finishedAt": "2026-07-25T03:57:51.507Z",
+  "runId": "6d9d1868",
+  "startedAt": "2026-07-25T07:32:30.019Z",
+  "finishedAt": "2026-07-25T07:33:49.857Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,28 +15,34 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/07/24/feud-between-borella-roshan-and-parawi-suda-gangs-turns-deadly",
+      "headline": "Gang Feud Turns Deadly In Borella",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/25/79-year-old-spanish-national-arrested-with-rs-110-million-cocaine-haul-at-bia",
       "headline": "Spanish National Arrested With Rs. 110Mn Cocaine",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/rs-16-5-mn-chair-deal-lands-ex-chief-secretary-in-bribery-probe",
-      "headline": "Ex-Chief Secretary Probed Over Rs. 16.5M Chairs",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/07/24/court-allows-key-witness-to-be-recalled-in-eknaligoda-disappearance-trial",
+      "headline": "Key Witness Recalled In Eknaligoda Trial",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/colombo-forttalaimannar-train-services-resume-today",
-      "headline": "Colombo Fort–Talaimannar Train Services Resume",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/07/25/sri-lanka-launches-digital-death-certificate-issuance-system",
+      "headline": "Digital Death Certificates Launched in SL",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/nine-arrested-after-clash-during-forest-clearance-raid",
-      "headline": "9 Arrested After Clash in Forest Clearance Raid",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/07/25/gammadda-re-build-programme-enters-second-day-in-matale",
+      "headline": "Gammadda Re-Build Programme Enters Second Day",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     }
   ],
   "errors": []
