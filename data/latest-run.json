@@ -1,13 +1,13 @@
 {
-  "runId": "6d9d1868",
-  "startedAt": "2026-07-25T07:32:30.019Z",
-  "finishedAt": "2026-07-25T07:33:49.857Z",
+  "runId": "5dac5732",
+  "startedAt": "2026-07-25T16:25:16.264Z",
+  "finishedAt": "2026-07-25T16:26:20.656Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,34 +15,40 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/24/feud-between-borella-roshan-and-parawi-suda-gangs-turns-deadly",
-      "headline": "Gang Feud Turns Deadly In Borella",
+      "url": "https://newsfirst.lk/2026/07/25/kandy-esala-perahara-to-begin-on-the-18th-of-august",
+      "headline": "Esala Perahara To Begin On The 18th Of August",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/79-year-old-spanish-national-arrested-with-rs-110-million-cocaine-haul-at-bia",
-      "headline": "Spanish National Arrested With Rs. 110Mn Cocaine",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/24/court-allows-key-witness-to-be-recalled-in-eknaligoda-disappearance-trial",
-      "headline": "Key Witness Recalled In Eknaligoda Trial",
+      "url": "https://newsfirst.lk/2026/07/25/gammadda-resilience-launches-ditwah-farmer-support-40-projects-4-districts",
+      "headline": "Gammadda Launches Ditwah Farmer Support",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/sri-lanka-launches-digital-death-certificate-issuance-system",
-      "headline": "Digital Death Certificates Launched in SL",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/25/two-sri-lankans-arrested-in-india-over-illegal-entry-by-sea",
+      "headline": "Two Sri Lankans Arrested In India",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/gammadda-re-build-programme-enters-second-day-in-matale",
-      "headline": "Gammadda Re-Build Programme Enters Second Day",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/07/25/royal-ladies-sirimavo-sri-chandananda-set-for-epic-sirasa-debater-finale",
+      "headline": "Sirasa Debater Grand Finale Today",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
