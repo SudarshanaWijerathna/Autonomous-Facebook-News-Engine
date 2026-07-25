@@ -1,7 +1,7 @@
 {
-  "runId": "5dac5732",
-  "startedAt": "2026-07-25T16:25:16.264Z",
-  "finishedAt": "2026-07-25T16:26:20.656Z",
+  "runId": "cc414c09",
+  "startedAt": "2026-07-25T18:13:00.476Z",
+  "finishedAt": "2026-07-25T18:14:11.393Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
@@ -18,7 +18,7 @@
       "url": "https://newsfirst.lk/2026/07/25/kandy-esala-perahara-to-begin-on-the-18th-of-august",
       "headline": "Esala Perahara To Begin On The 18th Of August",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/07/25/gammadda-resilience-launches-ditwah-farmer-support-40-projects-4-districts",
@@ -27,10 +27,10 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/two-sri-lankans-arrested-in-india-over-illegal-entry-by-sea",
-      "headline": "Two Sri Lankans Arrested In India",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/25/19-injured-in-weerawila-bus-accident",
+      "headline": "19 Injured In Weerawila Bus Accident",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/25/royal-ladies-sirimavo-sri-chandananda-set-for-epic-sirasa-debater-finale",
@@ -41,8 +41,8 @@
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
