@@ -1,13 +1,13 @@
 {
-  "runId": "cc414c09",
-  "startedAt": "2026-07-25T18:13:00.476Z",
-  "finishedAt": "2026-07-25T18:14:11.393Z",
+  "runId": "562fbbf4",
+  "startedAt": "2026-07-26T04:21:26.636Z",
+  "finishedAt": "2026-07-26T04:23:01.558Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,39 +15,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/kandy-esala-perahara-to-begin-on-the-18th-of-august",
-      "headline": "Esala Perahara To Begin On The 18th Of August",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/25/gammadda-resilience-launches-ditwah-farmer-support-40-projects-4-districts",
-      "headline": "Gammadda Launches Ditwah Farmer Support",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/07/25/expired-fertilizer-stock-seized-in-kaduwela-raid",
+      "headline": "Expired Fertilizer Stock Seized In Kaduwela Raid",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/19-injured-in-weerawila-bus-accident",
-      "headline": "19 Injured In Weerawila Bus Accident",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/25/royal-ladies-sirimavo-sri-chandananda-set-for-epic-sirasa-debater-finale",
-      "headline": "Sirasa Debater Grand Finale Today",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/07/25/public-services-at-labour-offices-unavailable-on-july-30-and-31",
+      "headline": "No Labour Services On July 30–31",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 48
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     }
   ],
