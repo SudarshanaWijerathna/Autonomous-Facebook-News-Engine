@@ -1,33 +1,33 @@
 {
-  "runId": "7d5cf8f9",
-  "startedAt": "2026-07-26T11:42:46.546Z",
-  "finishedAt": "2026-07-26T11:44:02.942Z",
+  "runId": "4d0b9255",
+  "startedAt": "2026-07-26T14:27:27.717Z",
+  "finishedAt": "2026-07-26T14:28:37.889Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/07/26/seek-immediate-medical-care-for-children-with-fever-lasting-over-24-hours",
-      "headline": "Children with Fever Adviced to Seek Immediate Care",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/basl-slams-false-claims-against-president-rajeev-amarasuriya",
-      "headline": "BASL Slams False Claims Against President",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/07/25/trinity-crush-royal-to-clinch-bradby-shield-triumph-with-7220-aggregate-win",
+      "headline": "Trinity Crush Royal To Claim 80th Bradby Shield",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/26/four-year-old-dies-in-welikada-road-accident",
-      "headline": "Four Year Old Dies In Welikada Road Accident",
+      "url": "https://newsfirst.lk/2026/07/26/sajith-summoned-before-ciaboc-over-parliament-appointment-probe",
+      "headline": "Sajith Summoned Before CIABOC",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 84
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/26/bellanwila-shooting-victim-succumbs-to-injuries",
+      "headline": "Bellanwila Shooting Victim Succumbs To Injuries",
       "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
@@ -42,6 +42,12 @@
       "headline": "Sirimavo Wins Sirasa Debater Season 05",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
