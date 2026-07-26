@@ -1,42 +1,47 @@
 {
-  "runId": "624242cd",
-  "startedAt": "2026-07-26T07:54:27.461Z",
-  "finishedAt": "2026-07-26T07:55:46.346Z",
+  "runId": "7d5cf8f9",
+  "startedAt": "2026-07-26T11:42:46.546Z",
+  "finishedAt": "2026-07-26T11:44:02.942Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/07/26/seek-immediate-medical-care-for-children-with-fever-lasting-over-24-hours",
+      "headline": "Children with Fever Adviced to Seek Immediate Care",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/cabinet-to-consider-judges%e2%80%99-retirement-age-proposal",
-      "headline": "Cabinet To Consider Judges’ Retirement Age",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/25/basl-slams-false-claims-against-president-rajeev-amarasuriya",
       "headline": "BASL Slams False Claims Against President",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/expired-fertilizer-stock-seized-in-kaduwela-raid",
-      "headline": "Expired Fertilizer Stock Seized In Kaduwela Raid",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/26/four-year-old-dies-in-welikada-road-accident",
+      "headline": "Four Year Old Dies In Welikada Road Accident",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/new-guidelines-issued-for-president%e2%80%99s-counsel-appointments",
-      "headline": "New Guidelines Issued For President’s Counsel",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/07/25/cabinet-to-consider-judges%e2%80%99-retirement-age-proposal",
+      "headline": "Cabinet To Consider Judges’ Retirement Age",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/25/sirimavo-dominates-the-debate-stage-to-win-sirasa-debater-with-aat-season-05",
+      "headline": "Sirimavo Wins Sirasa Debater Season 05",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
