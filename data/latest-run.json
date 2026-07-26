@@ -1,13 +1,13 @@
 {
-  "runId": "562fbbf4",
-  "startedAt": "2026-07-26T04:21:26.636Z",
-  "finishedAt": "2026-07-26T04:23:01.558Z",
+  "runId": "624242cd",
+  "startedAt": "2026-07-26T07:54:27.461Z",
+  "finishedAt": "2026-07-26T07:55:46.346Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,27 +15,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/07/25/cabinet-to-consider-judges%e2%80%99-retirement-age-proposal",
+      "headline": "Cabinet To Consider Judges’ Retirement Age",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/25/basl-slams-false-claims-against-president-rajeev-amarasuriya",
+      "headline": "BASL Slams False Claims Against President",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/25/expired-fertilizer-stock-seized-in-kaduwela-raid",
       "headline": "Expired Fertilizer Stock Seized In Kaduwela Raid",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/public-services-at-labour-offices-unavailable-on-july-30-and-31",
-      "headline": "No Labour Services On July 30–31",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/25/new-guidelines-issued-for-president%e2%80%99s-counsel-appointments",
+      "headline": "New Guidelines Issued For President’s Counsel",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "max-posts-per-run-reached",
-      "score": 48
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
   ],
