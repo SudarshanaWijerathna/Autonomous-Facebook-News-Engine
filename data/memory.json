@@ -730,5 +730,29 @@
     "score": 75,
     "addedAt": "2026-07-26T11:44:02.941Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/26/hot-weather-expected-to-intensify-next-month-met-department-warns",
+    "contentHash": "8ff5b9289834143be8c601582a0cf45dd7650f835acea351885cf6ae18568e9b",
+    "headline": "Hot Weather Expected to Intensify Next Month",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-27T04:29:55.968Z",
+    "fbPostId": "1278802861974766_122105181765402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-07-27T04:30:46.592Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/26/two-arrested-over-bellanwila-shooting",
+    "contentHash": "da31e178fb8c436f890c48da031d68de60901444aeb9359597ab130a75bdaa4d",
+    "headline": "Two Arrested Over Bellanwila Shooting",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-27T04:29:55.967Z",
+    "fbPostId": "1278802861974766_122105181903402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-07-27T04:31:01.814Z",
+    "isShadow": false
   }
 ]

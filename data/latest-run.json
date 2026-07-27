@@ -1,13 +1,13 @@
 {
-  "runId": "d8cd1f6d",
-  "startedAt": "2026-07-26T16:27:51.763Z",
-  "finishedAt": "2026-07-26T16:28:54.233Z",
+  "runId": "276dcabd",
+  "startedAt": "2026-07-27T04:29:28.506Z",
+  "finishedAt": "2026-07-27T04:31:01.816Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,44 +15,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/25/trinity-crush-royal-to-clinch-bradby-shield-triumph-with-7220-aggregate-win",
-      "headline": "Trinity Crush Royal To Claim 80th Bradby Shield",
+      "url": "https://newsfirst.lk/2026/07/26/seek-immediate-medical-care-for-children-with-fever-lasting-over-24-hours",
+      "headline": "Children with Fever Adviced to Seek Immediate Care",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/26/sajith-summoned-before-ciaboc-over-parliament-appointment-probe",
-      "headline": "Sajith Summoned Before CIABOC",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/07/26/homagama-crimes-unit-oic-arrested-over-motorcycle-accident-probe",
+      "headline": "Homagama Crimes Unit OIC Arrested",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/07/26/four-year-old-dies-in-welikada-road-accident",
       "headline": "Four Year Old Dies In Welikada Road Accident",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/26/bellanwila-shooting-victim-succumbs-to-injuries",
-      "headline": "Bellanwila Shooting Victim Succumbs To Injuries",
-      "reason": "score-below-threshold (73 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/25/cabinet-to-consider-judges%e2%80%99-retirement-age-proposal",
-      "headline": "Cabinet To Consider Judges’ Retirement Age",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/25/sirimavo-dominates-the-debate-stage-to-win-sirasa-debater-with-aat-season-05",
-      "headline": "Sirimavo Wins Sirasa Debater Season 05",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     }
   ],
