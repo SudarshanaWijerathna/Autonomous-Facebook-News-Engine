@@ -1,13 +1,13 @@
 {
-  "runId": "db1af7bc",
-  "startedAt": "2026-07-27T06:32:58.852Z",
-  "finishedAt": "2026-07-27T06:34:21.077Z",
+  "runId": "70c130ee",
+  "startedAt": "2026-07-27T08:54:37.117Z",
+  "finishedAt": "2026-07-27T08:55:49.168Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,18 +15,113 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/26/two-arrested-over-bellanwila-shooting",
-      "headline": "Two Arrested Over Bellanwila Shooting",
+      "url": "https://newsfirst.lk/2026/07/26/sajith-summoned-before-ciaboc-over-parliament-appointment-probe",
+      "headline": "Sajith Summoned Before CIABOC",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820216/",
-      "headline": "பேருவளை கடற்பகுதியில் கரையொதுங்கிய திமிங்கிலம்",
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820293/",
+      "headline": "இலங்கை தடகளத் தெரிவுக் குழுவின் உறுப்பினர்கள் இராஜினாமா!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820213/",
-      "headline": "கொத்தொட்டுவையில் பஸ் –  முச்சக்கரவண்டி மோதி விபத்து ஒருவர் உயிரிழப்பு!",
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820289/",
+      "headline": "நிலாவெளி கடலில் மூழ்கி வெளிநாட்டு சுற்றுலாப் பயணி உயிரிழப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820283/",
+      "headline": "ஹொரணையில் பிரபல தனியார் வகுப்பின் உரிமையாளர் ‘ஐஸ்’ போதைப்பொருளுடன் கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820280/",
+      "headline": "වත්මන් රජය බුද්ධ ශාසනය වෙනුවෙන් වැඩ කරනවා – මහා සංඝරත්නය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820277/",
+      "headline": "இலங்கையின் சுற்றுலா வருவாய் ரூ. 475.6 பில்லியனாக உயர்வு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820272/",
+      "headline": "சாக்லேட் வடிவில் கடத்தப்பட்ட ரூ. 1.48 கோடி பெறுமதியான ‘குஷ்’ போதைப்பொருள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820266/",
+      "headline": "ගායන ශිල්පී මිල්ටන් පෙරේරා අනුස්මරණ කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820221/",
+      "headline": "மீண்டும் அதிகரிக்கும் முட்டை விலை?",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820263/",
+      "headline": "එක්කෝටි හතලිස් අට ලක්ෂයක් වටිනා කුෂ් මත්ද්‍රව්‍ය සමග පුද්ගලයෙකු කටුනායකදී අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820260/",
+      "headline": "“සුපිලිපන් සංස්කෘතියක් ක්ලීන් ශ්‍රී ලංකාවක්” වැඩසටහන ඇරඹේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820256/",
+      "headline": "සංචාරක ආදායම වාර්තාගත ලෙස ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820247/",
+      "headline": "ගොවියාත්, පාරිභෝගිකයාත් සුරකින බවට ඇමති ලාල් කාන්තගෙන් ප්‍රකාශයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820246/",
+      "headline": "ஹட்டன் தொண்டமான் தொழிற்பயிற்சி நிலையத்திற்கு 153 புதிய மாணவர்கள் இணைப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820248/",
+      "headline": "වෘත්තීය අධ්‍යාපනය පිලිබඳ ග්‍රාමීය ජනතාව දැනුවත් කිරීමේ වැඩසටහනක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820240/",
+      "headline": "අග්‍රහාර රක්ෂණ තොරතුරු යාවත්කාලීන කිරීම ජූලි මස 31 වැනිදායින් අවසන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820222/",
+      "headline": "சஜின் வாஸ் குணவர்தன லஞ்ச ஒழிப்பு ஆணைக்குழுவில் முன்னிலை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820238/",
+      "headline": "பாணந்துறையில் ஜெல்லிமீன் தாக்குதல்: பலர் காயம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820225/",
+      "headline": "සංස්කෘතියට, කලාවට කරන ආයෝජනය ජාතික සංවර්ධනයේම කොටසක් බව අගමැති පවසයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820226/",
+      "headline": "கட்டுப்பாட்டு  விலையை மீறிய வர்த்தக நிலையத்திற்கு ரூ. 5 இலட்சம் அபராதம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/26/820130/",
+      "headline": "රියාද් ශ්‍රී ලංකා තානාපති කාර්යාලයේ දහම් පාසල වසා දමා ඇති බවට පළවන පුවත අසත්‍යයක් – තානාපති කාර්යාලය දන්වයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820228/",
+      "headline": "ඇමෙරිකාව ප්‍රහාර නතර කිරීමෙන් පසු තමන් ද ප්‍රතිප්‍රහාර අත්හිටුවනු බව ඉරානය කියයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -65,6 +160,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820186/",
+      "headline": "பிரான்சில் உக்கிரமடையும் காட்டுத்தீ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/07/27/820184/",
       "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 82,000 ඉක්මවයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -77,11 +177,6 @@
     {
       "url": "https://www.itnnews.lk/2026/07/27/820172/",
       "headline": "ජර්මනියේ බර්ලින් අගනුවර බිහිසුණු අනතුරක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820167/",
-      "headline": "දෙහිවල වෙඩි තැබීමේ සිද්ධියේ යතුරුපැදිකරු අත්අඩංගුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -110,13 +205,8 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820186/",
-      "headline": "பிரான்சில் உக்கிரமடையும் காட்டுத்தீ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820130/",
-      "headline": "රියාද් ශ්‍රී ලංකා තානාපති කාර්යාලයේ දහම් පාසල වසා දමා ඇති බවට පළවන පුවත අසත්‍යයක් – තානාපති කාර්යාලය දන්වයි",
+      "url": "https://www.itnnews.lk/2026/07/27/820142/",
+      "headline": "ප්‍රදේශ කිහිපයකට වැසි වාර කිහිපයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -125,129 +215,55 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820216/",
+      "headline": "பேருவளை கடற்பகுதியில் கரையொதுங்கிய திமிங்கிலம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/07/26/820121/",
       "headline": "පොදුරාජ්‍ය මණ්ඩලීය ක්‍රීඩා උලෙළේ දී බර ඉසිලීමේ ඉසව්වෙන් සුපුන් සෝමතිලකට 4වන ස්ථානය",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/26/820109/",
-      "headline": "පොලිස් සහායක සේවාවේ තනතුරුවල පවතින පුරප්පාඩු පිරවීමට පියවර",
+      "url": "https://www.itnnews.lk/ta/2026/07/27/820213/",
+      "headline": "கொத்தொட்டுவையில் பஸ் –  முச்சக்கரவண்டி மோதி விபத்து ஒருவர் உயிரிழப்பு!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/26/820104/",
-      "headline": "ජුලි මාසයේ මුල් දින 22ට සංචාරකයින් 138,730ක් දිවයිනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820097/",
-      "headline": "උත්කර්ෂවත් අන්දමින් අවසන් වූ රාජ්‍ය ළමා නාට්‍ය සම්මාන ප්‍රදානෝත්සවය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820094/",
-      "headline": "අනුරාධපුර හෝටලයක ගින්නක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820082/",
-      "headline": "වැඩි මිලට පානීය ජල බෝතල් අලෙවි කළ ඇල්ලේ සංචාරක ආයතනයකට රුපියල් මිලියනයක දඩයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820013/",
-      "headline": "ඩෙංගු රෝගීන් 81,000 ඉක්මවයි – මරණ ගණනත් ඉහළට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820076/",
-      "headline": "මහජනතාව සමග තර්ජනාත්මක ලෙස හැසිරුණු උප පොලිස් පරීක්ෂකවරයාගේ වැඩ තහනම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/26/820073/",
-      "headline": "பொலிஸ் திணைக்களத்தில் பல்வேறு துறைகளுக்கான ஆட்சேர்ப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/26/820070/",
-      "headline": "பெல்லன்வில துப்பாக்கிச் சூட்டுச் சம்பவம் – இரு சந்தேகநபர்கள் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820060/",
-      "headline": "නයි මුගටි ඔක්කොම එකම කොටේට නැග්ගහම එකට ඉන්නේ කවුද කියලා මිනිස්සු දැක්කා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820064/",
-      "headline": "වත්මන් රජය පළාත් පාලන ආයතන ශක්තිමත් කිරීමට වැඩසටහන් ගණනාවක් ආරම්භ කර තිබෙනවා – නි. අමාත්‍ය රුවන් සෙනරත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/26/820061/",
-      "headline": "நாட்டில் பல்வேறு பகுதிகளில் இடம்பெற்ற விபத்துக்களில் நால்வர் பலி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820046/",
-      "headline": "බුදු දහමේ හරය විකෘති කරන ඇතැම් භික්ෂූන් නිසා බුදුදහම පිරිහීමකට ලක් වෙලා –  නාරම්පනාවේ ආනන්ද හිමි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820048/",
-      "headline": "ආනයනය කර ඇති වාහන රේගුවෙන් නිදහස් කර නොගන්නේ නම් නීතිමය ක්‍රියාමාර්ග",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820055/",
-      "headline": "රු. කෝටි දෙකකට වැඩි මුදලක් වැය කරමින් ඉදිකළ නව පාසල් ගොඩනැගිල්ල සිසු අයිතියට – සංවර්ධන පුවත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820050/",
-      "headline": "ජනතාව වෙනුවෙන් සේවය කරන සජිත්ට ඇතැම් පිරිස්ගෙන් විවේචන",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/26/820020/",
-      "headline": "ප්‍රදේශ 4ක සිදුවූ රිය අනතුරු 4 කින් පුද්ගලයන් 4 දෙනෙකුට ජීවිත අහිමි වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/26/820043/",
-      "headline": "நாட்டின் பல பகுதிகளுக்கு பலத்த காற்று குறித்து எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/26/four-year-old-dies-in-welikada-road-accident",
-      "headline": "Four Year Old Dies In Welikada Road Accident",
+      "url": "https://newsfirst.lk/2026/07/26/homagama-crimes-unit-oic-arrested-over-motorcycle-accident-probe",
+      "headline": "Homagama Crimes Unit OIC Arrested",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/07/26/canadian-national-nabbed-at-bia-over-rs-200-million-drug-bust",
-      "headline": "Canadian Nabbed At BIA Over Rs. 200 Mn Drug Bust",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/26/ella-tourist-hotel-fined-rs-1-million-for-overcharging-bottled-water",
-      "headline": "Ella Hotel Fined Rs. 1M Over Bottled Water",
+      "url": "https://newsfirst.lk/2026/07/27/two-chinese-nationals-to-face-identification-parade-over-port-city-murder",
+      "headline": "Identification Parade Over Port City Murder Today",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/07/26/64-foreign-pigeons-worth-over-rs-3-4-million-seized-at-bia",
-      "headline": "64 Foreign Pigeons Seized At BIA",
+      "url": "https://newsfirst.lk/2026/07/26/ella-tourist-hotel-fined-rs-1-million-for-overcharging-bottled-water",
+      "headline": "Ella Hotel Fined Rs. 1M Over Bottled Water",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/07/27/india-reinstates-free-visa-scheme-for-sri-lankan-pilgrims",
+      "headline": "India Reinstates Free Visa Scheme For Pilgrims",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/26/64-foreign-pigeons-worth-over-rs-3-4-million-seized-at-bia",
+      "headline": "64 Foreign Pigeons Seized At BIA",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     }
   ],
   "errors": []
