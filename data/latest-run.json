@@ -1,18 +1,98 @@
 {
-  "runId": "c012e398",
-  "startedAt": "2026-07-27T15:41:07.511Z",
-  "finishedAt": "2026-07-27T15:42:25.422Z",
+  "runId": "b580f6e2",
+  "startedAt": "2026-07-28T03:54:08.066Z",
+  "finishedAt": "2026-07-28T03:55:35.727Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 46,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/27/customs-to-auction-1-025-vehicles-left-uncleared-at-hambantota-port",
+      "headline": "Customs To Auction Vehicles Left Uncleared At HIP",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820516/",
+      "headline": "சுரேஷ் சலேயின் ரிட் மனு இன்று மீண்டும் விசாரணைக்கு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820512/",
+      "headline": "கடுவலை பிரதான வீதிகளில் இன்று இரவு முதல் போக்குவரத்து கட்டுப்பாடு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820507/",
+      "headline": "නාවික හමුදාපති හා ඇමති විජිත හේරත් අතර හමුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820500/",
+      "headline": "‘V – ප්‍රමිති’ ජාතික වැඩසටහන අද ඇරඹේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820497/",
+      "headline": "සලේගේ පෙත්සම අද යළි කැඳවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820480/",
+      "headline": "ජාතික සුපිළිපන් සතියේ දෙවන දිනය අදයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820490/",
+      "headline": "கொழும்பில் இன்று 152ஆவது வருடாந்த ஆடி வேல் விழா ஊர்வலம் ஆரம்பம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820483/",
+      "headline": "கிரிக்கெட் மறுசீரமைப்புக் குழுவுடன் ஜனாதிபதி சந்திப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820475/",
+      "headline": "இரு வருடங்களில் தொழிலாளர்களின் உரிமைகளை உறுதிசெய்ய அரசு நடவடிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820467/",
+      "headline": "වැසි තත්ත්වයේ තරමක වැඩිවීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820468/",
+      "headline": "தெவிநுவர பெரஹராவில் காவடியாட்டத்திற்கு அனுமதி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820464/",
+      "headline": "பலாங்கொடை யானை வேலித் திட்டம்: 7 கிராமங்களுக்குத் தீர்வு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820455/",
+      "headline": "රොෂාන් ධම්මික මීටර් 110 කඩුලු පැනීමේ පොදු රාජ්‍ය මණ්ඩලයීය අවසන් තරගයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820451/",
+      "headline": "මානව ශ්‍රමයට නිසි ගෞරවය ලබාදෙමින් කම්කරු ක්ෂේත්‍රයේ ප්‍රගතිශීලී වෙනස්කම් රැසක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/27/820444/",
+      "headline": "ලක්ෂ 148ක කුෂ් සමග පුද්ගලයෙකු කටුනායකදී අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/07/27/820402/",
@@ -125,11 +205,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/27/820347/",
-      "headline": "සුපිළිපන් රාජ්‍ය සේවයක් පිළිබඳ ජනතා විශ්වාසය තහවුරු කළ යුතුයි – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/07/27/820338/",
       "headline": "වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවට නව රථ වාහන තොගයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -140,123 +215,27 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/27/820339/",
-      "headline": "සුපිළිපන් රාජ්‍ය සේවයක් පිළිබඳ ජනතා විශ්වාසය තහවුරු කළ යුතුයි – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/07/27/crypto-bank-records-and-missing-millions-under-investigation",
+      "headline": "Crypto & Missing Millions Under Investigation",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820334/",
-      "headline": "இலங்கையர்களுக்கு ரஷ்யாவில் கட்டுமானத் துறை வேலைவாய்ப்புகள்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820331/",
-      "headline": "චිලී රාජ්‍යය සෙලවෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820328/",
-      "headline": "රුසියාවේ ඉදිකිරීම් රැකියා ශ්‍රි ලාංකිකයින්ට ලබාගැනීමට සාකච්ඡා අරඹයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820287/",
-      "headline": "දකුණු චීන මුහුදේ ගිලුණු වියට්නාම නෞකාවේ සිටි පුද්ගලයින් 47ක් බේරා ගැනේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820321/",
-      "headline": "நாட்டைச் சூழவுள்ள கடற்பரப்புகளுக்கான வானிலை அறிவித்தல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820316/",
-      "headline": "கொங்கோவில் ஈபோலா வைரஸ் தீவிர பரவல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820315/",
-      "headline": "ධීවර සහ නාවික ප්‍රජාවට කාලගුණයෙන් දැනුම්දීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820309/",
-      "headline": "பிலிப்பைன்ஸில் இலங்கையின் முதலாவது துணைத் தூதரகம் திறப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820305/",
-      "headline": "மரத்தின் கிளை முறிந்து விழுந்து 65 வயது மூதாட்டி பலி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820302/",
-      "headline": "පිලිපීනයේ පළමු ශ්‍රී ලංකා කොන්සියුලර් කාර්යාලය විවෘත කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820300/",
-      "headline": "கந்தானையில் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820297/",
-      "headline": "மஹியங்கனையில் மோட்டார் சைக்கிள் விபத்து – 26 வயது இளைஞர் பலி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820293/",
-      "headline": "இலங்கை தடகளத் தெரிவுக் குழுவின் உறுப்பினர்கள் இராஜினாமா!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820289/",
-      "headline": "நிலாவெளி கடலில் மூழ்கி வெளிநாட்டு சுற்றுலாப் பயணி உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820283/",
-      "headline": "ஹொரணையில் பிரபல தனியார் வகுப்பின் உரிமையாளர் ‘ஐஸ்’ போதைப்பொருளுடன் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820280/",
-      "headline": "වත්මන් රජය බුද්ධ ශාසනය වෙනුවෙන් වැඩ කරනවා – මහා සංඝරත්නය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820277/",
-      "headline": "இலங்கையின் சுற்றுலா வருவாய் ரூ. 475.6 பில்லியனாக உயர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/27/nationwide-dengue-cases-top-82-000",
-      "headline": "Nationwide Dengue Cases Top 82,000",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/27/cabinet-to-consider-proposal-to-extend-judges%e2%80%99-retirement-age-today-27",
-      "headline": "Proposal on Judges’ Retirement Age in Cabinet",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/07/27/former-dmt-officer-held-over-unauthorized-vehicle-registration",
+      "headline": "Ex-DMT Officer Arrested Over Vehicle Fraud",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/horana-private-tuition-master-arrested-in-drug-raid",
-      "headline": "Horana Private Tuition Master Arrested",
-      "reason": "score-below-threshold (62 < 65)",
+      "url": "https://newsfirst.lk/2026/07/27/top-garment-business-owner-further-remanded",
+      "headline": "Top Garment Business Owner Further Remanded",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 65)",
-      "score": 45
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (45 < 65)",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     }
   ],
