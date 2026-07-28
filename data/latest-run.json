@@ -1,10 +1,10 @@
 {
-  "runId": "58cb0ecb",
-  "startedAt": "2026-07-28T07:59:24.524Z",
-  "finishedAt": "2026-07-28T08:00:33.587Z",
+  "runId": "9637a342",
+  "startedAt": "2026-07-28T15:18:36.388Z",
+  "finishedAt": "2026-07-28T15:20:16.761Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 47,
+  "afterDedup": 44,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -13,6 +13,131 @@
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820701/",
+      "headline": "ලෝකයේ නැගී එන ආර්ථිකයන් අතර ශ්‍රී ලංකාව 4වන තැනට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820699/",
+      "headline": "අධිකරණ ක්‍රියාවලිය කාර්යක්ෂම සහ විධිමත් කිරීමට අධිකරණ සංවිධාන පනත සංශෝධනය කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820708/",
+      "headline": "කඩදාසි රහිත රේගු ප්‍රකාශන ක්‍රමවේදය ඔක්තෝබර් 01 වැනිදා සිට ක්‍රියාත්මක කිරීමට සූදානම් – ජනාධිපති ලේකම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820696/",
+      "headline": "නාවල–නාරාහේන්පිට දුම්රිය හරස් මාර්ගයේ ප්‍රතිසංස්කරණ හේතුවෙන් දුම්රිය ධාවනය සීමා කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820692/",
+      "headline": "නිවාස නොමැති ජනතාව සඳහා රජයේ මැදිහත්වීමෙන් මේ වසරේ දී නිවාස 30,000ක් ඉදිකිරීමේ වැඩපිළිවෙළ සාර්ථකව ක්‍රියාත්මකයි – ඇමති උපාලි පන්නිලගේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820689/",
+      "headline": "හෙළයේ රන් ස්වරය සුජාතා අත්තනායකට රාජ්‍ය ඇගයීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820684/",
+      "headline": "පිලිපීනය හා ශ්‍රී ලංකාව අතර වෙළෙඳ හා ආයෝජන සබඳතා තවදුරටත් පුළුල් කර ගැනීමට අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820685/",
+      "headline": "දේශීය ඖෂධ නිෂ්පාදනය හුදෙක් ආර්ථික අරමුණක් නොව, ජාතික සෞඛ්‍ය ආරක්ෂණයේ ප්‍රධාන ස්ථම්භයක් – නියෝජ්‍ය ඇමති හංසක විජේමුණි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820678/",
+      "headline": "අධිකරණයේ ගොඩගැසුණු නඩු ලක්ෂ 11ට කඩිනම් විසඳුම් සෙවීමට පියවර – අධිකරණ ඇමති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820655/",
+      "headline": "ප්‍රාදේශීය කර්මාන්තපුර 13කින් නව කර්මාන්ත සඳහා ඉඩම් කොටස් වෙන් කිරීමට අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820679/",
+      "headline": "විදේශීය විශ්වවිද්‍යල ශිෂ්‍යත්ව ගෙවීම් සංශෝධනයට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820673/",
+      "headline": "හරිත දේශගුණ අරමුදලේ නැගෙනහිර හා දකුණු ආසියාව සඳහා වන කලාපීය සංවාදය ශ්‍රී ලංකාවේදී පැවැත්වීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820670/",
+      "headline": "ගමනාගමන මණ්ඩලයේ අබලි ලෝහ බැහැර කිරීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820665/",
+      "headline": "රුවන්පුර අධිවේගී මාර්ගයේ පළමු අදියරට ටෙන්ඩර් කැඳවීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820662/",
+      "headline": "ජාතික ව්‍යාපාර කළමනාකාරීත්ව ආයතන පනත සංශෝධනය කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820658/",
+      "headline": "මෙරට බහුවිධ ප්‍රවාහන මධ්‍යස්ථාන කළමනාකරණය කිරීමට විශේෂ වැඩපිළිවෙළක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820647/",
+      "headline": "பிலிப்பைன்சில் இலங்கை முதலீடுகள்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820649/",
+      "headline": "සයුරුපුර, සහස්පුර සහ සිංහපුර නිවාස සංකීර්ණ අලුත්වැඩියාවට රුපියල් මිලියන 764ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820643/",
+      "headline": "நீதிபதிகளின் ஓய்வு வயது குறித்து அமைச்சரவை தீர்மானம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820640/",
+      "headline": "ஜனாதிபதி மாளிகை குத்தகைக்கு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820625/",
+      "headline": "ஜப்பானில் 7.1 ரிக்டரில் சக்திவாய்ந்த நிலநடுக்கம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820632/",
+      "headline": "එම්.ජේ.එස්.රවිසිංහ මහතා අග්‍රාමාත්‍ය කාර්යාලයේ අතිරේක ලේකම් තනතුරකට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820629/",
+      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කිරීමේ තීරණයට ජනමත විචාරණයක් අවශ්‍ය නෑ – කැබිනට් ප්‍රකාශක",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820627/",
+      "headline": "සංචාරක ආයෝජන සඳහා ජනාධිපති මන්දිර බදුදීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820619/",
+      "headline": "மெல்சிரிபுரவில் யானை மீது டிப்பர் மோதி விபத்து!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/07/28/820615/",
@@ -100,148 +225,38 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/28/820539/",
-      "headline": "රඛිත රාජපක්ෂ සහ චරිත් අබේසිංහ ඇතුළු තිදෙනාට ඇප – සැකකරුවන්ට විදෙස් ගමන් තහනම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820520/",
-      "headline": "පාකිස්තාන – ශ්‍රී ලංකා කාන්තා තුන්වන එක්දින තරගය අද",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820529/",
-      "headline": "வீழ்ச்சியடைந்த மசகு எண்ணெய் விலை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820526/",
-      "headline": "ஊழலற்ற, திறமையான ஆட்சியை உருவாக்குவது அரசின் பொறுப்பு – பிரதமர் ஹரிணி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820519/",
-      "headline": "இலங்கை – பாகிஸ்தான் 3வது ஒருநாள் போட்டி இன்று",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820521/",
-      "headline": "ජාතික යොවුන් සේනාංකයේ නැගෙනහිර පළාත් විසිර යාමේ උත්සවය තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820461/",
-      "headline": "இன்று முதல் தென்மேற்குப் பகுதியில் மழை அதிகரிக்கும்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820516/",
-      "headline": "சுரேஷ் சலேயின் ரிட் மனு இன்று மீண்டும் விசாரணைக்கு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820512/",
-      "headline": "கடுவலை பிரதான வீதிகளில் இன்று இரவு முதல் போக்குவரத்து கட்டுப்பாடு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820507/",
-      "headline": "නාවික හමුදාපති හා ඇමති විජිත හේරත් අතර හමුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820500/",
-      "headline": "‘V – ප්‍රමිති’ ජාතික වැඩසටහන අද ඇරඹේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820480/",
-      "headline": "ජාතික සුපිළිපන් සතියේ දෙවන දිනය අදයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820490/",
-      "headline": "கொழும்பில் இன்று 152ஆவது வருடாந்த ஆடி வேல் விழா ஊர்வலம் ஆரம்பம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820483/",
-      "headline": "கிரிக்கெட் மறுசீரமைப்புக் குழுவுடன் ஜனாதிபதி சந்திப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820475/",
-      "headline": "இரு வருடங்களில் தொழிலாளர்களின் உரிமைகளை உறுதிசெய்ய அரசு நடவடிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820467/",
-      "headline": "වැසි තත්ත්වයේ තරමක වැඩිවීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820468/",
-      "headline": "தெவிநுவர பெரஹராவில் காவடியாட்டத்திற்கு அனுமதி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820464/",
-      "headline": "பலாங்கொடை யானை வேலித் திட்டம்: 7 கிராமங்களுக்குத் தீர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820455/",
-      "headline": "රොෂාන් ධම්මික මීටර් 110 කඩුලු පැනීමේ පොදු රාජ්‍ය මණ්ඩලයීය අවසන් තරගයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820451/",
-      "headline": "මානව ශ්‍රමයට නිසි ගෞරවය ලබාදෙමින් කම්කරු ක්ෂේත්‍රයේ ප්‍රගතිශීලී වෙනස්කම් රැසක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820444/",
-      "headline": "ලක්ෂ 148ක කුෂ් සමග පුද්ගලයෙකු කටුනායකදී අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820402/",
-      "headline": "අධ්‍යාපනවේදී උපාධිධාරීන් ගුරු සේවයට බඳවා ගැනීමේ ගැටලු ගැන ඉසුරුපායේදී විශේෂ සාකච්ඡාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/ministry-of-labour-to-introduce-new-regulations-after-homagama-fire",
-      "headline": "Ministry of Labour to Introduce New Regulations",
+      "url": "https://newsfirst.lk/2026/07/28/chaminda-wijesiri-sentenced-to-1-5-years-in-prison",
+      "headline": "Chaminda Wijesiri Sentenced to 1.5 Years in Prison",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 81
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/president-meets-slc-transformation-committee",
-      "headline": "President Meets SLC Transformation Committee",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/07/28/court-grants-bail-to-rakitha-rajapaksa-and-two-others-in-harak-kata-bribery-case",
+      "headline": "Rakitha Rajapaksa Granted Bail In Harak Kata Case",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/07/28/sri-lanka-steps-up-fight-against-hepatitis",
-      "headline": "Sri Lanka Steps Up Fight Against Hepatitis",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/28/sri-lanka-among-fastest-improvers-in-investor-relations-and-debt-transparency-says-iif",
+      "headline": "Sri Lanka Climbs Global Investor Relations Ranking",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/07/28/prisons-push-to-ease-overcrowding-amid-report-delays",
-      "headline": "Prisons Push To Ease Overcrowding",
+      "url": "https://newsfirst.lk/2026/07/28/next-steps-on-judges%e2%80%99-retirement-extension-to-follow-says-deputy-minister",
+      "headline": "Next Steps On Judges’ Retirement Extension",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
+      "headline": "Should We Feed The Strays?",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
       "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
