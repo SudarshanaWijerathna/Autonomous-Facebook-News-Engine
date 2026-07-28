@@ -1,13 +1,13 @@
 {
-  "runId": "50c4491e",
-  "startedAt": "2026-07-28T05:48:21.985Z",
-  "finishedAt": "2026-07-28T05:49:35.458Z",
+  "runId": "58cb0ecb",
+  "startedAt": "2026-07-28T07:59:24.524Z",
+  "finishedAt": "2026-07-28T08:00:33.587Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 47,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,18 +15,68 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/how-did-salley-s-diplomatic-passport-reappear-passport-stamps-raise-tough-questions",
-      "headline": "How Did Salley's Diplomatic Passport Reappear?",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/07/28/820615/",
+      "headline": "ග්‍රාමීය මාර්ග සංවර්ධනයට ලබන වසරේ දී මීටත් වඩා වැඩි මුදලක් – නි.ඇමති එරංග ගුණසේකර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820555/",
-      "headline": "ஆர்த்தியின் 40 இலட்ச ஜீவனாம்ச கோரிக்கை தள்ளுபடி",
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820598/",
+      "headline": "யானை – மனித மோதலைக் கட்டுப்படுத்த மூங்கில் வேலித் திட்டம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820602/",
+      "headline": "සුපිළිපන් සතියේ දෙවන දිනය වෙනුවෙන් පාගමනක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820592/",
+      "headline": "මෙරට මද්‍යසාර පාලනයට නව පියවරක් – ලෝක සෞඛ්‍ය සංවිධානයේ ‘SAFER’ තාක්ෂණික ගොනුව සහ ආයෝජන වාර්තාව එළිදකී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820593/",
+      "headline": "மன்னாரில் ‘சிசு செரிய’ மாணவர் பஸ் சேவை இன்று ஆரம்பம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820549/",
+      "headline": "අලි – මිනිස් ගැටුමට විසඳුම් ලෙස උණ බම්බු ‘ජෛව වැට’ ඉදිකිරීමේ යෝජනාවට චීනයේ සහාය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820581/",
+      "headline": "முதலீட்டாளர் தொடர்பாடலை மேம்படுத்திய நாடுகளின் பட்டியலில் இலங்கைக்கு 4ஆவது இடம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820582/",
+      "headline": "රුපියල් ලක්ෂ 20ක අල්ලසක් ලබාගැනීමේ චෝදනාවට ව්‍යාපාරිකයෙකු ඇතුළු දෙදෙනෙක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820578/",
+      "headline": "මන්නාරමට ‘සිසු සැරිය’ බස් සේවාව – පාසල් දරුවන්ට නව ප්‍රවාහන සහනයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/07/28/820564/",
-      "headline": "பொலிஸாரைத் தாக்கிய வழக்கு: முன்னாள் எம்.பி சமிந்த விஜேசிறி குற்றவாளியாகத் தீர்ப்பு!",
+      "headline": "முன்னாள் எம்.பி  சமிந்த விஜேசிறிக்கு ஒன்றரை  ஆண்டுகள் சிறைத்தண்டனை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820537/",
+      "headline": "නැගී එන ආර්ථිකයන් අතර සිව්වන ස්ථානය ශ්‍රී ලංකාවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820572/",
+      "headline": "පාර්ලිමේන්තු මන්ත්‍රී චමින්ද විජේසිරිට වසර එකහමාරක සිරදඬුවමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820555/",
+      "headline": "ஆர்த்தியின் 40 இலட்ச ஜீவனாம்ச கோரிக்கை தள்ளுபடி",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -105,11 +155,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/28/820497/",
-      "headline": "සලේගේ පෙත්සම අද යළි කැඳවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/07/28/820480/",
       "headline": "ජාතික සුපිළිපන් සතියේ දෙවන දිනය අදයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -165,89 +210,40 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/27/820435/",
-      "headline": "ග්‍රාම නිලධාරී කොට්ඨාස 7ක අලි ගැටලුවට විසඳුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820432/",
-      "headline": "ඊශ්‍රායලයේ රැකියා හිමිවූ 164 දෙනෙකුට ගුවන් ටිකට්පත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820426/",
-      "headline": "පොලිස් විශේෂ කාර්ය බලකායේ නිල වෙබ් අඩවිය අන්තර්ජාලයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820422/",
-      "headline": "நீதிபதிகளின் ஓய்வுபெறும் வயதை 2 ஆண்டுகளால் அதிகரிக்க அமைச்சரவை அங்கீகாரம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820419/",
-      "headline": "විනිසුරු විශ්‍රාම වයස වසර දෙකකින් දීර්ඝ කිරීමේ යෝජනාවට කැබිනට් අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820416/",
-      "headline": "துன்ஹிந்த அபிவிருத்திக்கு 200 இலட்சம் ரூபா ஒதுக்கீடு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820410/",
-      "headline": "දුන්හිඳ ඇල්ල පරිශ්‍රයට ලක්ෂ 200 ක ආයෝජනයෙන් නව නැරඹුම් මධ්‍යස්ථානයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820409/",
-      "headline": "பொலிஸ் சேவையில் ‘தேசிய நேர்மை வாரம்’ ஆரம்பம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820398/",
-      "headline": "இங்கிலாந்து புதிய அமைச்சரவையில் இந்திய வம்சாவளியினர்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820395/",
-      "headline": "දිවයින පුරා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම්වලින් ඊයේ දිනයේ දී 1,525ක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820391/",
-      "headline": "வெபோமெட்ரிக்ஸ் தரவரிசையில் கொழும்பு பல்கலைக்கழகம் சாதனை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/27/cabinet-approves-move-to-raise-retirement-age-of-sri-lanka-s-judges",
-      "headline": "Cabinet Approves to Raise Retirement Age of Judges",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/28/ministry-of-labour-to-introduce-new-regulations-after-homagama-fire",
       "headline": "Ministry of Labour to Introduce New Regulations",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/murdered-chinese-man-used-suriname-passport-to-enter-sri-lanka",
-      "headline": "Murdered Chinese Man Used Suriname Passport",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/07/27/president-meets-slc-transformation-committee",
+      "headline": "President Meets SLC Transformation Committee",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/07/28/prisons-push-to-ease-overcrowding-amid-report-delays",
-      "headline": "Prisons Push To Ease Overcrowding",
+      "url": "https://newsfirst.lk/2026/07/28/sri-lanka-steps-up-fight-against-hepatitis",
+      "headline": "Sri Lanka Steps Up Fight Against Hepatitis",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
+      "url": "https://newsfirst.lk/2026/07/28/prisons-push-to-ease-overcrowding-amid-report-delays",
+      "headline": "Prisons Push To Ease Overcrowding",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
