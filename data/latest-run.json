@@ -1,13 +1,13 @@
 {
-  "runId": "b580f6e2",
-  "startedAt": "2026-07-28T03:54:08.066Z",
-  "finishedAt": "2026-07-28T03:55:35.727Z",
+  "runId": "50c4491e",
+  "startedAt": "2026-07-28T05:48:21.985Z",
+  "finishedAt": "2026-07-28T05:49:35.458Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 46,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
@@ -15,9 +15,74 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/customs-to-auction-1-025-vehicles-left-uncleared-at-hambantota-port",
-      "headline": "Customs To Auction Vehicles Left Uncleared At HIP",
+      "url": "https://newsfirst.lk/2026/07/27/how-did-salley-s-diplomatic-passport-reappear-passport-stamps-raise-tough-questions",
+      "headline": "How Did Salley's Diplomatic Passport Reappear?",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820555/",
+      "headline": "ஆர்த்தியின் 40 இலட்ச ஜீவனாம்ச கோரிக்கை தள்ளுபடி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820564/",
+      "headline": "பொலிஸாரைத் தாக்கிய வழக்கு: முன்னாள் எம்.பி சமிந்த விஜேசிறி குற்றவாளியாகத் தீர்ப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820556/",
+      "headline": "පාර්ලිමේන්තු මන්ත්‍රී චමින්ද ඇතුළු පිරිසට දඬුවම් නියම කිරීම අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820553/",
+      "headline": "விமல் வீரவங்சவின் சகோதரருக்கு பிணை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820548/",
+      "headline": "ரகித்த ராஜபக்ஷ உள்ளிட்ட மூவருக்கு நிபந்தனைகளுடன் பிணை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820543/",
+      "headline": "පුත්තලමේ කඩොලාන වනාන්තර 08ක් නව රක්ෂිත ලෙස ප්‍රකාශයට පත් කිරීමේ ගැසට් පත්‍රය අත්සන් තැබේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820539/",
+      "headline": "රඛිත රාජපක්ෂ සහ චරිත් අබේසිංහ ඇතුළු තිදෙනාට ඇප – සැකකරුවන්ට විදෙස් ගමන් තහනම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820520/",
+      "headline": "පාකිස්තාන – ශ්‍රී ලංකා කාන්තා තුන්වන එක්දින තරගය අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820529/",
+      "headline": "வீழ்ச்சியடைந்த மசகு எண்ணெய் விலை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820526/",
+      "headline": "ஊழலற்ற, திறமையான ஆட்சியை உருவாக்குவது அரசின் பொறுப்பு – பிரதமர் ஹரிணி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820519/",
+      "headline": "இலங்கை – பாகிஸ்தான் 3வது ஒருநாள் போட்டி இன்று",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820521/",
+      "headline": "ජාතික යොවුන් සේනාංකයේ නැගෙනහිර පළාත් විසිර යාමේ උත්සවය තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යවරයාගේ ප්‍රධානත්වයෙන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/28/820461/",
+      "headline": "இன்று முதல் தென்மேற்குப் பகுதியில் மழை அதிகரிக்கும்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/07/28/820516/",
@@ -155,88 +220,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820370/",
-      "headline": "வனசீவராசிகள் பாதுகாப்புத் திணைக்களத்திற்கு புதிய வாகனங்கள் கையளிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820386/",
-      "headline": "ජනපති සහ ශ්‍රී ලංකා ක්‍රිකට් පරිවර්තන කමිටුව අතර හමුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820376/",
-      "headline": "சுரேஷ் சலேவின் ரிட் மனு நாளை மீண்டும் பரிசீலனை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820377/",
-      "headline": "වංචා , දූෂණ හෙළි වී නීතිය ක්‍රියාත්මක වෙද්දි විපක්ෂය විරෝධතා එල්ල කරනවා – නීතීඥ අමිල එගොඩමහවත්ත",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820364/",
-      "headline": "தேசிய நேர்மை வாரம் ஜனாதிபதி செயலகத்தில் ஆரம்பம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820365/",
-      "headline": "දෙවිනුවර පෙරහැරේ කාවඩි ගැන අවසන් තීරණයට සාකච්ඡා ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820361/",
-      "headline": "සුරේෂ් සලේගේ රිට් පෙත්සම හෙට යළි කැඳවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820358/",
-      "headline": "நேர்மையான அரச சேவைக்கான ‘தேசிய நேர்மை வாரம்’: சுகாதார மற்றும் ஊடக அமைச்சில் ஆரம்பித்து வைப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/27/820350/",
-      "headline": "நிதி மற்றும் திட்டமிடல் பிரதி அமைச்சருக்கும் இந்திய உயர்ஸ்தானிகருக்கும் இடையில் சந்திப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820352/",
-      "headline": "ඉන්දියානු රජයේ ආධාර යටතේ ක්‍රියාත්මක ව්‍යාපෘතිවල පවතින ගැටලු පිළිබඳව සාකච්ඡාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820338/",
-      "headline": "වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවට නව රථ වාහන තොගයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/27/820288/",
-      "headline": "බීමතින් රිය පැදවීමේ චෝදනාව ඩේවිඩ් වෝනර් විසින් පිළිගනී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/27/crypto-bank-records-and-missing-millions-under-investigation",
-      "headline": "Crypto & Missing Millions Under Investigation",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/27/cabinet-approves-move-to-raise-retirement-age-of-sri-lanka-s-judges",
+      "headline": "Cabinet Approves to Raise Retirement Age of Judges",
+      "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/former-dmt-officer-held-over-unauthorized-vehicle-registration",
-      "headline": "Ex-DMT Officer Arrested Over Vehicle Fraud",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/07/28/ministry-of-labour-to-introduce-new-regulations-after-homagama-fire",
+      "headline": "Ministry of Labour to Introduce New Regulations",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/27/murdered-chinese-man-used-suriname-passport-to-enter-sri-lanka",
+      "headline": "Murdered Chinese Man Used Suriname Passport",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/28/prisons-push-to-ease-overcrowding-amid-report-delays",
+      "headline": "Prisons Push To Ease Overcrowding",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/27/top-garment-business-owner-further-remanded",
-      "headline": "Top Garment Business Owner Further Remanded",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
-      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "max-posts-per-run-reached",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     }
   ],
   "errors": []
