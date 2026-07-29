@@ -1,10 +1,10 @@
 {
-  "runId": "c176f2bc",
-  "startedAt": "2026-07-29T16:47:44.095Z",
-  "finishedAt": "2026-07-29T16:57:15.244Z",
+  "runId": "2510bde4",
+  "startedAt": "2026-07-29T18:29:24.588Z",
+  "finishedAt": "2026-07-29T18:30:46.984Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 36,
+  "discovered": 87,
+  "afterDedup": 44,
   "scored": 6,
   "selected": 1,
   "published": 1,
@@ -15,10 +15,220 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/07/29/over-80-000-dengue-cases-reported-so-far-observes-gradual-reduction-in-cases",
+      "headline": "Over 80,000 Dengue Cases Reported so far",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820958/",
+      "headline": "අනාගත ශ්‍රී ලංකා හෙල්ල විසිකිරීමේ ශූරයින් සොයා යන ජැව්ලින් ෆියෙස්ටා 31 වනදා ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820953/",
+      "headline": "දිවයිනේ සංචාරක කලාප විදෙස් සංචාරකයින්ගෙන් පිරී යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820948/",
+      "headline": "ගෝලීය ආර්ථික අභියෝග හමුවේ වුවද ශ්‍රී ලංකාව හා මාලදිවයින අතර ශක්තිමත් ආර්ථික සබඳතාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820939/",
+      "headline": "ගොවිජන ජීවිත නගාසිටුවීමට සහ ජාතික ආහාර සුරක්ෂිතතාව වෙනුවෙන් රජය කැපවී සිටිනවා – ඇමති කේ.ඩී.ලාල් කාන්ත",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820935/",
+      "headline": "වත්තල හැඳල ලාදුරු රෝහල කෞතුකාගාරයක් කිරීමට රජයේ අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820930/",
+      "headline": "මන්නාරම සිසු සැරිය බස් රථ සේවාව ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820926/",
+      "headline": "මෙට්‍රෝ බස් රථ 104ක් දිවයිනට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820923/",
+      "headline": "නීතිඥ සංගමය නඩු ප්‍රමාදය වළක්වන්න ගත් පියවර ගැන ප්‍රජාතන්ත්‍රවාදී ජාතික සංවිධානය ප්‍රශ්න කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820914/",
+      "headline": "අධිකරණවල නඩු මිලියනයකට වඩා සිරවෙලා – ජනවරමේ නීතිඥයෝ සංවිධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820910/",
+      "headline": "රට මුහුණ දෙන විශාලතම ව්‍යසනය මත්ද්‍රව්‍ය උවදුරයි -ජනපති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820906/",
+      "headline": "බිබිල ප්‍රදේශයේ 530 දෙනෙකුට ඉඩම් බලපත්‍ර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820902/",
+      "headline": "ශ්‍රී ලංකාව 2026 වන විට T&C ශ්‍රේණිගත කිරීම්වල B- දක්වා ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820894/",
+      "headline": "වසරේ ප්‍රධානතම උල්කාපාත වර්ෂාවක් අද රාත්‍රියේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820897/",
+      "headline": "මාතර වෙළෙඳසැලක ගින්නක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820874/",
+      "headline": "මුහුදු කූඩැල්ලන් 14,072ක් සමග සැකකරුවන් 12ක් නාවික හමුදා භාරයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820878/",
+      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කිරිම වෙනුවෙන් විපක්ෂය නගන තර්කවල කිසිදු පදනමක් නැහැ – නි. අමාත්‍ය සුනිල් වටගල",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820868/",
+      "headline": "එල්නිනෝවට මුහුණදීම සඳහා මහ කන්නය වේලාසනින් ආරම්භ කරනවා – අමාත්‍ය වසන්ත සමරසිංහ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820871/",
+      "headline": "අල්ලසට හා දූෂණයට එරෙහිව විධිමත් පරීක්ෂණ ක්‍රියාත්මකයි – අධ්‍යක්ෂ ජනරාල් රංග දිසානායක අල්ලස් හෝ දූෂණ චෝදනා විමර්ෂණ කොමිෂන් සභාව",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820867/",
+      "headline": "දෙවිනුවර කාවඩි නටන්න මීගමුවෙන් ගිය තුන්දෙනෙක් කුඩුත් එක්ක අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820864/",
+      "headline": "நாய் குறுக்கே பாய்ந்ததால் விபத்து: மோட்டார் சைக்கிள் சாரதி உயிரிழப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820842/",
+      "headline": "ජාත්‍යන්තර දේශසීමා සෞඛ්‍ය ආරක්ෂාව තවදුරටත් ශක්තිමත් කරන කොළඹ වරායේ නව පස්මහල් වරාය සෞඛ්‍ය කාර්යාලය ජනතා අයිතියට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820855/",
+      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 83,661ක් දක්වා ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820849/",
+      "headline": "இலங்கையில் 83,000 ஐக் கடந்தது டெங்கு நோயாளர்களின் எண்ணிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820846/",
+      "headline": "சீன மனிதவடிவ ரோபோக்களுக்கு அமெரிக்காவில் தடை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820843/",
+      "headline": "வாலான ஊழல் தடுப்புப் பிரிவு பொலிஸ் கான்ஸ்டபிள் துப்பாக்கியால் சுட்டுத் தற்கொலை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820839/",
+      "headline": "අමෙරිකාව චීන රොබෝවරු තහනම් කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820834/",
+      "headline": "பாகிஸ்தானுக்கு எதிரான ஒருநாள் தொடரைக் கைப்பற்றியது இலங்கை மகளிர் அணி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820830/",
+      "headline": "ஜப்பானில் சக்திவாய்ந்த நிலநடுக்கம்: 13 பேர் உயிரிழப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820826/",
+      "headline": "பிராந்திய கைத்தொழில்பேட்டைகளில் 23 புதிய திட்டங்களுக்கு காணி ஒதுக்கீடு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820820/",
+      "headline": "ජපානයේ ප්‍රබල භූමිකම්පනයෙන් 13කට දිවි අහිමිවෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820801/",
+      "headline": "ජාතික සුපිළිපන් සතියේ තෙවන දිනය අදයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820819/",
+      "headline": "பல்நிலை போக்குவரத்து நிலையங்களுக்கு புதிய நிர்வாகம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820796/",
+      "headline": "රටක සැබෑ දියුණුව මනිනු ලබන්නේ ජනතාවගේ ගුණධර්ම සහ ආධ්‍යාත්මික වර්ධනය මතයි – අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820809/",
+      "headline": "අයිස් සමග “පොල්හේන මල්ලි” අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820812/",
+      "headline": "நிகழ்நிலைச் சொத்துக்கள் மற்றும் சேவை வழங்குநர்களை ஒழுங்குமுறைப்படுத்த சட்ட நடவடிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820802/",
+      "headline": "පාකිස්ථාන කාන්තා කණ්ඩායම පරදා එක්දින තරගාවලියේ ජය ශ්‍රී ලංකාවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820800/",
+      "headline": "காகிதமற்ற சுங்க அறிவித்தல் முறைமை அக்டோபர் முதல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820805/",
+      "headline": "සිය රාජකාරී ගිනි අවියෙන් වෙඩි තබාගෙන සියදිවි හානිකරගත් වලානේ කොස්තාපල්වරයා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820797/",
+      "headline": "சுற்றுலாப் பயணிகளின் எண்ணிக்கை 13 இலட்சத்தைக் கடந்தது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820785/",
+      "headline": "ගෝලීය සංවර්ධනයට චීනයේ දායකත්වය අඛණ්ඩව ලබාදෙන බවට චීන විදේශ ඇමතිගෙන් සහතිකයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820792/",
+      "headline": "வடக்கு – கிழக்கு மக்களுக்கு அடுத்த 2 ஆண்டுகளில் 13,000 வீடுகள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/28/s-p-global-affirms-sri-lanka%e2%80%99s-sovereign-rating-at-%e2%80%98ccc-c%e2%80%99-with-stable-outlook",
       "headline": "S&P Affirms Sri Lanka Rating At CCC+/C",
       "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 85
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/07/29/cpc-signals-fuel-price-cut-amid-global-oil-decline",
@@ -35,8 +245,8 @@
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 65)",
-      "score": 45
+      "reason": "score-below-threshold (48 < 65)",
+      "score": 48
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
