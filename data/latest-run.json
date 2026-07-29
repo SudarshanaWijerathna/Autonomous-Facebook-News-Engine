@@ -1,18 +1,118 @@
 {
-  "runId": "9637a342",
-  "startedAt": "2026-07-28T15:18:36.388Z",
-  "finishedAt": "2026-07-28T15:20:16.761Z",
+  "runId": "9d2e9720",
+  "startedAt": "2026-07-29T03:57:14.452Z",
+  "finishedAt": "2026-07-29T03:58:44.674Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
       "headline": "Sri Lanka’s First AI-Enabled Surgery",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820792/",
+      "headline": "வடக்கு – கிழக்கு மக்களுக்கு அடுத்த 2 ஆண்டுகளில் 13,000 வீடுகள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820765/",
+      "headline": "කොළඹ වාර්ෂික වේල් උත්සවයේ රිදී රිය පෙරහැර ජනාධිපති ලේකම් කාර්යාලය අසලදී ජනාධිපති ලේකම් විසින් පිළිගනී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820780/",
+      "headline": "යුද්දයෙන් නිවාස අහිමිවූවන් සඳහා නිවාස 13,000ක් ඉදිකරනවා – ජනපති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820777/",
+      "headline": "கொரியத் தூதுவர் மியோன் லீ பிரதமரைச் சந்தித்துப் பேச்சுவார்த்தை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820771/",
+      "headline": "பிரதமர் அலுவலகத்தின் மேலதிக செயலாளராக எம்.ஜே.எஸ்.ரண்சிங்க நியமனம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820772/",
+      "headline": "ගාල්ලේ සංවර්ධනයට සහ මත්ද්‍රව්‍ය මර්දනය ගැන ජනපතිගෙන් විශේෂ උපදෙස්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820767/",
+      "headline": "ශ්‍රී ලාංකිකයින්ට ජපානයේ නව රැකියා දොරටු විවර කරමින් ටෝකියෝ නුවරදී සාර්ථක රැකියා ප්‍රවර්ධන වැඩසටහනක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820766/",
+      "headline": "නීති විරෝධී ලෙස මැණික් ගැරූ 25 දෙනෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820756/",
+      "headline": "පිණ්ඩපාත චාරිකාවේ නිරත වූ මහා සංඝරත්නයට පිරිකර පූජා කිරීමට ජනාධිපති ලේකම් එක්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820752/",
+      "headline": "ඇසළ පුර පසළොස්වක පොහොය අදයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820757/",
+      "headline": "சயுரபுர, சஹஸ்புர, சிங்கபுர அடுக்குமாடி வீடுகள் புனரமைப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820753/",
+      "headline": "கலாநிதி சுஜாதா அத்தநாயக்கவுக்குக் கௌரவப் பாராட்டு விழா!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820743/",
+      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820748/",
+      "headline": "ரத்மலானை சைமா உட்பட மூவர் மலேசியாவில் கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820746/",
+      "headline": "சுகாதார அமைச்சின் கீழ் கொண்டுவரப்பட்டது ஹொரணை பொது வைத்தியசாலை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820742/",
+      "headline": "இன்று முதல் மழையுடனான வானிலை அதிகரிக்ககூடும்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820736/",
+      "headline": "පුනරාවර්තන වියදම් අඩු කර ප්‍රාග්ධන වියදම් ඉහළ නැංවීමේ අරමුණ ඇතිව ඉදිරි වසරේ ආර්ථික සැලසුම් – ජනපති අවධාරණය කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820725/",
+      "headline": "විදෙස් සංචාරකයින්ගේ පැමිණීම වාර්තාගත ලෙස ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820721/",
+      "headline": "2026 ජාතික ව්‍යාපාර විශිෂ්ටතා සම්මාන උලළේදී ජාතික ලොතරැයි මණ්ඩලය රාජ්‍ය සේවා අංශයේ සම්මානයට නිර්දේශ වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/28/820714/",
+      "headline": "ණය ශ්‍රේණිගත කිරීම්වලින් ශ්‍රී ලංකාව ට්‍රිපල් සී ප්ලස් මට්ටමට පැමිණීම ආර්ථිකයේ ස්ථාවරත්වය මැනීමේ හොඳ මිනුමක් – මහාචාර්ය වසන්ත අතුකෝරල",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/07/28/820701/",
@@ -105,11 +205,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820643/",
-      "headline": "நீதிபதிகளின் ஓய்வு வயது குறித்து அமைச்சரவை தீர்மானம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/07/28/820640/",
       "headline": "ஜனாதிபதி மாளிகை குத்தகைக்கு",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -135,100 +230,10 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820619/",
-      "headline": "மெல்சிரிபுரவில் யானை மீது டிப்பர் மோதி விபத்து!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820615/",
-      "headline": "ග්‍රාමීය මාර්ග සංවර්ධනයට ලබන වසරේ දී මීටත් වඩා වැඩි මුදලක් – නි.ඇමති එරංග ගුණසේකර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820598/",
-      "headline": "யானை – மனித மோதலைக் கட்டுப்படுத்த மூங்கில் வேலித் திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820602/",
-      "headline": "සුපිළිපන් සතියේ දෙවන දිනය වෙනුවෙන් පාගමනක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820592/",
-      "headline": "මෙරට මද්‍යසාර පාලනයට නව පියවරක් – ලෝක සෞඛ්‍ය සංවිධානයේ ‘SAFER’ තාක්ෂණික ගොනුව සහ ආයෝජන වාර්තාව එළිදකී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820593/",
-      "headline": "மன்னாரில் ‘சிசு செரிய’ மாணவர் பஸ் சேவை இன்று ஆரம்பம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820549/",
-      "headline": "අලි – මිනිස් ගැටුමට විසඳුම් ලෙස උණ බම්බු ‘ජෛව වැට’ ඉදිකිරීමේ යෝජනාවට චීනයේ සහාය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820581/",
-      "headline": "முதலீட்டாளர் தொடர்பாடலை மேம்படுத்திய நாடுகளின் பட்டியலில் இலங்கைக்கு 4ஆவது இடம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820582/",
-      "headline": "රුපියල් ලක්ෂ 20ක අල්ලසක් ලබාගැනීමේ චෝදනාවට ව්‍යාපාරිකයෙකු ඇතුළු දෙදෙනෙක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820578/",
-      "headline": "මන්නාරමට ‘සිසු සැරිය’ බස් සේවාව – පාසල් දරුවන්ට නව ප්‍රවාහන සහනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820564/",
-      "headline": "முன்னாள் எம்.பி  சமிந்த விஜேசிறிக்கு ஒன்றரை  ஆண்டுகள் சிறைத்தண்டனை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820537/",
-      "headline": "නැගී එන ආර්ථිකයන් අතර සිව්වන ස්ථානය ශ්‍රී ලංකාවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820572/",
-      "headline": "පාර්ලිමේන්තු මන්ත්‍රී චමින්ද විජේසිරිට වසර එකහමාරක සිරදඬුවමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820555/",
-      "headline": "ஆர்த்தியின் 40 இலட்ச ஜீவனாம்ச கோரிக்கை தள்ளுபடி",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820556/",
-      "headline": "පාර්ලිමේන්තු මන්ත්‍රී චමින්ද ඇතුළු පිරිසට දඬුවම් නියම කිරීම අද",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820553/",
-      "headline": "விமல் வீரவங்சவின் சகோதரருக்கு பிணை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/28/820548/",
-      "headline": "ரகித்த ராஜபக்ஷ உள்ளிட்ட மூவருக்கு நிபந்தனைகளுடன் பிணை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820543/",
-      "headline": "පුත්තලමේ කඩොලාන වනාන්තර 08ක් නව රක්ෂිත ලෙස ප්‍රකාශයට පත් කිරීමේ ගැසට් පත්‍රය අත්සන් තැබේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/chaminda-wijesiri-sentenced-to-1-5-years-in-prison",
-      "headline": "Chaminda Wijesiri Sentenced to 1.5 Years in Prison",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "url": "https://newsfirst.lk/2026/07/28/sri-lanka-among-fastest-improvers-in-investor-relations-and-debt-transparency-says-iif",
+      "headline": "Sri Lanka Climbs Global Investor Relations Ranking",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/court-grants-bail-to-rakitha-rajapaksa-and-two-others-in-harak-kata-bribery-case",
@@ -237,28 +242,22 @@
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/07/28/sri-lanka-among-fastest-improvers-in-investor-relations-and-debt-transparency-says-iif",
-      "headline": "Sri Lanka Climbs Global Investor Relations Ranking",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/07/28/chocolate-coated-%e2%80%98kush%e2%80%99-worth-rs-14-8-mn-seized-at-bia",
+      "headline": "Chocolate-Coated ‘Kush’ Worth Rs. 14.8 Mn Seized",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
+      "headline": "Should We Feed The Strays?",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/next-steps-on-judges%e2%80%99-retirement-extension-to-follow-says-deputy-minister",
       "headline": "Next Steps On Judges’ Retirement Extension",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "headline": "Should We Feed The Strays?",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
   "errors": []
