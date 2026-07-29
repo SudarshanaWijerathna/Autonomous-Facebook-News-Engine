@@ -1,14 +1,64 @@
 {
-  "runId": "64b11bdf",
-  "startedAt": "2026-07-29T05:54:23.886Z",
-  "finishedAt": "2026-07-29T05:55:45.871Z",
+  "runId": "5dc45952",
+  "startedAt": "2026-07-29T08:04:35.014Z",
+  "finishedAt": "2026-07-29T08:05:44.303Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820874/",
+      "headline": "මුහුදු කූඩැල්ලන් 14,072ක් සමග සැකකරුවන් 12ක් නාවික හමුදා භාරයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820878/",
+      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කිරිම වෙනුවෙන් විපක්ෂය නගන තර්කවල කිසිදු පදනමක් නැහැ – නි. අමාත්‍ය සුනිල් වටගල",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820868/",
+      "headline": "එල්නිනෝවට මුහුණදීම සඳහා මහ කන්නය වේලාසනින් ආරම්භ කරනවා – අමාත්‍ය වසන්ත සමරසිංහ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820871/",
+      "headline": "අල්ලසට හා දූෂණයට එරෙහිව විධිමත් පරීක්ෂණ ක්‍රියාත්මකයි – අධ්‍යක්ෂ ජනරාල් රංග දිසානායක අල්ලස් හෝ දූෂණ චෝදනා විමර්ෂණ කොමිෂන් සභාව",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820867/",
+      "headline": "දෙවිනුවර කාවඩි නටන්න මීගමුවෙන් ගිය තුන්දෙනෙක් කුඩුත් එක්ක අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820864/",
+      "headline": "நாய் குறுக்கே பாய்ந்ததால் விபத்து: மோட்டார் சைக்கிள் சாரதி உயிரிழப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820842/",
+      "headline": "ජාත්‍යන්තර දේශසීමා සෞඛ්‍ය ආරක්ෂාව තවදුරටත් ශක්තිමත් කරන කොළඹ වරායේ නව පස්මහල් වරාය සෞඛ්‍ය කාර්යාලය ජනතා අයිතියට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820855/",
+      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 83,661ක් දක්වා ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820849/",
+      "headline": "இலங்கையில் 83,000 ஐக் கடந்தது டெங்கு நோயாளர்களின் எண்ணிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/29/820846/",
+      "headline": "சீன மனிதவடிவ ரோபோக்களுக்கு அமெரிக்காவில் தடை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/07/29/820843/",
       "headline": "வாலான ஊழல் தடுப்புப் பிரிவு பொலிஸ் கான்ஸ்டபிள் துப்பாக்கியால் சுட்டுத் தற்கொலை!",
@@ -130,11 +180,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/29/820756/",
-      "headline": "පිණ්ඩපාත චාරිකාවේ නිරත වූ මහා සංඝරත්නයට පිරිකර පූජා කිරීමට ජනාධිපති ලේකම් එක්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/07/29/820752/",
       "headline": "ඇසළ පුර පසළොස්වක පොහොය අදයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -175,72 +220,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/28/820725/",
-      "headline": "විදෙස් සංචාරකයින්ගේ පැමිණීම වාර්තාගත ලෙස ඉහළට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/07/29/cpc-signals-fuel-price-cut-amid-global-oil-decline",
+      "headline": "CPC Signals Fuel Price Cut Amid Global Oil Decline",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 85
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/28/820721/",
-      "headline": "2026 ජාතික ව්‍යාපාර විශිෂ්ටතා සම්මාන උලළේදී ජාතික ලොතරැයි මණ්ඩලය රාජ්‍ය සේවා අංශයේ සම්මානයට නිර්දේශ වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820714/",
-      "headline": "ණය ශ්‍රේණිගත කිරීම්වලින් ශ්‍රී ලංකාව ට්‍රිපල් සී ප්ලස් මට්ටමට පැමිණීම ආර්ථිකයේ ස්ථාවරත්වය මැනීමේ හොඳ මිනුමක් – මහාචාර්ය වසන්ත අතුකෝරල",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820701/",
-      "headline": "ලෝකයේ නැගී එන ආර්ථිකයන් අතර ශ්‍රී ලංකාව 4වන තැනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820699/",
-      "headline": "අධිකරණ ක්‍රියාවලිය කාර්යක්ෂම සහ විධිමත් කිරීමට අධිකරණ සංවිධාන පනත සංශෝධනය කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820708/",
-      "headline": "කඩදාසි රහිත රේගු ප්‍රකාශන ක්‍රමවේදය ඔක්තෝබර් 01 වැනිදා සිට ක්‍රියාත්මක කිරීමට සූදානම් – ජනාධිපති ලේකම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820696/",
-      "headline": "නාවල–නාරාහේන්පිට දුම්රිය හරස් මාර්ගයේ ප්‍රතිසංස්කරණ හේතුවෙන් දුම්රිය ධාවනය සීමා කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820692/",
-      "headline": "නිවාස නොමැති ජනතාව සඳහා රජයේ මැදිහත්වීමෙන් මේ වසරේ දී නිවාස 30,000ක් ඉදිකිරීමේ වැඩපිළිවෙළ සාර්ථකව ක්‍රියාත්මකයි – ඇමති උපාලි පන්නිලගේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820689/",
-      "headline": "හෙළයේ රන් ස්වරය සුජාතා අත්තනායකට රාජ්‍ය ඇගයීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/28/820684/",
-      "headline": "පිලිපීනය හා ශ්‍රී ලංකාව අතර වෙළෙඳ හා ආයෝජන සබඳතා තවදුරටත් පුළුල් කර ගැනීමට අවධානය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/chocolate-coated-%e2%80%98kush%e2%80%99-worth-rs-14-8-mn-seized-at-bia",
-      "headline": "Chocolate-Coated ‘Kush’ Worth Rs. 14.8 Mn Seized",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/tsunami-alert-issued-after-magnitude-7-1-earthquake-struck-japan-s-kumamoto-no-threat-to-sri-lanka",
-      "headline": "Japan Struck By M 7.1 Earthquake; No Threat to SL",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/28/s-p-global-affirms-sri-lanka%e2%80%99s-sovereign-rating-at-%e2%80%98ccc-c%e2%80%99-with-stable-outlook",
+      "headline": "S&P Affirms Sri Lanka Rating At CCC+/C",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/sarath-weerawansa-released-on-bail-over-alleged-vehicle-misuse-case",
       "headline": "Sarath Weerawansa Released on Bail",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/28/tsunami-alert-issued-after-magnitude-7-1-earthquake-struck-japan-s-kumamoto-no-threat-to-sri-lanka",
+      "headline": "Japan Struck By M 7.1 Earthquake; No Threat to SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
