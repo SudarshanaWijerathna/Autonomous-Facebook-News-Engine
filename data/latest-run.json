@@ -1,14 +1,19 @@
 {
-  "runId": "2510bde4",
-  "startedAt": "2026-07-29T18:29:24.588Z",
-  "finishedAt": "2026-07-29T18:30:46.984Z",
+  "runId": "b0b5b794",
+  "startedAt": "2026-07-30T03:49:02.647Z",
+  "finishedAt": "2026-07-30T03:51:13.210Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 45,
   "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/07/29/43-containers-worth-of-plastic-pellets-collected-from-msc-elsa-3-spill",
+      "headline": "43 Containers Recovered From MSC Elsa 3 Spill",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/07/29/over-1-000-new-exporters-join-sri-lanka-s-export-sector",
       "headline": "Export Sector Gains 1,000+ New Exporters",
@@ -20,18 +25,78 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/29/820958/",
-      "headline": "අනාගත ශ්‍රී ලංකා හෙල්ල විසිකිරීමේ ශූරයින් සොයා යන ජැව්ලින් ෆියෙස්ටා 31 වනදා ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/07/29/820953/",
       "headline": "දිවයිනේ සංචාරක කලාප විදෙස් සංචාරකයින්ගෙන් පිරී යයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/821007/",
+      "headline": "இலங்கைக்கு வந்திறங்கிய 104 மெட்ரோ பஸ்கள்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/821010/",
+      "headline": "மனித கடத்தலுக்கு எதிரான சர்வதேச தினம் இன்று",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/821001/",
+      "headline": "ஆர்ஜன்டினாவிற்கு எதிராக ஒழுக்காற்று நடவடிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/30/820993/",
+      "headline": "සුවසැරියෙන් යතුරුපැදි හදිසි ප්‍රතිකාර සේවාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/820994/",
+      "headline": "இலங்கைக்கு வெள்ளிப் பதக்கம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/30/820983/",
+      "headline": "අමෙරිකාවේ රුධිර සංචිතවල හිඟයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/29/820964/",
+      "headline": "පැරෂුටයක් මුහුදට කඩා වැටී විදෙස් ජාතික කාන්තාවක් මිය යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/820986/",
+      "headline": "வரலாற்று சிறப்புமிக்க ருஹூணு பெரஹெரவில் ஜனாதிபதி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/30/820976/",
+      "headline": "හෙරොයින් සමඟ සැකකාරියක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/820977/",
+      "headline": "கடற்பகுதிகளில் பலத்த காற்று",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/30/820971/",
+      "headline": "ඓතිහාසික රුහුණු කතරගම මහා දේවාලයේ ඇසළ පෙරහර නැරඹීමට ජනපති එක් වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/30/820967/",
+      "headline": "පළාත් රැසකට තරමක තද වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/07/29/820948/",
       "headline": "ගෝලීය ආර්ථික අභියෝග හමුවේ වුවද ශ්‍රී ලංකාව හා මාලදිවයින අතර ශක්තිමත් ආර්ථික සබඳතාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/30/820982/",
+      "headline": "பெரசூட் கடலில் விழுந்து சுற்றுலாப் பயணி பலி",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -155,103 +220,33 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820830/",
-      "headline": "ஜப்பானில் சக்திவாய்ந்த நிலநடுக்கம்: 13 பேர் உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820826/",
-      "headline": "பிராந்திய கைத்தொழில்பேட்டைகளில் 23 புதிய திட்டங்களுக்கு காணி ஒதுக்கீடு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820820/",
-      "headline": "ජපානයේ ප්‍රබල භූමිකම්පනයෙන් 13කට දිවි අහිමිවෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820801/",
-      "headline": "ජාතික සුපිළිපන් සතියේ තෙවන දිනය අදයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820819/",
-      "headline": "பல்நிலை போக்குவரத்து நிலையங்களுக்கு புதிய நிர்வாகம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820796/",
-      "headline": "රටක සැබෑ දියුණුව මනිනු ලබන්නේ ජනතාවගේ ගුණධර්ම සහ ආධ්‍යාත්මික වර්ධනය මතයි – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820809/",
-      "headline": "අයිස් සමග “පොල්හේන මල්ලි” අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820812/",
-      "headline": "நிகழ்நிலைச் சொத்துக்கள் மற்றும் சேவை வழங்குநர்களை ஒழுங்குமுறைப்படுத்த சட்ட நடவடிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820802/",
-      "headline": "පාකිස්ථාන කාන්තා කණ්ඩායම පරදා එක්දින තරගාවලියේ ජය ශ්‍රී ලංකාවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820800/",
-      "headline": "காகிதமற்ற சுங்க அறிவித்தல் முறைமை அக்டோபர் முதல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820805/",
-      "headline": "සිය රාජකාරී ගිනි අවියෙන් වෙඩි තබාගෙන සියදිවි හානිකරගත් වලානේ කොස්තාපල්වරයා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820797/",
-      "headline": "சுற்றுலாப் பயணிகளின் எண்ணிக்கை 13 இலட்சத்தைக் கடந்தது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/29/820785/",
-      "headline": "ගෝලීය සංවර්ධනයට චීනයේ දායකත්වය අඛණ්ඩව ලබාදෙන බවට චීන විදේශ ඇමතිගෙන් සහතිකයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/29/820792/",
-      "headline": "வடக்கு – கிழக்கு மக்களுக்கு அடுத்த 2 ஆண்டுகளில் 13,000 வீடுகள்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/07/28/s-p-global-affirms-sri-lanka%e2%80%99s-sovereign-rating-at-%e2%80%98ccc-c%e2%80%99-with-stable-outlook",
       "headline": "S&P Affirms Sri Lanka Rating At CCC+/C",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/29/cpc-signals-fuel-price-cut-amid-global-oil-decline",
-      "headline": "CPC Signals Fuel Price Cut Amid Global Oil Decline",
       "reason": "category-cap-reached (Business: 1/1 today)",
       "score": 81
     },
     {
+      "url": "https://newsfirst.lk/2026/07/29/104-metro-buses-imported-to-boost-public-transport-services",
+      "headline": "104 Metro Buses Imported To Boost Public Transport",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (48 < 65)",
+      "reason": "score-below-threshold (48 < 75)",
       "score": 48
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (45 < 65)",
+      "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
   ],
