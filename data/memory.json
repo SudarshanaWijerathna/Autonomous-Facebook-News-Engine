@@ -874,5 +874,29 @@
     "score": 85,
     "addedAt": "2026-07-30T03:51:13.209Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/30/met-dept-issues-red-alert-for-strong-winds-and-rough-seas",
+    "contentHash": "2f126ba7aefaa71effcbd18de05449ef367f7d6766bd6b694bb4becf39272d6d",
+    "headline": "Met. Dept. Issues Red Alert",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-30T15:09:37.644Z",
+    "fbPostId": "1278802861974766_122106303351402039",
+    "category": "Breaking",
+    "score": 88,
+    "addedAt": "2026-07-30T15:10:29.351Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/30/mepa-reports-surge-in-plastic-debris-washing-ashore-linked-to-sunken-msc-elsa-3",
+    "contentHash": "ea62926cb88ff02bbbf583d27cf0b11991bcc9ce905a8ad7445d7b1cf32332c3",
+    "headline": "MEPA Reports Surge in Plastic Debris",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-30T15:09:37.644Z",
+    "fbPostId": "1278802861974766_122106303453402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-07-30T15:10:39.800Z",
+    "isShadow": false
   }
 ]
