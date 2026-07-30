@@ -1,18 +1,23 @@
 {
-  "runId": "1a3844dd",
-  "startedAt": "2026-07-30T15:09:08.455Z",
-  "finishedAt": "2026-07-30T15:10:39.801Z",
+  "runId": "84052f66",
+  "startedAt": "2026-07-30T16:57:32.844Z",
+  "finishedAt": "2026-07-30T16:58:49.293Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 48,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://adaderana.lk/news/cms7icf8z0008356qlpsc8cta",
-      "headline": "Sri Lanka's Rumesh Tharanga qualifies for C'wealth Games javelin throw final",
-      "reason": "batch-cross-source-duplicate-of-ada-derana-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/07/30/met-dept-issues-red-alert-for-strong-winds-and-rough-seas",
+      "headline": "Met. Dept. Issues Red Alert",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/30/821249/",
+      "headline": "වසර 9කට පසු සැබෑ වුණ වෝගන් වතු යායේ සිහින",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/07/30/821245/",
@@ -185,11 +190,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/30/821097/",
-      "headline": "තාරුණ්‍ය ආර්ථික ක්‍රියාවලියට දායක කර ගන්නවා – විධිමත් වැඩපිලිවෙලක් ක්‍රියාත්මකයි – නි. අමාත්‍ය දිනිදු සමන් හෙන්නායක",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/07/30/821104/",
       "headline": "ஹொரணை, பிலியந்தல பகுதிகளில் நீர் விநியோகத்தை அதிகரிக்க திட்டம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -205,28 +205,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/30/four-remanded-over-physiotherapist%e2%80%99s-death",
-      "headline": "Four Remanded Over Physiotherapist’s Death",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/07/30/motorbike-service-for-faster-suwa-seriya-response",
+      "headline": "Motorbike Service For Faster Suwa Seriya Response",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/07/30/former-presidential-secretary-sugeeshwara-bandara-further-remanded-until-august-12",
       "headline": "Sugeeshwara Bandara Further Remanded Until Aug 12",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/30/foreign-woman-killed-after-paramotor-crashes-off-bentota-coast",
-      "headline": "Foreign Woman Killed After Paramotor Crashes",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/30/court-awaits-ag-advice-in-namal-s-laundering-case",
+      "headline": "Court Awaits AG Advice in Namal's Laundering Case",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "headline": "Should We Feed The Strays?",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
