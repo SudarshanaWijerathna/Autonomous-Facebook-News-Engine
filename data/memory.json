@@ -946,5 +946,29 @@
     "score": 81,
     "addedAt": "2026-07-31T08:17:25.523Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/31/judgment-day-for-pujith-hemasiri-in-easter-attacks-case",
+    "contentHash": "a9f3414440a60b290405527f07bee4a2064a698396cb0e8b4d6864b4a5e807a5",
+    "headline": "Judgment Day For Pujith & Hemasiri",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-31T17:01:51.502Z",
+    "fbPostId": "1278802861974766_122106637605402039",
+    "category": "Sri Lanka",
+    "score": 90,
+    "addedAt": "2026-07-31T17:04:09.239Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/31/sri-lanka-women-make-statement-with-six-wicket-win-over-pakistan",
+    "contentHash": "e884510ce004c70d2c19747bff1ce74ee9c0b0c9c5a18acb080f2fc9a86f0a16",
+    "headline": "Sri Lanka Women Defeat Pakistan by Six Wickets",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-31T17:01:51.501Z",
+    "fbPostId": "1278802861974766_122106637677402039",
+    "category": "Sports",
+    "score": 76,
+    "addedAt": "2026-07-31T17:04:18.410Z",
+    "isShadow": false
   }
 ]
