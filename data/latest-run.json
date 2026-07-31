@@ -1,7 +1,7 @@
 {
-  "runId": "84052f66",
-  "startedAt": "2026-07-30T16:57:32.844Z",
-  "finishedAt": "2026-07-30T16:58:49.293Z",
+  "runId": "adfba461",
+  "startedAt": "2026-07-31T04:15:18.857Z",
+  "finishedAt": "2026-07-31T04:16:34.338Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 48,
@@ -10,13 +10,43 @@
   "published": 1,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/07/30/met-dept-issues-red-alert-for-strong-winds-and-rough-seas",
-      "headline": "Met. Dept. Issues Red Alert",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/07/30/821249/",
       "headline": "වසර 9කට පසු සැබෑ වුණ වෝගන් වතු යායේ සිහින",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/31/821279/",
+      "headline": "பொலிஸார் இருவர் உட்பட மூவருக்குக் கடூழிய சிறை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/31/821292/",
+      "headline": "நாட்டின் வளர்ச்சிக்குத் தொலைநோக்குடைய இளஞ்சந்ததியினர்  அவசியம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/31/821287/",
+      "headline": "ඇමරිකාවේ නව වෙළඳ වාරණයන්ට චීනයේ දැඩි විරෝධය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/31/821266/",
+      "headline": "ජාතික සුපිළිපන් සතියේ අවසන් දිනය අදයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/31/821271/",
+      "headline": "නිවසක් තුළ පුරාවස්තු සොයා කැණීම් කළ දෙදෙනෙක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/07/31/821262/",
+      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/31/821264/",
+      "headline": "அஸ்வெசும முதியோர் கொடுப்பனவு கணக்குகளில்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -30,6 +60,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/07/31/821269/",
+      "headline": "හෙරොයින් සමග සැකකාරියක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/07/30/821234/",
       "headline": "පළාත් කිහිපයකට මි.මී 100 ට වැඩි තද වැසි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -40,6 +75,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/07/31/821265/",
+      "headline": "අවුරුදු 70ට වැඩි වැඩිහිටියන්ගේ ජූලි මාසයේ දීමනාව අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/07/30/821224/",
       "headline": "සජබ පාලනය යටතේ පවතින පාතහේවාහැට ප්‍රාදේශීය සභාවේ සභාපතිට එරෙහිව අල්ලස් කොමිසමට පැමිණිල්ලක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -47,6 +87,11 @@
     {
       "url": "https://www.itnnews.lk/2026/07/30/821221/",
       "headline": "සුගීෂ්වර බණ්ඩාර තවදුරටත් රිමාන්ඩ්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/07/31/821270/",
+      "headline": "மழை மற்றும் வறட்சி!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -160,61 +205,10 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/30/821127/",
-      "headline": "2032 හෝ 2035 වන විට ලංකාවේ නාගරික ප්‍රවාහනය මෙට්‍රෝ බස් රථ මගින්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/30/821114/",
-      "headline": "ඩෙංගු අවදානම් කලාප 175 ක් තවදුරටත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/30/821118/",
-      "headline": "3,500க்கும் அதிகமான தரமற்ற ஹெல்மட்கள் பறிமுதல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/30/821115/",
-      "headline": "சுகீஸ்வர பண்டாரவுக்கு மீண்டும் விளக்கமறியல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/30/821095/",
-      "headline": "ප්‍රමිතියෙන් තොර ආරක්ෂිත හිස්වැසුම් සම්බන්ධයෙන් වැටලීම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/30/821109/",
-      "headline": "மன்னார் பேசாலை – முருகன் கோவில் வீதி மக்கள் பயன்பாட்டிற்கு திறப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/30/821104/",
-      "headline": "ஹொரணை, பிலியந்தல பகுதிகளில் நீர் விநியோகத்தை அதிகரிக்க திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/30/821101/",
-      "headline": "நீதிமன்றில் ஆஜர்படுத்தப்பட்ட சுகீஸ்வர",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/30/821070/",
-      "headline": "හොරණ සහ පිළියන්දලට අඛණ්ඩ ජල සැපයුමක් සඳහා නව ජල පිරිපහදුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/30/motorbike-service-for-faster-suwa-seriya-response",
-      "headline": "Motorbike Service For Faster Suwa Seriya Response",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/30/former-presidential-secretary-sugeeshwara-bandara-further-remanded-until-august-12",
-      "headline": "Sugeeshwara Bandara Further Remanded Until Aug 12",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/07/30/four-remanded-over-physiotherapist%e2%80%99s-death",
+      "headline": "Four Remanded Over Physiotherapist’s Death",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/07/30/court-awaits-ag-advice-in-namal-s-laundering-case",
@@ -223,10 +217,16 @@
       "score": 65
     },
     {
+      "url": "https://newsfirst.lk/2026/07/30/charith-abeysinghe-freed-after-fulfilling-bail-terms",
+      "headline": "Charith Abeysinghe Freed",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
