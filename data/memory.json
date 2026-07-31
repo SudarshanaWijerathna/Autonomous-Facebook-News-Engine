@@ -922,5 +922,29 @@
     "score": 75,
     "addedAt": "2026-07-31T04:16:34.337Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/31/three-associates-of-kanjipani-imran-arrested-in-malaysia",
+    "contentHash": "de6eff7162f8e1573c38df184047c73ae4427208b6dcb7d6ca234ce8ace1a033",
+    "headline": "Associates of Kanjipani Imran Arrested in Malaysia",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-31T08:16:25.195Z",
+    "fbPostId": "1278802861974766_122106507537402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-07-31T08:17:16.583Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/07/31/adb-approves-200-million-to-help-sri-lanka-tackle-middle-east-economic-impact",
+    "contentHash": "5efe346d03bdd10789114893c50631af3fd1566f96d69ff4a860ba3754951d41",
+    "headline": "ADB Approves $200M For Sri Lanka",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-07-31T08:16:25.195Z",
+    "fbPostId": "1278802861974766_122106507609402039",
+    "category": "Business",
+    "score": 81,
+    "addedAt": "2026-07-31T08:17:25.523Z",
+    "isShadow": false
   }
 ]
