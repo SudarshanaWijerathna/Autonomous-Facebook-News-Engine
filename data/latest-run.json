@@ -1,14 +1,24 @@
 {
-  "runId": "81a9c66f",
-  "startedAt": "2026-07-31T17:01:26.826Z",
-  "finishedAt": "2026-07-31T17:04:18.411Z",
+  "runId": "4ba074d9",
+  "startedAt": "2026-07-31T18:49:12.291Z",
+  "finishedAt": "2026-07-31T18:50:24.603Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/07/31/sri-lanka-women-make-statement-with-six-wicket-win-over-pakistan",
+      "headline": "Sri Lanka Women Defeat Pakistan by Six Wickets",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/31/judgment-day-for-pujith-hemasiri-in-easter-attacks-case",
+      "headline": "Judgment Day For Pujith & Hemasiri",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://www.itnnews.lk/2026/07/31/821626/",
       "headline": "ප්‍රාදේශීය පරිපාලන ඒකක සංවර්ධන ඒකක බවට පරිවර්තනය කිරීමේ සැලැස්මක් සකස් කරන්න – ජනපති",
@@ -228,19 +238,31 @@
     {
       "url": "https://newsfirst.lk/2026/07/31/customs-flags-thailand-link-in-growing-narcotics-threat",
       "headline": "A Holiday Abroad, A Drug Charge at Home?",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/31/drug-smugglers-don-t-need-criminals-sometimes-they-need-tourists",
+      "headline": "One Bag Could Cost You Your Freedom",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
   ],
