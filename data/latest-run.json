@@ -1,18 +1,48 @@
 {
-  "runId": "17e8a627",
-  "startedAt": "2026-08-01T14:25:05.440Z",
-  "finishedAt": "2026-08-01T14:26:43.391Z",
+  "runId": "334e9556",
+  "startedAt": "2026-08-01T16:27:36.796Z",
+  "finishedAt": "2026-08-01T16:28:44.938Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 41,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/minor-flood-warning-issued-for-kelani-river-basin-areas",
       "headline": "Minor Flood Warning Issued for Kelani River Basin",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/a-nation-united-operation-seizes-drugs-worth-over-rs-102-billion",
+      "headline": "'A Nation United' Seizes Rs. 102B Drug Haul",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/rumesh-tharanga-ends-20-year-wait-clinches-sri-lanka-s-first-commonwealth-javelin-gold",
+      "headline": "Rumesh Tharanga Ends 20-Year Wait",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821827/",
+      "headline": "ශිෂ්‍යත්ව විභාගයට අදාළ උපකාරක පන්ති අගෝස්තු 5 මධ්‍යම රාත්‍රියේ සිට තහනම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821805/",
+      "headline": "மஹர சிறைச்சாலை மோதல் – ஒருவர் உயிரிழப்பு; நால்வர் வைத்தியசாலையில் அனுமதி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821819/",
+      "headline": "මහර බන්ධනාගාරයේ නොසන්සුන්තාවයෙන් එක් රැඳවියෙක් මරුට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821816/",
+      "headline": "උසස් පෙළ උපකාරක පන්ති පැවැත්වීම අගෝස්තු 04 මධ්‍යම රාත්‍රියෙන් තහනම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/01/821812/",
@@ -22,11 +52,6 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/01/821808/",
       "headline": "ரத்மலானையில் துப்பாக்கிச் சூடு : ஒருவர் உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821805/",
-      "headline": "மஹர சிறைச்சாலையில் அமைதியின்மை!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -67,11 +92,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/01/821777/",
       "headline": "හෙල්ල විසි කිරීමේ ශූර රුමේෂ් තරංගට අගමැතිනියගෙන් සුබ පැතුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821770/",
-      "headline": "யாழ் ஊடகவியலாளர்களைச் சந்தித்தார் பிரதி அமைச்சர் கௌசல்யா ஆரியரத்ன!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -170,6 +190,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821700/",
+      "headline": "மிதந்து வரும் கொள்கலன்கள் – மீனவர்களுக்கு எச்சரிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/01/821690/",
       "headline": "මීගමුව මුහුදේ දී ධීවර යාත්‍රා කිහිපයක් අනතුරට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -215,47 +240,39 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/01/821666/",
-      "headline": "හරිත දේශගුණ අරමුදලේ නැගෙනහිර හා දකුණු ආසියාවේ කලාපීය සංවාදය සැප්තැම්බර් මස කොළඹදී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821659/",
-      "headline": "களனி கங்கை : வெள்ள எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821656/",
-      "headline": "யாழ்ப்பாணம் மற்றும் கண்டி வரை மெட்ரோ பேருந்து!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821653/",
-      "headline": "தங்கப் பதக்கம் வென்ற ருமேஷ் தரங்க!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/01/ugc-releases-university-admission-cut-off-marks",
       "headline": "UGC Releases University Admission Cut-Off Marks",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 4/3 today)",
       "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/17-containers-lost-at-sea-fishermen-urged-to-exercise-caution",
+      "headline": "17 Containers Lost At Sea",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/rescue-operation-launched-for-fishermen-off-negombo-coast",
       "headline": "Rescue Operation Off Negombo Coast",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
+      "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
+      "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
   ],
