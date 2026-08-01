@@ -1006,5 +1006,29 @@
     "score": 78,
     "addedAt": "2026-08-01T07:43:14.822Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/01/a-nation-united-operation-seizes-drugs-worth-over-rs-102-billion",
+    "contentHash": "10fda95f078105c9edb77de09dbd7a105f0da76462605504340044a5903455f3",
+    "headline": "'A Nation United' Seizes Rs. 102B Drug Haul",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-01T14:25:30.807Z",
+    "fbPostId": "1278802861974766_122106900405402039",
+    "category": "Sri Lanka",
+    "score": 93,
+    "addedAt": "2026-08-01T14:26:26.604Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/01/rumesh-tharanga-ends-20-year-wait-clinches-sri-lanka-s-first-commonwealth-javelin-gold",
+    "contentHash": "9230bfa784ea36461b8311fe15dcbe4bec7e8e1b84caf363e0906abb239d6286",
+    "headline": "Rumesh Tharanga Ends 20-Year Wait",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-01T14:25:30.807Z",
+    "fbPostId": "1278802861974766_122106900519402039",
+    "category": "Sports",
+    "score": 88,
+    "addedAt": "2026-08-01T14:26:43.390Z",
+    "isShadow": false
   }
 ]
