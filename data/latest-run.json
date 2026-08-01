@@ -1,13 +1,13 @@
 {
-  "runId": "4ba074d9",
-  "startedAt": "2026-07-31T18:49:12.291Z",
-  "finishedAt": "2026-07-31T18:50:24.603Z",
+  "runId": "367a6960",
+  "startedAt": "2026-08-01T05:57:03.253Z",
+  "finishedAt": "2026-08-01T05:58:26.258Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/07/31/sri-lanka-women-make-statement-with-six-wicket-win-over-pakistan",
@@ -15,9 +15,84 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/07/31/judgment-day-for-pujith-hemasiri-in-easter-attacks-case",
-      "headline": "Judgment Day For Pujith & Hemasiri",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821680/",
+      "headline": "நோர்வூட் பிரதேச செயலக ஊழியர் இருவர் கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821665/",
+      "headline": "கடலுக்குச் செல்ல வேண்டாம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821668/",
+      "headline": "ජාතික හස්ත කර්මාන්ත අධිකාරියක් පිහිටුවීමට සැළසුම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821667/",
+      "headline": "සෞඛ්‍ය සේවයේ වෘත්තීය ඛාණ්ඩ 4ක ක්ෂේත්‍ර 14ක් සඳහා 1,444කට නව පත්වීම් ප්‍රදානය අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821666/",
+      "headline": "හරිත දේශගුණ අරමුදලේ නැගෙනහිර හා දකුණු ආසියාවේ කලාපීය සංවාදය සැප්තැම්බර් මස කොළඹදී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821659/",
+      "headline": "களனி கங்கை : வெள்ள எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821649/",
+      "headline": "හෙල්ල විසි කිරීමේ රන් පදක්කම රුමේෂ්ට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821656/",
+      "headline": "யாழ்ப்பாணம் மற்றும் கண்டி வரை மெட்ரோ பேருந்து!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821653/",
+      "headline": "தங்கப் பதக்கம் வென்ற ருமேஷ் தரங்க!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821650/",
+      "headline": "பல்கலைக்கழக பிரவேசத்திற்கான வெட்டுப் புள்ளிகள் வெளியீடு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/01/821646/",
+      "headline": "பலத்த மழைக்கு வாய்ப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821643/",
+      "headline": "ධීවර සහ නාවික ප්‍රජාවට කාලගුණයෙන් අනතුරු ඇඟවීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821638/",
+      "headline": "මිරිස්සේ සිදුවූ වෙඩි තැබීමකින් පුද්ගලයෙකු තුවාල ලබයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821635/",
+      "headline": "දියේ ගිලී පුද්ගලයෙකු අතුරුදන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821632/",
+      "headline": "අයිස් මත්ද්‍රව්‍ය සමග සැකකරුවෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/01/821629/",
+      "headline": "නිරිත දිග මෝසම තවදුරටත් සක්‍රීයයි – අද දිනයේත් වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/07/31/821626/",
@@ -155,114 +230,27 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/31/821502/",
-      "headline": "කසළ කළමනාකරණය සම්බන්ධයෙන් වූ පිවිතුරු පුරවර නුදුරේදීම",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/07/31/president-elevates-lasantha-rodrigo-to-rank-of-general",
+      "headline": "President Elevates Lasantha Rodrigo to General",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://www.itnnews.lk/2026/07/31/821488/",
-      "headline": "කොලොන්නාවේ ගංවතුර පාලන ව්‍යාපෘති කඩිනම් කිරීමට ඒකාබද්ධ ආයතනික සැලැස්මක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/31/821485/",
-      "headline": "சட்டவிரோதமாக இந்தியாவுக்கு கடத்த முயன்ற 500 கிலோ சங்கு பறிமுதல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821482/",
-      "headline": "දකුණු කොරියාවේ අධ්‍යාපනය සමග රැකියා අවස්ථා විවර කර ගැනීමට සාකච්ඡාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/31/821474/",
-      "headline": "லங்கா மெட்ரோ ட்ரான்சிட் நிறுவனத்தில் பஸ் சாரதி வேலைவாய்ப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821465/",
-      "headline": "පස්කන්දක් කඩා වැටීමෙන් මහනුවර කම්කරුවෙකු තුවාල ලබා රෝහල්ගත කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821471/",
-      "headline": "දුම්රිය තුළ වැඩි මිලට ජල බෝතල් විකිණූ ආයතනයට රු. ලක්ෂ 5ක දඩයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821468/",
-      "headline": "රෙජිස්ට්‍රාර් ජෙනරාල් දෙපාර්තමේන්තුවේ උතුරු කලාප ලේඛනාගාරය විවෘත කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/31/821466/",
-      "headline": "தும்மலதெனிய பகுதியில் லொறியுடன் முச்சக்கரவண்டி மோதி விபத்து – ஒருவர் உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821453/",
-      "headline": "මොරොක්කෝවේ සිට සංක්‍රමණිකයින් දහස් ගණනක් ස්පාඤ්ඤයේ සියුටා ප්‍රදේශයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/07/31/821451/",
-      "headline": "நாட்டின் வளர்ச்சிக்கு திறமையுள்ள இளைஞர் சமுதாயம் அவசியம் : பிரதமர் ஹரிணி",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821457/",
-      "headline": "මිලියන 700 ඉක්මවූ නීතිවිරෝධී දේපොළ රජයට පවරා ගැනීමට අවශ්‍ය නීති කටයුතු ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821435/",
-      "headline": "හක්බෙල්ලන් තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821447/",
-      "headline": "ජාතික උසස් කාර්යසාධන මධ්‍යස්ථානයේ නිල සංකල්ප පත්‍රිකාව ක්‍රීඩා ඇමතිට භාර දෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/07/31/821442/",
-      "headline": "කාම්බෝජයේ පැවැත්වෙන දෙවැනි අන්තර් පාර්ලිමේන්තු කථානායකවරුන්ගේ සමුළුවට කථානායකවරයාට ඇරයුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/31/thousands-of-teens-arrested-in-sri-lanka-s-anti-drug-war",
-      "headline": "Thousands Of Teens Arrested in Anti-Drug War",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/31/customs-flags-thailand-link-in-growing-narcotics-threat",
-      "headline": "A Holiday Abroad, A Drug Charge at Home?",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/31/drug-smugglers-don-t-need-criminals-sometimes-they-need-tourists",
-      "headline": "One Bag Could Cost You Your Freedom",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "headline": "Should We Feed The Strays?",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/07/31/constable-arrested-over-controversial-facebook-posts",
+      "headline": "Constable Arrested Over Controversial FB Post",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     },
     {
       "url": "https://newsfirst.lk/2026/07/20/tiktok-hero-solving-bangkok%e2%80%99s-parking-nightmare",
       "headline": "TikTok Hero Solving Bangkok’s Parking Nightmare",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     }
   ],
