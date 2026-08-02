@@ -1,14 +1,39 @@
 {
-  "runId": "d3f17207",
-  "startedAt": "2026-08-02T09:49:57.942Z",
-  "finishedAt": "2026-08-02T09:51:21.977Z",
+  "runId": "1de587d7",
+  "startedAt": "2026-08-02T11:39:44.797Z",
+  "finishedAt": "2026-08-02T11:40:56.596Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 46,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/02/grade-5-scholarship-exam-tuition-ban-from-midnight-on-august-5",
+      "headline": "Grade 5 Scholarship Exam Tuition Ban from 5th Aug",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821978/",
+      "headline": "මුලතිව්හිදී විශේෂ සිවිල් – හමුදා සම්බන්ධීකරණ සාකච්ඡාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821975/",
+      "headline": "ගාල්ල බන්ධනාගාරයේ රැඳවියෙක් පලායයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821969/",
+      "headline": "මීගමුව මුහුදේ අතුරුදන් වූ ධීවරයින් දෙදෙනාගෙන් එක් අයෙකුගේ සිරුරක් සොයාගනියි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821959/",
+      "headline": "ඉතාලියේ ප්‍රධාන නගර රැසකට අධික උෂ්ණත්වය සම්බන්ධයෙන් අනතුරු ඇඟවීම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/02/821962/",
       "headline": "UNP – SJB கூட்டணி சேர்ந்தாலும் அடுத்த ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவே!",
@@ -95,11 +120,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/02/821896/",
-      "headline": "කාසල්රි සහ මාවුස්සාකැලේ ජලාශවල ජල මට්ටම ඉහළට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/02/821880/",
       "headline": "මහා පරිමාණ ගංජා ජාවාරම්කරුවකු STF නිලධාරීන්ගේ අත්අඩංගුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -127,6 +147,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/02/821869/",
       "headline": "මහර බන්ධනාගාරයේ පාලනය STF අතට – තත්ත්වය සාමකාමීයි – අධිකරණ ඇමති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821866/",
+      "headline": "පේරු රාජ්‍යයේ සංචාරක ගුවන් යානයක් අනතුරට පත්වීමෙන් එහි සිටි 13 දෙනාම ජීවිතක්ෂයට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -195,48 +220,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821808/",
-      "headline": "ரத்மலானையில் துப்பாக்கிச் சூடு : ஒருவர் உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/02/dengue-cases-drop-by-18",
+      "headline": "Dengue Cases Drop by 18%",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/01/821803/",
-      "headline": "රත්මලානේ වෙඩි තැබීමක් – පුද්ගලයෙකු මරුට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/01/821799/",
-      "headline": "விசேட சுற்றிவளைப்பில் 480 பேர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/01/821796/",
-      "headline": "මහර බන්ධනාගාරය තුළ නොසන්සුන්තාවයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/02/%e2%80%98how-many-lives-this-time-%e2%80%99-namal-says-mahara-unrest-not-isolated-event",
+      "headline": "‘How Many Lives This Time?’ - Namal Rajapaksa",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/02/police-launch-investigation-into-fatal-shooting-in-ratmalana",
       "headline": "Investigation Launched into Ratmalana Shooting",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "max-posts-per-run-reached",
-      "score": 45
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     }
   ],
   "errors": []
