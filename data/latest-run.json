@@ -1,14 +1,19 @@
 {
-  "runId": "7785317f",
-  "startedAt": "2026-08-02T14:27:11.002Z",
-  "finishedAt": "2026-08-02T14:29:06.293Z",
+  "runId": "9bf65b49",
+  "startedAt": "2026-08-02T16:27:59.000Z",
+  "finishedAt": "2026-08-02T16:29:02.934Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 35,
+  "discovered": 87,
+  "afterDedup": 44,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/02/inflation-rises-but-sri-lanka-s-economic-recovery-remains-on-track",
+      "headline": "Inflation Rises; SL's Economic Recovery on Track",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/02/12-hour-water-cut-for-several-areas-in-kandy-today-02",
       "headline": "12-Hr Water Cut for Kandy Today (02)",
@@ -20,6 +25,212 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/02/822023/",
+      "headline": "තද සුළං සහ රළු මුහුද ගැන අනතුරු ඇඟවීමේ නිවේදනයක් – නැවත දැනුම්දෙනතුරු යාත්‍රා නොකරන ලෙස ධීවරයන්ට උපදෙස්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/822020/",
+      "headline": "பொல்கொல்ல அணையின் வான் கதவுகள் திறப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/822017/",
+      "headline": "நாட்டில் இதுவரை 86,000 டெங்கு நோயாளர்கள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/822014/",
+      "headline": "எதிர்வரும் நாட்களில் மழை பெய்யுமா?",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/822011/",
+      "headline": "மஹர சிறை : 104 கைதிகள் வேறு சிறைகளுக்கு இடமாற்றம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/822007/",
+      "headline": "විනිසුරු විශ්‍රාම වයස දීර්ඝ කිරීමේ පනත් කෙටුම්පතට නීතිපතිවරයාගේ අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/822003/",
+      "headline": "මහර බන්ධනාගාරයේ රැඳවියන් 104 දෙනෙකු වෙනත් බන්ධනාගාර 7ක් වෙත මාරුකර යවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821998/",
+      "headline": "අධ්‍යාපනය සෑම දරුවෙකුට හිමිවිය යුතු මූළික අයිතිවාසිකමක් මිසක්, වරප්‍රසාදයක් නොවෙයි – අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821994/",
+      "headline": "යුද්ධ හමුදාධිපති රණක්ෂිතයට පත් යුද්ධ හමුදා රණවිරුවන් හමුවෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821982/",
+      "headline": "ඊශ්‍රායල ප්‍රහාරයන්ගෙන් ගාසා තීරයේ සිවිල් වැසියන් 8ක් ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821978/",
+      "headline": "මුලතිව්හිදී විශේෂ සිවිල් – හමුදා සම්බන්ධීකරණ සාකච්ඡාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821975/",
+      "headline": "ගාල්ල බන්ධනාගාරයේ රැඳවියෙක් පලායයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821959/",
+      "headline": "ඉතාලියේ ප්‍රධාන නගර රැසකට අධික උෂ්ණත්වය සම්බන්ධයෙන් අනතුරු ඇඟවීම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821962/",
+      "headline": "UNP – SJB கூட்டணி சேர்ந்தாலும் அடுத்த ஜனாதிபதி வேட்பாளர் சஜித் பிரேமதாசவே!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821955/",
+      "headline": "රාගම ග්‍රාමසේවා වසම් තුනකට පැනවූ පොලිස් ඇඳිරි නීතිය ඉවත් කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821951/",
+      "headline": "වසරේ මේ දක්වා ඩෙංගු රෝගීන් 86,000ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821942/",
+      "headline": "வரலாற்றுச் சிறப்புமிக்க இல்வத்த அணைக்கட்டு புனரமைப்பு ஆரம்பம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821917/",
+      "headline": "පොළොන්නරුවේ සැඟවුණු නගරයක් සොයා කැනීම් ආරම්භ කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821937/",
+      "headline": "මහර බන්ධනාගාර සිද්ධිය කුමන්ත්‍රණයක ප්‍රතිඵලයක් – අමාත්‍ය හර්ෂණ නානායක්කාර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821932/",
+      "headline": "புத்தளத்திலிருந்து பொத்துவில் வரையான கடற்பிரதேசங்களுக்கு எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821931/",
+      "headline": "ජනාධිපති අපේක්ෂකයා විපක්ෂ නායකවරයායි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821923/",
+      "headline": "මෙරට ද්විතීයික රෝහල් පද්ධතිය සවිමත් කිරීමට පැවති තුන්දින සංවාදය සාර්ථකව අවසන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821926/",
+      "headline": "மாற்றுத்திறனாளிகளுக்கான அணுகல் வசதிகள் தணிக்கை அறிக்கை அமைச்சரிடம் கையளிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821920/",
+      "headline": "මහර සිද්ධියෙන් පසු අනෙකුත් බන්ධනාගාරවල ආරක්ෂක තත්ත්වය ගැන ආරක්ෂක අංශයන්ගේ අවධානයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821916/",
+      "headline": "මහර සිදුවීම සජීවීව විකාශය කිරීම පුදුමයට කරුණක් – පා. මන්ත්‍රී වෛද්‍ය නජිත් ඉන්දික",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821899/",
+      "headline": "මහර බන්ධනාගාරයෙන් පලා යෑමට රැඳවියන්  ගත්  උත්සාහය ආරක්ෂක අංශ විසින් සාර්ථකව ව්‍යර්ත කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821913/",
+      "headline": "மஹர சிறைச்சாலையினுள் 300 அதிரடிப்படை வீரர்கள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821910/",
+      "headline": "கொஸ்லந்த வனப்பகுதியில் 282 கிலோவுக்கும் அதிகமான கஞ்சா கைப்பற்றல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821907/",
+      "headline": "මිලියන 594.3කින් ඓතිහාසික ඉල්වත්ත අමුණ ප්‍රතිසංස්කරණය ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821902/",
+      "headline": "මහර බන්ධනාගාරයේ තත්ත්වය පාලනය කිරීමට STF නිලධාරීන් 300ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821896/",
+      "headline": "කාසල්රි සහ මාවුස්සාකැලේ ජලාශවල ජල මට්ටම ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821880/",
+      "headline": "මහා පරිමාණ ගංජා ජාවාරම්කරුවකු STF නිලධාරීන්ගේ අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821890/",
+      "headline": "මහර බන්ධනාගාරයේ සිදු වූ නොසන්සුන්කාරී තත්ත්වයෙන් ගොඩනැගිලි රැසකට හානි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821887/",
+      "headline": "ශිෂ්‍යත්ව උපකාරක පන්ති පැවැත්වීම අගෝස්තු 05 වෙනිදා මැදියම් රැයෙන් පසු තහනම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/02/821870/",
+      "headline": "கட்டுநாயக்கவில் ரூ. 59 இலட்சம் பெறுமதியான சிகரெட்டுகளுடன் சீன வியாபாரி கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821869/",
+      "headline": "මහර බන්ධනාගාරයේ පාලනය STF අතට – තත්ත්වය සාමකාමීයි – අධිකරණ ඇමති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821866/",
+      "headline": "පේරු රාජ්‍යයේ සංචාරක ගුවන් යානයක් අනතුරට පත්වීමෙන් එහි සිටි 13 දෙනාම ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821863/",
+      "headline": "නව යුද හමුදාපති ධුරයේ වැඩ භාර ගනී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821859/",
+      "headline": "ට්‍රැක්ටර් රථයක් පෙරලී රියදුරු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/02/821852/",
+      "headline": "දුම්වැටි තොගයක් සමග චීන ව්‍යාපාරිකයෙක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/02/mahara-prison-unrest-contained-major-damage-reported",
+      "headline": "Mahara Prison Unrest Contained: Prisons Department",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
       "url": "https://newsfirst.lk/2026/08/02/dengue-cases-drop-by-18",
       "headline": "Dengue Cases Drop by 18%",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
@@ -28,14 +239,14 @@
     {
       "url": "https://newsfirst.lk/2026/08/02/police-launch-investigation-into-fatal-shooting-in-ratmalana",
       "headline": "Investigation Launched into Ratmalana Shooting",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
