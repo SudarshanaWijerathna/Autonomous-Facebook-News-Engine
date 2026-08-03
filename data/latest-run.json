@@ -1,14 +1,19 @@
 {
-  "runId": "26fbca12",
-  "startedAt": "2026-08-03T15:42:00.467Z",
-  "finishedAt": "2026-08-03T15:43:19.750Z",
+  "runId": "cc8f5cc1",
+  "startedAt": "2026-08-03T19:00:27.875Z",
+  "finishedAt": "2026-08-03T19:01:38.621Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 41,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/03/schools-shut-across-kandy-and-nuwara-eliya-tomorrow",
+      "headline": "Schools Shut Across Kandy, Nuwara Eliya Tomorrow",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/03/flood-alert-rapid-rise-in-mahaweli-kelani-river-water-levels",
       "headline": "Rapid Rise in Mahaweli, Kelani River Water Levels",
@@ -18,6 +23,16 @@
       "url": "https://newsfirst.lk/2026/08/03/court-orders-harak-kata-s-transfer-to-high-security-prison",
       "headline": "Court Orders Harak Kata's Transfer to Prison",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822350/",
+      "headline": "තද සුළං සහ රළු මුහුද ගැන කාලගුණයෙන් රතු එළියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822347/",
+      "headline": "පුත්තලම සිට පොතුවිල් දක්වා ධීවර තහනම තවදුරටත්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/03/822337/",
@@ -125,11 +140,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822210/",
-      "headline": "எகிப்தில் 5.3 ரிக்டர் அளவில் நிலநடுக்கம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/03/822269/",
       "headline": "රත්නපුර දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයකට ඉදිරි පැය කිහිපය තුළ සුළු ගංවතුර තත්ත්වයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -167,6 +177,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/03/822242/",
       "headline": "කොරියානු අර්ධද්වීපය පුරා වාර්තාගත උණුසුම් කාලගුණ තත්ත්වයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/03/822237/",
+      "headline": "நுவரெலியா மாவட்டத்திலுள்ள அனைத்து அரசாங்க பாடசாலைகளுக்கும் நாளை விடுமுறை!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -225,16 +240,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/03/822192/",
-      "headline": "හැටන්-කොළඹ පාර දියගලින් වැසෙයි – වාහන ගමනාගමනය සම්පූර්ණයෙන්ම ඇණහිටී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822188/",
-      "headline": "களனி கங்கை தாழ்நில மக்களுக்கு அவசர எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/03/one-dead-families-evacuated-as-disaster-hits-nawalapitiya",
       "headline": "Families Evacuated as Disaster Hits Nawalapitiya",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
@@ -243,26 +248,32 @@
     {
       "url": "https://newsfirst.lk/2026/08/03/house-arrest-plan-proposed-to-ease-sri-lanka-s-prison-congestion",
       "headline": "House Arrest Plan Proposed for Prison Congestion",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/08/03/three-killed-19-injured-in-series-of-road-accidents",
       "headline": "3 Killed, 19 Injured in Series of Road Accidents",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 73
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/03/chinese-beautician-arrested-at-bia-with-rs-3-mn-cigarette-haul",
+      "headline": "Chinese Beautician Arrested at BIA with Cigarettes",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (48 < 65)",
-      "score": 48
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
