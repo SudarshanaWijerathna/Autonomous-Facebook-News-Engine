@@ -1,14 +1,64 @@
 {
-  "runId": "efe2901a",
-  "startedAt": "2026-08-03T13:23:03.621Z",
-  "finishedAt": "2026-08-03T13:24:39.218Z",
+  "runId": "26fbca12",
+  "startedAt": "2026-08-03T15:42:00.467Z",
+  "finishedAt": "2026-08-03T15:43:19.750Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 42,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/03/flood-alert-rapid-rise-in-mahaweli-kelani-river-water-levels",
+      "headline": "Rapid Rise in Mahaweli, Kelani River Water Levels",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/03/court-orders-harak-kata-s-transfer-to-high-security-prison",
+      "headline": "Court Orders Harak Kata's Transfer to Prison",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822337/",
+      "headline": "කඳානේ ප්‍රදේශ රැසකට හෙට ජල කප්පාදුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/03/822341/",
+      "headline": "அரசு அதிகாரிகளின் சம்பள மற்றும் ஓய்வூதிய ஆணைக்குழு அலுவலகம் நாளை திறப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822338/",
+      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම යාමේ වයස් සීමාව ඉහළ නැංවීම ගැන මල්වතු අස්ගිරි මහ නාහිමිවරුන් දැනුවත් කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822333/",
+      "headline": "කොළඹ වරාය දකුණු ආසියාවේ ප්‍රධානතම සැපයුම් කේන්ද්‍රස්ථානය බවට පත්කිරීම වත්මන් රජයේ අරමුණයි – ඇමැති අනුර කරුණාතිලක",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822328/",
+      "headline": "රාජ්‍ය නිලධාරීන්ගේ වැටුප් හා විශ්‍රාම වැටුප් කොමිෂන් සභාවේ නිල කාර්යාලය ආරම්භ කිරීම හෙට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822324/",
+      "headline": "මහර බන්ධනාගාරයේ කලහකාරී සිදුවීම ගැන සොයන්න පුළුල් පරීක්ෂණ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822325/",
+      "headline": "කොළඹ, ගෑස්පහ හන්දියේ වෙළඳසැලක ගින්නක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/03/822309/",
+      "headline": "මාර්ග ආරක්ෂණ ජාතික වැඩසටහන යටතේ 100 for 100 වැඩසටහන ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/03/822313/",
       "headline": "கோட்டாபய ராஜபக்ஷவின் ரிட் மனு மீதான பரிசீலனை நிறைவு: உத்தரவு செப்டம்பர் 22ஆம் திகதிக்கு ஒத்திவைப்பு",
@@ -120,11 +170,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822237/",
-      "headline": "நுவரெலியா மாவட்டத்திலுள்ள அனைத்து அரசாங்க பாடசாலைகளுக்கும் நாளை விடுமுறை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/03/822236/",
       "headline": "මහනුවරත් සියලු පාසල් හෙට(04) වැසෙයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -190,63 +235,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/03/822180/",
-      "headline": "කැළණි ගඟ ද්‍රෝණියේ ගංවතුර අනතුරු ඇඟවීමේ නිවේදනය ඉදිරි පැය 48 දක්වා දීර්ඝ කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/03/one-dead-families-evacuated-as-disaster-hits-nawalapitiya",
+      "headline": "Families Evacuated as Disaster Hits Nawalapitiya",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822179/",
-      "headline": "வசந்த கரன்னாகொட மற்றும் யோஷித ராஜபக்ஷவுக்கு எதிராக குற்றப் பத்திரிகை தாக்கல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822176/",
-      "headline": "දිස්ත්‍රික්ක 03කට නායයෑම් රතු නිවේදන",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822170/",
-      "headline": "යෝෂිතට සහ කරන්නාගොඩට එරෙහිව අධිචෝදනා ගොනුකරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822166/",
-      "headline": "බන්ධනාගාර තදබදය සහ සිර ඝනත්වය අවම කිරීමට ක්‍රමානුකූල වැඩපිළිවෙලක් සැකසීමට අවධානය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822159/",
-      "headline": "திட்வா புயல் நிவாரணம் : எலஹெர பகுதி மக்களுக்கு 400 இலட்சம் ரூபா இழப்பீடு வழங்கி வைப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822160/",
-      "headline": "​ආරුගම්බේ ‘සන්සෙට් වීව් පාර්ක්’ ව්‍යාපෘතිය ඇමති විජිත හේරත්ගේ ප්‍රධානත්වයෙන් ඇරඹේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/03/house-arrest-plan-proposed-to-ease-sri-lanka-s-prison-congestion",
+      "headline": "House Arrest Plan Proposed for Prison Congestion",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/08/03/three-killed-19-injured-in-series-of-road-accidents",
       "headline": "3 Killed, 19 Injured in Series of Road Accidents",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 67
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "max-posts-per-run-reached",
-      "score": 45
+      "reason": "score-below-threshold (48 < 65)",
+      "score": 48
     }
   ],
   "errors": []
