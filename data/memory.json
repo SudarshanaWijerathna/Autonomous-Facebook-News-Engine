@@ -1078,5 +1078,29 @@
     "score": 77,
     "addedAt": "2026-08-02T14:29:06.292Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/03/flood-alert-rapid-rise-in-mahaweli-kelani-river-water-levels",
+    "contentHash": "7c87bc38a36edcf56689eb6e0cdc9247a6e1245deddf6918284c0aca4ca712fc",
+    "headline": "Rapid Rise in Mahaweli, Kelani River Water Levels",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-03T13:23:31.448Z",
+    "fbPostId": "1278802861974766_122107420947402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-03T13:24:28.665Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/03/court-orders-harak-kata-s-transfer-to-high-security-prison",
+    "contentHash": "636d481bb76597b6347450dc0c8027c67e5078fbf595a063aef6a67a2e51925d",
+    "headline": "Court Orders Harak Kata's Transfer to Prison",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-03T13:23:31.448Z",
+    "fbPostId": "1278802861974766_122107421037402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-08-03T13:24:39.217Z",
+    "isShadow": false
   }
 ]
