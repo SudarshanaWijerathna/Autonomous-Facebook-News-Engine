@@ -1,50 +1,44 @@
 {
-  "runId": "c67dde1e",
-  "startedAt": "2026-08-04T05:48:57.850Z",
-  "finishedAt": "2026-08-04T05:51:09.534Z",
+  "runId": "3ac7d63a",
+  "startedAt": "2026-08-04T12:23:34.518Z",
+  "finishedAt": "2026-08-04T12:26:38.067Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
-  "scored": 0,
-  "selected": 0,
-  "published": 0,
+  "afterDedup": 37,
+  "scored": 6,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/03/defence-ministry-orders-immediate-disaster-preparedness",
-      "headline": "Defence Ministry Orders Disaster Preparedness",
-      "reason": "exact-duplicate-in-memory"
-    }
-  ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/08/03/what-triggered-sri-lanka-s-extreme-rainfall",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/08/04/constitutional-and-court-reforms-gain-cabinet-approval",
+      "headline": "Cabinet Nod For Constitutional and Court Reforms",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/03/will-gota-s-petition-proceed-appeal-court-sets-date",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/08/04/govt-vows-to-expand-prisons-amid-record-surge-in-inmate-numbers",
+      "headline": "Govt Vows to Expand Prisons",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/water-supply-to-be-suspended-in-several-areas-today-for-essential-maintenance",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/08/04/delimitation-comm-sets-sights-on-national-planning",
+      "headline": "Delimitation Com. Sets Sights on National Planning",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "headline": "Should We Feed The Strays?",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
-  ]
+  ],
+  "errors": []
 }
