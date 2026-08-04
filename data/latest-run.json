@@ -1,248 +1,50 @@
 {
-  "runId": "230d4a52",
-  "startedAt": "2026-08-04T03:56:38.714Z",
-  "finishedAt": "2026-08-04T03:58:08.903Z",
+  "runId": "c67dde1e",
+  "startedAt": "2026-08-04T05:48:57.850Z",
+  "finishedAt": "2026-08-04T05:51:09.534Z",
   "shadowMode": false,
-  "discovered": 87,
-  "afterDedup": 45,
-  "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "discovered": 37,
+  "afterDedup": 36,
+  "scored": 0,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://www.itnnews.lk/2026/08/04/822402/",
-      "headline": "ආපදා සහන සඳහා නාවික හමුදාවේ ජංගම මුළුතැන්ගෙවල් 4ක් සූදානම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/03/defence-ministry-orders-immediate-disaster-preparedness",
+      "headline": "Defence Ministry Orders Disaster Preparedness",
+      "reason": "exact-duplicate-in-memory"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/08/03/what-triggered-sri-lanka-s-extreme-rainfall",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/04/822394/",
-      "headline": "​නැගෙනහිර මුහුදු තීරය සහ ඒ ආශ්‍රිත ප්‍රදේශ දින 365ම සක්‍රීය සංචාරක කලාපයක් ලෙස සංවර්ධනයට පියවර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/03/will-gota-s-petition-proceed-appeal-court-sets-date",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/04/822395/",
-      "headline": "ජාතික තරුණ ප්‍රතිපත්ති කෙටුම්පත පිළිබඳ මහජන අදහස් ලබාගැනීමේ සාකච්ඡා ඇරඹේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822388/",
-      "headline": "පදක්කම් 26ක් දිනූ ටයිකොන්ඩෝ ශූරයින් දිවයිනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822384/",
-      "headline": "තාවකාලිකව වසා දැමූ කොළඹ – මහනුවර මාර්ගය යළි විවෘත කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822377/",
-      "headline": "කඳානේ ප්‍රදේශ රැසකට ජල කප්පාදුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822376/",
-      "headline": "රාජ්‍ය නිලධාරීන්ගේ වැටුප් හා විශ්‍රාම වැටුප් කොමිෂන් සභාවේ නිල කාර්යාලය අද ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822375/",
-      "headline": "ආපදා තත්ත්වයෙන් දිස්ත්‍රික්ක 5කට බලපෑම් – මරණ 5ක් සහ දෙදෙනෙකු අතුරුදන්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822373/",
-      "headline": "பாராளுமன்றம் இன்று கூடவுள்ளது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822365/",
-      "headline": "මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කයේ සියලුම රජයේ පාසල් අද වැසෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822361/",
-      "headline": "கினிகத்தேன  – பொல்பிட்டிய பகுதி மண்சரிவில் சிக்கி புதையுண்டிருந்த நால்வரின் சடலங்களும் மீட்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822363/",
-      "headline": "පාර්ලිමේන්තුව අද රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822360/",
-      "headline": "சில இடங்களில் 75 மி.மீ க்கும் அதிகமான கனமழை பெய்ய வாய்ப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822359/",
-      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822350/",
-      "headline": "තද සුළං සහ රළු මුහුද ගැන කාලගුණයෙන් රතු එළියක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822347/",
-      "headline": "පුත්තලම සිට පොතුවිල් දක්වා ධීවර තහනම තවදුරටත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822337/",
-      "headline": "කඳානේ ප්‍රදේශ රැසකට හෙට ජල කප්පාදුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822341/",
-      "headline": "அரசு அதிகாரிகளின் சம்பள மற்றும் ஓய்வூதிய ஆணைக்குழு அலுவலகம் நாளை திறப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822338/",
-      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම යාමේ වයස් සීමාව ඉහළ නැංවීම ගැන මල්වතු අස්ගිරි මහ නාහිමිවරුන් දැනුවත් කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822333/",
-      "headline": "කොළඹ වරාය දකුණු ආසියාවේ ප්‍රධානතම සැපයුම් කේන්ද්‍රස්ථානය බවට පත්කිරීම වත්මන් රජයේ අරමුණයි – ඇමැති අනුර කරුණාතිලක",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822328/",
-      "headline": "රාජ්‍ය නිලධාරීන්ගේ වැටුප් හා විශ්‍රාම වැටුප් කොමිෂන් සභාවේ නිල කාර්යාලය ආරම්භ කිරීම හෙට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822324/",
-      "headline": "මහර බන්ධනාගාරයේ කලහකාරී සිදුවීම ගැන සොයන්න පුළුල් පරීක්ෂණ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822325/",
-      "headline": "කොළඹ, ගෑස්පහ හන්දියේ වෙළඳසැලක ගින්නක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822309/",
-      "headline": "මාර්ග ආරක්ෂණ ජාතික වැඩසටහන යටතේ 100 for 100 වැඩසටහන ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822313/",
-      "headline": "கோட்டாபய ராஜபக்ஷவின் ரிட் மனு மீதான பரிசீலனை நிறைவு: உத்தரவு செப்டம்பர் 22ஆம் திகதிக்கு ஒத்திவைப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822310/",
-      "headline": "වසර 15කට පසු Sri Lanka Expo ලබන වසරේ කොළඹදී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822306/",
-      "headline": "මහජන ආරක්ෂක සේවා මැදිරිය විවෘත ‍කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822303/",
-      "headline": "බංකොලොත් විපක්ෂය රටේ හිඩැස් තියෙන තැන් සොයමින් අර්බුද නිර්මාණය කරමින් ඉන්නේ – චමීර පෙරේරා – කැඳවුම්කරු – වමේ කේන්ද්‍රය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822297/",
-      "headline": "දිවයින පුරා ක්‍රියාත්මක කෙරෙන අත්තම වැඩසටහන අගෝස්තු 8 වැනිදා ඇරඹෙනවා – අමාත්‍ය ආචාර්ය චන්දන අබේරත්න",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822286/",
-      "headline": "ගෝඨාභයගේ පෙත්සමේ නියෝගය සැප්තැම්බර් මස 22 වැනිදා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822274/",
-      "headline": "දොම්පේ, සීතාවක, හෝමාගම, කඩුවෙල, බියගම සහ කොළොන්නාවට සුළු ගංවතුර තත්ත්වයක් – වාරිමාර්ග දෙපාර්තමේන්තුව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822292/",
-      "headline": "ශ්‍රී ලංකා අන්නාසිවලට පකිස්ථාන වෙළෙඳපොළ ප්‍රවේශය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822290/",
-      "headline": "பலத்த மழை காரணமாக நீர் விநியோகம் பாதிப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822287/",
-      "headline": "தமிழ், முஸ்லிம் அரசியல் கட்சிகளின் பிரதிநிதிகளுடன் ஜனாதிபதி சந்திப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822281/",
-      "headline": "ශ්‍රී ලාංකිකයින් ලෙස එක්ව කටයුතු කරන නව ජනතා සම්මුතියක් අවශ්‍යයි  – ජනපති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822276/",
-      "headline": "இரத்தினபுரியின் தாழ்நில வாழ் மக்களுக்கு அவசர அறிவிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822275/",
-      "headline": "කොළඹ – මහනුවර මාර්ගය කඩුගන්නාවෙන් තාවකාලිකව වසා දැමෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822269/",
-      "headline": "රත්නපුර දිස්ත්‍රික්කයේ ප්‍රදේශ කිහිපයකට ඉදිරි පැය කිහිපය තුළ සුළු ගංවතුර තත්ත්වයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822268/",
-      "headline": "களனி கங்கையை சூழவுள்ள பகுதிகளில் அடுத்த 24 மணி நேரத்திற்குள் பெருவெள்ள அபாயம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822264/",
-      "headline": "2026 තෙවන කාර්තුව සඳහා විදුලි ගාස්තු සංශෝධනයක් අවශ්‍ය නැහැ– ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිෂන් සභාව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822255/",
-      "headline": "‘இல்வத்த அணைக்கட்டு’ புனரமைப்புப் பணிகள் ஆரம்பம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822252/",
-      "headline": "කොත්මලේ ජලාශයේ වාන් දොරටු විවෘත කෙරේ – පහත් බිම්වල ජනතාවට දැඩි විමසිල්ලෙන් සිටින ලෙස නිවේදනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/03/house-arrest-plan-proposed-to-ease-sri-lanka-s-prison-congestion",
-      "headline": "House Arrest Plan Proposed for Prison Congestion",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "headline": "Should We Feed The Strays?",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/04/water-supply-to-be-suspended-in-several-areas-today-for-essential-maintenance",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 67
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/03/chinese-beautician-arrested-at-bia-with-rs-3-mn-cigarette-haul",
-      "headline": "Chinese Beautician Arrested at BIA with Cigarettes",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     }
-  ],
-  "errors": []
+  ]
 }
