@@ -1,14 +1,251 @@
 {
-  "runId": "3ac7d63a",
-  "startedAt": "2026-08-04T12:23:34.518Z",
-  "finishedAt": "2026-08-04T12:26:38.067Z",
+  "runId": "c72a1ba3",
+  "startedAt": "2026-08-04T15:23:16.811Z",
+  "finishedAt": "2026-08-04T15:24:33.090Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 37,
+  "discovered": 87,
+  "afterDedup": 42,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822610/",
+      "headline": "මුදල් විශුද්ධිකරණය වැළැක්වීමේ ශ්‍රී ලංකාවේ තෙවන අන්‍යෝන්‍ය ඇගයීම පිළිබඳ සාකච්ඡාවක් ජනපති ප්‍රධානත්වයෙන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822604/",
+      "headline": "சீரற்ற காலநிலையால் 8 பேர் உயிரிழப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822605/",
+      "headline": "සීනෝර් පදනමෙන් නිෂ්පාදිත අඩි 55ක් දිගැති ධීවර යාත්‍රාව නිල වශයෙන් භාරදෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822600/",
+      "headline": "සුරේෂ් සලේ නඩුවේ අතරමැදි පෙත්සම් නිෂ්ප්‍රභ කරන්නැයි නීතිපති ඉල්ලයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822596/",
+      "headline": "ஜனாதிபதி தலைமையில் விசேட கலந்துரையாடல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822592/",
+      "headline": "පොදු රාජ්‍ය මණ්ඩලීය රන් පදක්කම්ලාභී රුමේෂ් තරංග දිවයිනට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822586/",
+      "headline": "டெங்கு கட்டுப்பாட்டுக்கு உதவிய இந்தியா!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822585/",
+      "headline": "තාක්ෂණික දෝෂ මත ඉවත දැමූ ජොන්ස්ටන් ප්‍රනාන්දුට එරෙහි නඩු 07ක් යළි අහන්නැයි අභියාචනාධිකරණයෙන් නියෝග",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822580/",
+      "headline": "සුරාබදු වැටලීම්වලින් පළමු අඩවසර තුළ වාර්තගත ආදායමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822576/",
+      "headline": "ඉන්දීය ටෙස්ට් ක්‍රිකට් කණ්ඩායම දිවයිනට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822572/",
+      "headline": "නුවරඑළිය ග්‍රෙගරි වැවේ වාන් දොරටුව විවෘත කෙරේ – ග්‍රෙගරි වැවේ බෝට්ටු පැදීම තහනම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822563/",
+      "headline": "ලංකා ජර්මානු කාර්මික අභ්‍යාස ආයතනය මඟින් පුනර්ජනනීය බලශක්ති පුහුණු මධ්‍යස්ථානයක් ස්ථාපිත කිරීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822546/",
+      "headline": "මෙරට ඩෙංගු මර්දනයට ඉන්දියාවෙන් මැලතියන් තොගයක පරිත්‍යාගයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822559/",
+      "headline": "රාජ්‍ය නිලධාරීන්ගේ වැටුප් හා විශ්‍රාම වැටුප් කොමිෂන් සභාව වැඩ අරඹයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822555/",
+      "headline": "ආසියානු සංවර්ධන බැංකුව මඟින් ප්‍රතිපත්ති පාදක ණය ලබා ගැනීමට අමාත්‍ය මණ්ඩල අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822549/",
+      "headline": "‘දිට්වා’ සුළි කුණාටුවෙන් අවතැන්වූවන් නැවත පදිංචි කිරීම සඳහා ඉඩම් බැහැර කිරීමේ ක්‍රමවේදයට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822543/",
+      "headline": "අධිකරණයේ ස්වාධීනත්වය ශක්තිමත් කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාව සහ අධිකරණ සංවිධාන පනත සංශෝධනය කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822540/",
+      "headline": "දරුවන්ගේ හෙට දවස වෙනුවෙන් විශේෂ අවධානය – ළමා අයිතිවාසිකම් පනත කෙටුම්පත් කිරීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822537/",
+      "headline": "ගංගා කිහිපයක ගංවතුර අනතුරු ඇඟවීම් ඉවත් කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822532/",
+      "headline": "பிள்ளையானுக்கு மீண்டும் விளக்கமறியல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822492/",
+      "headline": "හෙට ගිගුරුම් සහිත වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822528/",
+      "headline": "බන්ධනාගාර තදබදයට විකල්පයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822523/",
+      "headline": "කොළඹින් පිටටත් නවීන ප්‍රවාහන සේවාවක් – ප්‍රධාන නගර 3කට පත්ල පහත් බස් 50ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822522/",
+      "headline": "நுவரெலியாவில் நிலவும் வெள்ள அபாயம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822519/",
+      "headline": "வீட்டுக் காவல் சட்டமூலத்துக்கு அமைச்சரவை ஒப்புதல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822516/",
+      "headline": "சலேவின் இடைக்கால மனு விசாரணை ஒத்திவைப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822512/",
+      "headline": "கண்டி மற்றும் நுவரெலியா பாடசாலைகள் நாளை திறப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822509/",
+      "headline": "අධික වර්ෂාව හේතුවෙන් ලක්ෂපාන ,කැනියොන් ජලාශ වාන් දමයි – කැලණි ගගේ ජල මට්ටම ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822506/",
+      "headline": "மேலும் 50 தாழ் மிதிபலகை பஸ்களை கொள்வனவு செய்ய நடவடிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822503/",
+      "headline": "சில பகுதிகளில் 75 மி.மீ. இற்கும் அதிக பலத்த மழை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822500/",
+      "headline": "இலங்கை ரூபாயின் மதிப்பு உயர்வு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822481/",
+      "headline": "பொலிஸ் அதிகாரிகளுக்கு சேவை நீடிப்பு?",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822484/",
+      "headline": "சீரற்ற வானிலையால் நுவரெலியாவில் பலர் பாதிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822480/",
+      "headline": "ඩෙංගු රෝගීන් සංඛ්‍යාව 87,000ට අසන්න වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822475/",
+      "headline": "யோஷித ராஜபக்ஷ மற்றும் வசந்த கரன்னாகொட மேல் நீதிமன்றில் ஆஜராக உத்தரவு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822474/",
+      "headline": "අයහපත් කාලගුණයෙන් නුවරඑළියයේ පවුල් 1,091ක් පීඩාවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822466/",
+      "headline": "තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822458/",
+      "headline": "නීතිවිරෝධී ක්‍රම යොදාගෙන ධීවර කටයුතු සිදුකළ ධීවරයින් 36 දෙනෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822468/",
+      "headline": "தமிழக எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் கைது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822461/",
+      "headline": "கிழக்கு கடற்கரை மற்றும் அதனைச் சுற்றியுள்ள பகுதிகளை   சுற்றுலாப் பிராந்தியமாக மேம்படுத்த நடவடிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822453/",
+      "headline": "கடந்த 24 மணி நேரத்தில் நுவரெலியா மாவட்டத்தின்நோர்ட்டனில் 258.6 மி.மீ அதிகபட்ச மழைவீழ்ச்சி பதிவு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822452/",
+      "headline": "යෝෂිතටයි , වසන්ත කරන්නාගොඩටයි අධිකරණයෙන් නියෝගයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822436/",
+      "headline": "86,000 ஐக் கடந்த டெங்கு நோயாளர்களின் எண்ணிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822448/",
+      "headline": "ගතවූ පැය 24 තුළ වැඩිම වර්ෂාපතනය නුවරඑළිය නෝටන් ප්‍රදේශයෙන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822445/",
+      "headline": "මිලියන 14කට අධික මත්ද්‍රව්‍ය තොගයක් සමඟ සැකකරුවන් දෙදෙනෙකු බුද්ධි අංශ සහ පොලිස් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/speaker-certifies-new-laws-against-dirty-money-terror-financing-and-financial-crimes",
+      "headline": "Three Key Bills Become Law in Sri Lanka",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/slpp-statement-on-igp-triggers-investigation",
+      "headline": "SLPP Statement on IGP Triggers Investigation",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
     {
       "url": "https://newsfirst.lk/2026/08/04/constitutional-and-court-reforms-gain-cabinet-approval",
       "headline": "Cabinet Nod For Constitutional and Court Reforms",
@@ -16,28 +253,22 @@
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/govt-vows-to-expand-prisons-amid-record-surge-in-inmate-numbers",
-      "headline": "Govt Vows to Expand Prisons",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/04/court-directs-trial-against-johnston-to-continue",
+      "headline": "Court Directs Trial Against Johnston to Continue",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/delimitation-comm-sets-sights-on-national-planning",
-      "headline": "Delimitation Com. Sets Sights on National Planning",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/04/rainfall-to-ease-briefly-before-fresh-wet-spell-returns",
+      "headline": "Rain To Return After Brief Pause",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "headline": "Should We Feed The Strays?",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
