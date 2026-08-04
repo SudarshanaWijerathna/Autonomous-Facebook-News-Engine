@@ -1,7 +1,7 @@
 {
-  "runId": "e7e88b0c",
-  "startedAt": "2026-08-04T17:10:48.200Z",
-  "finishedAt": "2026-08-04T17:12:00.445Z",
+  "runId": "683b2d03",
+  "startedAt": "2026-08-04T19:00:33.863Z",
+  "finishedAt": "2026-08-04T19:03:04.196Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 42,
@@ -241,34 +241,34 @@
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/cop-remanded-over-alleged-underworld-execution",
-      "headline": "Cop Remanded Over Alleged Underworld Execution",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/04/constitutional-and-court-reforms-gain-cabinet-approval",
       "headline": "Cabinet Nod For Constitutional and Court Reforms",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/slpp-statement-on-igp-triggers-investigation",
-      "headline": "SLPP Statement on IGP Triggers Investigation",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
+      "url": "https://newsfirst.lk/2026/08/04/slpp-statement-on-igp-triggers-investigation",
+      "headline": "SLPP Statement on IGP Triggers Investigation",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/court-directs-trial-against-johnston-to-continue",
+      "headline": "Court Directs Trial Against Johnston to Continue",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
       "url": "https://newsfirst.lk/2026/08/04/rainfall-to-ease-briefly-before-fresh-wet-spell-returns",
       "headline": "Rain To Return After Brief Pause",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 65)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
