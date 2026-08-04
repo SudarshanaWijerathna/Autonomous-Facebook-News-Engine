@@ -1114,5 +1114,29 @@
     "score": 81,
     "addedAt": "2026-08-03T15:43:19.749Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/03/defence-ministry-orders-immediate-disaster-preparedness",
+    "contentHash": "90db918eb5a93a4158f5b25d3dbd234d4cfa6e40f8c08b4023816b5866683404",
+    "headline": "Defence Ministry Orders Disaster Preparedness",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-04T03:57:07.178Z",
+    "fbPostId": "1278802861974766_122107591305402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-04T03:57:59.886Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/03/one-dead-families-evacuated-as-disaster-hits-nawalapitiya",
+    "contentHash": "ac5681087e43da2a636a93606bdacda74f7fcc833264ee7004efc1664ca67d65",
+    "headline": "Families Evacuated as Disaster Hits Nawalapitiya",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-04T03:57:07.179Z",
+    "fbPostId": "1278802861974766_122107591389402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-08-04T03:58:08.902Z",
+    "isShadow": false
   }
 ]

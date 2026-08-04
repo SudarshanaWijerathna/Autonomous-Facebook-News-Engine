@@ -1,28 +1,83 @@
 {
-  "runId": "cc8f5cc1",
-  "startedAt": "2026-08-03T19:00:27.875Z",
-  "finishedAt": "2026-08-03T19:01:38.621Z",
+  "runId": "230d4a52",
+  "startedAt": "2026-08-04T03:56:38.714Z",
+  "finishedAt": "2026-08-04T03:58:08.903Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 41,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/03/schools-shut-across-kandy-and-nuwara-eliya-tomorrow",
-      "headline": "Schools Shut Across Kandy, Nuwara Eliya Tomorrow",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/04/822402/",
+      "headline": "ආපදා සහන සඳහා නාවික හමුදාවේ ජංගම මුළුතැන්ගෙවල් 4ක් සූදානම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/03/flood-alert-rapid-rise-in-mahaweli-kelani-river-water-levels",
-      "headline": "Rapid Rise in Mahaweli, Kelani River Water Levels",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/04/822394/",
+      "headline": "​නැගෙනහිර මුහුදු තීරය සහ ඒ ආශ්‍රිත ප්‍රදේශ දින 365ම සක්‍රීය සංචාරක කලාපයක් ලෙස සංවර්ධනයට පියවර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/03/court-orders-harak-kata-s-transfer-to-high-security-prison",
-      "headline": "Court Orders Harak Kata's Transfer to Prison",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/04/822395/",
+      "headline": "ජාතික තරුණ ප්‍රතිපත්ති කෙටුම්පත පිළිබඳ මහජන අදහස් ලබාගැනීමේ සාකච්ඡා ඇරඹේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822388/",
+      "headline": "පදක්කම් 26ක් දිනූ ටයිකොන්ඩෝ ශූරයින් දිවයිනට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822384/",
+      "headline": "තාවකාලිකව වසා දැමූ කොළඹ – මහනුවර මාර්ගය යළි විවෘත කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822377/",
+      "headline": "කඳානේ ප්‍රදේශ රැසකට ජල කප්පාදුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822376/",
+      "headline": "රාජ්‍ය නිලධාරීන්ගේ වැටුප් හා විශ්‍රාම වැටුප් කොමිෂන් සභාවේ නිල කාර්යාලය අද ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822375/",
+      "headline": "ආපදා තත්ත්වයෙන් දිස්ත්‍රික්ක 5කට බලපෑම් – මරණ 5ක් සහ දෙදෙනෙකු අතුරුදන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822373/",
+      "headline": "பாராளுமன்றம் இன்று கூடவுள்ளது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822365/",
+      "headline": "මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කයේ සියලුම රජයේ පාසල් අද වැසෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822361/",
+      "headline": "கினிகத்தேன  – பொல்பிட்டிய பகுதி மண்சரிவில் சிக்கி புதையுண்டிருந்த நால்வரின் சடலங்களும் மீட்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822363/",
+      "headline": "පාර්ලිමේන්තුව අද රැස්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/04/822360/",
+      "headline": "சில இடங்களில் 75 மி.மீ க்கும் அதிகமான கனமழை பெய்ய வாய்ப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822359/",
+      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/03/822350/",
@@ -165,115 +220,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822249/",
-      "headline": "‘அஸ்வெசும’ பயனாளிகள் தெரிவில் புதிய மாற்றம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822246/",
-      "headline": "ඉදිරි පැය 48ක කාලය තුළ මහවැලි ගඟ ආශ්‍රිත පහත් බිම් ප්‍රදේශවල මහා ගංවතුර අවදානමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822242/",
-      "headline": "කොරියානු අර්ධද්වීපය පුරා වාර්තාගත උණුසුම් කාලගුණ තත්ත්වයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822237/",
-      "headline": "நுவரெலியா மாவட்டத்திலுள்ள அனைத்து அரசாங்க பாடசாலைகளுக்கும் நாளை விடுமுறை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822236/",
-      "headline": "මහනුවරත් සියලු පාසල් හෙට(04) වැසෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822202/",
-      "headline": "අස්වැසුම වැඩසටහන සඳහා ප්‍රතිලාභීන් තෝරාගැනීමට නව ක්‍රමවේදයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822224/",
-      "headline": "பலத்த மழை வீழ்ச்சி தொடர்பில் அறிவுறுத்து",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822221/",
-      "headline": "නුවරඑළිය දිස්ත්‍රික්කයේ සියලුම රජයේ පාසල් හෙට(04) වැසෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822204/",
-      "headline": "අග්‍ර ඔය දෙපස පහත් බිම්වල පදිංචි ජනතාව විමසිලිමත්වන්න",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822209/",
-      "headline": "கடுகன்னாவ – கணேதென்ன வீதி தற்காலிகமாக மூடப்பட்டது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822219/",
-      "headline": "பேராதனைப் பல்கலையின் கல்வி நடவடிக்கைகள் இடைநிறுத்தம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822212/",
-      "headline": "පේරාදෙණිය විශ්වවිද්‍යාලයේ අධ්‍යයන කටයුතු සහ විභාග නැවත දැනුම් දෙන තුරු අත්හිටුවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822208/",
-      "headline": "இடையூறு  ஏற்படுத்தும் வகையில் மோட்டார் சைக்கிள்களை செலுத்திய ஐந்து இளைஞர்கள்  கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/03/822196/",
-      "headline": "ஹட்டன் – கொழும்பு பிரதான வீதியின் தியகல பகுதியில் மண்சரிவு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/03/822189/",
-      "headline": "අධිකරණ පද්ධතියේ ප්‍රතිසංස්කරණ පිළිබඳ මල්වතු මහා නාහිමි දැනුවත් කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/03/one-dead-families-evacuated-as-disaster-hits-nawalapitiya",
-      "headline": "Families Evacuated as Disaster Hits Nawalapitiya",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/03/house-arrest-plan-proposed-to-ease-sri-lanka-s-prison-congestion",
       "headline": "House Arrest Plan Proposed for Prison Congestion",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/03/three-killed-19-injured-in-series-of-road-accidents",
-      "headline": "3 Killed, 19 Injured in Series of Road Accidents",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
       "headline": "Should We Feed The Strays?",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "max-posts-per-run-reached",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/08/03/chinese-beautician-arrested-at-bia-with-rs-3-mn-cigarette-haul",
       "headline": "Chinese Beautician Arrested at BIA with Cigarettes",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
   "errors": []
