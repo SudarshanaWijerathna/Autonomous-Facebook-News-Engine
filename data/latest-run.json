@@ -1,7 +1,7 @@
 {
-  "runId": "c72a1ba3",
-  "startedAt": "2026-08-04T15:23:16.811Z",
-  "finishedAt": "2026-08-04T15:24:33.090Z",
+  "runId": "e7e88b0c",
+  "startedAt": "2026-08-04T17:10:48.200Z",
+  "finishedAt": "2026-08-04T17:12:00.445Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 42,
@@ -9,6 +9,11 @@
   "selected": 0,
   "published": 0,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822615/",
+      "headline": "මහජනතාවට කඩිනමින් යුක්තිය ඉටුවන අධිකරණ පද්ධතියක් ස්ථාපිත කිරීම අරමුණයි – ජනපති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/04/822610/",
       "headline": "මුදල් විශුද්ධිකරණය වැළැක්වීමේ ශ්‍රී ලංකාවේ තෙවන අන්‍යෝන්‍ය ඇගයීම පිළිබඳ සාකච්ඡාවක් ජනපති ප්‍රධානත්වයෙන්",
@@ -47,11 +52,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/04/822585/",
       "headline": "තාක්ෂණික දෝෂ මත ඉවත දැමූ ජොන්ස්ටන් ප්‍රනාන්දුට එරෙහි නඩු 07ක් යළි අහන්නැයි අභියාචනාධිකරණයෙන් නියෝග",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822580/",
-      "headline": "සුරාබදු වැටලීම්වලින් පළමු අඩවසර තුළ වාර්තගත ආදායමක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -115,11 +115,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/04/822528/",
-      "headline": "බන්ධනාගාර තදබදයට විකල්පයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/04/822523/",
       "headline": "කොළඹින් පිටටත් නවීන ප්‍රවාහන සේවාවක් – ප්‍රධාන නගර 3කට පත්ල පහත් බස් 50ක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -172,6 +167,11 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/04/822484/",
       "headline": "சீரற்ற வானிலையால் நுவரெலியாவில் பலர் பாதிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/04/822487/",
+      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කිරීමට බ්‍රිතාන්‍යයේ වෙසෙන ශ්‍රී ලාංකික නීතිඥවරුන්ගෙන් සහාය",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -238,7 +238,19 @@
       "url": "https://newsfirst.lk/2026/08/04/speaker-certifies-new-laws-against-dirty-money-terror-financing-and-financial-crimes",
       "headline": "Three Key Bills Become Law in Sri Lanka",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/cop-remanded-over-alleged-underworld-execution",
+      "headline": "Cop Remanded Over Alleged Underworld Execution",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/constitutional-and-court-reforms-gain-cabinet-approval",
+      "headline": "Cabinet Nod For Constitutional and Court Reforms",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/08/04/slpp-statement-on-igp-triggers-investigation",
@@ -247,27 +259,15 @@
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/constitutional-and-court-reforms-gain-cabinet-approval",
-      "headline": "Cabinet Nod For Constitutional and Court Reforms",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/court-directs-trial-against-johnston-to-continue",
-      "headline": "Court Directs Trial Against Johnston to Continue",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/04/rainfall-to-ease-briefly-before-fresh-wet-spell-returns",
       "headline": "Rain To Return After Brief Pause",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
       "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "score-below-threshold (45 < 65)",
       "score": 45
     }
   ],
