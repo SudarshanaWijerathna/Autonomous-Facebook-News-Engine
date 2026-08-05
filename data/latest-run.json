@@ -1,14 +1,64 @@
 {
-  "runId": "683b2d03",
-  "startedAt": "2026-08-04T19:00:33.863Z",
-  "finishedAt": "2026-08-04T19:03:04.196Z",
+  "runId": "67b2a18e",
+  "startedAt": "2026-08-05T03:51:54.398Z",
+  "finishedAt": "2026-08-05T03:53:29.832Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 44,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822663/",
+      "headline": "ඩ්‍රෝන ප්‍රහාරයේ වීඩියෝවෙන් රුසියාවට යුද අපරාධ චෝදනා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822649/",
+      "headline": "ශිෂ්‍යත්ව විභාගයේ උපකාරක පන්ති අද මධ්‍යම රාත්‍රියෙන් තහනම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822660/",
+      "headline": "பாராளுமன்றம் இன்று காலை 9.30 மணிக்கு கூடவுள்ளது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822632/",
+      "headline": "කොත්මලේ වාන්දොරටු උදෑසන 8ට විවෘත කෙරේ – මහවැලි ගඟ දෙපස ජනතාවට අවධානයෙන් සිටින්නැයි දැනුම්දීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822653/",
+      "headline": "කෝටියකට අධික හැෂ් මත්ද්‍රව්‍ය සමග සංවිධානාත්මක අපරාධකරුවෙකුගේ ගෝලයෙක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822650/",
+      "headline": "බිම්බෝම්බ ඉවත් කිරීමේ වැඩසටහන කඩිනම් වෙයි – මෙහෙයුම් සඳහා 500ක හමුදා කණ්ඩායමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822636/",
+      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822642/",
+      "headline": "கொத்மலை நீர்த்தேக்கத்தின் வான்கதவுகள் இன்று காலை 8 மணிக்கு திறப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822629/",
+      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822627/",
+      "headline": "சில இடங்களில் 75 மில்லிமீட்டருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/04/822615/",
       "headline": "මහජනතාවට කඩිනමින් යුක්තිය ඉටුවන අධිකරණ පද්ධතියක් ස්ථාපිත කිරීම අරමුණයි – ජනපති",
@@ -175,100 +225,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/04/822480/",
-      "headline": "ඩෙංගු රෝගීන් සංඛ්‍යාව 87,000ට අසන්න වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822475/",
-      "headline": "யோஷித ராஜபக்ஷ மற்றும் வசந்த கரன்னாகொட மேல் நீதிமன்றில் ஆஜராக உத்தரவு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822474/",
-      "headline": "අයහපත් කාලගුණයෙන් නුවරඑළියයේ පවුල් 1,091ක් පීඩාවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822466/",
-      "headline": "තද සුළං පිළිබඳ අවවාදාත්මක නිවේදනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822458/",
-      "headline": "නීතිවිරෝධී ක්‍රම යොදාගෙන ධීවර කටයුතු සිදුකළ ධීවරයින් 36 දෙනෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822468/",
-      "headline": "தமிழக எதிர்க்கட்சி தலைவர் உதயநிதி ஸ்டாலின் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822461/",
-      "headline": "கிழக்கு கடற்கரை மற்றும் அதனைச் சுற்றியுள்ள பகுதிகளை   சுற்றுலாப் பிராந்தியமாக மேம்படுத்த நடவடிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822453/",
-      "headline": "கடந்த 24 மணி நேரத்தில் நுவரெலியா மாவட்டத்தின்நோர்ட்டனில் 258.6 மி.மீ அதிகபட்ச மழைவீழ்ச்சி பதிவு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822452/",
-      "headline": "යෝෂිතටයි , වසන්ත කරන්නාගොඩටයි අධිකරණයෙන් නියෝගයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822436/",
-      "headline": "86,000 ஐக் கடந்த டெங்கு நோயாளர்களின் எண்ணிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822448/",
-      "headline": "ගතවූ පැය 24 තුළ වැඩිම වර්ෂාපතනය නුවරඑළිය නෝටන් ප්‍රදේශයෙන්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822445/",
-      "headline": "මිලියන 14කට අධික මත්ද්‍රව්‍ය තොගයක් සමඟ සැකකරුවන් දෙදෙනෙකු බුද්ධි අංශ සහ පොලිස් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/speaker-certifies-new-laws-against-dirty-money-terror-financing-and-financial-crimes",
-      "headline": "Three Key Bills Become Law in Sri Lanka",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/constitutional-and-court-reforms-gain-cabinet-approval",
-      "headline": "Cabinet Nod For Constitutional and Court Reforms",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/slpp-statement-on-igp-triggers-investigation",
-      "headline": "SLPP Statement on IGP Triggers Investigation",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/court-directs-trial-against-johnston-to-continue",
-      "headline": "Court Directs Trial Against Johnston to Continue",
+      "url": "https://newsfirst.lk/2026/08/04/attorney-general-opposes-intervening-petitions-in-suresh-salley%e2%80%99s-detention-case",
+      "headline": "AG Opposes Intervening Petitions In Salley Case",
       "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/rainfall-to-ease-briefly-before-fresh-wet-spell-returns",
-      "headline": "Rain To Return After Brief Pause",
+      "url": "https://newsfirst.lk/2026/08/04/india-donates-500-litres-of-malathion-for-sri-lanka%e2%80%99s-fight-against-dengue",
+      "headline": "India Donates Malathion For Fight Against Dengue",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "url": "https://newsfirst.lk/2026/08/04/sri-lanka-eyes-service-extension-for-experienced-cops",
+      "headline": "Service Extension for Experienced Cops?",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/court-directs-trial-against-johnston-to-continue",
+      "headline": "Court Directs Trial Against Johnston to Continue",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
+      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
