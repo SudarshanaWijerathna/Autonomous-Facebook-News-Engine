@@ -1162,5 +1162,29 @@
     "score": 81,
     "addedAt": "2026-08-05T03:53:29.830Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/05/heavy-rain-forecast-to-continue-landslide-warnings-remain-in-effect",
+    "contentHash": "f257ba133fafaca9e096a6481928a9904de143bc13d82e89b477b6f8582852e3",
+    "headline": "Heavy Rain Forecast to Continue",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-05T05:48:23.344Z",
+    "fbPostId": "1278802861974766_122107854147402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-05T05:49:14.877Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/04/govt-calls-for-immediate-investigation-into-threats-on-police-chief",
+    "contentHash": "7b41db977fc26c48b2672e038daa784b2a5b50c646054305074533fdf93ec877",
+    "headline": "A Political Warning or Something More?",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-05T05:48:23.344Z",
+    "fbPostId": "1278802861974766_122107854195402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-05T05:49:21.073Z",
+    "isShadow": false
   }
 ]

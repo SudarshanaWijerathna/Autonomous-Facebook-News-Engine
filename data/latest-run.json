@@ -1,14 +1,54 @@
 {
-  "runId": "67b2a18e",
-  "startedAt": "2026-08-05T03:51:54.398Z",
-  "finishedAt": "2026-08-05T03:53:29.832Z",
+  "runId": "f07b58f5",
+  "startedAt": "2026-08-05T05:47:53.168Z",
+  "finishedAt": "2026-08-05T05:49:21.074Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 44,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822696/",
+      "headline": "இந்திய வெளியுறவுச் செயலாளர் விக்ரம் மிஸ்ரி இலங்கை வருகை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822690/",
+      "headline": "4 மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை நீடிப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822687/",
+      "headline": "දිස්ත්‍රික්ක 4කට නිකුත් කළ නායයෑම් අනතුරු ඇඟවීම දීර්ඝ කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822682/",
+      "headline": "மலையகத் தபால் சேவைகளை வலுப்படுத்தல் தொடர்பான கலந்துரையாடல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822681/",
+      "headline": "ජාත්‍යන්තර ජල සම්මුතියට ශ්‍රී ලංකාවේ පූර්ණ සහාය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/05/822667/",
+      "headline": "රත්මලානේ නිවසකට අත්බෝම්බ ප්‍රහාරයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822676/",
+      "headline": "தரம் 5 புலமைப்பரிசில் பரீட்சைக்கான மேலதிக வகுப்புகளுக்கு இன்று நள்ளிரவு முதல் தடை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822671/",
+      "headline": "தமிழ்நாடு சட்டசபையில் த.வெ.க. அரசின் முதல் பட்ஜெட் இன்று தாக்கல் செய்யப்படவுள்ளது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/05/822663/",
       "headline": "ඩ්‍රෝන ප්‍රහාරයේ වීඩියෝවෙන් රුසියාවට යුද අපරාධ චෝදනා",
@@ -185,74 +225,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822512/",
-      "headline": "கண்டி மற்றும் நுவரெலியா பாடசாலைகள் நாளை திறப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822509/",
-      "headline": "අධික වර්ෂාව හේතුවෙන් ලක්ෂපාන ,කැනියොන් ජලාශ වාන් දමයි – කැලණි ගගේ ජල මට්ටම ඉහළට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822506/",
-      "headline": "மேலும் 50 தாழ் மிதிபலகை பஸ்களை கொள்வனவு செய்ய நடவடிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822503/",
-      "headline": "சில பகுதிகளில் 75 மி.மீ. இற்கும் அதிக பலத்த மழை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822500/",
-      "headline": "இலங்கை ரூபாயின் மதிப்பு உயர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822481/",
-      "headline": "பொலிஸ் அதிகாரிகளுக்கு சேவை நீடிப்பு?",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/04/822484/",
-      "headline": "சீரற்ற வானிலையால் நுவரெலியாவில் பலர் பாதிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/04/822487/",
-      "headline": "විනිසුරුවරුන්ගේ විශ්‍රාම වයස දීර්ඝ කිරීමට බ්‍රිතාන්‍යයේ වෙසෙන ශ්‍රී ලාංකික නීතිඥවරුන්ගෙන් සහාය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/04/attorney-general-opposes-intervening-petitions-in-suresh-salley%e2%80%99s-detention-case",
       "headline": "AG Opposes Intervening Petitions In Salley Case",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/india-donates-500-litres-of-malathion-for-sri-lanka%e2%80%99s-fight-against-dengue",
-      "headline": "India Donates Malathion For Fight Against Dengue",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/05/parliament-to-debate-copf-report-on-us-2-5-million-cyber-theft-today",
+      "headline": "Parliament to Debate COPF Report on $2.5 Mn Theft",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/04/sajith-is-an-ineffective-opposition-leader-says-joint-opp",
+      "headline": "Sajith An Ineffective Opp Leader, Says Joint Opp",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/04/sri-lanka-eyes-service-extension-for-experienced-cops",
-      "headline": "Service Extension for Experienced Cops?",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/04/court-directs-trial-against-johnston-to-continue",
-      "headline": "Court Directs Trial Against Johnston to Continue",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/08/05/committee-to-evaluate-property-damage-at-mahara-prison-during-unrest",
+      "headline": "Committee to Evaluate Mahara Prison Damage",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []
