@@ -1,240 +1,19 @@
 {
-  "runId": "0f5390f1",
-  "startedAt": "2026-08-05T10:28:13.890Z",
-  "finishedAt": "2026-08-05T10:29:20.713Z",
+  "runId": "6f0dab00",
+  "startedAt": "2026-08-05T15:11:50.288Z",
+  "finishedAt": "2026-08-05T15:13:10.469Z",
   "shadowMode": false,
-  "discovered": 87,
-  "afterDedup": 44,
+  "discovered": 37,
+  "afterDedup": 37,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822821/",
-      "headline": "ஜனாதிபதி அனுரவை சந்தித்த இந்திய வெளியுறவுச் செயலர்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822790/",
-      "headline": "යුක්‍රේනයේ අගනුවරට රුසියාව එල්ල කළ මිසයිල ප්‍රහාරයකින් 14 දෙනෙකු මිය යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822815/",
-      "headline": "மொரிஷியஸுக்கு $234,000 பெறுமதியான அதிநவீன படகை கையளித்தது சீநோர் நிறுவனம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822766/",
-      "headline": "முன்னாள் அமைச்சர் அகில விராஜ் காரியவசம் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822810/",
-      "headline": "மகாவலி கங்கையை அண்மித்த தாழ்நிலப் பகுதிகளுக்கு எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822806/",
-      "headline": "டெங்குவைக் கட்டுப்படுத்த இலங்கைக்கு உதவிக் கரம் நீட்டிய இந்தியா!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822796/",
-      "headline": "உயர்தரப் பரீட்சை ஒத்திவைப்பு மனு தள்ளுபடி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822791/",
-      "headline": "சீரற்ற வானிலை : மலையக விவசாயிகள் பாதிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822782/",
-      "headline": "චීනයට අනන්‍ය විද්‍යාත්මක නවීකරණයේ වැදගත්කම චීන ජනපති අවධාරණය කරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822785/",
-      "headline": "6 மாகாணங்களுக்கு பலத்த காற்று எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822779/",
-      "headline": "ருமேஷ் தரங்கவிற்கு பதவி உயர்வு மற்றும் பணப்பரிசு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822776/",
-      "headline": "පළාත් කිහිපයකට තද සුළං",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822768/",
-      "headline": "හිටපු ඇමති අකිල අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822757/",
-      "headline": "சர்வதேச நீர் ஒப்பந்தத்திற்கு இலங்கையின் ஆதரவு கோரியது கசகஸ்தான்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822759/",
-      "headline": "රොමේෂ් තරංගට ගුවන් හමුදාවෙන් උසස්වීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822741/",
-      "headline": "மனித-யானை மோதலைக் கட்டுப்படுத்துவதற்கான தேசிய செயல் திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822751/",
-      "headline": "முல்லைத்தீவில் 78.5 மில்லியனில் புதிய பாடசாலை கட்டிடங்கள் திறப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822748/",
-      "headline": "சந்தேகநபரை கைது செய்ய பொதுமக்களின் உதவியை நாடும் பொலிஸார்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822742/",
-      "headline": "විනිසුරුවරුන්ගේ සේවා කාලය දීර්ඝ කිරීම කිසිසේත්ම අසාධාරණ හෝ අනීතික තීරණයක් නොවෙයි – ජනවරමේ නීතිඥයෝ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822733/",
-      "headline": "හර්ෂණ සහ නලින්ද අමරපුර මහානිකායේ මහානාහිමියන් හමුවෙයි – ජනතාව වෙනුවෙන් ගන්නා ඕනෑම ක්‍රියාමාර්ගයකට තම ආශිර්වාදය හිමිවනවා මහානාහිමියන් කියයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822729/",
-      "headline": "கடும் காற்று மற்றும் கொந்தளிப்பான கடல் தொடர்பான எச்சரிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822730/",
-      "headline": "වසර පහකට පසු ගොවිජන රක්ෂණ මණ්ඩලයේ නිලධාරීන් සඳහා ප්‍රසාද දීමනා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822726/",
-      "headline": "මිලියන 78ක ආයෝජනයෙන් උතුරේ දුෂ්කර පාසල් දෙකක් සඳහා නව දෙමහල් ගොඩනැගිලි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822719/",
-      "headline": "கடுவெலயில் சொகுசு பேருந்துக்கு தீ  வைப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822716/",
-      "headline": "කඩුවෙල බස් නැවතුම්පොළේ සුඛෝපභෝගී බසයකට ගිනි තබයි – පෞද්ගලික ආරවුලක් බවට සැක",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822692/",
-      "headline": "අලි – මිනිස් ගැටුමට තිරසාර විසඳුම් – නව ජාතික ක්‍රියාකාරී සැලැස්ම ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822706/",
-      "headline": "හිටපු ඇමති අකිල අල්ලස් කොමිසමට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822698/",
-      "headline": "ඉන්දීය විදේශ ලේකම් දිවයිනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822696/",
-      "headline": "இந்திய வெளியுறவுச் செயலாளர் விக்ரம் மிஸ்ரி இலங்கை வருகை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822690/",
-      "headline": "4 மாவட்டங்களுக்கு விடுக்கப்பட்ட மண்சரிவு எச்சரிக்கை நீடிப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822687/",
-      "headline": "දිස්ත්‍රික්ක 4කට නිකුත් කළ නායයෑම් අනතුරු ඇඟවීම දීර්ඝ කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822682/",
-      "headline": "மலையகத் தபால் சேவைகளை வலுப்படுத்தல் தொடர்பான கலந்துரையாடல்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822681/",
-      "headline": "ජාත්‍යන්තර ජල සම්මුතියට ශ්‍රී ලංකාවේ පූර්ණ සහාය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822667/",
-      "headline": "රත්මලානේ නිවසකට අත්බෝම්බ ප්‍රහාරයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822676/",
-      "headline": "தரம் 5 புலமைப்பரிசில் பரீட்சைக்கான மேலதிக வகுப்புகளுக்கு இன்று நள்ளிரவு முதல் தடை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822663/",
-      "headline": "ඩ්‍රෝන ප්‍රහාරයේ වීඩියෝවෙන් රුසියාවට යුද අපරාධ චෝදනා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822649/",
-      "headline": "ශිෂ්‍යත්ව විභාගයේ උපකාරක පන්ති අද මධ්‍යම රාත්‍රියෙන් තහනම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822660/",
-      "headline": "பாராளுமன்றம் இன்று காலை 9.30 மணிக்கு கூடவுள்ளது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822632/",
-      "headline": "කොත්මලේ වාන්දොරටු උදෑසන 8ට විවෘත කෙරේ – මහවැලි ගඟ දෙපස ජනතාවට අවධානයෙන් සිටින්නැයි දැනුම්දීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822653/",
-      "headline": "කෝටියකට අධික හැෂ් මත්ද්‍රව්‍ය සමග සංවිධානාත්මක අපරාධකරුවෙකුගේ ගෝලයෙක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822650/",
-      "headline": "බිම්බෝම්බ ඉවත් කිරීමේ වැඩසටහන කඩිනම් වෙයි – මෙහෙයුම් සඳහා 500ක හමුදා කණ්ඩායමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822636/",
-      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822642/",
-      "headline": "கொத்மலை நீர்த்தேக்கத்தின் வான்கதவுகள் இன்று காலை 8 மணிக்கு திறப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/7-new-metro-bus-routes-set-to-transform-colombo-transport",
-      "headline": "7 New Metro Bus Routes For Colombo Travel",
+      "url": "https://newsfirst.lk/2026/08/05/ex-education-minister-akila-viraj-arrested-by-ciaboc",
+      "headline": "Ex-Education Minister Akila Viraj Arrested",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/rs-75-mn-in-additional-funds-for-disaster-relief",
-      "headline": "Rs. 75 Mn In Additional Funds For Disaster Relief",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 77
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/grenade-attack-on-ratmalana-factory",
@@ -243,22 +22,28 @@
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/07/28/should-we-feed-the-strays-insight-from-sahana-the-solo-rescuer",
-      "headline": "Should We Feed The Strays?",
+      "url": "https://newsfirst.lk/2026/08/05/rs-8-8-mn-compensation-case-against-shasheendra-returns-to-court",
+      "headline": "Shasheendra's Rs. 8.8M Case Back in Court",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/07/23/pan-am-plane-wreckage-found-74-years-after-tragedy",
-      "headline": "Pan Am Plane Wreckage Found 74 Years After Tragedy",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/air-force-honors-golden-boy-rumesh-tharanga-promoted-to-rank-of-sergeant",
+      "headline": "Air Force Honors Golden Boy Rumesh Tharanga",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
