@@ -1,18 +1,83 @@
 {
-  "runId": "0ced24e4",
-  "startedAt": "2026-08-06T08:00:32.266Z",
-  "finishedAt": "2026-08-06T08:01:42.369Z",
+  "runId": "1cd05980",
+  "startedAt": "2026-08-06T10:32:03.556Z",
+  "finishedAt": "2026-08-06T10:33:11.022Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 45,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/05/vikram-misri-meets-president-akd-usd-350-mn-indian-credit-facility-to-support-sri-lanka",
-      "headline": "Vikram Misri Meets President AKD",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823186/",
+      "headline": "ஆகஸ்ட் 28-இல் திரைக்கு வருகிறது ‘ஒன்ஸ் மோர்’!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823184/",
+      "headline": "මහජන නියෝජිතයන්ගේ වත්කම් බැරකම් දැනගැනීමේ ජනතා අයිතිය සුරක්ෂිතයි – සෞඛ්‍ය අමාත්‍යවරයාගෙන් සහතිකයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823176/",
+      "headline": "‘L’ பலகை வாகனங்கள் அதிவேக நெடுஞ்சாலையில் நுழைவதற்குத் தடை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823174/",
+      "headline": "சீனா தனது சொந்த விண்வெளி நிலையத்தின் ஆய்வகத்தில் நெல் விளைவித்து சாதனை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823169/",
+      "headline": "பாகிஸ்தானுக்கு அன்னாசி ஏற்றுமதி செய்ய அமைச்சரவை அனுமதி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823168/",
+      "headline": "SLS தரச்சான்றற்ற தலைக்கவசங்கள் பறிமுதல்- இரு வர்த்தகர்களுக்கு அபராதம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823164/",
+      "headline": "விபத்துக்குள்ளான மீன்பிடிப் படகில் இருந்த 11 இந்திய மீனவர்களும் இலங்கை கடற்படையினரால் மீட்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823161/",
+      "headline": "අනතුරට පත් යත්‍රාවේ සිටි ඉන්දීය ධීවරයින් 11දෙනාම බේරාගනී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823120/",
+      "headline": "ගුණාත්මක විද්‍යාවක් සඳහා පදනම සැකසෙන්නේ සමාජයේ සැමට කිසිදු භේදයකින් තොරව සේවය කිරීමට පවතින හැකියාව මතයි – අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823093/",
+      "headline": "කෘෂි වෙළෙඳාමේ නව ජයග්‍රහණයක් – ශ්‍රී ලංකාවේ නැවුම් අන්නාසි පාකිස්තාන වෙළෙඳපොළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823138/",
+      "headline": "நாணயமாற்று விகிதம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823140/",
+      "headline": "அரச பாடசாலைகளின் மூன்றாம் தவணை முதல் கட்டம் நாளை நிறைவு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823133/",
+      "headline": "වියළි කලාපීය ප්‍රදේශවල කුඹුරුවලට ජලය හිඟ වීමෙන් සිදුව ඇති වගා හානිවලට කඩිනමින් වන්දි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823135/",
+      "headline": "இலங்கையில் காற்று மாசுபாட்டால் ஆண்டுக்கு 7,000 பேர் மரணம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/06/823124/",
@@ -115,11 +180,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823059/",
-      "headline": "பிரதமர் மோடியின் பதிவை நீக்கிய மெட்டா நிறுவனம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/06/823055/",
       "headline": "நல்லதன்னிய – சிவனொளிபாதமலை வீதியில் நிலச்சரிவு : போக்குவரத்து பாதிப்பு!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -160,92 +220,22 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823025/",
-      "headline": "ශ්‍රී ලංකා සංචාරය සාර්ථකව අවසන් කර ඉන්දීය විදේශ ලේකම් දිවයිනෙන් පිටත්ව යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823020/",
-      "headline": "சட்டவிரோத மதுபானத்துடன் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823018/",
-      "headline": "நீர்வெட்டு குறித்தான அறிவித்தல்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823006/",
-      "headline": "නීති විරෝධී මත්පැන් සමග සැකකරුවෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823016/",
-      "headline": "கரையோரப் பகுதிகளில் பலத்த மழை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822996/",
-      "headline": "රුමේෂ් තරංගට ශ්‍රී ලංකා ගුවන් හමුදාවෙන් උසස්වීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822990/",
-      "headline": "ගොවියාගේ සහ පරිසරයේ නොනිල මිතුරා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822985/",
-      "headline": "ඉතිහාසගත වාර්තාවක් තබමින් ජැෆ්නා කිංග්ස් LPL අවසන් සටනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822983/",
-      "headline": "ඩෙල්ෆ් දූපත තිරසර සංචාරක කේන්ද්‍රස්ථානයක් ලෙස සංවර්ධනයට පියවර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822978/",
-      "headline": "ජාත්‍යන්තර ජල සම්මුතියකට සහාය දෙන්න ශ්‍රී ලංකාවේ එකඟතාව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822975/",
-      "headline": "සංවිධානාත්මක අපරාධකරුවෙකුගේ ගෝලයෙකු මත්ද්‍රව්‍ය සමග අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822971/",
-      "headline": "ඇමති නලින්ද සහ ඇමති හර්ෂණ අමරපුර මහානිකායේ මහානාහිමියන් බැහැ දකියි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/822999/",
-      "headline": "ප්‍රදේශ කිහිපයකට අද දිනයේ ජල කප්පාදුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823000/",
-      "headline": "වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවලට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/southwest-monsoon-intensifies-as-heavy-rain-strong-winds-and-landslide-warnings-continue",
-      "headline": "Heavy Rain, Strong Winds and Landslide Warnings",
+      "url": "https://newsfirst.lk/2026/08/06/air-pollution-linked-to-thousands-of-deaths-in-sri-lanka-every-year",
+      "headline": "Air Pollution Linked to Thousands of Deaths in SL",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 81
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/akila-viraj-remanded-until-august-18-caused-alleged-loss-of-rs-2-76-mn-to-state",
-      "headline": "Akila Viraj Sent to Remand Until August 18",
+      "url": "https://newsfirst.lk/2026/08/06/india-calls-for-early-provincial-council-elections-welcomes-sri-lanka%e2%80%99s-security-assurances",
+      "headline": "India Calls for Early Provincial Council Elections",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 81
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/wimal-udaya-dilith-others-named-in-contempt-case",
-      "headline": "Wimal, Udaya, Dilith & Co, Named in Contempt Case",
+      "url": "https://newsfirst.lk/2026/08/06/gce-a-l-and-scholarship-examinations-to-proceed-as-scheduled",
+      "headline": "GCE A/L and Scholarship Examinations to Proceed",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
@@ -254,16 +244,16 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/slpp-rejects-igp-threat-claims-maintains-remarks-were-about-fair-policing",
-      "headline": "SLPP Rejects IGP Threat Claims",
+      "url": "https://newsfirst.lk/2026/08/06/api-wenuwen-api-fund-set-for-major-overhaul-to-improve-living-conditions-of-war-heroes",
+      "headline": "'Api Wenuwen Api' Fund Set for Major Overhaul",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/06/coal-commission-hears-evidence-on-viral-phone-recording",
+      "headline": "Coal Comm. Hears Evidence on Viral Phone Recording",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
