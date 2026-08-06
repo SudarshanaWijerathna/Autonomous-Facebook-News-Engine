@@ -1,14 +1,74 @@
 {
-  "runId": "1cd05980",
-  "startedAt": "2026-08-06T10:32:03.556Z",
-  "finishedAt": "2026-08-06T10:33:11.022Z",
+  "runId": "dbb81eb4",
+  "startedAt": "2026-08-06T12:24:08.400Z",
+  "finishedAt": "2026-08-06T12:25:25.641Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 45,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823219/",
+      "headline": "වෙරළට ඔබ්බෙන්වන මුහුදු ප්‍රදේශ කිහිපයකට වැසි සහ සුළං",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823227/",
+      "headline": "சுரேஷ் சலேயின் மனு மீதான பரிசீலனை ஒத்திவைப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823224/",
+      "headline": "සලේගේ පෙත්සමට අදාළ අතරමැදි පෙත්සම් සලකා බලන්න 10 වනදාට දින දෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823216/",
+      "headline": "வெள்ளவத்தை மற்றும் பாமன்கடை பகுதிகளில் தற்காலிகமாக நீர் விநியோகம் தடை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823217/",
+      "headline": "கைத்தொலைபேசி திருட்டில் ஈடுபட்ட வெளிநாட்டுப் பிரஜை கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823209/",
+      "headline": "ජාතික නිවාස වැඩසටහනට රුපියල් මිලියන 44,000ක් – අමාත්‍ය උපාලි පන්නිල",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823177/",
+      "headline": "ஆகஸ்ட் மாதத்திற்கான எரிவாயுவின்  விலைகளில் மாற்றமில்லை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/06/823200/",
+      "headline": "கொழும்பு ஆயரைச் சந்தித்தனர் அமைச்சர்கள் நலிந்த ஜயதிஸ்ஸ மற்றும் ஹர்ஷண நாணயக்கார!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823201/",
+      "headline": "ශ්‍රී ලංකා – ඉන්දියා ආර්ථික හවුල්කාරිත්වය නව පරිවර්තනීය යුගයකට රැගෙන යා යුතුයි – අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823197/",
+      "headline": "අගෝස්තු මාසයේ ලිට්‍රෝ ගෑස් මිල වැඩි වෙන්නේ නැහැ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/05/822785/",
+      "headline": "6 மாகாணங்களுக்கு பலத்த காற்று எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823193/",
+      "headline": "තෙවන පාසල් වාරයේ පළමු අදියර හෙටින් අවසන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/06/823186/",
       "headline": "ஆகஸ்ட் 28-இல் திரைக்கு வருகிறது ‘ஒன்ஸ் மோர்’!",
@@ -115,11 +175,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823078/",
-      "headline": "ධීවරයින් 11ක් සමග ඉන්දීය ට්‍රෝලර් යාත්‍රාවක් උතුරු මුහුදේදී අනතුරට ලක්වෙයි – බේරාගැනීමේ මෙහෙයුම් ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/06/823103/",
       "headline": "சிலாபம் பெருந்தோட்ட நிறுவனத்திற்கு விவசாய உபகரணங்கள் விநியோகம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -165,87 +220,20 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823072/",
-      "headline": "உலக ஈட்டி எறிதல் தரவரிசையில் முதலிடம் பிடித்தார் ருமேஷ் தரங்க!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823062/",
-      "headline": "හෝමූස් යළි විවෘත කර ගැනීම සම්බන්ධයෙන් ඕමානය සහ ඉරානය ගිවිසුමකට එළඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823068/",
-      "headline": "මිලියන 150ක නවීන යන්ත්‍රෝපකරණ සමග හලාවත වැවිලි සමාගම නව යුගයකට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823055/",
-      "headline": "நல்லதன்னிய – சிவனொளிபாதமலை வீதியில் நிலச்சரிவு : போக்குவரத்து பாதிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823052/",
-      "headline": "செம்மணி மனித புதைகுழி: மேலும் 8 மனித எலும்புக்கூடுகள் அடையாளம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823048/",
-      "headline": "மஹர சிறைச்சாலை சேதங்களை மதிப்பிட 5 பேர் கொண்ட குழு நியமனம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823045/",
-      "headline": "இன்று மீண்டும் கூடுகிறது பாராளுமன்றம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823042/",
-      "headline": "මහර බන්ධ­නා­ගා­රයේ සිදු වූ දේපළ හානිය තක්සේරු කිරීමට පංච පුද්ගල කමි­ටු­වක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823030/",
-      "headline": "පස් කන්දක් කඩා වැටීමකින් නල්ලතන්නිය ශ්‍රී පාද මාර්ගය ඇහැල කණුව ප්‍රදේශයෙන් අවහිර වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823032/",
-      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823029/",
-      "headline": "துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய இருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/06/air-pollution-linked-to-thousands-of-deaths-in-sri-lanka-every-year",
       "headline": "Air Pollution Linked to Thousands of Deaths in SL",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/08/06/india-calls-for-early-provincial-council-elections-welcomes-sri-lanka%e2%80%99s-security-assurances",
-      "headline": "India Calls for Early Provincial Council Elections",
+      "url": "https://newsfirst.lk/2026/08/06/president-calls-for-science-to-drive-economic-growth",
+      "headline": "President Calls for Science to Drive Economy",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/06/gce-a-l-and-scholarship-examinations-to-proceed-as-scheduled",
-      "headline": "GCE A/L and Scholarship Examinations to Proceed",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/api-wenuwen-api-fund-set-for-major-overhaul-to-improve-living-conditions-of-war-heroes",
-      "headline": "'Api Wenuwen Api' Fund Set for Major Overhaul",
+      "url": "https://newsfirst.lk/2026/08/06/two-arrested-over-dematagoda-shooting-attempt",
+      "headline": "Two Arrested Over Dematagoda Shooting Attempt",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -254,6 +242,12 @@
       "headline": "Coal Comm. Hears Evidence on Viral Phone Recording",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
