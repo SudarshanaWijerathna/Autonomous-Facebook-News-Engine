@@ -1,257 +1,48 @@
 {
-  "runId": "123b35fe",
-  "startedAt": "2026-08-06T03:56:50.578Z",
-  "finishedAt": "2026-08-06T03:58:18.318Z",
+  "runId": "a0e8ca0d",
+  "startedAt": "2026-08-06T05:50:53.460Z",
+  "finishedAt": "2026-08-06T05:52:13.375Z",
   "shadowMode": false,
-  "discovered": 87,
-  "afterDedup": 43,
+  "discovered": 37,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823048/",
-      "headline": "மஹர சிறைச்சாலை சேதங்களை மதிப்பிட 5 பேர் கொண்ட குழு நியமனம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823045/",
-      "headline": "இன்று மீண்டும் கூடுகிறது பாராளுமன்றம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823042/",
-      "headline": "මහර බන්ධ­නා­ගා­රයේ සිදු වූ දේපළ හානිය තක්සේරු කිරීමට පංච පුද්ගල කමි­ටු­වක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823030/",
-      "headline": "පස් කන්දක් කඩා වැටීමකින් නල්ලතන්නිය ශ්‍රී පාද මාර්ගය ඇහැල කණුව ප්‍රදේශයෙන් අවහිර වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823032/",
-      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823029/",
-      "headline": "துப்பாக்கிச் சூட்டுச் சம்பவத்துடன் தொடர்புடைய இருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823025/",
-      "headline": "ශ්‍රී ලංකා සංචාරය සාර්ථකව අවසන් කර ඉන්දීය විදේශ ලේකම් දිවයිනෙන් පිටත්ව යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822990/",
-      "headline": "ගොවියාගේ සහ පරිසරයේ නොනිල මිතුරා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822985/",
-      "headline": "ඉතිහාසගත වාර්තාවක් තබමින් ජැෆ්නා කිංග්ස් LPL අවසන් සටනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823012/",
-      "headline": "පුද්ගල ඝාතනයකට තැත් කිරීම  යන චෝදනාව යටතේ දෙදෙනෙක්  අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823020/",
-      "headline": "சட்டவிரோத மதுபானத்துடன் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823018/",
-      "headline": "நீர்வெட்டு குறித்தான அறிவித்தல்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823006/",
-      "headline": "නීති විරෝධී මත්පැන් සමග සැකකරුවෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823016/",
-      "headline": "கரையோரப் பகுதிகளில் பலத்த மழை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/822999/",
-      "headline": "ප්‍රදේශ කිහිපයකට අද දිනයේ ජල කප්පාදුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823000/",
-      "headline": "වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවලට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822983/",
-      "headline": "ඩෙල්ෆ් දූපත තිරසර සංචාරක කේන්ද්‍රස්ථානයක් ලෙස සංවර්ධනයට පියවර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822978/",
-      "headline": "ජාත්‍යන්තර ජල සම්මුතියකට සහාය දෙන්න ශ්‍රී ලංකාවේ එකඟතාව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822975/",
-      "headline": "සංවිධානාත්මක අපරාධකරුවෙකුගේ ගෝලයෙකු මත්ද්‍රව්‍ය සමග අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822971/",
-      "headline": "ඇමති නලින්ද සහ ඇමති හර්ෂණ අමරපුර මහානිකායේ මහානාහිමියන් බැහැ දකියි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822966/",
-      "headline": "හෙට පූජාපිටිය ජල සම්පාදන යෝජනා ක්‍රමයට අයත් ප්‍රදේශ කිහිපයක ජල කප්පාදුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822955/",
-      "headline": "புதிய இராணுவத் தளபதி பிரதமரை சந்தித்தார்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822960/",
-      "headline": "බදු පදනම පුළුල් කර ජනතාවට බලපාන බදු අඩු කිරීම අරමුණයි – ජනාධිපති ලේකම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822943/",
-      "headline": "ඉන්දු ලංකා සබඳතා ශක්තිමත් කිරීම වෙනුවෙන් අගමැති සහ ඉන්දීය විදේශ ලේකම්වරයා අතර හමුවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822945/",
-      "headline": "பல மாவட்டங்களில் 100 மி.மீக்கும் அதிகமான கனமழை பெய்யக்கூடும்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822951/",
-      "headline": "නව හමුදාපති අග්‍රාමාත්‍යතුමිය හමුවෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822946/",
-      "headline": "පශ්චාත් ආපදා ප්‍රතිසංස්කරණයට ඉන්දියාවෙන් ඇ.ඩොලර් මිලියන 350ක ණය පහසුකම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822938/",
-      "headline": "අපද්‍රව්‍ය ශුන්‍ය කුරුඳු සැකසුම් මධ්‍යස්ථානය පිහිටුවන්න රුහුණ විශ්වවිද්‍යාලය සහ කාර්මික තාක්ෂණ ආයතනය අතර අවබෝධතා ගිවිසුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822899/",
-      "headline": "அடுத்த 2 ஆண்டுகளில் டெங்குவை முழுமையாக ஒழிக்க திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822910/",
-      "headline": "AI தொழில்நுட்பத்தில் இலங்கையை வல்லரசாக்கும் தேசிய திட்டம் வெளியீடு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822931/",
-      "headline": "விமல், கம்மன்பில, திலித் ஜெயவீர உள்ளிட்டோர் நீதிமன்றத்தை அவமதித்துள்ளதாக கோட்டை நீதவான் தீர்ப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822930/",
-      "headline": "විමල් , ගම්මන්පිල  , දිලිත් අධිකරණයට අපහාස කරලා කොටුව මහේස්ත්‍රාත් තීරණය කරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822923/",
-      "headline": "දේශීය ව්‍යාපාර ලොවට ගෙනයන ExpoScaleUp",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822922/",
-      "headline": "ஒவ்வொருவரின் உழைப்பிற்கும் உரிய பலன் கிடைக்கும் பொருளாதார ஜனநாயகம் நாட்டிற்கு தேவை: அமைச்சர் லால்காந்த!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822919/",
-      "headline": "தடைசெய்யப்பட்ட 26 பிரமிட் நிறுவனங்களின் பட்டியல் வெளியீடு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822906/",
-      "headline": "ශ්‍රී ලංකා ආරක්ෂක හමුදාව විද්‍යාත්මක සහ වෘත්තීය නිපුණතාවෙන් සන්නද්ධ හමුදාවක් බවට පත්විය යුතුයි – ජනපති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822911/",
-      "headline": "අන්තරේ ඉල්ලීම්වලට අගමැතිනියගෙන් යහපත් ප්‍රතිචාර – අදීෂ ගමගේ – අන්තරේ කැඳවුම්කරු",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822901/",
-      "headline": "පාසලෙන් අරඹන හරිත අනාගතය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822896/",
-      "headline": "மத்திய மாகாண ஆளுநர் பதவியேற்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822892/",
-      "headline": "ඉදිරි වසර දෙක තුළ ඩෙංගු මුළුමනින්ම තුරන් කිරීමට සැලසුම් සහගත වැඩපිළිවෙළක් – අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822888/",
-      "headline": "சஷீந்திர ராஜபக்ஷவிற்கு எதிரான வழக்கு ஒத்திவைப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822884/",
-      "headline": "ශෂීන්ද්‍ර ඇතුළු තිදෙනෙකුට එරෙහි දූෂණ නඩුව සැප්තැම්බර් 28 විභාගයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/05/822879/",
-      "headline": "මධ්‍යම පළාත් නව ආණ්ඩුකාරවරයා ජනපති ඉදිරියේ දිවුරුම් දෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/05/822880/",
-      "headline": "ஜனாதிபதியைச் சந்தித்தார் புதிய இராணுவத் தளபதி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/05/supreme-court-rejects-bid-to-postpone-a-l-examination",
+      "headline": "Supreme Court Rejects Bid to Postpone A/L Exam",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/police-crackdown-will-continue-despite-threats-says-minister",
       "headline": "Police Crackdown Will Continue Despite Threats",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/rs-8-8-mn-compensation-case-against-shasheendra-returns-to-court",
       "headline": "Shasheendra's Rs. 8.8M Case Back in Court",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
