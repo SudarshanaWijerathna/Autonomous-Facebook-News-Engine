@@ -1,14 +1,64 @@
 {
-  "runId": "4181ad6f",
-  "startedAt": "2026-08-07T06:44:59.142Z",
-  "finishedAt": "2026-08-07T06:46:26.478Z",
+  "runId": "12f1663c",
+  "startedAt": "2026-08-07T08:48:53.464Z",
+  "finishedAt": "2026-08-07T08:50:23.859Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 44,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823454/",
+      "headline": "හිටපු අමාත්‍ය ලක්ෂ්මන් යාපාට ඇප",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823444/",
+      "headline": "14 வயது மாணவனின் துப்பாக்கிச் சூட்டில் 7 பேர் பலி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823437/",
+      "headline": "வான்பாயும் நிலையை அடைந்துள்ள பிரதான நீர்த்தேக்கங்கள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823421/",
+      "headline": "කෘෂිකර්මයේ සංවර්ධනයට වැඩිම ප්‍රතිපාදන වෙන් කර ඇත්තේ වත්මන් රජයයි -ඇමති වසන්ත සමරසිංහ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823428/",
+      "headline": "பொலிஸ் மா அதிபர், பிரதம நீதியரசரின் இல்லங்களை காணொளி  எடுத்த நபர் கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823409/",
+      "headline": "නොමග යවන කෙටි පණිවිඩ ගැන පොලිසියෙන් අනතුරු ඇඟවීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823422/",
+      "headline": "5 மாகாணங்களுக்கு பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823414/",
+      "headline": "පාර්ලිමේන්තු පර්යේෂණ හා අධ්‍යයන මධ්‍යස්ථානය පිහිටුවීමට මැක්ස් ප්ලැන්ක් පදනමේ සහයෝගය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823416/",
+      "headline": "ආසියානු සන්නිවේදන න්‍යායේ පුරෝගාමියා වූ මහාචාර්ය විමල් දිසානායක මහතා අභාවප්‍රාප්ත වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823410/",
+      "headline": "4 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/07/823411/",
       "headline": "சிறை மோதல்கள் – அமைச்சர் விஜேபால விசேட அறிவிப்பு",
@@ -45,6 +95,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/07/823384/",
+      "headline": "දිස්ත්‍රික්ක 04ක ප්‍රදේශ රැසකට නායයෑමේ අනතුරු ඇඟවීම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/ta/2026/08/07/823380/",
       "headline": "ரவிக்கு எதிரான  வழக்கு ஒன்றுக்கு இடைக்கால தடை",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -52,16 +107,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/07/823375/",
       "headline": "ශ්‍රී ලංකාව පරිවර්තනීය ගමනක – ජාත්‍යන්තර හවුල්කරුවන්ට අගමැතිනියගෙන් ඇරයුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823372/",
-      "headline": "5,404 கோடி ரூபா இழப்பீடு வழங்க மெட்டா நிறுவனத்திற்கு நியூ மெக்சிகோ நீதிமன்றம் உத்தரவு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823357/",
-      "headline": "මැගසින් බන්ධනාගාරයේ තත්ත්වය පාලනයට කිසිදු වෙඩි තැබීමක් සිදුකළේ නැහැ – ඇමති හර්ෂණ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -80,13 +125,8 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/07/823345/",
-      "headline": "බලපත්‍ර නොමැති තවත් සූදු ක්‍රීඩා වෙබ් අඩවි 122 ක් අවහිර කරන්න පියවර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823384/",
-      "headline": "දිස්ත්‍රික්ක 04ක ප්‍රදේශ රැසකට නායයෑමේ අනතුරු ඇඟවීම්",
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823349/",
+      "headline": "குருவிட்ட சிறை மோதலில் இருவர் பலி!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -95,23 +135,18 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823302/",
-      "headline": "පොලිස්පති ගැන සාගරගේ ප්‍රකාශයේ සංස්කරණය නොකළ දර්ශන ඉල්ලා මාධ්‍ය ආයතන 6කට නියෝග",
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823340/",
+      "headline": "1.4 கோடி மதிப்புள்ள தங்க நகை திருட்டு:  4 பேர் கைது!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823349/",
-      "headline": "குருவிட்ட சிறை மோதலில் இருவர் பலி!",
+      "url": "https://www.itnnews.lk/2026/08/07/823345/",
+      "headline": "බලපත්‍ර නොමැති තවත් සූදු ක්‍රීඩා වෙබ් අඩවි 122 ක් අවහිර කරන්න පියවර",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823295/",
-      "headline": "ලාෆ්ස් ගෑස් මිලෙත් වෙනසක් නැහැ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823291/",
-      "headline": "යෝෂිත සහ රෝහිත අයථා දේපළ අත්පත් කරගෙන ඇති බවට අල්ලස් කොමිසමට පැමිණිල්ලක්",
+      "url": "https://www.itnnews.lk/2026/08/07/823310/",
+      "headline": "මැගසින් බන්ධනාගාරයේ නොසන්සුන්කාරී තත්ත්වය පාලනය කෙරේ – බන්ධනාගාර පරිශ්‍රයේ ආරක්ෂාව දැඩි කෙරේ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -120,8 +155,18 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/07/823325/",
-      "headline": "රටම ලස්සන කරන ‘අත්තම’ ජාතික පවිත්‍රතා මෙහෙවර හෙට ඇරඹෙයි",
+      "url": "https://www.itnnews.lk/2026/08/06/823302/",
+      "headline": "පොලිස්පති ගැන සාගරගේ ප්‍රකාශයේ සංස්කරණය නොකළ දර්ශන ඉල්ලා මාධ්‍ය ආයතන 6කට නියෝග",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823334/",
+      "headline": "குருவிட்ட சிறைச்சாலையில் பதற்றம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823332/",
+      "headline": "රන් භාණ්ඩ සොරකමක සුලමුල හෙළිවෙයි – සැකකරුවන් 4ක් අත්අඩංගුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -150,108 +195,64 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/07/823308/",
+      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823295/",
+      "headline": "ලාෆ්ස් ගෑස් මිලෙත් වෙනසක් නැහැ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823372/",
+      "headline": "5,404 கோடி ரூபா இழப்பீடு வழங்க மெட்டா நிறுவனத்திற்கு நியூ மெக்சிகோ நீதிமன்றம் உத்தரவு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/06/823291/",
+      "headline": "යෝෂිත සහ රෝහිත අයථා දේපළ අත්පත් කරගෙන ඇති බවට අල්ලස් කොමිසමට පැමිණිල්ලක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/06/823284/",
       "headline": "පළාත් සභා මැතිවරණය හැකි ඉක්මනින් පැවැත්වීම රජයේ අපේක්ෂාවයි – ඇමති වෛද්‍ය නලින්ද ජයතිස්ස",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823223/",
-      "headline": "இந்திய வெளிவிவகார செயலாளரின் முக்கிய சந்திப்புக்கள்",
+      "url": "https://www.itnnews.lk/2026/08/07/823357/",
+      "headline": "මැගසින් බන්ධනාගාරයේ තත්ත්වය පාලනයට කිසිදු වෙඩි තැබීමක් සිදුකළේ නැහැ – ඇමති හර්ෂණ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823275/",
-      "headline": "දූෂණ විරෝධී පනත සංශෝධනය තුළින් මහජන නියෝජිතයන්ගේ වත්කම් බැරකම් සඟවන්නේ නැහැ – ඇමති බිමල්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/07/52-million-aiib-funded-power-cable-project-begins",
+      "headline": "$52 Million AIIB-Funded Power Cable Project Begins",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823340/",
-      "headline": "1.4 கோடி மதிப்புள்ள தங்க நகை திருட்டு:  4 பேர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823271/",
-      "headline": "ශක්තිමත් වුණු ඉන්දු – ලංකා සබඳතා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823267/",
-      "headline": "ජනාධිපති අරමුදලේ අධ්‍යාපනික ආධාර වැඩසටහනට ජාතික ලොතරැයි මණ්ඩලයෙන් මූල්‍ය අනුග්‍රහය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823261/",
-      "headline": "මාතර සිට පොතුවිල් දක්වා මුහුදු තීරය රළු විය හැකියි – ධීවර කටයුතුවලින් වළකින්න – හදිසි දැනුම්දීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823257/",
-      "headline": "මීගමුව බන්ධනාගාර සිද්ධියේ විමර්ශන කමිටු වාර්තාව ජනපතිට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823254/",
-      "headline": "හිරුණිකා ඉදිරිපත් කළ පෙත්සම විභාග කිරීම සැප්තැම්බර් 23 වනදා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823310/",
-      "headline": "මැගසින් බන්ධනාගාරයේ නොසන්සුන්කාරී තත්ත්වය පාලනය කෙරේ – බන්ධනාගාර පරිශ්‍රයේ ආරක්ෂාව දැඩි කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823250/",
-      "headline": "நீர்கொழும்பு சிறைச்சாலை சம்பவம் – விசாரணை அறிக்கை ஜனாதிபதியிடம் கையளிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823245/",
-      "headline": "விலங்குகள் மற்றும் நீர் வழங்கல் திருத்தச் சட்டமூலங்கள் பாராளுமன்றத்தில் நிறைவேற்றம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823334/",
-      "headline": "குருவிட்ட சிறைச்சாலையில் பதற்றம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823241/",
-      "headline": "අප රටේ කසළ කළමනාකරණය කිරීම රජයට තනිවම කළ නොහැකියි – නියෝජ්‍ය ඇමති රුවන් සෙනරත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823239/",
-      "headline": "மீனவர்கள் மற்றும் கடற்படைக்கு வளிமண்டலவியல் திணைக்களம் அவசர எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823332/",
-      "headline": "රන් භාණ්ඩ සොරකමක සුලමුල හෙළිවෙයි – සැකකරුවන් 4ක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/07/school-term-ends-today-dengue-control-measures-before-exams",
+      "headline": "Dengue Control Measures Before Exams",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/7-hour-water-cut-to-hit-wellawatte-and-pamankada-tonight",
-      "headline": "7-Hour Water Cut to Hit Wellawatte and Pamankada",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     }
   ],
   "errors": []
