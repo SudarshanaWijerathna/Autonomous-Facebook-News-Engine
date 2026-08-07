@@ -1,14 +1,69 @@
 {
-  "runId": "477023a3",
-  "startedAt": "2026-08-07T04:56:03.984Z",
-  "finishedAt": "2026-08-07T04:57:07.384Z",
+  "runId": "4181ad6f",
+  "startedAt": "2026-08-07T06:44:59.142Z",
+  "finishedAt": "2026-08-07T06:46:26.478Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823411/",
+      "headline": "சிறை மோதல்கள் – அமைச்சர் விஜேபால விசேட அறிவிப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823406/",
+      "headline": "පේරාදෙණිය විශ්වවිද්‍යාලයේ අධ්‍යයන කටයුතු 10 වැනිදා සිට යළි ආරම්භ කිරීමට පියවර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823387/",
+      "headline": "මත්ද්‍රව්‍ය හා පාතාලය මඩින රජයේ දැඩි වැඩපිළිවෙළ නිසා බන්ධනාගාර නොසන්සුන් වෙයි – ඇමති හර්ෂණ සැබෑ කතාව හෙළි කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823401/",
+      "headline": "லொத்தர் விற்பனையாளர்களின் பிள்ளைகளுக்கு கல்வி உதவித்தொகை: தேசிய லொத்தர் சபை நிதியுதவி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823385/",
+      "headline": "பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள்  அமைச்சு தொடர்பான  வரவு செலவுத் திட்ட  கலந்துரையாடல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823392/",
+      "headline": "පල්ලන්සේන බන්ධනාගාරයේද නොසන්සුන්තාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823389/",
+      "headline": "பல்லன்சேன சிறைச்சாலையில் பதற்றம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823380/",
+      "headline": "ரவிக்கு எதிரான  வழக்கு ஒன்றுக்கு இடைக்கால தடை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823375/",
+      "headline": "ශ්‍රී ලංකාව පරිවර්තනීය ගමනක – ජාත්‍යන්තර හවුල්කරුවන්ට අගමැතිනියගෙන් ඇරයුම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823372/",
+      "headline": "5,404 கோடி ரூபா இழப்பீடு வழங்க மெட்டா நிறுவனத்திற்கு நியூ மெக்சிகோ நீதிமன்றம் உத்தரவு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823357/",
+      "headline": "මැගසින් බන්ධනාගාරයේ තත්ත්වය පාලනයට කිසිදු වෙඩි තැබීමක් සිදුකළේ නැහැ – ඇමති හර්ෂණ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/07/823360/",
       "headline": "මැගසින් බන්ධනාගාරයේ ගැටුමෙන් රැඳවියන් 11ක් රෝහලට",
@@ -25,8 +80,13 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823349/",
-      "headline": "குருவிட்ட சிறை மோதலில் இருவர் பலி!",
+      "url": "https://www.itnnews.lk/2026/08/07/823345/",
+      "headline": "බලපත්‍ර නොමැති තවත් සූදු ක්‍රීඩා වෙබ් අඩවි 122 ක් අවහිර කරන්න පියවර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823384/",
+      "headline": "දිස්ත්‍රික්ක 04ක ප්‍රදේශ රැසකට නායයෑමේ අනතුරු ඇඟවීම්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -35,23 +95,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823340/",
-      "headline": "1.4 கோடி மதிப்புள்ள தங்க நகை திருட்டு:  4 பேர் கைது!",
+      "url": "https://www.itnnews.lk/2026/08/06/823302/",
+      "headline": "පොලිස්පති ගැන සාගරගේ ප්‍රකාශයේ සංස්කරණය නොකළ දර්ශන ඉල්ලා මාධ්‍ය ආයතන 6කට නියෝග",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/07/823345/",
-      "headline": "බලපත්‍ර නොමැති තවත් සූදු ක්‍රීඩා වෙබ් අඩවි 122 ක් අවහිර කරන්න පියවර",
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823349/",
+      "headline": "குருவிட்ட சிறை மோதலில் இருவர் பலி!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/07/823310/",
-      "headline": "මැගසින් බන්ධනාගාරයේ නොසන්සුන්කාරී තත්ත්වය පාලනය කෙරේ – බන්ධනාගාර පරිශ්‍රයේ ආරක්ෂාව දැඩි කෙරේ",
+      "url": "https://www.itnnews.lk/2026/08/06/823295/",
+      "headline": "ලාෆ්ස් ගෑස් මිලෙත් වෙනසක් නැහැ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/07/823332/",
-      "headline": "රන් භාණ්ඩ සොරකමක සුලමුල හෙළිවෙයි – සැකකරුවන් 4ක් අත්අඩංගුවට",
+      "url": "https://www.itnnews.lk/2026/08/06/823291/",
+      "headline": "යෝෂිත සහ රෝහිත අයථා දේපළ අත්පත් කරගෙන ඇති බවට අල්ලස් කොමිසමට පැමිණිල්ලක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823337/",
+      "headline": "කුරුවිට බන්ධනාගාරයේ නොසන්සුන්තාවක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -85,36 +150,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/07/823308/",
-      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823302/",
-      "headline": "පොලිස්පති ගැන සාගරගේ ප්‍රකාශයේ සංස්කරණය නොකළ දර්ශන ඉල්ලා මාධ්‍ය ආයතන 6කට නියෝග",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823337/",
-      "headline": "කුරුවිට බන්ධනාගාරයේ නොසන්සුන්තාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823295/",
-      "headline": "ලාෆ්ස් ගෑස් මිලෙත් වෙනසක් නැහැ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823334/",
-      "headline": "குருவிட்ட சிறைச்சாலையில் பதற்றம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823291/",
-      "headline": "යෝෂිත සහ රෝහිත අයථා දේපළ අත්පත් කරගෙන ඇති බවට අල්ලස් කොමිසමට පැමිණිල්ලක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/06/823284/",
       "headline": "පළාත් සභා මැතිවරණය හැකි ඉක්මනින් පැවැත්වීම රජයේ අපේක්ෂාවයි – ඇමති වෛද්‍ය නලින්ද ජයතිස්ස",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -127,6 +162,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/06/823275/",
       "headline": "දූෂණ විරෝධී පනත සංශෝධනය තුළින් මහජන නියෝජිතයන්ගේ වත්කම් බැරකම් සඟවන්නේ නැහැ – ඇමති බිමල්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823340/",
+      "headline": "1.4 கோடி மதிப்புள்ள தங்க நகை திருட்டு:  4 பேர் கைது!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -155,6 +195,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/07/823310/",
+      "headline": "මැගසින් බන්ධනාගාරයේ නොසන්සුන්කාරී තත්ත්වය පාලනය කෙරේ – බන්ධනාගාර පරිශ්‍රයේ ආරක්ෂාව දැඩි කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/ta/2026/08/06/823250/",
       "headline": "நீர்கொழும்பு சிறைச்சாலை சம்பவம் – விசாரணை அறிக்கை ஜனாதிபதியிடம் கையளிப்பு!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -162,6 +207,11 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/06/823245/",
       "headline": "விலங்குகள் மற்றும் நீர் வழங்கல் திருத்தச் சட்டமூலங்கள் பாராளுமன்றத்தில் நிறைவேற்றம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823334/",
+      "headline": "குருவிட்ட சிறைச்சாலையில் பதற்றம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -175,94 +225,32 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823234/",
-      "headline": "සත්ත්ව සහ ජාතික ජල සම්පාදන පනත් කෙටුම්පත් සම්මත වෙයි",
+      "url": "https://www.itnnews.lk/2026/08/07/823332/",
+      "headline": "රන් භාණ්ඩ සොරකමක සුලමුල හෙළිවෙයි – සැකකරුවන් 4ක් අත්අඩංගුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823232/",
-      "headline": "கொங்கோவில் கட்டுக்கடங்காமல் பரவும் எபோலா!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/06/823219/",
-      "headline": "වෙරළට ඔබ්බෙන්වන මුහුදු ප්‍රදේශ කිහිපයකට වැසි සහ සුළං",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823227/",
-      "headline": "சுரேஷ் சலேயின் மனு மீதான பரிசீலனை ஒத்திவைப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823224/",
-      "headline": "සලේගේ පෙත්සමට අදාළ අතරමැදි පෙත්සම් සලකා බලන්න 10 වනදාට දින දෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823216/",
-      "headline": "வெள்ளவத்தை மற்றும் பாமன்கடை பகுதிகளில் தற்காலிகமாக நீர் விநியோகம் தடை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823217/",
-      "headline": "கைத்தொலைபேசி திருட்டில் ஈடுபட்ட வெளிநாட்டுப் பிரஜை கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823209/",
-      "headline": "ජාතික නිවාස වැඩසටහනට රුපියල් මිලියන 44,000ක් – අමාත්‍ය උපාලි පන්නිල",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823177/",
-      "headline": "ஆகஸ்ட் மாதத்திற்கான எரிவாயுவின்  விலைகளில் மாற்றமில்லை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/06/823200/",
-      "headline": "கொழும்பு ஆயரைச் சந்தித்தனர் அமைச்சர்கள் நலிந்த ஜயதிஸ்ஸ மற்றும் ஹர்ஷண நாணயக்கார!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/06/823201/",
-      "headline": "ශ්‍රී ලංකා – ඉන්දියා ආර්ථික හවුල්කාරිත්වය නව පරිවර්තනීය යුගයකට රැගෙන යා යුතුයි – අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/president-calls-for-science-to-drive-economic-growth",
-      "headline": "President Calls for Science to Drive Economy",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/court-clears-way-to-probe-sagara-s-comments-on-igp",
-      "headline": "Court Clears Way To Probe Sagara's Comments On IGP",
-      "reason": "score-below-threshold (71 < 75)",
-      "score": 71
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/litro-keeps-lp-gas-prices-unchanged-for-august-2026",
-      "headline": "Litro Keeps LP Gas Prices Unchanged for August",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/06/7-hour-water-cut-to-hit-wellawatte-and-pamankada-tonight",
+      "headline": "7-Hour Water Cut to Hit Wellawatte and Pamankada",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/06/rise-of-china-decline-of-unipolarity-reshaping-global-politics",
-      "headline": "World Order Is Changing ? | New Global Power Shift",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
