@@ -1,10 +1,10 @@
 {
-  "runId": "3a69027c",
-  "startedAt": "2026-08-07T14:11:43.482Z",
-  "finishedAt": "2026-08-07T14:12:46.226Z",
+  "runId": "8c89c654",
+  "startedAt": "2026-08-07T18:07:51.750Z",
+  "finishedAt": "2026-08-07T18:09:02.539Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 41,
+  "afterDedup": 42,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -13,6 +13,31 @@
       "url": "https://newsfirst.lk/2026/08/07/back-to-back-prison-incidents-rock-sri-lanka-magazine-kuruwita-under-tight-security",
       "headline": "Back-to-Back Prison Incidents Rock Sri Lanka",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823611/",
+      "headline": "නව මැගසින් , කුරුවිට හා මීගමුව පල්ලන්සේන බන්ධනාගාරවල ඇති වූ තත්ත්වය මුලුමනින්ම පාලනය කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823607/",
+      "headline": "ශ්‍රී ලංකා තැපෑල නව්‍යකරණය කිරීම සම්බන්ධ සාකච්ඡාවක් ජනාධිපති ලේකම්ගේ ප්‍රධානත්වයෙන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823603/",
+      "headline": "செம்மணி அகழ்வாராய்ச்சி – மனித எலும்புக்கூடுகளின் எண்ணிக்கை 507 ஆக உயர்வு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/07/823601/",
+      "headline": "කුරුවිට සහ පල්ලන්සේන බන්ධනාගාරවල නොසන්සුන්කාරී තත්ත්වය පාලනය කෙරේ – සිදුවීම සම්බන්ධයෙන් විමර්ශන ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823591/",
+      "headline": "லங்கா சதொசவில் 10 அத்தியாவசியப் பொருட்களின் விலைகள் குறைப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/07/823586/",
@@ -170,11 +195,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823461/",
-      "headline": "பேராதனைப் பல்கலைக்கழக கல்வி நடவடிக்கைகள் ஆகஸ்ட் 10ம் திகதி  முதல் வழமைக்கு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/07/823460/",
       "headline": "දැවැන්ත දැව ජාවාරමක් නීතියේ රැහැනට හසුකර ගැනේ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -195,6 +215,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/08/07/823437/",
+      "headline": "வான்பாயும் நிலையை அடைந்துள்ள பிரதான நீர்த்தேக்கங்கள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/07/823421/",
       "headline": "කෘෂිකර්මයේ සංවර්ධනයට වැඩිම ප්‍රතිපාදන වෙන් කර ඇත්තේ වත්මන් රජයයි -ඇමති වසන්ත සමරසිංහ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -210,44 +235,8 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823422/",
-      "headline": "5 மாகாணங்களுக்கு பலத்த காற்று வீசக்கூடும் என வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823414/",
-      "headline": "පාර්ලිමේන්තු පර්යේෂණ හා අධ්‍යයන මධ්‍යස්ථානය පිහිටුවීමට මැක්ස් ප්ලැන්ක් පදනමේ සහයෝගය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823416/",
-      "headline": "ආසියානු සන්නිවේදන න්‍යායේ පුරෝගාමියා වූ මහාචාර්ය විමල් දිසානායක මහතා අභාවප්‍රාප්ත වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823410/",
-      "headline": "4 மாவட்டங்களுக்கு மண்சரிவு அபாய எச்சரிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823411/",
-      "headline": "சிறை மோதல்கள் – அமைச்சர் விஜேபால விசேட அறிவிப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823406/",
-      "headline": "පේරාදෙණිය විශ්වවිද්‍යාලයේ අධ්‍යයන කටයුතු 10 වැනිදා සිට යළි ආරම්භ කිරීමට පියවර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/07/coordinated-prison-conspiracy-sri-lanka-probes-wave-of-unrest-across-prisons",
       "headline": "Sri Lanka Probes Coordinated Prison Disturbances",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/07/gota-ordered-to-give-evidence-in-lalith-kugan-case",
-      "headline": "Gota Ordered To Testify In Lalith, Kugan Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
@@ -258,22 +247,28 @@
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/07/rooftop-protest-at-pallansena-open-prison-camp",
-      "headline": "Rooftop Protest at Pallansena Open Prison Camp",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/07/d-v-chanaka-claims-tender-plot-delays-and-supplier-controversy",
-      "headline": "D.V. Chanaka Alleges Tender Plot and Coal Delays",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/07/rooftop-protest-at-pallansena-open-prison-camp",
+      "headline": "Rooftop Protest at Pallansena Open Prison Camp",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
