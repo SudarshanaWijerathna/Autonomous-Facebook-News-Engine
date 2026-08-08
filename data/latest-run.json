@@ -1,18 +1,33 @@
 {
-  "runId": "8c89c654",
-  "startedAt": "2026-08-07T18:07:51.750Z",
-  "finishedAt": "2026-08-07T18:09:02.539Z",
+  "runId": "cf8b9357",
+  "startedAt": "2026-08-08T02:48:31.588Z",
+  "finishedAt": "2026-08-08T02:52:06.094Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/07/back-to-back-prison-incidents-rock-sri-lanka-magazine-kuruwita-under-tight-security",
-      "headline": "Back-to-Back Prison Incidents Rock Sri Lanka",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/08/823636/",
+      "headline": "රටම ලස්සන කරන ‘අත්තම’ ජාතික පවිත්‍රතා වැඩසටහන අදින් ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/08/823637/",
+      "headline": "බලපත්‍ර නොමැතිව මැණික් ගරමින් සිටි සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/08/823627/",
+      "headline": "අද දිනයේ පළාත් කිහිපයකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/08/823632/",
+      "headline": "ආයුධ රැසක් සහ අත් බෝම්බයක් සමග පුද්ගලයන් 6 දෙනෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/07/823611/",
@@ -215,60 +230,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823437/",
-      "headline": "வான்பாயும் நிலையை அடைந்துள்ள பிரதான நீர்த்தேக்கங்கள்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823421/",
-      "headline": "කෘෂිකර්මයේ සංවර්ධනයට වැඩිම ප්‍රතිපාදන වෙන් කර ඇත්තේ වත්මන් රජයයි -ඇමති වසන්ත සමරසිංහ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/07/823428/",
-      "headline": "பொலிஸ் மா அதிபர், பிரதம நீதியரசரின் இல்லங்களை காணொளி  எடுத்த நபர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/07/823409/",
-      "headline": "නොමග යවන කෙටි පණිවිඩ ගැන පොලිසියෙන් අනතුරු ඇඟවීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/07/coordinated-prison-conspiracy-sri-lanka-probes-wave-of-unrest-across-prisons",
-      "headline": "Sri Lanka Probes Coordinated Prison Disturbances",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/07/drug-withdrawal-and-organised-networks-behind-prison-violence-says-expert",
-      "headline": "Organised Networks Behind Prison Violence",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/08/07/24-more-suspects-named-in-negombo-prison-riot",
+      "headline": "24 More Suspects Named in Negombo Prison Riot",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/07/d-v-chanaka-claims-tender-plot-delays-and-supplier-controversy",
+      "headline": "D.V. Chanaka Alleges Tender Plot and Coal Delays",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/07/prison-unrest-not-a-national-security-threat-says-minister",
+      "headline": "Prison Unrest Not a National Security Threat",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/07/rooftop-protest-at-pallansena-open-prison-camp",
       "headline": "Rooftop Protest at Pallansena Open Prison Camp",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []
