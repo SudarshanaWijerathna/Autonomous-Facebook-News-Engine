@@ -1,18 +1,113 @@
 {
-  "runId": "a64f5392",
-  "startedAt": "2026-08-09T06:07:08.803Z",
-  "finishedAt": "2026-08-09T06:08:54.019Z",
+  "runId": "c289c4e6",
+  "startedAt": "2026-08-09T10:59:55.922Z",
+  "finishedAt": "2026-08-09T11:01:03.860Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 42,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/08/grade-5-scholarship-exam-to-be-held-tomorrow",
-      "headline": "Grade 5 Scholarship Exam To Be Held Tomorrow",
+      "url": "https://newsfirst.lk/2026/08/09/sri-lanka-cert-warns-of-social-media-extortion-scams",
+      "headline": "CERT Warns of Social Media Extortion Scams",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823955/",
+      "headline": "ජූලි මාසයේ සංචාරක පැමිණීම් ලක්ෂ 2ට ආසන්න වෙයි – විදේශ ප්‍රේෂණ ඩොලර් මිලියන 777 දක්වා ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823989/",
+      "headline": "ශ්‍රී ලංකා වෘත්තීය ක්‍රිකට් ක්‍රීඩක ක්‍රීඩිකාවන්ගේ සංගමයේ පළමු සභාපති ලෙස කුසල් මෙන්ඩිස් පත්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823981/",
+      "headline": "ජාත්‍යන්තරව ඇතිවන ගැටලුවලදී රජයට ඕනෑම අවස්ථාවක සහාය ලබාදීමට සූදානම් – මහින්ද සමරසිංහ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823982/",
+      "headline": "ලැව්ගිනි හේතුවෙන් කැනඩාවේ බ්‍රිටිෂ් කොලොම්බියා ප්‍රාන්තයට හදිසි තත්ත්වයක් ප්‍රකාශ කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823975/",
+      "headline": "බ්‍රිතාන්‍යයේ බ්‍රිස්ටල් වායු බැලූන් සැණකෙළියේ අවසන් දිනය අදයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823976/",
+      "headline": "“අත්තම” ජාතික පවිත්‍රතා දින වැඩසටහන මඩකලපුවේදී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823972/",
+      "headline": "අලෙවි කිරීමට සූදානම් කළ ගජමුතු 2ක් සමග පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823967/",
+      "headline": "බන්ධනාගර දෙපාර්තමේන්තුවට නව මාධ්‍ය ප්‍රකාශකවරයෙක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823963/",
+      "headline": "ශ්‍රී ලංකා – ඊජිප්තු වෙළෙඳ හා සංචාරක සබඳතා ශක්තිමත් කිරීමට සාකච්ඡා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823961/",
+      "headline": "අතුරු වෛද්‍ය සේවාවේ වෘත්තීන් 8ක් සඳහා සිසුන් බඳවා ගැනීමට අයදුම්පත් කැඳවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823948/",
+      "headline": "நாட்டில் டெங்கு நோயாளர்களின் எண்ணிக்கை 89,000 ஐத் தாண்டியது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823919/",
+      "headline": "අධිකරණ පද්ධතියට නව පණක් 22 වන ව්‍යවස්ථා සංශෝධන කෙටුම්පත 18 පාර්ලිමේන්තුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823944/",
+      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 90,000ට සීමාවට ආසන්න වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823938/",
+      "headline": "2026 දී ඩොලර් බිලියන 9ක ආදායම් ඉලක්කයක් සපුරා ගන්නවා – විදේශ සේවා නියුක්ති කාර්යාංශය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823934/",
+      "headline": "வெலிகம கடலில் சர்ஃபிங் விளையாட்டில் ஈடுபட்ட டுனிசிய சுற்றுலாப் பயணி பலி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823932/",
+      "headline": "ව්‍යාජ මුදල් නෝට්ටු මුද්‍රණය කළ පුද්ගලයෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823927/",
+      "headline": "විදේශිකයෙකුගේ මළ සිරුරක් වැලිගම වෙරළ තීරයට ගොඩගසයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823925/",
+      "headline": "கிரியுல்லவில் டிராக்டருடன் மோட்டார் சைக்கிள் மோதி விபத்து: 22 வயது இளைஞர் பலி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823922/",
+      "headline": "ලංකා ප්‍රිමියලීග් ක්‍රිකට් තරගාවලියේ ශූරතාව ගෝල් ගැලන්ස් කණ්ඩායමට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/09/823916/",
@@ -22,6 +117,11 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/09/823912/",
       "headline": "இன்று உலகப் பழங்குடியின மக்கள் தினம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823906/",
+      "headline": "2026 தேசிய சாரணர் சேவை திட்டம் ஜனாதிபதி செயலகத்தில் ஆரம்பம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -37,11 +137,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/09/823900/",
       "headline": "අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම් මගින් ඊයේ දිනයේත් 437ක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/09/823896/",
-      "headline": "பனை சார்ந்த தயாரிப்புகளுக்கான தேசிய கண்காட்சி வவுனியாவில் ஆரம்பம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -115,11 +210,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/09/823847/",
-      "headline": "2026 LPL சாம்பியன் பட்டத்தைக் கைப்பற்றியது கோல் கெலன்ட்ஸ் அணி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/09/823833/",
       "headline": "ජපානය කැළඹූ ඩොල්ෆින් සුළි කුණාටුව",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -145,108 +235,40 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/09/823828/",
-      "headline": "2026 அரச சேவை வலைப்பந்து போட்டித்தொடர் செப்டம்பரில் யாழ்ப்பாணத்தில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/09/grade-5-scholarship-exam-to-be-held-today",
+      "headline": "Grade 5 Scholarship Exam To Be Held Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/08/823816/",
-      "headline": "ගැසට් කළ 22 වැනි ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය ලබන 18 වැනිදා පාර්ලිමේන්තුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823809/",
-      "headline": "නිදහස් පක්ෂයේ මැදිරිගිරිය ආසන බල මණ්ඩලයේ සභාපති මත්කුඩු ප්‍රවාහනය කරමින් සිටියදී අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823805/",
-      "headline": "ශ්‍රී ලංකා බාලදක්ෂ සංගමයේ ජාතික බාලදක්ෂ සේවා සහ මහජන සම්බන්ධතා ව්‍යාපෘතිය 2026 දියත් කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823802/",
-      "headline": "தூத்துக்குடியில் இருந்து இலங்கைக்குக் கடத்த முயன்ற ஆடுகள், புறாக்கள் பறிமுதல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823799/",
-      "headline": "இலங்கைக்கு கடத்த முயன்ற 290 கிலோ கஞ்சா இந்தியாவில் பறிமுதல் — இருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823795/",
-      "headline": "සමාජයේ පැවති සාමූහිකත්වය සහ අන්‍යෝන්‍ය සහයෝගය යලි ගොඩනැගීම “අත්තම” සංකල්පයේ මූලික අරමුණයි – ඇමති උපාලි පන්නිල",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823792/",
-      "headline": "இன்று சர்வதேச பூனைகள் தினம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823788/",
-      "headline": "திரைக்கு வந்தது ஜி.டி.நாயுடுவின் வாழ்க்கை வரலாற்றுத் திரைப்படம் ‘GDN’!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823773/",
-      "headline": "මහනුවර ඇසළ මංගල්‍යයට යුද හමුදාවෙන් කොප්පරා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823781/",
-      "headline": "எவரெஸ்டில் 30 ஆண்டுகளாக உறைந்து கிடக்கும் இந்திய வீரரின் உடல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823778/",
-      "headline": "සම්මානනීය නිළි රොසමන්ඩ් පයික් ශ්‍රී ලංකාවේ සංචාරයක",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823774/",
-      "headline": "நாட்டில் அதிகரிக்கும் மோட்டார் சைக்கிள் விபத்துகள்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823768/",
-      "headline": "කොලොම්බියාවේ නව ජනාධිපති ලෙස ඩි ලා එස්ප්‍රියෙල්ලා දිවුරුම් දෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823764/",
-      "headline": "டெங்கு மரணங்களின் எண்ணிக்கை 64 ஆக அதிகரிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823761/",
-      "headline": "17 வருடங்களின் பின் நாவலப்பிட்டி கூட்டுறவுச் சங்கத்தைக் கைப்பற்றியது NPP!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/08/foreign-manufactured-cigarettes-worth-rs-6-million-seized-at-bia",
-      "headline": "Cigarettes Worth Rs. 6 Million Seized At BIA",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/08/431-substandard-helmets-seized-in-island-wide-raids",
-      "headline": "431 Substandard Helmets Seized",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/09/world-indigenous-peoples%e2%80%99-day-new-regulations-introduced-to-safeguard-indigenous-rights",
+      "headline": "New Rules To Protect Indigenous Rights",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/09/srilankan-airlines-resumes-colombo-kuwait-flights",
+      "headline": "SriLankan Airlines Resumes Colombo-Kuwait Flights",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
