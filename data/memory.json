@@ -1330,5 +1330,29 @@
     "score": 81,
     "addedAt": "2026-08-09T04:20:37.620Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/08/dengue-cases-exceed-89-000-death-toll-reaches-64",
+    "contentHash": "62ea881e2122de633cd4a6bb2b3c6c09f6331b3fdfde54f51dc26f206c715dcf",
+    "headline": "Dengue Cases Exceed 89,000; Death Toll Reaches 64",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-09T06:07:34.086Z",
+    "fbPostId": "1278802861974766_122108900529402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-09T06:08:30.140Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/09/sri-lanka-cert-warns-of-social-media-extortion-scams",
+    "contentHash": "551745a3dff100c363878faf169989b4a5a3464ece55b844ff3b90c01b9a93b8",
+    "headline": "CERT Warns of Social Media Extortion Scams",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-09T06:07:34.085Z",
+    "fbPostId": "1278802861974766_122108900613402039",
+    "category": "AI & Tech",
+    "score": 76,
+    "addedAt": "2026-08-09T06:08:54.018Z",
+    "isShadow": false
   }
 ]

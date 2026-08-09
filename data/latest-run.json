@@ -1,14 +1,64 @@
 {
-  "runId": "620cf542",
-  "startedAt": "2026-08-09T04:19:12.095Z",
-  "finishedAt": "2026-08-09T04:20:37.621Z",
+  "runId": "a64f5392",
+  "startedAt": "2026-08-09T06:07:08.803Z",
+  "finishedAt": "2026-08-09T06:08:54.019Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 47,
+  "afterDedup": 44,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/08/grade-5-scholarship-exam-to-be-held-tomorrow",
+      "headline": "Grade 5 Scholarship Exam To Be Held Tomorrow",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823916/",
+      "headline": "යතුරුපැදි අනතුරෙන් තරුණයෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823912/",
+      "headline": "இன்று உலகப் பழங்குடியின மக்கள் தினம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823907/",
+      "headline": "ලෝක ආදිවාසී දිනයේදී ලාංකීය ආදිවාසීන්ට සුබ ආරංචියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823903/",
+      "headline": "நாடு தழுவிய பொலிஸ் சோதனை: ஒரே நாளில் 437 சந்தேகநபர்கள் அதிரடி கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823900/",
+      "headline": "අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ මෙහෙයුම් මගින් ඊයේ දිනයේත් 437ක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823896/",
+      "headline": "பனை சார்ந்த தயாரிப்புகளுக்கான தேசிய கண்காட்சி வவுனியாவில் ஆரம்பம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823893/",
+      "headline": "තල් කර්මාන්තයට නව පිබිදීමක් – වවුනියාවේ ජාතික තල් නිෂ්පාදන ප්‍රදර්ශනය ඇරඹේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823889/",
+      "headline": "நாட்டைச் சூழவுள்ள கடற்பரப்புகளில் பலத்த காற்று – மீனவர்களுக்கு சிவப்பு எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/823886/",
+      "headline": "නාවික හා ධීවර ජනතාවට කාලගුණයෙන් රතු නිවේදනයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/09/823878/",
       "headline": "ஆகஸ்ட் 12இல் ஐரோப்பிய நாடுகளில் முழுச் சூரிய கிரகணம்!",
@@ -62,6 +112,11 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/09/823851/",
       "headline": "கால்பந்து வீரர் லியோனல் மெஸ்ஸியின் தந்தை காலமானார்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823847/",
+      "headline": "2026 LPL சாம்பியன் பட்டத்தைக் கைப்பற்றியது கோல் கெலன்ட்ஸ் அணி!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -170,48 +225,20 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/08/823758/",
-      "headline": "නාවලපිටිය සමූපකාරයේ බලය වසර 17කට පසු නිතරගයෙන්ම මාලිමාවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823749/",
-      "headline": "LPL  இறுதிப் போட்டியை இலவசமாகப் பார்க்க அரிய வாய்ப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/08/foreign-manufactured-cigarettes-worth-rs-6-million-seized-at-bia",
+      "headline": "Cigarettes Worth Rs. 6 Million Seized At BIA",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823746/",
-      "headline": "குளத்தில் நீராடச் சென்ற 17 வயது சிறுவன் நீரில் மூழ்கி பலி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823742/",
-      "headline": "ලංකා ප්‍රිමියර් ලීග් අවසන් මහා තරගය අද – තරගය නොමිලේ නරඹන්න අවස්ථාව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823736/",
-      "headline": "ஒலி மாசுபாட்டிற்கு எதிராக கடுமையான சட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823730/",
-      "headline": "ரூ. 60 இலட்சம் பெறுமதியான வெளிநாட்டு சிகரெட்டுகளுடன் பயணி ஒருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/08/823725/",
-      "headline": "ஷானி அபேசேகர பிரதிப் பொலிஸ் மா அதிபராக (DIG) தரமுயர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/08/823702/",
-      "headline": "නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ ලක්ෂ 60ක දුම්වැටි තොගයක් සමග පුද්ගලයෙක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/08/three-more-arrested-over-fatal-wattala-shooting",
-      "headline": "Three More Arrested Over Fatal Wattala Shooting",
+      "url": "https://newsfirst.lk/2026/08/08/431-substandard-helmets-seized-in-island-wide-raids",
+      "headline": "431 Substandard Helmets Seized",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
@@ -220,18 +247,6 @@
       "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
-      "score": 67
     }
   ],
   "errors": []
