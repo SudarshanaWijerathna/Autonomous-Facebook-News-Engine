@@ -1,10 +1,10 @@
 {
-  "runId": "091dec9e",
-  "startedAt": "2026-08-09T15:55:44.333Z",
-  "finishedAt": "2026-08-09T15:56:53.119Z",
+  "runId": "f8731d4e",
+  "startedAt": "2026-08-09T17:54:02.607Z",
+  "finishedAt": "2026-08-09T17:56:51.546Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 42,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -13,6 +13,26 @@
       "url": "https://newsfirst.lk/2026/08/09/sri-lanka-cert-warns-of-social-media-extortion-scams",
       "headline": "CERT Warns of Social Media Extortion Scams",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/824026/",
+      "headline": "පාලන මිළට වැඩියෙන් සහල් අලෙවි කළ වෙළෙඳසැල් 2කට ලක්ෂ 3ක දඩයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/824023/",
+      "headline": "කොත්මලේ ජලාශයේ වාන් දොරටුවක් විවෘත කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/824020/",
+      "headline": "දිස්ත්‍රික්ක 3ක ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයකට නායයාමේ අනතුරු ඇඟවීම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/09/824016/",
+      "headline": "අධිකරණ සහ බන්ධනාගාර ප්‍රතිසංස්කරණ පිළිබඳව සමස්ත ලංකා ජමියතුල් උලමා සභාව දැනුවත් කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/09/824012/",
@@ -37,11 +57,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/09/823992/",
       "headline": "මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් සිටියදී අත්අඩංගුවට ගත් නිදහස් පක්ෂ ආසන බල මණ්ඩල සභාපතිට රැඳවුම් නියෝග",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/09/823955/",
-      "headline": "ජූලි මාසයේ සංචාරක පැමිණීම් ලක්ෂ 2ට ආසන්න වෙයි – විදේශ ප්‍රේෂණ ඩොලර් මිලියන 777 දක්වා ඉහළට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -87,6 +102,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/09/823961/",
       "headline": "අතුරු වෛද්‍ය සේවාවේ වෘත්තීන් 8ක් සඳහා සිසුන් බඳවා ගැනීමට අයදුම්පත් කැඳවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/09/823948/",
+      "headline": "நாட்டில் டெங்கு நோயாளர்களின் எண்ணிக்கை 89,000 ஐத் தாண்டியது!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -160,11 +180,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/09/823896/",
-      "headline": "பனை சார்ந்த தயாரிப்புகளுக்கான தேசிய கண்காட்சி வவுனியாவில் ஆரம்பம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/09/823893/",
       "headline": "තල් කර්මාන්තයට නව පිබිදීමක් – වවුනියාවේ ජාතික තල් නිෂ්පාදන ප්‍රදර්ශනය ඇරඹේ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -210,30 +225,20 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/09/823857/",
+      "headline": "ව්‍යාජ මුදල් මුද්‍රණය කළ සැකකරුවෙකු උපකරණ සමග අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/ta/2026/08/09/823860/",
       "headline": "தரம் 5 புலமைப் பரிசில் பரீட்சை இன்று!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/09/823856/",
-      "headline": "பூனையைத் துன்புறுத்தி வீடியோ வெளியிட்ட இரு இளைஞர்கள் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/09/823846/",
-      "headline": "ශිෂ්‍යත්ව විභාගය අදයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/09/823851/",
-      "headline": "கால்பந்து வீரர் லியோனல் மெஸ்ஸியின் தந்தை காலமானார்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://newsfirst.lk/2026/08/09/grade-5-scholarship-exam-to-be-held-today",
       "headline": "Grade 5 Scholarship Exam To Be Held Today",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/08/09/world-indigenous-peoples%e2%80%99-day-new-regulations-introduced-to-safeguard-indigenous-rights",
@@ -250,20 +255,20 @@
     {
       "url": "https://newsfirst.lk/2026/08/09/srilankan-airlines-resumes-colombo-kuwait-flights",
       "headline": "SriLankan Airlines Resumes Colombo-Kuwait Flights",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/08/09/india-hands-over-third-consignment-of-bailey-bridges-to-sri-lanka",
-      "headline": "India Hands Over More Bailey Bridges to Sri Lanka",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
