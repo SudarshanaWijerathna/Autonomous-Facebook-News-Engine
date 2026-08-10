@@ -1,30 +1,236 @@
 {
-  "runId": "cd43234a",
-  "startedAt": "2026-08-10T11:29:03.437Z",
-  "finishedAt": "2026-08-10T11:30:23.778Z",
+  "runId": "f32ba998",
+  "startedAt": "2026-08-10T14:18:53.522Z",
+  "finishedAt": "2026-08-10T14:23:59.745Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 36,
+  "discovered": 87,
+  "afterDedup": 46,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/10/special-transport-services-in-place-for-candidates-facing-a-l-examination",
-      "headline": "Special Transportation In Place for A/L Candidates",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/10/824347/",
+      "headline": "සාගර කාරියවසම්ට ඇප",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/10/applications-called-for-eight-allied-health-training-courses",
-      "headline": "Applications For Health Training Courses",
+      "url": "https://www.itnnews.lk/2026/08/10/824337/",
+      "headline": "ප්‍රජා ශක්ති වැඩසටහනේ ප්‍රගති සමාලෝචන රැස්වීමක් ඇමති උපාලි පන්නිලගේ ප්‍රධානත්වයෙන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824341/",
+      "headline": "බන්ධනාගාරවල පවතින තදබදය අවම කිරීම ගැන ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824334/",
+      "headline": "රජයේ වී මිලදී ගැනීමේ වැඩපිළිවෙළ යටතේ මිලදී ගත් වී මෙට්‍රික් ටොන් 23,000 ඉක්මවයි – නි.ඇමති නාමල් කරුණාරත්න",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824333/",
+      "headline": "சிறைச்சாலைகளில் அதிகரிக்கும் நெரிசல்: மாற்று நடவடிக்கைகள் குறித்து கவனம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824328/",
+      "headline": "අහඹු මත්ද්‍රව්‍ය පරීක්ෂා කිරීමේ වැඩසටහනට සෞඛ්‍ය අමාත්‍යංශයෙන් තවත් සායනික බස් රථයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824325/",
+      "headline": "කංජිපානිගේ ගෝලයා රත්මලානේ සයිමා දිවයිනට රැගෙන එයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824314/",
+      "headline": "අතීතයේ මෙන් EPF අරමුදල සහ ETF අරමුදල අවභාවිතා කිරීමට කිසිදු ඉඩක් නැහැ – ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824305/",
+      "headline": "வரி முகாமைத்துவ மறுசீரமைப்பு மற்றும் டிஜிட்டல் மயமாக்கலின் அவசியம் குறித்து கவனம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824315/",
+      "headline": "සුරේෂ් සලේගේ රිට් පෙත්සමේ අතරමැදි පෙත්සම් සලකා බැලීම 25 වනදා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824310/",
+      "headline": "රජයේ මුද්‍රණ දෙපාර්තමේන්තුවට මිලියන 162 ක් වටිනා නව මුද්‍රණ යන්ත්‍රයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824291/",
+      "headline": "இஷாரா செவ்வந்திக்கு ஆகஸ்ட் 21 ஆம் திகதி வரை விளக்கமறியல் நீடிப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824296/",
+      "headline": "අගවිනිසුරු විවේචනය කිරීම සම්බන්ධයෙන් නිහඬ ඇයි? නීතිඥ සංගමයේ විධායක කමිටු සාමාජිකයෙකුගෙන් සභාපතිවරයාට ලිපියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824293/",
+      "headline": "ලෝක මානවරූපී රොබෝ ක්‍රීඩා උලෙළ අගෝස්තු 22 වැනිදා බෙයිජිංහිදී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824274/",
+      "headline": "சுரேஷ் சலே முன்வைத்த மனுவுடன் தொடர்புடைய இடையீட்டு மனு விசாரணை 25 ஆம் திகதி வரை ஒத்திவைப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824284/",
+      "headline": "ඉෂාරා සෙව්වන්දි මෙම මස 21 තෙක් රිමාන්ඩ්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824282/",
+      "headline": "ගුණාත්මක අධ්‍යාපන පද්ධතියක් සඳහා ගුරු සේවය හා උසස් අධ්‍යාපන ක්ෂේත්‍රය ශක්තිමත් කිරීමට අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824256/",
+      "headline": "நடமாடும் மருந்துப் பரிசோதனைப் பேருந்து  தேசிய போக்குவரத்து மருத்துவ நிறுவனத்திற்கு கையளிப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824240/",
+      "headline": "බදු පදනම පුළුල් කර ආදායම් ඉහළ නැංවීමට කාරක සභාවේ අවධාරණය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824250/",
+      "headline": "பல பிரதேசங்களுக்கும் மழைக்கான வாய்ப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824247/",
+      "headline": "இராணுவத்தினரால் திரப்பனை மக்களுக்குக் குடிநீர் சுத்திகரிப்பு அமைப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824238/",
+      "headline": "තිරප්පනේ පානීය ජල පහසුකම් සැලසීමට යුද්ධ හමුදාවෙන් නව ජල පිරිපහදු පද්ධතියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824242/",
+      "headline": "මාළිගාවත්ත වෙඩි තැබීමෙන් කංජිපානි ඉම්රාන්ගේ සමීපතම ඥාතියෙක් මිය යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824233/",
+      "headline": "சீரற்ற வானிலை -க.பொ.த உயர்தரப்  பரீட்சார்த்திகளுக்கு அவசர உதவி  இலக்கங்கள் அறிவிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824234/",
+      "headline": "පොහොට්ටු ලේකම් සාගර කඩුවෙල අධිකරණයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824228/",
+      "headline": "மாளிகாவத்தையில் துப்பாக்கிச் சூடு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824229/",
+      "headline": "මාළිගාවත්තේ වෙඩිතැබීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824218/",
+      "headline": "கெப் ரக வாகனத்தில் பெருந்தொகையான கஞ்சாவை கடத்தி இளம் தம்பதியர் கைது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824214/",
+      "headline": "අධි සුඛෝපභෝගී වාහනයකින් ගංජා ප්‍රවාහනය කළ අඹුසැමි යුවලක් අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824211/",
+      "headline": "උසස් පෙළ ප්‍රතිඵල වසර අවසන් වීමට පෙර – විභාග කොමසාරිස් ජනරාල්වරිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824207/",
+      "headline": "මෙගාවොට් 10ක් ගබඩා කළ හැකි බැටරි පද්ධතියක් වව්නියාවේ ස්ථාපිත කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824204/",
+      "headline": "ආධුනිකත්ව හා කාර්මික පුහුණු අධිකාරියට නව පත්වීම් 41ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824201/",
+      "headline": "රු. ලක්ෂ 765කට වඩා වැඩි වියදමින් බදුල්ල ධර්මදූත විද්‍යාලයට අංගසම්පූර්ණ නව ක්‍රීඩාපිටියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824199/",
+      "headline": "போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும் படகுகள் அரசுடமையாக்கப்படும்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824197/",
+      "headline": "விசேட சுற்றிவளைப்பில் 20 பேர் கைது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824194/",
+      "headline": "රටේ සම්පත් විකුණන්නේ නැහැ – දැන් රට ලාභ ලබනවා – අමාත්‍ය සුනිල් හඳුන්නෙත්ති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824191/",
+      "headline": "මත්ද්‍රව්‍ය ජාවාරම් කළොත් ධීවර යාත්‍රා රාජසන්තකයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824101/",
+      "headline": "හදිසියේ ලෙඩ වූ ග්‍රාමසේවා නිලධාරීන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824173/",
+      "headline": "காசல்ரீ, மவுஸ்ஸாக்கலை நீர்த்தேக்கங்கள் வான்பாய்கின்றன!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824099/",
+      "headline": "විදෙස් ශ්‍රමික ප්‍රේෂණ ඇ. ඩොලර් මිලියන 50,00සේ සීමාව ඉක්මවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824121/",
+      "headline": "முல்லைத்தீவில் பனை மரத்துடன் மோட்டார் சைக்கிள் மோதி விபத்து!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/10/gang-violence-reaches-fever-pitch-kanchipani-s-relative-gunned-down-in-maligawatte",
+      "headline": "Kanchipani Imran's Relative Gunned Down In Colombo",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 81
     },
     {
-      "url": "https://newsfirst.lk/2026/08/10/sagara-kariyawasam-summoned-by-colombo-crimes-division",
-      "headline": "Sagara Kariyawasam Summoned",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/08/10/special-operation-launched-to-identify-motorists-driving-recklessly",
+      "headline": "Operation Launched to Stop Reckless Drivers",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/10/four-suspects-remanded-over-ratmalana-grenade-attack",
+      "headline": "Four Remanded Over Ratmalana Grenade Attack",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
@@ -33,14 +239,14 @@
       "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
+      "url": "https://newsfirst.lk/2026/08/10/university-of-peradeniya-resumes-academic-activities-today",
+      "headline": "University Of Peradeniya Resumes Operations",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/10/university-of-peradeniya-resumes-academic-activities-today",
-      "headline": "University Of Peradeniya Resumes Operations",
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
