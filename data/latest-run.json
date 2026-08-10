@@ -1,14 +1,39 @@
 {
-  "runId": "f32ba998",
-  "startedAt": "2026-08-10T14:18:53.522Z",
-  "finishedAt": "2026-08-10T14:23:59.745Z",
+  "runId": "37a6e533",
+  "startedAt": "2026-08-10T18:09:38.849Z",
+  "finishedAt": "2026-08-10T18:10:49.230Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 46,
+  "afterDedup": 44,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824370/",
+      "headline": "මරණීය දණ්ඩනය නියම වූ චූදිතයෙකු අත්අඩංගුවට ගැනීමට මහජන සහාය පතයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824371/",
+      "headline": "පාස්කු ප්‍රහාරයේ වින්දිතයන් සමග අගරදගරු පදවිය පූර්ණ සහයෝගීතාවයෙන් – කාදිනල් හිමි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824366/",
+      "headline": "ඇමති වසන්ත සමරසිංහ සහ සුළු හා මධ්‍ය පරිමාණ බිත්තර නිෂ්පාදකයින් අතර විශේෂ සාකච්ඡාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824356/",
+      "headline": "ඇල්ල සංචාරක කලාපය විදෙස් සංචාරකයින්ගෙන් පිරී යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/10/824349/",
+      "headline": "මත්ද්‍රව්‍ය අපරාධ සඳහා මරණ දඬුවම ලබාදීමට රටම එකට ජාතික සභාවේ අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/10/824347/",
       "headline": "සාගර කාරියවසම්ට ඇප",
@@ -85,13 +110,13 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/10/824284/",
-      "headline": "ඉෂාරා සෙව්වන්දි මෙම මස 21 තෙක් රිමාන්ඩ්",
+      "url": "https://www.itnnews.lk/2026/08/10/824282/",
+      "headline": "ගුණාත්මක අධ්‍යාපන පද්ධතියක් සඳහා ගුරු සේවය හා උසස් අධ්‍යාපන ක්ෂේත්‍රය ශක්තිමත් කිරීමට අවධානය",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/10/824282/",
-      "headline": "ගුණාත්මක අධ්‍යාපන පද්ධතියක් සඳහා ගුරු සේවය හා උසස් අධ්‍යාපන ක්ෂේත්‍රය ශක්තිමත් කිරීමට අවධානය",
+      "url": "https://www.itnnews.lk/2026/08/10/824278/",
+      "headline": "ලෝක ක්‍රිකට් ඉතිහාසයේ එක්දින තරග 5000 කඩඉම පනියි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -155,6 +180,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824217/",
+      "headline": "நாணயமாற்று விகிதம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/10/824211/",
       "headline": "උසස් පෙළ ප්‍රතිඵල වසර අවසන් වීමට පෙර – විභාග කොමසාරිස් ජනරාල්වරිය",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -195,60 +225,40 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/10/824101/",
-      "headline": "හදිසියේ ලෙඩ වූ ග්‍රාමසේවා නිලධාරීන්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824173/",
-      "headline": "காசல்ரீ, மவுஸ்ஸாக்கலை நீர்த்தேக்கங்கள் வான்பாய்கின்றன!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824099/",
-      "headline": "විදෙස් ශ්‍රමික ප්‍රේෂණ ඇ. ඩොලර් මිලියන 50,00සේ සීමාව ඉක්මවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824121/",
-      "headline": "முல்லைத்தீவில் பனை மரத்துடன் மோட்டார் சைக்கிள் மோதி விபத்து!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/10/gang-violence-reaches-fever-pitch-kanchipani-s-relative-gunned-down-in-maligawatte",
       "headline": "Kanchipani Imran's Relative Gunned Down In Colombo",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/08/10/special-operation-launched-to-identify-motorists-driving-recklessly",
       "headline": "Operation Launched to Stop Reckless Drivers",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/10/461-suspects-arrested-in-island-wide-crime-and-drug-raids",
+      "headline": "461 Arrests Island-Wide in Crime, Drug Raids",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/10/ishara-sewwandi-remanded-after-spending-10-months-in-detention",
+      "headline": "Ishara Sewwandi Remanded After 10 Month Detention",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/10/four-suspects-remanded-over-ratmalana-grenade-attack",
       "headline": "Four Remanded Over Ratmalana Grenade Attack",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/10/university-of-peradeniya-resumes-academic-activities-today",
       "headline": "University Of Peradeniya Resumes Operations",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 65
     }
   ],
   "errors": []
