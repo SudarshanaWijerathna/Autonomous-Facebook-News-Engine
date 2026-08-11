@@ -1390,5 +1390,29 @@
     "score": 88,
     "addedAt": "2026-08-10T11:30:23.777Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/10/sri-lanka-considers-death-penalty-for-drug-crimes",
+    "contentHash": "2a3324104a125de30a8b07daa6db74a893630c65dec38a90f692a025572afeed",
+    "headline": "Sri Lanka Considers Death Penalty for Drug Crimes",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-11T04:21:17.678Z",
+    "fbPostId": "1278802861974766_122109384633402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-11T04:22:30.133Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/10/new-battery-systems-to-cut-dependence-on-diesel-power-plants",
+    "contentHash": "c28c2d63f1dd895be5592c9da77777f9a8e07127ec407d29bec2101b5b47d716",
+    "headline": "Batteries Replace Diesel Power Plants",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-11T04:21:17.679Z",
+    "fbPostId": "1278802861974766_122109384729402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-08-11T04:22:38.575Z",
+    "isShadow": false
   }
 ]

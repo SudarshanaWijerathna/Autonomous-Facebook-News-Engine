@@ -1,14 +1,74 @@
 {
-  "runId": "37a6e533",
-  "startedAt": "2026-08-10T18:09:38.849Z",
-  "finishedAt": "2026-08-10T18:10:49.230Z",
+  "runId": "e35419b8",
+  "startedAt": "2026-08-11T04:20:54.341Z",
+  "finishedAt": "2026-08-11T04:22:38.576Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824422/",
+      "headline": "மருமகனின் தாக்குதலில் மாமனார் பலி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824421/",
+      "headline": "ஆகஸ்ட் முதல் 6 நாட்களில் 42,000க்கும் அதிகமான சுற்றுலாப் பயணிகள் இலங்கை வருகை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824419/",
+      "headline": "ஜனாதிபதியுடன் சட்டத்தரணிகள் சங்கம் விசேட பேச்சுவார்த்தை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824404/",
+      "headline": "இரத்மலானை சைமா, பேராதணை பொலிசாரிடம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824405/",
+      "headline": "ජනපති හා නීතිඥ සංගමය අතර හෙට විශේෂ සාකච්ඡාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824401/",
+      "headline": "කොලොම්බියාවට බලපෑ භූ කම්පනයෙන් මියගිය සංඛ්‍යාව 132ක් දක්වා ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824398/",
+      "headline": "මැලේසියාවේදී අත්අඩංගුවට ගෙන මෙරටට රැගෙන ආ ‘රත්මලානේ සයිමා’ පේරාදෙණිය පොලීසියට භාරදෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824396/",
+      "headline": "ආරවුලක් දුරදිග යයි – බෑනාගේ පහරින් මාමණ්ඩිය ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824385/",
+      "headline": "රු.ලක්ෂ 798ක වියදමින් මහියංගන රිදීමාලියද්ද විද්‍යාලයට අංගසම්පූර්ණ නව ක්‍රීඩාපිටියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824389/",
+      "headline": "අගෝස්තු මුල් දින හයට සංචාරකයින්ගේ පැමිණීම 42,000 ඉක්මවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/10/824381/",
+      "headline": "“முழு நாடுமே ஒன்றாக” தேசிய செயற்பாட்டு சபையின் ஒன்று கூடல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824383/",
+      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/10/824370/",
       "headline": "මරණීය දණ්ඩනය නියම වූ චූදිතයෙකු අත්අඩංගුවට ගැනීමට මහජන සහාය පතයි",
@@ -160,105 +220,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824228/",
-      "headline": "மாளிகாவத்தையில் துப்பாக்கிச் சூடு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824229/",
-      "headline": "මාළිගාවත්තේ වෙඩිතැබීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824218/",
-      "headline": "கெப் ரக வாகனத்தில் பெருந்தொகையான கஞ்சாவை கடத்தி இளம் தம்பதியர் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824214/",
-      "headline": "අධි සුඛෝපභෝගී වාහනයකින් ගංජා ප්‍රවාහනය කළ අඹුසැමි යුවලක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824217/",
-      "headline": "நாணயமாற்று விகிதம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824211/",
-      "headline": "උසස් පෙළ ප්‍රතිඵල වසර අවසන් වීමට පෙර – විභාග කොමසාරිස් ජනරාල්වරිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824207/",
-      "headline": "මෙගාවොට් 10ක් ගබඩා කළ හැකි බැටරි පද්ධතියක් වව්නියාවේ ස්ථාපිත කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824204/",
-      "headline": "ආධුනිකත්ව හා කාර්මික පුහුණු අධිකාරියට නව පත්වීම් 41ක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824201/",
-      "headline": "රු. ලක්ෂ 765කට වඩා වැඩි වියදමින් බදුල්ල ධර්මදූත විද්‍යාලයට අංගසම්පූර්ණ නව ක්‍රීඩාපිටියක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824199/",
-      "headline": "போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும் படகுகள் அரசுடமையாக்கப்படும்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824197/",
-      "headline": "விசேட சுற்றிவளைப்பில் 20 பேர் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824194/",
-      "headline": "රටේ සම්පත් විකුණන්නේ නැහැ – දැන් රට ලාභ ලබනවා – අමාත්‍ය සුනිල් හඳුන්නෙත්ති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824191/",
-      "headline": "මත්ද්‍රව්‍ය ජාවාරම් කළොත් ධීවර යාත්‍රා රාජසන්තකයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/10/gang-violence-reaches-fever-pitch-kanchipani-s-relative-gunned-down-in-maligawatte",
-      "headline": "Kanchipani Imran's Relative Gunned Down In Colombo",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/08/10/mobile-drug-testing-lab-deployed-to-crack-down-on-drug-impaired-drivers",
+      "headline": "Advanced Mobile Drug Testing Lab Deployed",
+      "reason": "max-posts-per-run-reached",
       "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/10/special-operation-launched-to-identify-motorists-driving-recklessly",
-      "headline": "Operation Launched to Stop Reckless Drivers",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/10/461-suspects-arrested-in-island-wide-crime-and-drug-raids",
       "headline": "461 Arrests Island-Wide in Crime, Drug Raids",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/10/ishara-sewwandi-remanded-after-spending-10-months-in-detention",
       "headline": "Ishara Sewwandi Remanded After 10 Month Detention",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/10/four-suspects-remanded-over-ratmalana-grenade-attack",
-      "headline": "Four Remanded Over Ratmalana Grenade Attack",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/10/university-of-peradeniya-resumes-academic-activities-today",
-      "headline": "University Of Peradeniya Resumes Operations",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/08/10/%e2%80%98investigations-must-be-free-from-politics%e2%80%99-sallay-counsel-tells-court",
+      "headline": "Sallay Counsel Demands Depoliticized Investigation",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []
