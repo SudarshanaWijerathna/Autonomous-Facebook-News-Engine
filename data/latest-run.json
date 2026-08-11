@@ -1,24 +1,249 @@
 {
-  "runId": "9061f053",
-  "startedAt": "2026-08-11T11:11:43.439Z",
-  "finishedAt": "2026-08-11T11:12:48.316Z",
+  "runId": "9b8bc6e2",
+  "startedAt": "2026-08-11T14:18:41.127Z",
+  "finishedAt": "2026-08-11T14:19:56.860Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 36,
+  "discovered": 87,
+  "afterDedup": 41,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/10/sri-lanka-considers-death-penalty-for-drug-crimes",
-      "headline": "Sri Lanka Considers Death Penalty for Drug Crimes",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/11/824669/",
+      "headline": "දිට්වා ආපදාවෙන් හානි වූ භංගදෙනිය ආනමඩුව මාර්ගයේ පල්ලම කොටස සංවර්ධනය කෙරේ – වැයවන මුදල රු.මිලියන 150කට අධිකයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/11/maligawatte-shooting-victim-had-no-criminal-record-only-related-to-kanjipani",
-      "headline": "Maligawatte Shooting: Victim Had No Crime Record",
+      "url": "https://www.itnnews.lk/2026/08/11/824664/",
+      "headline": "ගමේ හොඳ දේශපාලන නායකත්වයක් සඳහා තරුණ බලවේග මූලිකත්වය ගත යුතුයි – ඇමති සුසිල් රණසිංහ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824638/",
+      "headline": "ජනපති සහ සුළු හා මධ්‍ය පරිමාණ වී මෝල් හිමියන් අතර හමුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824651/",
+      "headline": "ඉදිකිරීම් කර්මාන්තයට අවශ්‍ය ඛනිජ ද්‍රව්‍යවලට අදාළ බලපත්‍ර එකම තැනකින් නිකුත් කිරීම ලබන 01දා සිට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824659/",
+      "headline": "නව සත්ව ආරක්ෂණ පනතෙන් පෙරහැර ඇතුළු සම්ප්‍රදායන්ට බාධාවක් නැහැ – නියෝජ්‍ය ඇමති ගමගෙදර දිසානායක",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824645/",
+      "headline": "මිලියන 162ක් වටිනා නව මුද්‍රණ යන්ත්‍රයෙන් මුද්‍රණ කටයුතු අරඹයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824652/",
+      "headline": "சர்ச்சைக்குரிய வாகன இறக்குமதிக்கு தீர்வு?",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824648/",
+      "headline": "சட்டவிரோத பீடி இலை பறிமுதல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824641/",
+      "headline": "ප්‍රමිතියක් නැති අටපිරිකර වැටලූ පාරිභෝගික අධිකාරිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824636/",
+      "headline": "දිවයිනට රැගෙන ආ රත්මලානේ සයිමා පැය 48ක් රඳවාගෙන ප්‍රශ්න කිරීමට අවසර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824590/",
+      "headline": "රජයේ ඌන උපයෝජිත ඉඩම් ආයෝජකයින්වෙත දිගුකාලීන බදු පදනම මත ලබාදීමේ වැඩසටහනට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824632/",
+      "headline": "බන්ධනාගාර සිදුවීම්වලට සම්බන්ධ සියලු පාර්ශ්ව හඳුනාගැනීමට පුළුල් විමර්ශන",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824626/",
+      "headline": "‘පශ්චාත් දිට්වා සුළි කුණාටු ප්‍රතිසංස්කරණය හා ජීවනෝපාය සහාය ව්‍යාපෘතියට’ කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824627/",
+      "headline": "முல்லைத்தீவில் கடல் சீற்றம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824622/",
+      "headline": "සෞදි රැකියා අපේක්ෂක ශ්‍රී ලාංකිකයින්ට සුබ ආරංචියක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824606/",
+      "headline": "சிரியா முன்னாள் ஜனாதிபதிக்கு மரண தண்டனை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824614/",
+      "headline": "යුද සමයේ ඉන්දියාවට පැන්න ලාංකිකයින්ට යළි මවුබිමට පැමිණීමට අවස්ථාව",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824608/",
+      "headline": "තීන්ත, රසායනික හා මුද්‍රණ ද්‍රව්‍ය ක්ෂේත්‍රයේ වර්ධනයට වැඩපිළිවෙලක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824609/",
+      "headline": "සිරියාවේ හිටපු ජනාධිපතිට මරණ දඬුවම",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824599/",
+      "headline": "ලංකා මෙට්‍රො ට්‍රාන්සිට් (පුද්ගලික) සමාගම වෙත හිමිකම් ප්‍රාග්ධනය සලසා දීමට අමාත්‍ය මණ්ඩල අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824602/",
+      "headline": "குழந்தைகளுக்கென அறிமுகமாகும் போசனைத் திட்டம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824594/",
+      "headline": "අධිවේගී මාර්ග නඩත්තුවට වාහන සහ යන්ත්‍රෝපකරණ ප්‍රසම්පාදනයට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824584/",
+      "headline": "මාතෘ සහ මුල් ළමාවිය පෝෂණ සේවා ව්‍යාපෘතියට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824581/",
+      "headline": "கச்சா எண்ணெய் கொள்முதலுக்கு தயாராகும் அரசு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824576/",
+      "headline": "රාජිත සේනාරත්නට අධි චෝදනා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824574/",
+      "headline": "ராஜித மீது குற்றப்பத்திரிக்கை தாக்கல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824524/",
+      "headline": "வடக்கு கிழக்கு அபிவிருத்திக்கு 100 மில்லியன் டொலர் உதவி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824566/",
+      "headline": "நுரைச்சோலைக்கான நிலக்கரி கொள்முதலுக்கு அனுமதி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824568/",
+      "headline": "ප්‍රජා පාදක විශෝධන දෙපාර්තමේන්තුව සඳහා විශෝධන මධ්‍යස්ථානයක් ඉදි කිරීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824560/",
+      "headline": "தென்னை நிலங்களின் புனரமைப்பிற்கு விசேட திட்டம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824561/",
+      "headline": "පෙට්‍රල්, මර්බන් වර්ගයේ බොරතෙල් සහ ඩීසල් ගැන කැබිනට් තීරණයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824552/",
+      "headline": "முத்துராஜவெல முனையத்தில் 3 எண்ணெய் கிடங்குகள் நிர்மாணம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824527/",
+      "headline": "මුතුරාජවෙල පර්යන්තයේ නව ඉන්ධන ගබඩා ටැංකි තුනක් ඉදිකිරීමට අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824554/",
+      "headline": "ජාතික උද්භිද උද්‍යාන දෙපාර්තමේන්තුවට නව අධ්‍යක්ෂ ජනරාල්වරයෙක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824550/",
+      "headline": "மீனவர் ஓய்வூதிய யோசனைத் திட்டம் மறுசீரமைப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824548/",
+      "headline": "நெல்லை அரிசியாக்கி சந்தைக்கு விநியோகிக்க அனுமதி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824542/",
+      "headline": "නොරොච්චෝල ලක්විජය විදුලි බලාගාරය වෙත ගල් අඟුරු ප්‍රසම්පාදනයට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824539/",
+      "headline": "පොල් ඉඩම් පුනරුත්ථාපන විශේෂ වැඩසටහනට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824536/",
+      "headline": "‘දිට්වා’ නිසා හානි වූ තවත් පූජනීය ස්ථාන 144ක් ප්‍රතිසංස්කරණයට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824531/",
+      "headline": "ධීවර විශ්‍රාම වැටුප් සහ සමාජ ආරක්ෂණ ප්‍රතිලාභ යෝජනාක්‍රම පනත සංශෝධනයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824528/",
+      "headline": "වී අලෙවි මණ්ඩලය සතු වී තොග සහල් කර වෙළෙඳපොළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824520/",
+      "headline": "උතුරු සහ නැගෙනහිර පළාත් ඒකාබද්ධ සංවර්ධනයට ඇ.ඩොලර් මිලියන 100ක මූල්‍ය ප්‍රතිපාදන",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824522/",
+      "headline": "குளவித் தாக்குதலுக்கு இலக்கான தோட்டத் தொழிலாளர்கள்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824510/",
+      "headline": "ශ්‍රී ලංකාවේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රය ප්‍රවර්ධනයට ව්‍යාපාරික දූත පිරිසක් ඉන්දියාවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824507/",
+      "headline": "එංගලන්තයේ රාජකීය ෂේක්ස්පියර් මධ්‍යස්ථානයේ පුහුණුව ලත් පළමු ශ්‍රී ලාංකිකයා කටුනායකට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824501/",
+      "headline": "நாணயமாற்று விகிதம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/11/dengue-cases-surge-past-90-000-in-sri-lanka",
+      "headline": "Dengue Cases Surge Past 90,000 In Sri Lanka",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
@@ -27,8 +252,8 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "url": "https://newsfirst.lk/2026/08/11/water-supplied-to-wildlife-in-national-parks-amid-dry-weather",
+      "headline": "Water Supplied To Wildlife In National Parks",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -39,16 +264,10 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/10/slpps-sagara-kariyawasam-granted-bail-court-bans-overseas-travel",
-      "headline": "SLPPs Sagara Kariyawasam Granted Bail",
+      "url": "https://newsfirst.lk/2026/08/11/education-committee-focuses-on-teacher-shortages-and-sector-reforms",
+      "headline": "Education Committee Focuses On Teacher Shortages",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []
