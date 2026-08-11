@@ -1,14 +1,64 @@
 {
-  "runId": "e35419b8",
-  "startedAt": "2026-08-11T04:20:54.341Z",
-  "finishedAt": "2026-08-11T04:22:38.576Z",
+  "runId": "f9b55502",
+  "startedAt": "2026-08-11T06:13:54.531Z",
+  "finishedAt": "2026-08-11T06:15:08.706Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 46,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/10/sri-lanka-considers-death-penalty-for-drug-crimes",
+      "headline": "Sri Lanka Considers Death Penalty for Drug Crimes",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824454/",
+      "headline": "හර්ෂිතා සමරවික්‍රම ජූලි මාසයේ ICC ක්‍රීඩිකාවට නිර්දේශ වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824451/",
+      "headline": "டெங்கு நோயாளர்களின் எண்ணிக்கை 90,000 ஆக உயர்வு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824410/",
+      "headline": "ඩෙංගු රෝගීන් 90,000 ඉක්මවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824447/",
+      "headline": "අධි සුඛෝපභෝගී බස් රථයක් සහ යතුරුපැදියක් ගැටෙයි – දෙදෙනෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824405/",
+      "headline": "ජනපති හා නීතිඥ සංගමය අතර හෙට විශේෂ සාකච්ඡාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824438/",
+      "headline": "ආගමන විගමන දෙපාර්තමේන්තුවේ පරිගණක පද්ධතිය යථා තත්ත්වයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824432/",
+      "headline": "නිශ්ශංක සේනාධිපති අල්ලස් කොමිසමට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824429/",
+      "headline": "எவன்காட் தலைவரிடம் வாக்குமூலம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/11/824425/",
+      "headline": "கொலம்பியாவில் சக்திவாய்ந்த நிலநடுக்கம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/11/824422/",
       "headline": "மருமகனின் தாக்குதலில் மாமனார் பலி",
@@ -27,11 +77,6 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/11/824404/",
       "headline": "இரத்மலானை சைமா, பேராதணை பொலிசாரிடம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824405/",
-      "headline": "ජනපති හා නීතිඥ සංගමය අතර හෙට විශේෂ සාකච්ඡාවක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -170,78 +215,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/10/824282/",
-      "headline": "ගුණාත්මක අධ්‍යාපන පද්ධතියක් සඳහා ගුරු සේවය හා උසස් අධ්‍යාපන ක්ෂේත්‍රය ශක්තිමත් කිරීමට අවධානය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/11/%e2%80%98ratmalane-saima%e2%80%99-handed-over-to-peradeniya-police-for-further-investigation",
+      "headline": "‘Ratmalane Saima’ Handed Over To Peradeniya Police",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/10/824278/",
-      "headline": "ලෝක ක්‍රිකට් ඉතිහාසයේ එක්දින තරග 5000 කඩඉම පනියි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824256/",
-      "headline": "நடமாடும் மருந்துப் பரிசோதனைப் பேருந்து  தேசிய போக்குவரத்து மருத்துவ நிறுவனத்திற்கு கையளிப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824240/",
-      "headline": "බදු පදනම පුළුල් කර ආදායම් ඉහළ නැංවීමට කාරක සභාවේ අවධාරණය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824250/",
-      "headline": "பல பிரதேசங்களுக்கும் மழைக்கான வாய்ப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824247/",
-      "headline": "இராணுவத்தினரால் திரப்பனை மக்களுக்குக் குடிநீர் சுத்திகரிப்பு அமைப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824238/",
-      "headline": "තිරප්පනේ පානීය ජල පහසුකම් සැලසීමට යුද්ධ හමුදාවෙන් නව ජල පිරිපහදු පද්ධතියක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824242/",
-      "headline": "මාළිගාවත්ත වෙඩි තැබීමෙන් කංජිපානි ඉම්රාන්ගේ සමීපතම ඥාතියෙක් මිය යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/10/824233/",
-      "headline": "சீரற்ற வானிலை -க.பொ.த உயர்தரப்  பரீட்சார்த்திகளுக்கு அவசர உதவி  இலக்கங்கள் அறிவிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/10/824234/",
-      "headline": "පොහොට්ටු ලේකම් සාගර කඩුවෙල අධිකරණයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/10/mobile-drug-testing-lab-deployed-to-crack-down-on-drug-impaired-drivers",
-      "headline": "Advanced Mobile Drug Testing Lab Deployed",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/10/461-suspects-arrested-in-island-wide-crime-and-drug-raids",
-      "headline": "461 Arrests Island-Wide in Crime, Drug Raids",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/10/ishara-sewwandi-remanded-after-spending-10-months-in-detention",
-      "headline": "Ishara Sewwandi Remanded After 10 Month Detention",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/10/two-police-teams-probing-daylight-killing-in-maligawatte-linked-to-kanjipani-imran",
+      "headline": "Police Probe Maligawatte Kanjipani-Linked Killing",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/08/10/%e2%80%98investigations-must-be-free-from-politics%e2%80%99-sallay-counsel-tells-court",
       "headline": "Sallay Counsel Demands Depoliticized Investigation",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/11/maligawatte-shooting-victim-had-no-criminal-record-only-related-to-kanjipani",
+      "headline": "Maligawatte Shooting: Victim Had No Crime Record",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     }
   ],
   "errors": []
