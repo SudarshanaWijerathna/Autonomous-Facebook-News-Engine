@@ -1,14 +1,34 @@
 {
-  "runId": "9b8bc6e2",
-  "startedAt": "2026-08-11T14:18:41.127Z",
-  "finishedAt": "2026-08-11T14:19:56.860Z",
+  "runId": "a50ca1a4",
+  "startedAt": "2026-08-11T18:12:23.877Z",
+  "finishedAt": "2026-08-11T18:13:30.346Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 41,
+  "afterDedup": 42,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/11/migrant-worker-remittances-surpass-us-5-billion-from-january-to-july",
+      "headline": "Migrant Worker Remittances Surpass US$ 5 Billion",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824686/",
+      "headline": "සියලු මාර්ග සංවර්ධන කටයුතු නිසි කලට අවසන් කරන්න – ජනපති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824679/",
+      "headline": "නව චීන තානාපති දිවයිනට – දෙරට අතර මිත්‍රත්වය තවදුරටත් ශක්තිමත් කරන බවටත් ප්‍රතිඥා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/11/824672/",
+      "headline": "ජනපති සහ විදෙස් ආයෝජක පිරිසක් අතර හමුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/11/824669/",
       "headline": "දිට්වා ආපදාවෙන් හානි වූ භංගදෙනිය ආනමඩුව මාර්ගයේ පල්ලම කොටස සංවර්ධනය කෙරේ – වැයවන මුදල රු.මිලියන 150කට අධිකයි",
@@ -120,11 +140,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/11/824584/",
-      "headline": "මාතෘ සහ මුල් ළමාවිය පෝෂණ සේවා ව්‍යාපෘතියට කැබිනට් අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/11/824581/",
       "headline": "கச்சா எண்ணெய் கொள்முதலுக்கு தயாராகும் அரசு",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -220,38 +235,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/11/824522/",
-      "headline": "குளவித் தாக்குதலுக்கு இலக்கான தோட்டத் தொழிலாளர்கள்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824510/",
-      "headline": "ශ්‍රී ලංකාවේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රය ප්‍රවර්ධනයට ව්‍යාපාරික දූත පිරිසක් ඉන්දියාවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824507/",
-      "headline": "එංගලන්තයේ රාජකීය ෂේක්ස්පියර් මධ්‍යස්ථානයේ පුහුණුව ලත් පළමු ශ්‍රී ලාංකිකයා කටුනායකට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/11/824501/",
-      "headline": "நாணயமாற்று விகிதம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/11/dengue-cases-surge-past-90-000-in-sri-lanka",
-      "headline": "Dengue Cases Surge Past 90,000 In Sri Lanka",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/11/water-supplied-to-wildlife-in-national-parks-amid-dry-weather",
       "headline": "Water Supplied To Wildlife In National Parks",
       "reason": "score-below-threshold (68 < 75)",
@@ -264,10 +247,28 @@
       "score": 68
     },
     {
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
       "url": "https://newsfirst.lk/2026/08/11/education-committee-focuses-on-teacher-shortages-and-sector-reforms",
       "headline": "Education Committee Focuses On Teacher Shortages",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/11/13-injured-in-medawachchiya-bus-crash",
+      "headline": "13 Injured in Medawachchiya Bus Crash",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
