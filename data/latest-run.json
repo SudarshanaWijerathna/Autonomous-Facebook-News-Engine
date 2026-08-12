@@ -1,18 +1,58 @@
 {
-  "runId": "a50ca1a4",
-  "startedAt": "2026-08-11T18:12:23.877Z",
-  "finishedAt": "2026-08-11T18:13:30.346Z",
+  "runId": "30afac02",
+  "startedAt": "2026-08-12T03:17:13.643Z",
+  "finishedAt": "2026-08-12T03:18:39.762Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 46,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/11/migrant-worker-remittances-surpass-us-5-billion-from-january-to-july",
-      "headline": "Migrant Worker Remittances Surpass US$ 5 Billion",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/12/824705/",
+      "headline": "ලෝක අලි දිනය අදයි – වන අලින්ට නිදහසත්, ජනතාවට සුරක්ෂිතභාවයත් සහතික කරන්න රජයෙන් පියවර රැසක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824731/",
+      "headline": "භූකම්පනයෙන් වූ විනාශය ගැන කොලොම්බියාවට ශ්‍රී ලංකාව ශෝකය පළ කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824725/",
+      "headline": "ඉඩම් පරිපාලනය ඩිජිටල්කරණයට ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824720/",
+      "headline": "ජනපති සහ නීතීඥ සංගමය අතර සාකච්ඡාවක් අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824707/",
+      "headline": "බෙල්ලන්විල ඇසළ පෙරහර හේතුවෙන් හෙට සිට දින 3ක් විශේෂ රථවාහන සැලැස්මක් – විකල්ප මාර්ග මෙන්න",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824710/",
+      "headline": "ஜனாதிபதி மற்றும் சீன முதலீட்டாளர்கள் குழுவிற்கு இடையிலான சந்திப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824706/",
+      "headline": "கொலம்பியாவில் ஏற்பட்ட நிலநடுக்கத்தில் 200 இற்கும் மேற்பட்டோர் உயிரிழப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824700/",
+      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824698/",
+      "headline": "வானிலை நிலவரம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/11/824686/",
@@ -175,74 +215,14 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/11/824561/",
-      "headline": "පෙට්‍රල්, මර්බන් වර්ගයේ බොරතෙල් සහ ඩීසල් ගැන කැබිනට් තීරණයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/11/president-to-meet-basl-over-judicial-retirement-age-proposal",
+      "headline": "President To Meet BASL On Judicial Retirement Age",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/11/824552/",
-      "headline": "முத்துராஜவெல முனையத்தில் 3 எண்ணெய் கிடங்குகள் நிர்மாணம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824527/",
-      "headline": "මුතුරාජවෙල පර්යන්තයේ නව ඉන්ධන ගබඩා ටැංකි තුනක් ඉදිකිරීමට අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824554/",
-      "headline": "ජාතික උද්භිද උද්‍යාන දෙපාර්තමේන්තුවට නව අධ්‍යක්ෂ ජනරාල්වරයෙක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/11/824550/",
-      "headline": "மீனவர் ஓய்வூதிய யோசனைத் திட்டம் மறுசீரமைப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/11/824548/",
-      "headline": "நெல்லை அரிசியாக்கி சந்தைக்கு விநியோகிக்க அனுமதி",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824542/",
-      "headline": "නොරොච්චෝල ලක්විජය විදුලි බලාගාරය වෙත ගල් අඟුරු ප්‍රසම්පාදනයට කැබිනට් අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824539/",
-      "headline": "පොල් ඉඩම් පුනරුත්ථාපන විශේෂ වැඩසටහනට කැබිනට් අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824536/",
-      "headline": "‘දිට්වා’ නිසා හානි වූ තවත් පූජනීය ස්ථාන 144ක් ප්‍රතිසංස්කරණයට කැබිනට් අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824531/",
-      "headline": "ධීවර විශ්‍රාම වැටුප් සහ සමාජ ආරක්ෂණ ප්‍රතිලාභ යෝජනාක්‍රම පනත සංශෝධනයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824528/",
-      "headline": "වී අලෙවි මණ්ඩලය සතු වී තොග සහල් කර වෙළෙඳපොළට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/11/824520/",
-      "headline": "උතුරු සහ නැගෙනහිර පළාත් ඒකාබද්ධ සංවර්ධනයට ඇ.ඩොලර් මිලියන 100ක මූල්‍ය ප්‍රතිපාදන",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/11/water-supplied-to-wildlife-in-national-parks-amid-dry-weather",
-      "headline": "Water Supplied To Wildlife In National Parks",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/11/%e2%80%98ratmalane-saima%e2%80%99-handed-over-to-peradeniya-police-for-further-investigation",
-      "headline": "‘Ratmalane Saima’ Handed Over To Peradeniya Police",
+      "url": "https://newsfirst.lk/2026/08/11/education-committee-focuses-on-teacher-shortages-and-sector-reforms",
+      "headline": "Education Committee Focuses On Teacher Shortages",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -251,12 +231,6 @@
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "score-below-threshold (67 < 75)",
       "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/11/education-committee-focuses-on-teacher-shortages-and-sector-reforms",
-      "headline": "Education Committee Focuses On Teacher Shortages",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
