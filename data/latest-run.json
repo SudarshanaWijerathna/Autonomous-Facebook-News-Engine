@@ -1,53 +1,256 @@
 {
-  "runId": "a339d452",
-  "startedAt": "2026-08-12T09:04:39.502Z",
-  "finishedAt": "2026-08-12T09:05:44.042Z",
+  "runId": "3375bbbf",
+  "startedAt": "2026-08-12T11:14:23.145Z",
+  "finishedAt": "2026-08-12T11:15:57.919Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 36,
+  "discovered": 87,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/11/cabinet-approves-release-of-30-000-mt-of-paddy-through-sathosa",
-      "headline": "30,000 MT of Paddy Released Through Sathosa",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824883/",
+      "headline": "ஜனாதிபதியுடனான சட்டத்தரணிகள் சங்கத்தின் பேச்சுவார்த்தை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/11/no-final-decision-on-death-penalty-for-drug-crimes",
-      "headline": "No Final Decision on Death Penalty for Drug Crime",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://www.itnnews.lk/2026/08/12/824878/",
+      "headline": "ශ්‍රී ලංකා – ඉන්දීය ධීවර ගැටලුවට විසඳුම් සෙවීමට ඉන්දියාව සමඟ සාකච්ඡා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824877/",
+      "headline": "பேராயரை சந்தித்து ஆசிபெற்றார் கடற்படைத் தளபதி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824873/",
+      "headline": "බෙල්ලන්විල ඇසළ පුණ්‍ය මහෝත්සවයට සියල්ල සූදානම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824868/",
+      "headline": "අද ඩොලරයේ අගය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824864/",
+      "headline": "ඩොල්ෆින් සුළි කුණාටුවේ බලපෑම හේතුවෙන් බීජිං අගනුවරට අධික වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824865/",
+      "headline": "இலங்கை ரூபாயின் மதிப்பு அதிகரிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824839/",
+      "headline": "කල්පිටිය කලපුවේ වල්ලමක් පෙරළී යාමෙන්  කුඩා දරුවන් දෙදෙනෙකු මිය යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824861/",
+      "headline": "ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස්වරයා හා ජවිපෙ ප්‍රධාන ලේකම් අතර විශේෂ හමුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824856/",
+      "headline": "இந்தியாவுக்கு எதிரான இலங்கை அணி அறிவிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824825/",
+      "headline": "මුලතිව් ධීවරයන්ගේ ගැටලුවලට කඩිනම් විසඳුම් – අමාත්‍ය රාමලිංගම් චන්ද්‍රසේකර්ගෙන් සහතිකයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824849/",
+      "headline": "கற்பிட்டியில்  படகு விபத்து – 2 பிள்ளைகள் பலி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824845/",
+      "headline": "සෞඛ්‍ය සේවාව ශක්තිමත් කිරීමට වාග් චිකිත්සකයින් සහ විකිරණ ශිල්පීන් රැසකට පත්වීම් හෙට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824820/",
+      "headline": "கொந்தளிப்பான கடற்பரப்புகள் குறித்து எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824828/",
+      "headline": "වෘත්තීය අධ්‍යාපනයට බිලියන 42ක දැවැන්ත ආයෝජනයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824834/",
+      "headline": "මැදපෙරදිග මුහුදු මාර්ග ඔස්සේ යාත්‍රා කරන නෞකා වෙත හූති සටන්කාමීන්ගෙන්  ප්‍රහාර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824831/",
+      "headline": "ඉන්දුනීසියාවේ ලැව්ගිනි හේතුවෙන් හටගත් දුමාරය කලාපය පුරා පැතිර යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824797/",
+      "headline": "ஈரானின்  அச்சுறுத்தல் காரணமாக ரகசியமாக வேறு விமானத்துக்கு மாறி பயணித்த அதிபர் டிரம்ப்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824811/",
+      "headline": "ෆර්සීස් උල්කාපාත වර්ෂාව අද රාත්‍රියේ සිට හෙට උදෑසන දක්වා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824810/",
+      "headline": "වසරේ මේ දක්වා සංචාරක පැමිණීම ලක්ෂ 14 ඉක්මවයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824805/",
+      "headline": "අධිකරණ ක්‍රියාවලිය අඩපණ කිරීමට විවිධ කුමන්ත්‍රණ සිදු කරනවා – අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824756/",
+      "headline": "සුගීෂ්වර බණ්ඩාර යලි රිමාන්ඩ්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824800/",
+      "headline": "වවුනියාව දකුණ සංවර්ධන ව්‍යාපෘති 50කට රු.මිලියන 211.5ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824790/",
+      "headline": "ගොවිපළ නිවාස සඳහා රක්ෂණාවරණයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824792/",
+      "headline": "හිටපු විදේශ අමාත්‍ය ලක්ෂ්මන් කදිරගාමර් මහතාගේ 21 වන ගුණසමරුව පැවැත්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824787/",
+      "headline": "අනුරාධපුර දක්‍ෂිණ බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයේ ඉදිකිරීම් අවසන් අදියරට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824781/",
+      "headline": "සුගීෂ්වර බණ්ඩාර අධිකරණයට රැගෙන එයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824780/",
+      "headline": "சட்டவிரோதமாக நாட்டுக்கு கொண்டுவரப்பட்ட பீடி இலைத் தொகுதி பறிமுதல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824777/",
+      "headline": "இலங்கைத் தொழில்சார் நிபுணர்களின் சங்கத்தின் (OPA) 39ஆவது வருடாந்த மாநாட்டில் பங்கேற்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824767/",
+      "headline": "யோஷித ராஜபக்ஷ CID இல்  முன்னிலை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824771/",
+      "headline": "නායකයන් කෘත්‍රිමව නිර්මාණය කළ නොහැකියි – රඟපෑමකින් හෝ පවුල් පසුබිමකින් නායකත්වය ලබාගත නොහැකියි – පා. ම. වෛද්‍ය නජිත් ඉන්දික",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824755/",
+      "headline": "කන්ද උඩරට ඇසළ පෙරහැරේ සිව්මහා දේවාලවල කප් සිටුවීම හෙට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824740/",
+      "headline": "මිලියන 600 ක වියදමින් හාලිඇළ – බදුල්ල මාර්ගය නවීකරණයට පියවර – මාස 06ක් තුළ අවසන් කිරීමටත් සැලසුම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824763/",
+      "headline": "இலங்கையில் 91,000 ஐ நெருங்கும் டெங்கு நோயாளர்கள்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824759/",
+      "headline": "යෝෂිත රාජපක්ෂ CIDයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824750/",
+      "headline": "ஜனாதிபதிக்கும் சிறிய மற்றும் நடுத்தர அரிசி ஆலை உரிமையாளர்களுக்கும் இடையில் சந்திப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/12/824717/",
+      "headline": "இன்று  முழு சூரிய கிரகணம் நிகழவுள்ளது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824747/",
+      "headline": "ඩෙංගු රෝගීන් 90,695ක් දක්වා ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824744/",
+      "headline": "මාතලේ – ලග්ගල නව නගර පානීය ජල ව්‍යාපෘතිය අද ජනතා අයිතියට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824742/",
+      "headline": "විදෙස්ගත අපරාධකරුවෙකුගේ ප්‍රධාන ගෝලයෙකු මත්ද්‍රව්‍ය සමග අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824705/",
+      "headline": "ලෝක අලි දිනය අදයි – වන අලින්ට නිදහසත්, ජනතාවට සුරක්ෂිතභාවයත් සහතික කරන්න රජයෙන් පියවර රැසක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824731/",
+      "headline": "භූකම්පනයෙන් වූ විනාශය ගැන කොලොම්බියාවට ශ්‍රී ලංකාව ශෝකය පළ කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824725/",
+      "headline": "ඉඩම් පරිපාලනය ඩිජිටල්කරණයට ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/12/824720/",
+      "headline": "ජනපති සහ නීතීඥ සංගමය අතර සාකච්ඡාවක් අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://newsfirst.lk/2026/08/11/vehicle-import-dispute-heads-toward-settlement",
       "headline": "Vehicle Import Dispute Heads Toward Settlement",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/11/police-hunt-gunmen-behind-malgawatte-assassination",
-      "headline": "Police Hunt Gunmen Behind Malgawatte Assassination",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/12/repairs-to-damaged-negombo-prison-to-begin-next-week",
-      "headline": "Repairs to Negombo Prison to Begin Next Week",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
