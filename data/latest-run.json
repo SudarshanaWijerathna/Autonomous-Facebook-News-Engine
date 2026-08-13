@@ -1,261 +1,48 @@
 {
-  "runId": "2a4f7a4f",
-  "startedAt": "2026-08-13T09:05:06.175Z",
-  "finishedAt": "2026-08-13T09:06:45.962Z",
+  "runId": "2a39bfbe",
+  "startedAt": "2026-08-13T18:13:34.863Z",
+  "finishedAt": "2026-08-13T18:14:43.447Z",
   "shadowMode": false,
-  "discovered": 87,
-  "afterDedup": 42,
+  "discovered": 37,
+  "afterDedup": 37,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825108/",
-      "headline": "உள்நாட்டு இறைவரித் திணைக்களத்தின் அவசர அறிவிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/13/sri-lanka%e2%80%99s-official-poverty-line-rises-to-rs-17-592",
+      "headline": "Sri Lanka’s Official Poverty Line Rises",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 88
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/13/825105/",
-      "headline": "ව්‍යවස්ථා සංශෝධනයක් ගෙන ඒමෙන් නීතියේ ආධිපත්‍යයට බාධාවක් නැහැ – ජනවරමේ නීතිඥයෝ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/13/thotalanga-poddi-arrested-rs-87-3-mn-in-drug-funded-assets-seized",
+      "headline": "'Thotalanga Poddi' Arrested",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/13/825082/",
-      "headline": "විනිසුරු විශ්‍රාම වයස දික් කිරීම පුද්ගලයෙකු හෝ කණ්ඩායමක් අරඹයා නොවේ –  ජනපති නීතිඥ සංගමයට පහදයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825070/",
-      "headline": "නව යොවුන් වියේ තරුණ තරුණියන් අතර බඩවැල් ආශ්‍රිත රෝගවල ඉහළ යාමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825098/",
-      "headline": "ரூபாய் மதிப்பு மீண்டும் உயர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825095/",
-      "headline": "இஸ்ரேல் வேலைவாய்ப்பு மோசடி: 7 கடவுச்சீட்டுகளுடன் இருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825092/",
-      "headline": "போலிச் செய்தி பரப்புவோருக்கு பொலிஸார் எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825085/",
-      "headline": "லஞ்ச ஆணைக்குழுவில் சமிந்த குலரத்ன முன்னிலை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825081/",
-      "headline": "இலங்கை – ஓமான் வர்த்தக உறவுகளை வலுப்படுத்த உயர்மட்டப் பேச்சுவார்த்தை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825043/",
-      "headline": "නීති විරෝධීව මෙරට මුහුදේ ධීවර කටයුතුවල නිරත වූ ඉන්දීය ධීවරයන් 9 දෙනෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825068/",
-      "headline": "ශ්‍රී ලංකාවේ ආයෝජනයට ඕමානය සූදානම් – ඇමති වසන්ත සමරසිංහ සමග විශේෂ සාකච්ඡාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825069/",
-      "headline": "வவுனியா உளுக்குளத்தில் விபத்து – முச்சக்கர வண்டி சாரதி உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825046/",
-      "headline": "සියල්ලන් ඇතුළත් තිරසාර හරිත ආර්ථිකයක් ගොඩනැගීම රජයේ ඉලක්කයයි – අගමැති එක්සත් ජාතීන්ගේ නියෝජිතයින්ට කියයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825063/",
-      "headline": "රඹුක්කන – මාවනැල්ල ප්‍රධාන මාර්ගයේ ගල් බිංගෙය ප්‍රතිසංස්කරණය අවසන් අදියරට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/824996/",
-      "headline": "ශ්‍රී ලංකාවේ නව ඇමෙරිකානු තානාපති ලෙස එරික් මේයර් දිවුරුම් දෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825008/",
-      "headline": "විදේශ සේවා නියුක්ති කාර්යාංශය ඇතුළේම ඊශ්‍රායල් රැකියා ජාවාරමක යෙදුණු දෙදෙනෙක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825059/",
-      "headline": "இலங்கையின் பரீட்சை அடிப்படையிலான கல்வி முறைமையில் மாற்றம் அவசியம் – பிரதமர்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825056/",
-      "headline": "மனித உரிமைகள், சுற்றாடலைப் பாதுகாக்கும் முதலீடுகளுக்கே முன்னுரிமை – பிரதமர்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825053/",
-      "headline": "1,546 மில்லியன் ரூபா செலவில் ஒருகொடவத்தை – அம்பதலே பாலங்கள் நிர்மாணம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825050/",
-      "headline": "ரம்புக்கனை – மாவனல்லை கல் சுரங்கப் பாதை மறுசீரமைப்பு இறுதி கட்டத்தில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825047/",
-      "headline": "இலங்கைக்கான புதிய சீனத் தூதுவர் நாட்டுக்கு வருகை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825020/",
-      "headline": "හිස්බුල්ලා අල්ලස් කොමිසමට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825033/",
-      "headline": "பாராளுமன்ற உறுப்பினர் ஹிஸ்புல்லா லஞ்ச ஆணைக்குழுவில் முன்னிலை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825030/",
-      "headline": "நாட்டில் டெங்கு மரணங்கள் 68 ஆக உயர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825027/",
-      "headline": "களுத்துறையில் தேயிலை சாகுபடி பிரச்சினைகள் குறித்து விசேட கலந்துரையாடல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825009/",
-      "headline": "ඩෙංගු මරණ 68ක් දක්වා ඉහළට – රෝගීන් 91,000 ඉක්මවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825021/",
-      "headline": "ஜப்பானில் 21 வயது இலங்கை மாணவர் குத்திக்கொலை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825016/",
-      "headline": "காசல்ரீ நீர்த்தேக்கம் வான்பாயும் நிலையில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825007/",
-      "headline": "කාසල්රි ජලාශය පිටාර මට්ටමට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/825002/",
-      "headline": "කළුතර තේ වගාකරුවන්ගේ ගැටලු නිරාකරණයට ඇමති නලින්ද ජයතිස්සගේ මූලිකත්වයෙන් විශේෂ සාකච්ඡාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825011/",
-      "headline": "முத்துராஜவெல பகுதியில் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825001/",
-      "headline": "9 இந்திய மீனவர்கள் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/824998/",
-      "headline": "இலங்கைக்கான புதிய அமெரிக்கத் தூதுவர்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/824990/",
-      "headline": "ඇල්ල නගරයේ ඉඩම් ගැටලුවලට කඩිනම් විසඳුම් ලබාදීමේ වැඩසටහනක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/824984/",
-      "headline": "මහනුවර  ඇසළ පෙරහැර මංගල්‍යයේ පළමු චාරිත්‍රය ලෙස සුබ නැකතට කප් සිටුවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/824985/",
-      "headline": "சில இடங்களில் பல தடவைகள் மழை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824971/",
-      "headline": "ඉන්දු – ශ්‍රී ලංකා පළමු ටෙස්ට් තරගය 15 දා ගාල්ලේදී – ශ්‍රී ලංකා සංචිතය නම් කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824923/",
-      "headline": "ජනපති සමග නීතිඥ සංගමයේ සාකච්ඡා සාර්ථකයි – නීතිඥ රජිව් අමරසූරිය – සභාපති – නීතිඥ සංගමය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824930/",
-      "headline": "22 ව්‍යවස්ථා සංශෝධනය පුද්ගලයෙකු හෝ කණ්ඩායමක් අරඹයා නොවෙයි – රටේ යහපතටයි – ජනපති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824965/",
-      "headline": "අකිල විරාජ්ට ආධාර අනුබල දුන්නේ යැයි කියන ඉන්ධන හල් සේවකයා 18 දක්වා රක්ෂිත බන්ධනාගාරයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824952/",
-      "headline": "ITN ගම්පහ ප්‍රාදේශීය මාධ්‍යවේදී නිමල් විජයරත්න අභාවප්‍රාප්ත වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824958/",
-      "headline": "බැටරි සූර්ය බලය සති 2කින් ජාතික පද්ධතියට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/12/824953/",
-      "headline": "ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවකුගේ ගෝලයෙකු කෝටි 3කට ආසන්න මත්ද්‍රව්‍ය සමග අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/824980/",
-      "headline": "නීති විරෝධී මත්පැන් සමග සැකකරුවෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/13/824976/",
-      "headline": "පළාත් කිහිපයකට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/13/us-appoints-eric-meyer-as-new-ambassador-to-sri-lanka",
-      "headline": "US Appoints Eric Meyer as New Ambassador to SL",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/13/doctors-alarmed-by-rise-in-colon-and-rectal-cancers-in-sri-lanka",
+      "headline": "Doctors Alarmed by Rise in Colon and Rectal Cancer",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/13/nine-indian-fishermen-arrested-for-illegal-fishing-off-talaimannar",
+      "headline": "09 Indian Fishermen Arrested for Illegal Fishing",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
