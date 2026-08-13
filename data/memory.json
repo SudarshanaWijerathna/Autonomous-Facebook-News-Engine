@@ -1510,5 +1510,29 @@
     "score": 76,
     "addedAt": "2026-08-13T04:53:23.547Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/13/cpc-seeks-investors-as-natural-gas-confirmed-in-mannar-basin",
+    "contentHash": "7a047b94910fade5f3123369926f48325c40cffb6623f4ebf9dff89122e8355c",
+    "headline": "CPC Seeks Investors for Mannar Basin",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-13T09:05:33.039Z",
+    "fbPostId": "1278802861974766_122110107021402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-08-13T09:06:34.315Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/13/no-power-cuts-as-sri-lanka-secures-coal-and-boosts-hydropower",
+    "contentHash": "7ee9c26b5729856a69b19939893fbf355f0830e206466b94bcad53b493ae17df",
+    "headline": "No Power Cuts as SL Secures Coal,Boosts Hydropower",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-13T09:05:33.039Z",
+    "fbPostId": "1278802861974766_122110107165402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-13T09:06:45.961Z",
+    "isShadow": false
   }
 ]
