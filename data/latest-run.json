@@ -1,14 +1,29 @@
 {
-  "runId": "a731bd8e",
-  "startedAt": "2026-08-14T14:14:39.206Z",
-  "finishedAt": "2026-08-14T14:17:29.598Z",
+  "runId": "87be762d",
+  "startedAt": "2026-08-14T16:12:56.030Z",
+  "finishedAt": "2026-08-14T16:14:08.896Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 44,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://adaderana.lk/news/cmst3xpgc0004356q583hc041",
+      "headline": "Drug trafficker Shiran Basik brought back to Sri Lanka",
+      "reason": "batch-cross-source-duplicate-of-ada-derana-en (sim=0.88)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/14/825589/",
+      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 91,000 සීමාව පසු කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/14/825579/",
+      "headline": "முக்கிய போதைப்பொருள் கடத்தல்காரர்கள் மூவர் இன்றிரவு நாட்டிற்கு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
     {
       "url": "https://www.itnnews.lk/2026/08/14/825582/",
       "headline": "මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ශිරාන් බාසික් සහ තවත් පාතාල නායකයින් දෙදෙනෙකු අද රාත්‍රියේ දිවයිනට",
@@ -125,11 +140,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825486/",
-      "headline": "யாழ். பழைய கச்சேரியை கலாசார மையமாக மாற்ற திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/14/825483/",
       "headline": "සමථ මණ්ඩල ක්‍රියාවලිය ශක්තිමත් කිරීමට රුපියල් මිලියන 800ක ප්‍රතිපාදන",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -190,6 +200,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/14/825441/",
+      "headline": "‘දිට්වා’ නිසා පීඩාවට පත් ත්‍රිකුණාමලයේ ධීවරයින්ට බෝට්ටු 19ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/14/825428/",
       "headline": "අයහපත් කාලගුණයෙන් ජපානයේ 4දෙනෙකු ජීවිතක්ෂයට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -210,49 +225,33 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825412/",
-      "headline": "திருகோணமலை மாவட்ட மீனவர்கள் எதிர்நோக்கும் பிரச்சினைகள் தொடர்பில்  ஆராய்வு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825415/",
-      "headline": "වීරකැටියේ නිවසක් ඉදිරිපිටදී තරුණයෙකුට වෙඩි ප්‍රහාරයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/14/pm-wants-classrooms-to-focus-on-skills-not-just-exams",
-      "headline": "PM: Focus on Skills, Not Just Exams",
+      "url": "https://newsfirst.lk/2026/08/14/68-041-people-affected-by-dry-weather-conditions",
+      "headline": "68,041 People Affected By Dry Weather Conditions",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/14/68-041-people-affected-by-dry-weather-conditions",
-      "headline": "68,041 People Affected By Dry Weather Conditions",
+      "url": "https://newsfirst.lk/2026/08/14/textbooks-meant-for-students-go-missing-suspect-arrested",
+      "headline": "Textbooks Meant for Students Go Missing",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/14/cardinal-seeks-equal-learning-opportunities-for-all-students",
       "headline": "Cardinal Seeks Equal Learning Opportunities",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/14/textbooks-meant-for-students-go-missing-suspect-arrested",
-      "headline": "Textbooks Meant for Students Go Missing",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/14/mother-companion-arrested-for-after-child-found-abandoned",
+      "headline": "Mother & Companion Arrested for Child Abandonment",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/14/hunting-accident-leaves-20-year-old-injured",
       "headline": "Hunting Accident Leaves 20-Year-Old Injured",
-      "reason": "score-below-threshold (48 < 75)",
+      "reason": "score-below-threshold (48 < 65)",
       "score": 48
     }
   ],
