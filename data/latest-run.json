@@ -1,49 +1,247 @@
 {
-  "runId": "2a39bfbe",
-  "startedAt": "2026-08-13T18:13:34.863Z",
-  "finishedAt": "2026-08-13T18:14:43.447Z",
+  "runId": "9bd40814",
+  "startedAt": "2026-08-14T03:18:26.326Z",
+  "finishedAt": "2026-08-14T03:19:52.924Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 37,
+  "discovered": 87,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/13/sri-lanka%e2%80%99s-official-poverty-line-rises-to-rs-17-592",
-      "headline": "Sri Lanka’s Official Poverty Line Rises",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 88
+      "url": "https://www.itnnews.lk/2026/08/14/825344/",
+      "headline": "ඉන්දියාවට පළාගිය වත්තල වෙඩික්කරුවන්ට වැඩ වරදී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/13/thotalanga-poddi-arrested-rs-87-3-mn-in-drug-funded-assets-seized",
-      "headline": "'Thotalanga Poddi' Arrested",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "url": "https://www.itnnews.lk/2026/08/14/825341/",
+      "headline": "ලක්ෂ 66ක චීන දුම්වැටි තොගයක් සමග ඉන්දීය ජාතිකයෙකු කටුනායකදී අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/13/doctors-alarmed-by-rise-in-colon-and-rectal-cancers-in-sri-lanka",
-      "headline": "Doctors Alarmed by Rise in Colon and Rectal Cancer",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "url": "https://www.itnnews.lk/2026/08/14/825336/",
+      "headline": "ඔරුගොඩවත්ත – අඹතලේ මාර්ගයේ ප්‍රධාන පාලම් තුනක ඉදිකිරීම් කඩිනම් කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://www.itnnews.lk/2026/08/14/825327/",
+      "headline": "මන්නාරම මඩු මංගල්‍යය හෙටයි – බැතිමතුන් වෙනුවෙන් සියලු පහසුකම් සූදානම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/13/nine-indian-fishermen-arrested-for-illegal-fishing-off-talaimannar",
-      "headline": "09 Indian Fishermen Arrested for Illegal Fishing",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://www.itnnews.lk/2026/08/14/825325/",
+      "headline": "ග්‍රාමීය ආර්ථිකය නංවන්න රු.මිලියන 2,500ක ආදායම් උත්පාදන ව්‍යාපෘති 100ක් අද සිට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://www.itnnews.lk/ta/2026/08/14/825326/",
+      "headline": "75 மி.மீ அதிக பலத்த மழை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/14/825319/",
+      "headline": "ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/14/825320/",
+      "headline": "பரீட்சைகள் ஆணையாளர் நாயகத்தின் விசேட அறிவித்தல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825311/",
+      "headline": "මහනුවර ඇසළ පෙරහැර  මංගල්‍යයේ  කුඹල් පෙරහැර ලබන 18වනදා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825304/",
+      "headline": "වාග් චිකිත්සකයින් සහ විකිරණ ශිල්පීන් රැසකට පත්වීම් ලිපි ප්‍රදානය කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825301/",
+      "headline": "ලෝකය ඉදිරියේ ශ්‍රී ලංකාව විශිෂ්ට රාජ්‍යයක් බවට පත්කර තිබෙනවා – ඇමති වෛද්‍ය නලින්ද ජයතිස්ස",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825288/",
+      "headline": "ප්‍රධාන දුම්රිය මාර්ගයේ ගමනාගමනයට බාධා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825284/",
+      "headline": "ජාතික මූලික අධ්‍යයන ආයතනයේ නව වෙබ් අඩවිය විවෘත කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825281/",
+      "headline": "කෑගල්ලට නව ඩිපෝ සංකීර්ණයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825277/",
+      "headline": "රුසියාවේ ප්‍රධාන වරායකට යුක්‍රේනයෙන් දැවැන්ත ඩ්‍රෝන සහ මිසයිල ප්‍රහාර මාලාවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825269/",
+      "headline": "அம்பேபுஸ்ஸ – அலவ்வ இடையே ரயில் சேவை பாதிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825271/",
+      "headline": "ග්‍රාමීය ආර්ථිකය නංවන්න රුපියල් මිලියන 2,500ක ආදායම් උත්පාදන ව්‍යාපෘති 100ක් හෙට සිට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825266/",
+      "headline": "சர்வதேச தொலைத்தொடர்பு ஒன்றியத்தின் புதிய தரவரிசையில் இலங்கைக்கு அங்கீகாரம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825263/",
+      "headline": "කතෝලික පාසල් පරිපාලන වත්මන් ප්‍රගතිය විමසා බැලේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825259/",
+      "headline": "ஜனாதிபதி செயலகத்தில் கத்தோலிக்கத் திருச்சபையுடன் அரசு விசேட கலந்துரையாடல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825255/",
+      "headline": "வெளிநாடுகளில் உள்ள 93 குற்றவாளிகளுக்கு சிவப்பு எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825229/",
+      "headline": "ශ්‍රී ලංකාව සුවතා සංචාරක ගමනාන්ත අතරින් ලොව පළමු තැනට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825224/",
+      "headline": "ශ්‍රී ලංකාව සයිබර් ආරක්ෂණ ක්ෂේත්‍රයේ ඉහළ ප්‍රගතියක් පෙන්වන රටවල් අතරට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825228/",
+      "headline": "வெளிநாட்டினரின் குழந்தைகளுக்கு அமெரிக்க குடியுரிமை வழங்கும் பிறப்புரிமைச் சட்டத்திற்கு அதிபர் ட்ரம்ப் தடை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825251/",
+      "headline": "විභාග වෙනුවට කුසලතාවන්ට මුල්තැන දෙන නව අධ්‍යාපන ක්‍රමයක් – අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825248/",
+      "headline": "රටින් පැන්න සැකකරුවන් 93ක් ගෙන්න ගන්න ජාත්‍යන්තර රතු වරෙන්තු",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825243/",
+      "headline": "தெற்காசியாவிலேயே மிக உயர்ந்த மனித அபிவிருத்தி கொண்ட நாடாக இலங்கை முதலிடம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825240/",
+      "headline": "ஊடக சுதந்திர தரவரிசையில் 134ஆவது இடத்திற்கு உயர்ந்தது இலங்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825235/",
+      "headline": "328 மில்லியன் டொலர் செலவில் மின் கட்டமைப்பை வலுப்படுத்தும் திட்டம் ஆரம்பம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825232/",
+      "headline": "ලෝක බැංකු ආදායම් වර්ගීකරණයේ ශ්‍රී ලංකාව යළිත් ‘ඉහළ මැදි ආදායම්’ කාණ්ඩයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825223/",
+      "headline": "வவுனியா, முல்லைத்தீவு உள்ளிட்ட 7 மாவட்டங்களுக்கு வெப்பமான வானிலை தொடர்பான எச்சரிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825217/",
+      "headline": "கடன் மறுசீரமைப்பின் பின் இலங்கையின் கடன் தரப்படுத்தலில் சாதனை முன்னேற்றம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825218/",
+      "headline": "ස්ත්‍රී පුරුෂ සමානාත්මතාවයේ දැවැන්ත පිම්මක් – ශ්‍රී ලංකාව ගෝලීය දර්ශකයේ ස්ථාන 29ක් ඉදිරියට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825211/",
+      "headline": "முருதவெல நீர்த்தேக்கத்தில் மூழ்கி 25 வயது இளைஞர் பலி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825205/",
+      "headline": "இலங்கை கடவுச்சீட்டின் மதிப்பு உயர்வு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825204/",
+      "headline": "හෝමාගම ඉදිවන ග්‍රිඩ් උපපොළ ඉදිකිරීමේ කටයුතු ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825198/",
+      "headline": "ශ්‍රී ලංකා නීතිඥ සංගමය සමග පැවති සාකච්ඡාවේදී ජනපති සිදු කළ කතාව",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825196/",
+      "headline": "වියළි කාලගූණය හේතුවෙන් උල්හිටිය රත්කිද නිවුන් ජලාශයේ ජල මට්ටම පහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/13/825194/",
+      "headline": "ஜனாதிபதி செயலாளருடன் இலங்கை – ஜப்பான் நட்புறவு சங்கம் சந்திப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825191/",
+      "headline": "මුරුතවෙල ජලාශයේ දිය නෑමට ගිය තරුණයෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825187/",
+      "headline": "වෙරළට ඔබ්බෙන්වන මුහුදු ප්‍රදේශවලට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/13/825183/",
+      "headline": "බලහත්කාරයෙන් අතුරුදහන් කිරීම්වලට ලක්වූ වින්දිතයින්ගේ ජාත්‍යන්තර දිනය අගෝස්තු මස 30වැනි දා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/13/5-2-million-motorcycles-on-sri-lankan-roads-but-at-what-cost",
+      "headline": "Sri Lanka's Motorcycle Boom Turning Deadly",
+      "reason": "max-posts-per-run-reached",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/13/judicial-appointments-on-hold-due-to-easter-attacks-case",
+      "headline": "Judicial Appointments on Hold Due to Easter Case",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/13/system-wide-changes-needed-to-end-delays-in-justice",
+      "headline": "System Changes Needed to End Delays in Justice",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []
