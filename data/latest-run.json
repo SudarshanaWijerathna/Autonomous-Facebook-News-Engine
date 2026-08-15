@@ -1,10 +1,10 @@
 {
-  "runId": "622bacca",
-  "startedAt": "2026-08-15T02:07:06.778Z",
-  "finishedAt": "2026-08-15T02:08:50.774Z",
+  "runId": "7c7fae05",
+  "startedAt": "2026-08-15T05:50:27.808Z",
+  "finishedAt": "2026-08-15T05:51:46.614Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 43,
   "scored": 6,
   "selected": 1,
   "published": 1,
@@ -13,6 +13,66 @@
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/14/strongest-el-ni%c3%b1o-in-75-years-sri-lanka-faces-climate-uncertainty-ahead",
+      "headline": "The Most Powerful El Niño Since 1900?",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825654/",
+      "headline": "ஷிரான் பாசிக்கு 72 மணி நேர தடுப்புக் காவல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825646/",
+      "headline": "රජයේ විනිවිදභාවය ගැන ඕස්ට්‍රේලියානු ආයෝජකයින්ගෙන් ප්‍රසාදය – ක්ෂේත්‍ර රැසක් සඳහා දැවැන්ත ආයෝජන",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825647/",
+      "headline": "நாணய சுழற்சியில் இந்தியா வெற்றி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825645/",
+      "headline": "දරුවන් කෙරෙහි සංවේදී වන සමාජයක් ඇති කිරීමට අප එක්ව වැඩ කළ යුතුයි – අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825641/",
+      "headline": "ඉන්දුනීසියාවේ භූකම්පනයෙන් දෙදෙනෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825635/",
+      "headline": "හැටන් – කොළඹ මාර්ගයේ එක් මංතීරුවක් යළි විවෘත කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825636/",
+      "headline": "ஹட்டன் – கொழும்பு பிரதான வீதி ஒரு வழிப்பாதை திறப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825632/",
+      "headline": "සමුපකාර ව්‍යාපාරය ශක්තිමත් කරමින්, සමූපකාරිකයාත් ආරක්ෂා කරන නව සමුපකාර පනතක් ළඟදීම",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825627/",
+      "headline": "நாட்டின் பல பகுதிகளுக்கு மழை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825626/",
+      "headline": "අයහපත් කාලගුණය හේතුවෙන් ජපානයේ සිදුවූ මරණ සංඛ්‍යාව 08 දක්වා ඉහළ යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825614/",
+      "headline": "ඉන්දුනීසියාවට භූකම්පනයක් –  මෙරටට සුනාමි අවදානමක් නැහැ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/15/825611/",
@@ -170,56 +230,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/14/825483/",
-      "headline": "සමථ මණ්ඩල ක්‍රියාවලිය ශක්තිමත් කිරීමට රුපියල් මිලියන 800ක ප්‍රතිපාදන",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/12/824797/",
-      "headline": "ஈரானுக்கு அஞ்சி இரகசிய விமானத்தில் பறந்த ட்ரம்ப்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825104/",
-      "headline": "ஆப்கானிஸ்தானில் 24 இலட்சம் சிறுமியருக்கு கல்வி உரிமை மறுப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/13/825228/",
-      "headline": "வெளிநாட்டவர்களின் பிள்ளைகளுக்கு குடியுரிமை வழங்கத் தடை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825424/",
-      "headline": "சைபர் குற்றச்சாட்டில் 1000க்கும் அதிக வெளிநாட்டவர்கள் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825468/",
-      "headline": "මඩකලපුව ධීවර කර්මාන්තය නංවන්න පුළුල් සැලසුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825462/",
-      "headline": "මත්කුඩු ජාවාරමෙන් කෝටි ගණන් දේපළ ඉපැයූ පොඩ්ඩි රිමාන්ඩ්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825451/",
-      "headline": "4 வயது சிறுமியை கைவிட்டுச் சென்ற தாய் உட்பட இருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825457/",
-      "headline": "යළි ස්ථාවරත්වයක් කරා ගමන් කරන ශ්‍රී ලංකා ආර්ථිකය – මුදල් ප්‍රතිපත්ති වාර්තාව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825454/",
-      "headline": "සිව් හැවිරිදි දැරිය පාළු පාරක දමා ගිය සැකකරු සහ සැකකාරිය අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (68 < 75)",
@@ -228,24 +238,24 @@
     {
       "url": "https://newsfirst.lk/2026/08/14/scholarship-exam-paper-marking-to-begin-on-august-20",
       "headline": "Scholarship Paper Marking to Begin on August 20",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/14/rs-87-mn-asset-probe-lands-thotalanga-poddi-in-remand",
+      "headline": "'Thotalanga Poddi' in Remand",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/08/14/missing-for-five-days-body-found-at-bottom-of-ravine-in-ratnapura",
-      "headline": "Body Missing for Five Days Found in Ratnapura",
+      "url": "https://newsfirst.lk/2026/08/14/he-went-to-his-sister-s-wedding-but-never-returned-home",
+      "headline": "He Went to His Sister's Wedding, Never Returned",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/14/mother-companion-arrested-for-after-child-found-abandoned",
-      "headline": "Mother & Companion Arrested for Child Abandonment",
+      "url": "https://newsfirst.lk/2026/08/15/weather-situation-under-review-amid-el-ni%c3%b1o-conditions",
+      "headline": "Weather Situation Under Review Amid El Niño",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
