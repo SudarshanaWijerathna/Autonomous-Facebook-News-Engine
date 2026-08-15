@@ -1,10 +1,10 @@
 {
-  "runId": "7c7fae05",
-  "startedAt": "2026-08-15T05:50:27.808Z",
-  "finishedAt": "2026-08-15T05:51:46.614Z",
+  "runId": "b4cc1fc6",
+  "startedAt": "2026-08-15T08:18:29.940Z",
+  "finishedAt": "2026-08-15T08:19:46.408Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 41,
   "scored": 6,
   "selected": 1,
   "published": 1,
@@ -15,9 +15,49 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/08/14/four-districts-face-acute-drinking-water-shortages",
+      "headline": "Four Districts Face Acute Drinking Water Shortages",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/08/14/strongest-el-ni%c3%b1o-in-75-years-sri-lanka-faces-climate-uncertainty-ahead",
       "headline": "The Most Powerful El Niño Since 1900?",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825687/",
+      "headline": "பாட நூல்களை பழைய பொருட் கடைகளுக்கு விற்றவர் கைது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825644/",
+      "headline": "විනිසුරු  විශ්‍රාම වයස දීර්ඝ කිරීමේ තීරණය ගොඩගැසී ඇති නඩු කඩිනමින් විසඳීමට ගත් සාධනීය පියවරක් – විග්නේෂ්වරන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825678/",
+      "headline": "ඉන්දුනීසියාවේ භූකම්පනයෙන් මියගිය සංඛ්‍යාව ඉහළට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825671/",
+      "headline": "ඉන්දියාව 80 වන නිදහස් දිනය අභිමානවත්ව සමරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825669/",
+      "headline": "වසරේ මුල් මාස 06ට ජාතික පශු සම්පත් මණ්ඩලයට රු.මිලියන 300ක ශුද්ධ ලාභයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825656/",
+      "headline": "ශිරාන් බාසික්ට පැය 72ක රැඳවුම් නියෝග",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825655/",
+      "headline": "ඇමෙරිකාවේ වෙඩි තැබීම් මාලාවකින් 6 දෙනෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/15/825654/",
@@ -67,11 +107,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/15/825626/",
       "headline": "අයහපත් කාලගුණය හේතුවෙන් ජපානයේ සිදුවූ මරණ සංඛ්‍යාව 08 දක්වා ඉහළ යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825614/",
-      "headline": "ඉන්දුනීසියාවට භූකම්පනයක් –  මෙරටට සුනාමි අවදානමක් නැහැ",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -205,57 +240,32 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825509/",
-      "headline": "ஜப்பானில் கனமழை மற்றும் வெள்ளப்பெருக்கு: 4 பேர் பலி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825473/",
-      "headline": "பல கோடி சொத்துக்களை ஈட்டிய  ‘குடு பொட்டி’ கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825504/",
-      "headline": "ජාතික තරුණ ප්‍රතිපත්ති කෙටුම්පත පිළිබඳ ඌව පළාත් මහජන සාකච්ඡාව බදුල්ලේදී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825500/",
-      "headline": "මිනිසුන් සමග නිදහසේ සරන ත්‍රිකුණාමලයේ මුවන්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825496/",
-      "headline": "76 වන බෙල්ලන්විල ඇසළ පාවඩ පෙරහරට ඇමති නලින්ද එක්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/14/scholarship-exam-paper-marking-to-begin-on-august-20",
-      "headline": "Scholarship Paper Marking to Begin on August 20",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/08/15/suspect-arrested-over-alleged-plot-to-assassinate-prison-officers",
+      "headline": "Suspect Arrested Over Alleged Assassination Plot",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/14/rs-87-mn-asset-probe-lands-thotalanga-poddi-in-remand",
       "headline": "'Thotalanga Poddi' in Remand",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/14/he-went-to-his-sister-s-wedding-but-never-returned-home",
-      "headline": "He Went to His Sister's Wedding, Never Returned",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/08/15/report-sought-over-abandonment-of-four-year-old-girl-in-wattegama",
+      "headline": "Report Sought Over Abandonment of Four-Year-Old",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/15/weather-situation-under-review-amid-el-ni%c3%b1o-conditions",
       "headline": "Weather Situation Under Review Amid El Niño",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
