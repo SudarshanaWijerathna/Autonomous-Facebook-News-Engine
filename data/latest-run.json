@@ -1,18 +1,48 @@
 {
-  "runId": "87be762d",
-  "startedAt": "2026-08-14T16:12:56.030Z",
-  "finishedAt": "2026-08-14T16:14:08.896Z",
+  "runId": "622bacca",
+  "startedAt": "2026-08-15T02:07:06.778Z",
+  "finishedAt": "2026-08-15T02:08:50.774Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 45,
   "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
     {
-      "url": "https://adaderana.lk/news/cmst3xpgc0004356q583hc041",
-      "headline": "Drug trafficker Shiran Basik brought back to Sri Lanka",
-      "reason": "batch-cross-source-duplicate-of-ada-derana-en (sim=0.88)"
+      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
+      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825611/",
+      "headline": "නීති විරෝධී මත්පැන් හා ගෝඩා සමග සැකකරුවෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825617/",
+      "headline": "இந்தோனேசியாவில் நிலநடுக்கம் : இலங்கைக்கு சுனாமி ஆபத்தில்லை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825605/",
+      "headline": "ஹட்டன் – கொழும்பு வீதி போக்குவரத்து பாதிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825608/",
+      "headline": "පස් කන්දක් කඩා වැටීම හේතුවෙන් හැටන් කොළඹ ප්‍රධාන මාර්ගය තාවකාලිකව වැසේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825604/",
+      "headline": "අද දිනයේ පළාත් රැසකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/14/825593/",
+      "headline": "මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ශිරාන් බාසික් දිවයිනට රැගෙන එයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/14/825589/",
@@ -190,69 +220,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/14/825444/",
-      "headline": "‘Rebuilding Sri Lanka’ ජනාධිපති කාර්යසාධක බලකාය රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825445/",
-      "headline": "සංඥා භාෂා පනත ඉදිරියේදී පාර්ලිමේන්තුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825441/",
-      "headline": "‘දිට්වා’ නිසා පීඩාවට පත් ත්‍රිකුණාමලයේ ධීවරයින්ට බෝට්ටු 19ක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825428/",
-      "headline": "අයහපත් කාලගුණයෙන් ජපානයේ 4දෙනෙකු ජීවිතක්ෂයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825429/",
-      "headline": "ආසියානු කුසලානයට ශ්‍රී ලංකා කාන්තා සංචිතය නම් කරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825421/",
-      "headline": "கடல் கொந்தளிப்பு : அம்பர் எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825419/",
-      "headline": "ඌවේ සෞඛ්‍ය ගැටලුවලට කඩිනම් විසඳුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/14/68-041-people-affected-by-dry-weather-conditions",
-      "headline": "68,041 People Affected By Dry Weather Conditions",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/14/textbooks-meant-for-students-go-missing-suspect-arrested",
-      "headline": "Textbooks Meant for Students Go Missing",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/14/cardinal-seeks-equal-learning-opportunities-for-all-students",
-      "headline": "Cardinal Seeks Equal Learning Opportunities",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/08/14/scholarship-exam-paper-marking-to-begin-on-august-20",
+      "headline": "Scholarship Paper Marking to Begin on August 20",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/14/missing-for-five-days-body-found-at-bottom-of-ravine-in-ratnapura",
+      "headline": "Body Missing for Five Days Found in Ratnapura",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/08/14/mother-companion-arrested-for-after-child-found-abandoned",
       "headline": "Mother & Companion Arrested for Child Abandonment",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/14/hunting-accident-leaves-20-year-old-injured",
-      "headline": "Hunting Accident Leaves 20-Year-Old Injured",
-      "reason": "score-below-threshold (48 < 65)",
-      "score": 48
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
