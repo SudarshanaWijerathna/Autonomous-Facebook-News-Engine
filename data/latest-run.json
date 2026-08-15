@@ -1,18 +1,33 @@
 {
-  "runId": "dfe1642d",
-  "startedAt": "2026-08-15T13:28:13.114Z",
-  "finishedAt": "2026-08-15T13:30:55.579Z",
+  "runId": "b80fa3fa",
+  "startedAt": "2026-08-15T15:42:51.086Z",
+  "finishedAt": "2026-08-15T15:43:58.898Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 44,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/15/no-tsunami-threat-to-sri-lanka-following-7-7-magnitude-indonesia-earthquake",
+      "headline": "No Tsunami Threat to SL After Indonesia Earthquake",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825762/",
+      "headline": "ඉන්දුනිසියාවේ භූකම්පනයෙන් 38ක් මරුට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825758/",
+      "headline": "කඩුවෙල රන්කඩු පත්තිනි දේවාලයේ දිය කැපීමේ පෙරහරට හෙට (16) විශේෂ රථවාහන සැලැස්මක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/15/825754/",
@@ -70,11 +85,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/15/825668/",
-      "headline": "මහනුවර ජාතික රෝහලට රු.මිලියන 570ක අතිනවීන උපකරණ පහසුකම් – මිලියන 200ක නව කැතීටර්කරණ රසායනාගාරයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/15/825709/",
       "headline": "வெப்பமான வானிலை : சிறுவர்களுக்கு நோய் பரவும் அபாயம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -102,6 +112,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/15/825671/",
       "headline": "ඉන්දියාව 80 වන නිදහස් දිනය අභිමානවත්ව සමරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825669/",
+      "headline": "වසරේ මුල් මාස 06ට ජාතික පශු සම්පත් මණ්ඩලයට රු.මිලියන 300ක ශුද්ධ ලාභයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -152,11 +167,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/15/825632/",
       "headline": "සමුපකාර ව්‍යාපාරය ශක්තිමත් කරමින්, සමූපකාරිකයාත් ආරක්ෂා කරන නව සමුපකාර පනතක් ළඟදීම",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825627/",
-      "headline": "நாட்டின் பல பகுதிகளுக்கு மழை!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -215,18 +225,32 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/14/825573/",
-      "headline": "පළාත් පාලන ආයතන සඳහා වසර 3ක අපද්‍රව්‍ය කළමනාකරණ සැලසුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/15/shiran-basik-brought-back-to-sri-lanka-as-multiple-investigations-continue",
+      "headline": "Shiran Basik Brought Back to Sri Lanka",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825571/",
-      "headline": "சுங்கக் கட்டண நீடிப்பு டிசம்பர் 31 வரை அமலில் இருக்கும்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/15/suspect-arrested-over-alleged-plot-to-assassinate-prison-officers",
+      "headline": "Suspect Arrested Over Alleged Assassination Plot",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/08/15/report-sought-over-abandonment-of-four-year-old-girl-in-wattegama",
       "headline": "Report Sought Over Abandonment of Four-Year-Old",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/15/shiran-basik-to-be-detained-and-questioned-for-72-hours",
+      "headline": "Shiran Basik To Face 72-Hour Detention",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
@@ -235,24 +259,6 @@
       "headline": "Weather Situation Under Review Amid El Niño",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/14/22a-does-not-undermine-people-s-sovereignty-joint-opp",
-      "headline": "22A Does Not Undermine People's Sovereignty",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []
