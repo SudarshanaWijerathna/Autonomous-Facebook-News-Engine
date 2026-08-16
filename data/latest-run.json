@@ -1,18 +1,63 @@
 {
-  "runId": "2a6414f1",
-  "startedAt": "2026-08-16T02:14:11.813Z",
-  "finishedAt": "2026-08-16T02:15:35.601Z",
+  "runId": "c8520a94",
+  "startedAt": "2026-08-16T05:53:35.087Z",
+  "finishedAt": "2026-08-16T05:54:53.289Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 45,
+  "afterDedup": 44,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825822/",
+      "headline": "නුවරඑළියේ ප්‍රාදේශීය ලේකම් කාර්‌යාලවල මුදල් අක්‍රමිකතා ගැන හොයන්න ජනපති නියමයෙන් විගණන කණ්ඩායමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825818/",
+      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 92,000 සීමාව පසු කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/16/825814/",
+      "headline": "மீரிகம மாஓயாவில் நீராடச் சென்ற இளைஞர்களில் ஒருவர் பலி: மற்றொருவர் மாயம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825811/",
+      "headline": "රජයේ වැඩපිළිවෙළට මහා සංඝරත්නයේ ආධ්‍යාත්මික මඟපෙන්වීම ශක්තියක් – අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825804/",
+      "headline": "කෝටියකට අධික ගංජා සමග පුද්ගලයෙකු හම්බෙගමුවේ දී අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/16/825805/",
+      "headline": "கடுவெல பகுதியில் இன்று விசேட போக்குவரத்து திட்டம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/16/825800/",
+      "headline": "இலங்கை vs இந்தியா முதல் டெஸ்ட் – இந்திய அணி வலுவான நிலையில்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825797/",
+      "headline": "කඩුවෙල ප්‍රදේශය ආශ්‍රිතව විශේෂ රථවාහන සැලැස්මක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825793/",
+      "headline": "මා ඔයේ දියනෑමට ගිය තරුණයින්ට අත්වූ ඉරණම",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/16/825790/",
@@ -180,68 +225,34 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/15/825641/",
-      "headline": "ඉන්දුනීසියාවේ භූකම්පනයෙන් දෙදෙනෙකු ජීවිතක්ෂයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/15/9-000-forensic-reports-to-be-cleared-within-a-month",
+      "headline": "9,000 Forensic Reports To Be Cleared",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/15/825635/",
-      "headline": "හැටන් – කොළඹ මාර්ගයේ එක් මංතීරුවක් යළි විවෘත කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/16/ministry-prepares-plan-to-ensure-food-security-amid-el-ni%c3%b1o-conditions",
+      "headline": "Plans Underway to Ensure Food Security Amid ElNiño",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/15/825632/",
-      "headline": "සමුපකාර ව්‍යාපාරය ශක්තිමත් කරමින්, සමූපකාරිකයාත් ආරක්ෂා කරන නව සමුපකාර පනතක් ළඟදීම",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825627/",
-      "headline": "நாட்டின் பல பகுதிகளுக்கு மழை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825626/",
-      "headline": "අයහපත් කාලගුණය හේතුවෙන් ජපානයේ සිදුවූ මරණ සංඛ්‍යාව 08 දක්වා ඉහළ යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825614/",
-      "headline": "ඉන්දුනීසියාවට භූකම්පනයක් –  මෙරටට සුනාමි අවදානමක් නැහැ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825611/",
-      "headline": "නීති විරෝධී මත්පැන් හා ගෝඩා සමග සැකකරුවෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825617/",
-      "headline": "இந்தோனேசியாவில் நிலநடுக்கம் : இலங்கைக்கு சுனாமி ஆபத்தில்லை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/15/rs-800-000-worth-of-school-textbooks-sold-as-waste-paper",
-      "headline": "Rs. 800,000 Worth Of Textbooks Sold As Waste",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/15/one-dies-following-clash-in-nawala",
+      "headline": "One Dies Following Clash In Nawala",
+      "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/08/15/annual-feast-of-our-lady-of-madhu-celebrated-today-in-mannar",
-      "headline": "Annual Feast of Our Lady of Madhu Celebrated Today",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/16/australian-investors-pledge-commitment-to-direct-investment-in-sri-lanka",
+      "headline": "AU Investors Pledge Commitment to FDI in SL",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
     }
   ],
   "errors": []
