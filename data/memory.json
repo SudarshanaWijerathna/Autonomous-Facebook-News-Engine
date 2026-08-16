@@ -1630,5 +1630,29 @@
     "score": 81,
     "addedAt": "2026-08-15T13:30:55.577Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/15/shiran-basik-brought-back-to-sri-lanka-as-multiple-investigations-continue",
+    "contentHash": "702438a5e44d109ee276703da790fd151d32164686502143119be84a53ba9fe4",
+    "headline": "Shiran Basik Brought Back to Sri Lanka",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-16T02:14:38.107Z",
+    "fbPostId": "1278802861974766_122110781163402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-08-16T02:15:27.547Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/15/shiran-basik-to-be-detained-and-questioned-for-72-hours",
+    "contentHash": "affea638c5d44f650bc4634848cef27b6c03b6ce2bf50e9e6260fe64575de044",
+    "headline": "Shiran Basik To Face 72-Hour Detention",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-16T02:14:38.107Z",
+    "fbPostId": "1278802861974766_122110781487402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-08-16T02:15:35.599Z",
+    "isShadow": false
   }
 ]

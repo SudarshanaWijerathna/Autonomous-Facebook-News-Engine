@@ -1,13 +1,13 @@
 {
-  "runId": "b80fa3fa",
-  "startedAt": "2026-08-15T15:42:51.086Z",
-  "finishedAt": "2026-08-15T15:43:58.898Z",
+  "runId": "2a6414f1",
+  "startedAt": "2026-08-16T02:14:11.813Z",
+  "finishedAt": "2026-08-16T02:15:35.601Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
@@ -15,9 +15,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/15/no-tsunami-threat-to-sri-lanka-following-7-7-magnitude-indonesia-earthquake",
-      "headline": "No Tsunami Threat to SL After Indonesia Earthquake",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/16/825790/",
+      "headline": "දිස්ත්‍රික්ක කිහිපයකට අද දිනයේ වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825787/",
+      "headline": "නීති විරෝධීව මෙරටට ගෙනා දුම්වැටි තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825774/",
+      "headline": "ගල්කිස්සේ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/16/825783/",
+      "headline": "பாடநூல்களை பழைய கடையில் விற்ற ஐவருக்கு விளக்கமறியல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/16/825778/",
+      "headline": "கரையோரப் பகுதிகளில் மழை மற்றும் பலத்த காற்றுக்கு வாய்ப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/16/825775/",
+      "headline": "கல்கிஸ்ஸயில் துப்பாக்கிச்சூடு – ஒருவர் உயிரிழப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825766/",
+      "headline": "ඉන්දියාවෙන් සාර්ථක ආරම්භයක් – පළමු දිනය නිමාවන විට ඉන්දියාව 288/2යි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/15/825762/",
@@ -65,11 +95,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/15/825729/",
-      "headline": "මුහුදු කොල්ලකරුවන්ගේ තර්ජනයට තිත – ධීවර ක්ෂේත්‍රයේ ගැටලුවලට ප්‍රායෝගික විසඳුම් – ඇමති රාමලිංගම් චන්ද්‍රසේකර්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/15/825720/",
       "headline": "அங்கவீனமடைந்த இராணுவ வீரர்கள் குறித்து சஜித் கேள்வி",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -82,6 +107,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/15/825716/",
       "headline": "ශ්‍රී ලංකා නීතිඥ සංගමය කළ ඉල්ලීමට ජනපති කාර්යාලයෙන් ප්‍රතිචාර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/15/825668/",
+      "headline": "මහනුවර ජාතික රෝහලට රු.මිලියන 570ක අතිනවීන උපකරණ පහසුකම් – මිලියන 200ක නව කැතීටර්කරණ රසායනාගාරයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -160,13 +190,13 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825636/",
-      "headline": "ஹட்டன் – கொழும்பு பிரதான வீதி ஒரு வழிப்பாதை திறப்பு!",
+      "url": "https://www.itnnews.lk/2026/08/15/825632/",
+      "headline": "සමුපකාර ව්‍යාපාරය ශක්තිමත් කරමින්, සමූපකාරිකයාත් ආරක්ෂා කරන නව සමුපකාර පනතක් ළඟදීම",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/15/825632/",
-      "headline": "සමුපකාර ව්‍යාපාරය ශක්තිමත් කරමින්, සමූපකාරිකයාත් ආරක්ෂා කරන නව සමුපකාර පනතක් ළඟදීම",
+      "url": "https://www.itnnews.lk/ta/2026/08/15/825627/",
+      "headline": "நாட்டின் பல பகுதிகளுக்கு மழை!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -190,75 +220,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825605/",
-      "headline": "ஹட்டன் – கொழும்பு வீதி போக்குவரத்து பாதிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825608/",
-      "headline": "පස් කන්දක් කඩා වැටීම හේතුවෙන් හැටන් කොළඹ ප්‍රධාන මාර්ගය තාවකාලිකව වැසේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825604/",
-      "headline": "අද දිනයේ පළාත් රැසකට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825593/",
-      "headline": "මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ශිරාන් බාසික් දිවයිනට රැගෙන එයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825589/",
-      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 91,000 සීමාව පසු කරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/14/825579/",
-      "headline": "முக்கிய போதைப்பொருள் கடத்தல்காரர்கள் மூவர் இன்றிரவு நாட்டிற்கு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/14/825582/",
-      "headline": "මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ශිරාන් බාසික් සහ තවත් පාතාල නායකයින් දෙදෙනෙකු අද රාත්‍රියේ දිවයිනට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/15/shiran-basik-brought-back-to-sri-lanka-as-multiple-investigations-continue",
-      "headline": "Shiran Basik Brought Back to Sri Lanka",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/15/suspect-arrested-over-alleged-plot-to-assassinate-prison-officers",
-      "headline": "Suspect Arrested Over Alleged Assassination Plot",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/15/report-sought-over-abandonment-of-four-year-old-girl-in-wattegama",
-      "headline": "Report Sought Over Abandonment of Four-Year-Old",
-      "reason": "score-below-threshold (73 < 75)",
+      "url": "https://newsfirst.lk/2026/08/15/rs-800-000-worth-of-school-textbooks-sold-as-waste-paper",
+      "headline": "Rs. 800,000 Worth Of Textbooks Sold As Waste",
+      "reason": "max-posts-per-run-reached",
       "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/08/15/shiran-basik-to-be-detained-and-questioned-for-72-hours",
-      "headline": "Shiran Basik To Face 72-Hour Detention",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/08/15/annual-feast-of-our-lady-of-madhu-celebrated-today-in-mannar",
+      "headline": "Annual Feast of Our Lady of Madhu Celebrated Today",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/15/weather-situation-under-review-amid-el-ni%c3%b1o-conditions",
-      "headline": "Weather Situation Under Review Amid El Niño",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []
