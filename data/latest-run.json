@@ -1,18 +1,83 @@
 {
-  "runId": "9732bffc",
-  "startedAt": "2026-08-16T13:29:03.766Z",
-  "finishedAt": "2026-08-16T13:30:11.702Z",
+  "runId": "4186ff6c",
+  "startedAt": "2026-08-17T02:12:13.403Z",
+  "finishedAt": "2026-08-17T02:14:13.897Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825937/",
+      "headline": "ඉන්දුනීසියාවට බලපෑ භූ කම්පනයෙන් සිදුවූ හානි පිළිබඳ ශ්‍රී ලංකා රජය ශෝක පණිවුඩයක් නිකුත් කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825967/",
+      "headline": "ශ්‍රී ලංකා – ඉන්දියා පළමු ටෙස්ට් තරගයේ තුන්වන දිනය අදයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/825959/",
+      "headline": "வியட்நாமிற்கும் இலங்கைக்குமிடையில் நேரடி விமான சேவை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/825957/",
+      "headline": "பல பகுதிகளுக்கு மழை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825952/",
+      "headline": "කටුනායක ගුවන්තොටුපොළේ දෙවන මගී පර්යන්තය ඉදිකරන්න ජපානය එකඟ වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825948/",
+      "headline": "වියට්නාමය සහ ශ්‍රී ලංකාව අතර ඍජු ගුවන් ගමන් ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825945/",
+      "headline": "දිස්ත්‍රික්ක කිහිපයකට අදත් වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825934/",
+      "headline": "සෑම පුරවැසියෙකුටම වාහනයක් භාවිත කළ හැකි පරිසරයක් නිර්මාණය කිරීම රජයේ අරමුණයි – අමාත්‍ය විජිත හේරත්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825930/",
+      "headline": "ශ්‍රී ලංකාවේ නව ආර්ථික සහ ආයෝජන පරිවර්තනය පිළිබඳව ඔස්ට්‍රේලියානු ව්‍යාපාරික ප්‍රජාව දැනුවත් කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825910/",
+      "headline": "රුපියල් මිලියන 135කට අධික වියදමකින් නවීකරණය කළ නාගොඩ ශික්ෂණ රෝහලේ ඒකක කිහිපයක් ජනතා අයිතියට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825927/",
+      "headline": "කොටගල දුම්රිය උමං මාර්ගයේ වැඩ 60%කින් අවසන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825924/",
+      "headline": "ආබාධ සහිත තැනැත්තන්ගේ ජාත්‍යන්තර පාර්ශ්වකරුවන්ගේ 35 වන සැසියට අමාත්‍ය උපාලි පන්නිල සහභාගී වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825921/",
+      "headline": "මේ මාසය තුළ රසපරීක්ෂක වාර්තා 9,000ක් කඩිනමින් අධිකරණයට – අමාත්‍ය ආනන්ද විජේපාල",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/16/825917/",
@@ -22,11 +87,6 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/16/825906/",
       "headline": "நுவரெலிய நிதி மோசடி : ஜனாதிபதி அதிரடி நடவடிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825910/",
-      "headline": "රුපියල් මිලියන 134කට අධික වියදමකින් නවීකරණය කළ නාගොඩ ශික්ෂණ රෝහලේ ඒකක කිහිපයක් ජනතා අයිතියට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -75,11 +135,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825865/",
-      "headline": "යුරෝපා කලාපයට බලපා ඇති අධික උෂ්ණත්වයත් සමග ලැව්ගිනි අඛණ්ඩව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/16/825866/",
       "headline": "වසරේ මේ දක්වා විදෙස් සංචාරකයින් පැමිණීම මිලියන 1.4 ඉක්මවයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -112,6 +167,11 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/16/825846/",
       "headline": "திருகோணமலையில் வாள், ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825833/",
+      "headline": "අයිස් මත්ද්‍රව්‍ය,කඩු ඇතුළු තියුණු ආයුධ සමග මැර කල්ලි නායකයෙක් අත්අඩංගුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -155,11 +215,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825804/",
-      "headline": "කෝටියකට අධික ගංජා සමග පුද්ගලයෙකු හම්බෙගමුවේ දී අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/16/825805/",
       "headline": "கடுவெல பகுதியில் இன்று விசேட போக்குவரத்து திட்டம்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -175,100 +230,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825793/",
-      "headline": "මා ඔයේ දියනෑමට ගිය තරුණයින්ට අත්වූ ඉරණම",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825787/",
-      "headline": "නීති විරෝධීව මෙරටට ගෙනා දුම්වැටි තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825774/",
-      "headline": "ගල්කිස්සේ වෙඩි තැබීමකින් පුද්ගලයෙකු ජීවිතක්ෂයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825783/",
-      "headline": "பாடநூல்களை பழைய கடையில் விற்ற ஐவருக்கு விளக்கமறியல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825778/",
-      "headline": "கரையோரப் பகுதிகளில் மழை மற்றும் பலத்த காற்றுக்கு வாய்ப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825775/",
-      "headline": "கல்கிஸ்ஸயில் துப்பாக்கிச்சூடு – ஒருவர் உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825766/",
-      "headline": "ඉන්දියාවෙන් සාර්ථක ආරම්භයක් – පළමු දිනය නිමාවන විට ඉන්දියාව 288/2යි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825762/",
-      "headline": "ඉන්දුනිසියාවේ භූකම්පනයෙන් 38ක් මරුට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825758/",
-      "headline": "කඩුවෙල රන්කඩු පත්තිනි දේවාලයේ දිය කැපීමේ පෙරහරට හෙට (16) විශේෂ රථවාහන සැලැස්මක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825754/",
-      "headline": "திவுலபிட்டியவில் பஸ் சாரதியை தாக்க முயன்ற பெண் உள்ளிட்ட மூவர் விளக்கமறியலில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/15/825748/",
-      "headline": "බස් රියදුරුට කඩුවකින් පහරදීමට තැත්කිරීමේ සිද්ධියට තිදෙනෙකු රිමාන්ඩ්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/15/825747/",
-      "headline": "தாக்குதலுக்கு இலக்கான 27 வயது வாலிபர் உயிரிழப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/16/10-of-bus-drivers-and-conductors-test-positive-for-drug-use",
-      "headline": "10% Bus Drivers & Conductors Positive for Drugs",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/16/over-1-000-child-abuse-complaints-received-in-two-months",
-      "headline": "Over 1,000 Child Abuse Complaints in Two Months",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/16/ministry-prepares-plan-to-ensure-food-security-amid-el-ni%c3%b1o-conditions",
-      "headline": "Plans Underway to Ensure Food Security Amid ElNiño",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/08/16/minister-vows-swift-action-to-curb-pirate-threats-to-deep-sea-fishermen",
+      "headline": "Minister Vows Swift Action to Curb Pirate Threats",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/16/19-year-old-dies-another-missing-after-maha-oya-drowning",
       "headline": "19Y/O Dies,Another Missing After Maha Oya Drowning",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/16/motorcycle-gunmen-shoot-dead-ragama-man-in-mt-lavinia",
+      "headline": "Motorcycle Gunmen Shoot Dead Ragama Man",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []
