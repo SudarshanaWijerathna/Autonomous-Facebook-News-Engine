@@ -1,13 +1,13 @@
 {
-  "runId": "4186ff6c",
-  "startedAt": "2026-08-17T02:12:13.403Z",
-  "finishedAt": "2026-08-17T02:14:13.897Z",
+  "runId": "2c325bee",
+  "startedAt": "2026-08-17T05:59:15.716Z",
+  "finishedAt": "2026-08-17T06:00:34.076Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 41,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
@@ -15,13 +15,108 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/17/826048/",
+      "headline": "ජාතික උද්‍යාන ආශ්‍රිතව තිරසර වනජිවි සංරක්ෂණයක් සහ සංචාරක කළමනාකරණ වැඩපිළිවෙලක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/826045/",
+      "headline": "பிள்ளையான் உள்ளிட்ட நால்வருக்கு எதிராக குற்றப்பத்திரிகை தாக்கல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826042/",
+      "headline": "පිල්⁣ලෙයාන් ඇතුඵ 4 දෙනෙකුට එරෙහිව පොළොන්නරුව මහාධිකරණය හමුවේ අධි චෝදනා ගොනු කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/826037/",
+      "headline": "இன்று கொடியேற்றத்துடன் ஆரம்பமானது நல்லூரானின் பெருந்திருவிழா!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826032/",
+      "headline": "සරුංගල් යැවීමේදී දරුවන්ට සිදුවන අනතුරු ඉහළට – රිජ්වේ ආර්යා ළමා රෝහලෙන් අනතුරු ඇඟවීමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826033/",
+      "headline": "පඩික්කල්ගේ ශතකය සමඟින් ඉන්දීය පළමු ඉනිම ලකුණු 462කට සීමා වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/826024/",
+      "headline": "நயினாதீவு அருகே படகு விபத்து: 10 பயணிகள் கடற்படையினரால் மீட்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826025/",
+      "headline": "මහවැලි ‘සී’ කලාපයෙන් වාර්තාගත කීරි සම්බා අස්වැන්නක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826010/",
+      "headline": "ලාලා සුළි කුණාටුවෙන් හවායි වැසියන් 180,000කට අධික පිරිසකට විදුලිය අහිමි වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/826019/",
+      "headline": "பாடநூல் கடத்தல் சம்பவம் : திணைக்கள விசாரணைக்குழு நியமனம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825948/",
+      "headline": "වියට්නාමය සහ ශ්‍රී ලංකාව අතර ඍජු ගුවන් ගමන් ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826015/",
+      "headline": "වනසතුන්ගේ ජීවිත සුරැකීමට ත්‍රිවිධ හමුදා පශු වෛද්‍යවරු පෙරට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/826011/",
+      "headline": "කොළඹ කොටස් වෙළෙඳපොළේ කැපී පෙනෙන වර්ධනයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/16/825937/",
       "headline": "ඉන්දුනීසියාවට බලපෑ භූ කම්පනයෙන් සිදුවූ හානි පිළිබඳ ශ්‍රී ලංකා රජය ශෝක පණිවුඩයක් නිකුත් කරයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/17/825967/",
-      "headline": "ශ්‍රී ලංකා – ඉන්දියා පළමු ටෙස්ට් තරගයේ තුන්වන දිනය අදයි",
+      "url": "https://www.itnnews.lk/2026/08/16/825934/",
+      "headline": "සෑම පුරවැසියෙකුටම වාහනයක් භාවිත කළ හැකි පරිසරයක් නිර්මාණය කිරීම රජයේ අරමුණයි – අමාත්‍ය විජිත හේරත්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/16/825930/",
+      "headline": "ශ්‍රී ලංකාවේ නව ආර්ථික සහ ආයෝජන පරිවර්තනය පිළිබඳව ඔස්ට්‍රේලියානු ව්‍යාපාරික ප්‍රජාව දැනුවත් කෙරේ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/825998/",
+      "headline": "பனிக்கரடியின் தூக்கத்தை கலைத்த கப்பல் உரிமையாளருக்கு அபராதம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825995/",
+      "headline": "දකුණු කොරියාව සමග යුද අභ්‍යාස සීමා කිරීමට ට්‍රම්ප්ගෙන් නියෝගයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825989/",
+      "headline": "ඉන්දුනීසියාවට රික්ටර් මාපක 5.9ක යළිත් භූකම්පනයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/825983/",
+      "headline": "அஹுங்கல்லயில் ஐஸ் போதைப்பொருளுடன் 19 வயது இளைஞர் கைது!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825975/",
+      "headline": "අයිස් මත්ද්‍රව්‍ය සමග තරුණයෙකු අත්අඩංගුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -40,28 +135,18 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/17/825948/",
-      "headline": "වියට්නාමය සහ ශ්‍රී ලංකාව අතර ඍජු ගුවන් ගමන් ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/17/825945/",
       "headline": "දිස්ත්‍රික්ක කිහිපයකට අදත් වැසි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825934/",
-      "headline": "සෑම පුරවැසියෙකුටම වාහනයක් භාවිත කළ හැකි පරිසරයක් නිර්මාණය කිරීම රජයේ අරමුණයි – අමාත්‍ය විජිත හේරත්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825930/",
-      "headline": "ශ්‍රී ලංකාවේ නව ආර්ථික සහ ආයෝජන පරිවර්තනය පිළිබඳව ඔස්ට්‍රේලියානු ව්‍යාපාරික ප්‍රජාව දැනුවත් කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/16/825910/",
       "headline": "රුපියල් මිලියන 135කට අධික වියදමකින් නවීකරණය කළ නාගොඩ ශික්ෂණ රෝහලේ ඒකක කිහිපයක් ජනතා අයිතියට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/17/825999/",
+      "headline": "පාසල් පෙළපොත් තොගයක් අස්ථානගත වීමේ සිද්ධියේ ඉදිරි විමර්ශනයට පරීක්ෂණ කමිටුවක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -90,6 +175,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/825988/",
+      "headline": "14ம் மாடியிலிருந்து கீழே விழுந்து, 12 வயது சிறுவன் பலி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/16/825907/",
       "headline": "උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -115,6 +205,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/17/825979/",
+      "headline": "නිවාස සංකීර්ණයකින් වැටී 12 හැවිරිදි දරුවෙක් ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/ta/2026/08/16/825885/",
       "headline": "நல்லூர் கந்தசுவாமி ஆலய கொடிச்சீலை!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -122,6 +217,11 @@
     {
       "url": "https://www.itnnews.lk/2026/08/16/825882/",
       "headline": "ඉන්දියානා ප්‍රාන්තයට බලපෑ අයහපත් කාලගුණයෙන් පුද්ගලයින් 5ක් ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/17/825962/",
+      "headline": "இந்தோனேஷியாவில் மீண்டும் நிலநடுக்கம்",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -135,122 +235,38 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825866/",
-      "headline": "වසරේ මේ දක්වා විදෙස් සංචාරකයින් පැමිණීම මිලියන 1.4 ඉක්මවයි",
+      "url": "https://www.itnnews.lk/2026/08/17/825967/",
+      "headline": "ශ්‍රී ලංකා – ඉන්දියා පළමු ටෙස්ට් තරගයේ තුන්වන දිනය අදයි",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825861/",
-      "headline": "වියට්නාම් එයාර්ලයින්ස් අද සිට කොළඹට සෘජු ගුවන් සේවා අරඹයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/16/dengue-cases-surpass-90-000-mark",
+      "headline": "Dengue Cases Surpass 90,000",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825858/",
-      "headline": "අයගමදී අතුරුදන් වූ අයගේ සිරුර ප්‍රපාතයෙන් ගොඩගැනීමට යුද්ධ හමුදා මෙහෙයුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/17/70-of-government-analyst-reports-relate-to-drugs-government-analysts-department",
+      "headline": "70% of Government Analyst Reports Relate to Drugs",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825851/",
-      "headline": "මහවැලි B කලාපයේ ගොවීන් මෙවර කීරි සම්බා වගා කර වාර්තාගත ඉහළ අස්වැන්නක් ලබයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/17/shiran-basik-received-helicopter-flying-training-in-dubai-interrogations-reveal",
+      "headline": "Shiran Basik Received Helicopter Flying Training",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/16/825837/",
-      "headline": "මධ්‍යම අධිවේගී මාර්ගයේ ඉදිකිරීම් දේශීය අරමුදලින්ම – ඇමති සරෝජා පෝල්රාජ්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825843/",
-      "headline": "බෙල්ලන්විල ඇසළ පෙරහැර අපගේ ජීවමාන ආගමික හා සංස්කෘතික උරුමයක් –  අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825846/",
-      "headline": "திருகோணமலையில் வாள், ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825833/",
-      "headline": "අයිස් මත්ද්‍රව්‍ය,කඩු ඇතුළු තියුණු ආයුධ සමග මැර කල්ලි නායකයෙක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825838/",
-      "headline": "யாழ்ப்பாணம் புத்தூரில் இராணுவ வீரருக்கு புதிய வீடு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825834/",
-      "headline": "මානවවාදී සටනකට බාධා කරන්නේ දුර්වලයන්  – ටිල්වින් සිල්වා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825829/",
-      "headline": "ධීවර සහ නාවික ප්‍රජාවට කාලගුණයෙන් දැනුම්දීමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825822/",
-      "headline": "නුවරඑළියේ ප්‍රාදේශීය ලේකම් කාර්‌යාලවල මුදල් අක්‍රමිකතා ගැන හොයන්න ජනපති නියමයෙන් විගණන කණ්ඩායමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825827/",
-      "headline": "டெங்கு நோயாளர்களின் எண்ணிக்கை 92,000 ஐக் கடந்தது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825818/",
-      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 92,000 සීමාව පසු කරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825814/",
-      "headline": "மீரிகம மாஓயாவில் நீராடச் சென்ற இளைஞர்களில் ஒருவர் பலி: மற்றொருவர் மாயம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825811/",
-      "headline": "රජයේ වැඩපිළිවෙළට මහා සංඝරත්නයේ ආධ්‍යාත්මික මඟපෙන්වීම ශක්තියක් – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825805/",
-      "headline": "கடுவெல பகுதியில் இன்று விசேட போக்குவரத்து திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/16/825800/",
-      "headline": "இலங்கை vs இந்தியா முதல் டெஸ்ட் – இந்திய அணி வலுவான நிலையில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/16/825797/",
-      "headline": "කඩුවෙල ප්‍රදේශය ආශ්‍රිතව විශේෂ රථවාහන සැලැස්මක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/16/minister-vows-swift-action-to-curb-pirate-threats-to-deep-sea-fishermen",
-      "headline": "Minister Vows Swift Action to Curb Pirate Threats",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/16/search-operations-continue-for-missing-navy-sailor-in-the-seas-off-angulana",
+      "headline": "Search Operations Continue for Missing Navy Sailor",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/16/19-year-old-dies-another-missing-after-maha-oya-drowning",
-      "headline": "19Y/O Dies,Another Missing After Maha Oya Drowning",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/16/motorcycle-gunmen-shoot-dead-ragama-man-in-mt-lavinia",
-      "headline": "Motorcycle Gunmen Shoot Dead Ragama Man",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/16/board-of-inquiry-appointed-over-angulana-naval-accident",
+      "headline": "Board Of Inquiry Appointed Over Naval Accident",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
