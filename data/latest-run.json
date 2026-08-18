@@ -1,19 +1,14 @@
 {
-  "runId": "790c54e4",
-  "startedAt": "2026-08-18T15:55:05.094Z",
-  "finishedAt": "2026-08-18T15:56:18.839Z",
+  "runId": "15d89522",
+  "startedAt": "2026-08-18T17:49:57.467Z",
+  "finishedAt": "2026-08-18T17:51:51.408Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 44,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/08/18/pasindu-replaces-injured-chandimal-in-india-test",
-      "headline": "Pasindu Replaces Injured Chandimal in India Test",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
@@ -230,43 +225,38 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/18/826382/",
-      "headline": "ඇතැම් ප්‍රදේශවලට වැසි – තවත් ප්‍රදේශවලට දැඩි වියළි කාලගුණයක් – කාලගුණ විද්‍යා දෙපාර්තමේන්තුව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/18/keheliya-arrested-by-ciaboc-over-slrc-cadre",
       "headline": "Keheliya Arrested by CIABOC Over SLRC Cadre",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/08/18/akila-viraj-gets-bail-court-issues-travel-ban",
-      "headline": "Akila Viraj Gets Bail | Court Issues Travel Ban",
+      "url": "https://newsfirst.lk/2026/08/18/lawyers-and-political-parties-move-against-22a",
+      "headline": "Lawyers and Political Parties Move Against 22A",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/18/rajitha%e2%80%99s-brother-arrested-over-fisheries-corporation-irregularities",
+      "headline": "Rajitha’s Brother, Mahil Senarathne Arrested",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/18/pillayan-further-remanded-over-2008-batticaloa-murders",
-      "headline": "Pillayan Remanded Over 2008 Batticaloa Murders",
+      "url": "https://newsfirst.lk/2026/08/18/akila-viraj-gets-bail-court-issues-travel-ban",
+      "headline": "Akila Viraj Gets Bail | Court Issues Travel Ban",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/18/three-police-teams-launched-to-track-habarakada-shooting-suspects",
       "headline": "Police Teams To Track Habarakada Shooting Suspects",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/08/18/nepal-pm%e2%80%99s-top-aide-calls-for-stronger-health-sovereignty-across-south-asia",
-      "headline": "South Asia Must Strengthen Health Security",
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
