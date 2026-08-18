@@ -1,13 +1,13 @@
 {
-  "runId": "77dea09c",
-  "startedAt": "2026-08-17T15:47:36.353Z",
-  "finishedAt": "2026-08-17T15:48:42.950Z",
+  "runId": "ce48bad1",
+  "startedAt": "2026-08-18T05:54:29.908Z",
+  "finishedAt": "2026-08-18T05:56:38.058Z",
   "shadowMode": false,
-  "discovered": 87,
-  "afterDedup": 44,
+  "discovered": 37,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
@@ -15,250 +15,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/17/826242/",
-      "headline": "ශ්‍රී ලංකාවේ ආර්ථිකයේ සාධනීය වෙනසක් පිළිබඳ මහ බැංකු අධිපතිගෙන් ජාත්‍යන්තරයට සුබවාදී පණිවුඩයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/17/dry-weather-impacts-over-70-000-people-across-sri-lanka",
+      "headline": "Dry Weather Impacts Over 70,000 People Across SL",
+      "reason": "max-posts-per-run-reached",
+      "score": 82
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/17/826237/",
-      "headline": "උණුසුම් කාලගුණය පිළිබඳ අවවාදාත්මක නිවේදනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/17/single-national-defence-r-d-centre-to-drive-innovation",
+      "headline": "Single National Defence R&D Centre for Innovation",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/17/826232/",
-      "headline": "නාගරික මහල් නිවාසවල පදිංචි දරුවන් වෙනුවෙන් ළමා සමාජ වැඩසටහන ඇරඹේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/17/826227/",
-      "headline": "ඩෙංගු රෝගීන්ගේ සංඛ්‍යාව 92,254 දක්වා ඉහළට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826224/",
-      "headline": "“රටම එකට” මෙහෙයුමෙන් ඊයේ දිනයේදීත් සැකකරුවන් 891ක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826221/",
-      "headline": "சாதனைப் பட்டியலில் இணைந்தார் ரவீந்திர ஜடேஜா!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826218/",
-      "headline": "ප්‍රබල එල්නිනෝ තත්ත්වයක් මෙම වසර අවසානයේ දී – කාලගුණ අංශ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826213/",
-      "headline": "பில்லியன் டொலர் பண மோசடி – 4 வங்கி முகாமையாளர்களுக்கும் விளக்கமறியல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826212/",
-      "headline": "අ.ඩො.බිලියනයක් නීතිවිරෝධීව රටින් පිට කළ බැංකු කළමනාකරුවන් 4දෙනා රිමාන්ඩ්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826208/",
-      "headline": "දකුණු කොරියාවේ ගොජේ නගරයට මිලිමීටර් 800 ඉක්මවූ අධික වර්ෂාපතනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826199/",
-      "headline": "පින්නවලට අලුතින් එක්වුණු අමුත්තෝ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826196/",
-      "headline": "22வது அரசியலமைப்புத் திருத்தம் நாளை பாராளுமன்றத்தில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826182/",
-      "headline": "ජනප්‍රිය හොලිවුඩ් නිළි හේඩන් පැනෙටියර් අභාවප්‍රාප්ත වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826192/",
-      "headline": "ඩො.මිලියන 3.5ක වියදමින් යාපනයට නේවාසික සාප්පු සංකීර්ණයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826188/",
-      "headline": "22 වන ව්‍යවස්ථා සං‍ශෝධනය සහ අධිකරණ සංවිධාන සංශෝධන පනත් කෙටුම්පත හෙට පාර්ලිමේන්තුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826185/",
-      "headline": "7 மாவட்டங்களுக்கு அதிக வெப்பமான காலநிலை எச்சரிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826179/",
-      "headline": "ශ්‍රී ලංකාවේ වරාය ක්ෂේත්‍රයට නව ආයෝජන අවස්ථා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826173/",
-      "headline": "நாளை முதல் கண்டியில் விசேட போக்குவரத்து திட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826136/",
-      "headline": "මහනුවර ඇසළ පෙරහැර වෙනුවෙන් විශේෂ රථවාහන සැලැස්මක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826166/",
-      "headline": "පාරිභෝගික සුරක්ෂිතතාව වෙනුවෙන් වෙළඳ අමාත්‍යංශයෙන් නව පියවර රැසක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826155/",
-      "headline": "1 பில்லியன் டொலர் சட்டவிரோத பணப்பரிமாற்றம் – 4 தனியார் வங்கி மேலாளர்கள் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826157/",
-      "headline": "තුවාල ලැබූ ඇත් පැටවෙකුට ප්‍රතිකාර කිරීම සඳහා නාවික හමුදා සහාය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826159/",
-      "headline": "ජාත්‍යන්තර ප්‍රමිතීන්ට අනුුකූලව සංචාරක තදබදය අවම කරන්න යාලට විශේෂ ව්‍යාපෘතියක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826152/",
-      "headline": "நாளை முதல் ஆகஸ்ட் 28 வரை மதுபானசாலைகள் மூடல்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826149/",
-      "headline": "ග්‍රාම නිලධාරීන් සිය වෘත්තීය ක්‍රියාමාර්ගය ලිහිල් කරයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826132/",
-      "headline": "ஹிருணிகாவின்  வழக்கு விசாரணை ஒத்திவைப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826127/",
-      "headline": "මහනුවර හෙට සිට දින 11ක් සුරාසැල් වැසෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826141/",
-      "headline": "அஸ்வெசும நிதி நாளை மறுதினம் வங்கிக் கணக்குகளுக்கு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826139/",
-      "headline": "හිරුණිකාගේ නඩුවක් කැඳවන්න දින දෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826130/",
-      "headline": "பாதுகாப்பு அமைச்சு தொடர்பான 2027 வரவுசெலவுத் திட்ட பூர்வாங்க கலந்துரையாடல்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826122/",
-      "headline": "ஷிரான் பாசிக் 90 நாட்கள் தடுப்புக் காவலில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826123/",
-      "headline": "අස්වැසුම අනිද්දා බැංකු ගිණුම් වෙත",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826107/",
-      "headline": "ரூ. 5 லட்சம் லஞ்சம்- 4 பொலிஸார்  கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826111/",
-      "headline": "கிரகரி வாவியில் மூழ்கிய இரண்டுச் சிறுவர்கள் பாதுகாப்பாக மீட்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826106/",
-      "headline": "நாணயமாற்று விகிதம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826105/",
-      "headline": "ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කාර ශිරාන් බාසික්ගෙන් දින 90ක් රඳවා ප්‍රශ්න කෙරේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/826087/",
-      "headline": "பிள்ளைகளின் பாதுகாப்பில் கூடுதல் அக்கறை அவசியம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826099/",
-      "headline": "ග්‍රෙගරි වැවේදී අනතුරට පත් දරුවන් දෙදෙනෙකු නාවික හමුදාව විසින් බේරා ගැනේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826095/",
-      "headline": "නීති සම්පාදන ක්‍රියාවලිය පිළිබඳව ශ්‍රී ලංකා නීති විද්‍යාලයේ සිසුන් දැනුවත් කිරීමේ වැඩසටහනක් පාර්ලිමේන්තුවේදී",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/17/826088/",
-      "headline": "ගංජා හේනක් වටලා රුපියල් ලක්ෂ 5ක අල්ලස් ගත් පොලිස් නිලධාරීන් 4ක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/825994/",
-      "headline": "கடலுக்கு செல்வது குறித்து எச்சரிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/17/825959/",
-      "headline": "வியட்நாமிற்கும் இலங்கைக்குமிடையில் நேரடி விமான சேவை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/17/drug-kingpin-shiran-basick-detained-for-90-days",
-      "headline": "Drug Kingpin Shiran Basick Detained for 90 Days",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/17/sri-lanka-emerges-on-global-supply-chain-radar-in-white-house-report",
-      "headline": "Sri Lanka Emerges on Global Supply Chain Radar",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/17/sri-lanka-eyes-easier-vehicle-imports-once-middle-east-crisis-subsides",
-      "headline": "Sri Lanka Eyes Easier Vehicle Imports",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/17/kandy-braces-for-thousands-as-esala-perahera-security-tightened",
-      "headline": "Esala Perahera Security Tightened",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/17/investigations-launched-into-boat-accident-near-nagadeepa",
-      "headline": "Investigations Launched Into Nagadeepa Accident",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/17/rs-591-mn-japanese-grant-to-shape-sri-lanka-s-next-policy-makers",
+      "headline": "Rs. 591 Mn Japanese Grant to Shape Policy Makers",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/17/kayak-rides-now-open-on-elahera-yodha-canal",
-      "headline": "Kayak Rides Now Open on Elahera Yodha Canal",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []
