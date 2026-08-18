@@ -1,18 +1,68 @@
 {
-  "runId": "becd0efb",
-  "startedAt": "2026-08-18T13:40:00.700Z",
-  "finishedAt": "2026-08-18T13:41:22.278Z",
+  "runId": "790c54e4",
+  "startedAt": "2026-08-18T15:55:05.094Z",
+  "finishedAt": "2026-08-18T15:56:18.839Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 42,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/18/pasindu-replaces-injured-chandimal-in-india-test",
+      "headline": "Pasindu Replaces Injured Chandimal in India Test",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826569/",
+      "headline": "නව ධීවර නිලධාරීන් 112 දෙනෙකුට පත්වීම් ලිපි ප්‍රදානය හෙට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826565/",
+      "headline": "ජයග්‍රහණය වෙනුවෙන් ශ්‍රී ලංකාවට තවත් ලකුණු 288ක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826556/",
+      "headline": "ඇප කොන්දේසි සපුරාගත නොහැකි වූ රාජිතගේ සොයුරා රිමාන්ඩ්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826548/",
+      "headline": "මීගමුව සිට පොතුවිල් දක්වා මුහුදු රළ මීටර් 3ක් දක්වා ඉහළ යාමේ අවදානමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826550/",
+      "headline": "ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරියට නව සභාපතිවරයෙක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826551/",
+      "headline": "ආපදා ගැටලුවලට සාර්ථකව මුහුණදීම සඳහා ප්‍රජාව සවිබලගැන්වීමේ වැඩසටහන් මාලාව ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826540/",
+      "headline": "අද විපක්ෂයෙන් රටේ ජනතාව බේරාගන්න සිද්ධ වෙලා – නිරුක්ෂ කුමාර",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826541/",
+      "headline": "පාස්කු නඩුවේ ප්‍රධාන විත්තිකරු චෝදනා ප්‍රතික්‍ෂේප කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826537/",
+      "headline": "යල කන්නයේ වී මිලදී ගන්නා වැඩපිළිවෙළ",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/ta/2026/08/18/826529/",
@@ -100,11 +150,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826458/",
-      "headline": "PTA சட்டத்திற்கு பதிலாக புதிய சட்டம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/18/826453/",
       "headline": "නාට්‍ය, ප්‍රාසාංගික කලා හා සාහිත්‍ය ක්ෂේත්‍රයට රු. මිලියන 50ක අයවැය ප්‍රතිපාදන",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -185,60 +230,21 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/18/826377/",
-      "headline": "22 වන ව්‍යවස්ථා සංශෝධනය පාර්ලිමේන්තුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826374/",
-      "headline": "බාහිර හා අභ්‍යන්තර කම්පනයන් එක්ක ලංකාව සමත් වුණු හැටි මහ බැංකු අධිපති ලොවටම කියයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826372/",
-      "headline": "பலத்த காற்று மற்றும் கொந்தளிப்பான கடல் தொடர்பில் எச்சரிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826355/",
-      "headline": "இலங்கை மீன்பிடி கூட்டுத்தாபன முன்னாள் தலைவர் மஹீல் செனரத்ன கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826363/",
-      "headline": "හිටපු ඇමති රාජිතගේ සොහොයුරු මහීල් සේනාරත්න අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826360/",
-      "headline": "පිල්ලයාන් සැප්තැම්බර් 01 දක්වා යළි රිමාන්ඩ්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826353/",
-      "headline": "කංජිපානිගේ ඥාතියෙකු ඝාතනය කිරීමේ සිද්ධියට 05 දෙනෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826352/",
-      "headline": "முன்னாள் இராஜாங்க அமைச்சர் பிள்ளையான் செப்டெம்பர் 01 ஆம் திகதி வரை மீண்டும் விளக்கமறியலில்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826342/",
-      "headline": "නාගරික මහල් නිවාසවල පදිංචි දරුවන් වෙනුවෙන් ළමා සමාජ වැඩසටහන ඇරඹේ",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826343/",
-      "headline": "முன்னாள் அமைச்சர் அகில விராஜ் காரியவசம் நீதிமன்றத்தில் ஆஜர்",
+      "url": "https://www.itnnews.lk/2026/08/18/826382/",
+      "headline": "ඇතැම් ප්‍රදේශවලට වැසි – තවත් ප්‍රදේශවලට දැඩි වියළි කාලගුණයක් – කාලගුණ විද්‍යා දෙපාර්තමේන්තුව",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://newsfirst.lk/2026/08/18/keheliya-arrested-by-ciaboc-over-slrc-cadre",
       "headline": "Keheliya Arrested by CIABOC Over SLRC Cadre",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/18/akila-viraj-gets-bail-court-issues-travel-ban",
+      "headline": "Akila Viraj Gets Bail | Court Issues Travel Ban",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/08/18/pillayan-further-remanded-over-2008-batticaloa-murders",
@@ -247,22 +253,22 @@
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/18/three-police-teams-launched-to-track-habarakada-shooting-suspects",
-      "headline": "Police Teams To Track Habarakada Shooting Suspects",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/18/three-police-teams-launched-to-track-habarakada-shooting-suspects",
+      "headline": "Police Teams To Track Habarakada Shooting Suspects",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/18/nepal-pm%e2%80%99s-top-aide-calls-for-stronger-health-sovereignty-across-south-asia",
+      "headline": "South Asia Must Strengthen Health Security",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
