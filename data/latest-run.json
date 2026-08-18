@@ -1,10 +1,10 @@
 {
-  "runId": "4e049e78",
-  "startedAt": "2026-08-18T10:53:36.218Z",
-  "finishedAt": "2026-08-18T10:57:01.200Z",
+  "runId": "becd0efb",
+  "startedAt": "2026-08-18T13:40:00.700Z",
+  "finishedAt": "2026-08-18T13:41:22.278Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 43,
+  "afterDedup": 42,
   "scored": 6,
   "selected": 1,
   "published": 1,
@@ -13,6 +13,76 @@
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/18/826529/",
+      "headline": "ரம்புக்கன சித்தார்த்த தேரர் காலமானார்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826517/",
+      "headline": "සංචාරක කර්මාන්තයේ ප්‍රවර්ධනයට මගී ඩ්‍රෝන යානා සේවාවක් ආරම්භ කිරීමට අවධානය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/18/826518/",
+      "headline": "அபாய கட்டத்தை எட்டும் வெப்பநிலை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826521/",
+      "headline": "සුගම ගීතයට අනුපමේය මෙහෙවරක් කළ පූජ්‍ය රඹුකන සිද්ධාර්ථ හිමිපාණෝ අපවත් වෙති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826508/",
+      "headline": "රාජ්‍ය අංශයේ සුපිළිපන්භාවය, විනිවිදභාවය සහ වගවීම ශක්තිමත් කිරීමට වැඩමුළුවක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/18/826512/",
+      "headline": "ராஜித்த சேனாரத்னவின் சகோதரருக்குப் பிணை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/18/826507/",
+      "headline": "வடக்கில் இனி மக்கள் சேவையே பிரதானம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826504/",
+      "headline": "බැසිල් රාජපක්ෂගේ ඇප මුදල් රාජසන්තක කිරීමට නියෝග",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826498/",
+      "headline": "කෙහෙළියට ඇප",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/18/826493/",
+      "headline": "விரைவில் டிஜிட்டல் அடையாள அட்டை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826492/",
+      "headline": "සේවා පහසුව උදෙසා සුරාබදු දෙපාර්තමේන්තුව ඩිජිටල්කරණය වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/18/826484/",
+      "headline": "முன்னாள் சுகாதார அமைச்சர் கெஹலிவுக்கு பிணை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826486/",
+      "headline": "අධ්‍යාපන සභාවක් පිහිටුවීමට කැබිනට් අනුමැතිය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/18/826477/",
+      "headline": "කොළඹ වරාය නගරය ආර්ථික කොමිෂන් සභාව පනත යටතේ නිකුත් කරන ලද නියෝග පාර්ලිමේන්තුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/18/826473/",
@@ -115,11 +185,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/18/826382/",
-      "headline": "ඇතැම් ප්‍රදේශවලට වැසි – තවත් ප්‍රදේශවලට දැඩි වියළි කාලගුණයක් – කාලගුණ විද්‍යා දෙපාර්තමේන්තුව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/18/826377/",
       "headline": "22 වන ව්‍යවස්ථා සංශෝධනය පාර්ලිමේන්තුවට",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -170,86 +235,20 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/18/826345/",
-      "headline": "තද සුළං සහ රළු මුහුදු ප්‍රදේශ පිළිබඳව අවවාදාත්මක නිවේදනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826333/",
-      "headline": "முன்னாள் அமைச்சர் கெஹெலிய ரம்புக்வெல்ல இலஞ்ச ஊழல் ஆணைக்குழுவில் முன்னிலை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826334/",
-      "headline": "හිටපු ඇමති අකිල විරාජ් කාරියවසම් අධිකරණයට රැගෙන එයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826286/",
-      "headline": "මහනුවර ඇසළ පෙරහරට පැමිණෙන ජනතාවට තොරතුරු ලබාගැනීමට පොලිසියෙන් නව තොරතුරු පද්ධතියක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826315/",
-      "headline": "පොලී රහිත ශිෂ්‍ය ණය යෝජනා ක්‍රමයේ 11 වන අදියර සඳහා සිසුන් බඳවා ගැනීම ඇරඹෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826324/",
-      "headline": "හිටපු ඇමති කෙහෙළිය රඹුක්වැල්ල අල්ලස් කොමිසමට පැමිණෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826300/",
-      "headline": "நாட்டிற்கு அழைத்து வரப்பட்ட ‘சமித்புர ச்சத்து’",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826316/",
-      "headline": "ஓமான் மீது குண்டு வீசப்படும் – ட்ரம்ப் எச்சரிக்கை",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826310/",
-      "headline": "හෝමූස් සමුද්‍ර සන්ධියේ පාලනය තමන් සතු බව ට්‍රම්ප්  කියයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826303/",
-      "headline": "ඕමානයේ සිට මෙරටට රැගෙන ආ ‘සමිට්පුර චතූ’ වැඩිදුර විමර්ශන සඳහා CCDයට භාරදෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826281/",
-      "headline": "22ஆவது அரசியலமைப்பு திருத்தச் சட்டமூலம் இன்று பாராளுமன்றில்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826294/",
-      "headline": "සබරගමුව පළාතේ රාජ්‍ය සේවයට නවක නිලධාරීන් 09ක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/18/keheliya-arrested-by-ciaboc-over-slrc-cadre",
+      "headline": "Keheliya Arrested by CIABOC Over SLRC Cadre",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/08/18/pillayan-further-remanded-over-2008-batticaloa-murders",
       "headline": "Pillayan Remanded Over 2008 Batticaloa Murders",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/18/22a-on-judges-retirement-age-put-to-parliament",
-      "headline": "22A On Judges Retirement Age Put To Parliament",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/18/red-notice-suspect-%e2%80%98samithpura-chathu%e2%80%99-brought-back-to-sri-lanka",
-      "headline": "Red Notice Suspect Brought Back",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/18/illegal-stock-of-substandard-animal-medicines-seized",
-      "headline": "Illegal Animal Medicines Seized",
+      "url": "https://newsfirst.lk/2026/08/18/three-police-teams-launched-to-track-habarakada-shooting-suspects",
+      "headline": "Police Teams To Track Habarakada Shooting Suspects",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -258,6 +257,12 @@
       "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     }
   ],
   "errors": []
