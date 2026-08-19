@@ -1,18 +1,78 @@
 {
-  "runId": "15d89522",
-  "startedAt": "2026-08-18T17:49:57.467Z",
-  "finishedAt": "2026-08-18T17:51:51.408Z",
+  "runId": "25a531cf",
+  "startedAt": "2026-08-19T03:48:19.879Z",
+  "finishedAt": "2026-08-19T03:50:27.837Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 44,
+  "afterDedup": 45,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826618/",
+      "headline": "ශ්‍රී ලංකාවේ ගුවන්සේවා ක්ෂේත්‍රයට නව මානයක් – මගී ඩ්‍රෝන යානා සේවාවක් හඳුන්වාදීමේ හැකියාව පිළිබඳ සාකච්ඡා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826610/",
+      "headline": "මෙරට නෞකා සංචාරක කර්මාන්තයේ නව පිබිදීමකට ජර්මානු සහාය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826606/",
+      "headline": "මහනුවර ඇසළ පෙරහර මංගල්‍යයේ දෙවන කුඹල් පෙරහර අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826602/",
+      "headline": "නව ධීවර නිලධාරීන් 112 දෙනෙකුට පත්වීම් ලිපි ප්‍රදානය අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826607/",
+      "headline": "அஸ்வெசும கொடுப்பனவு இன்று வங்கிக் கணக்குகளில்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826597/",
+      "headline": "කෝටි 12ක් වටිනා අයිස් මත්ද්‍රව්‍ය සමග තරුණයෙක් STF අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826598/",
+      "headline": "பாராளுமன்றம் இன்று  காலை 9.30 மணிக்கு கூடவுள்ளது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826590/",
+      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826591/",
+      "headline": "ஏவுகணை அச்சுறுத்தல்- பாதுகாப்பான இடங்களில் தங்குமாறு ஐக்கிய அரபு அமீரகம் அறிவுறுத்தல்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826589/",
+      "headline": "අස්වැසුම අද බැංකු ගිණුම් වෙත",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826584/",
+      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826585/",
+      "headline": "பல பிரதேசங்களுக்கு மழைக்கான வாய்ப்பு",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/18/826569/",
@@ -160,105 +220,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/18/826439/",
-      "headline": "ශ්‍රී ලංකාවෙන් බැහැරට අනවසරයෙන් අරමුදල් මාරු කිරීම අපරාධ වරදක් ?",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/19/passenger-drone-pilot-project-to-begin-in-sri-lanka-next-month",
+      "headline": "Passenger Drone Pilot Project to Begin in SL",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826430/",
-      "headline": "இம்ரான் கான் வைத்தியசாலைக்கு மாற்றம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/08/19/police-launch-asset-investigations-into-properties-linked-to-25-major-criminals",
+      "headline": "Police Launch Asset Investigations Into Properties",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/18/826432/",
-      "headline": "අඩු ආදායම්ලාභී පවුල්වල විශේෂ අවශ්‍යතා සහිත සිසුන්ට මාසික රු. 5,000ක දීමනාවක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826427/",
-      "headline": "ත්‍රස්තවාදයෙන් රාජ්‍ය ආරක්ෂා කිරීමේ පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට අනුමැතිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826421/",
-      "headline": "அகில விராஜ் உள்ளிட்டவர்களுக்கு பிணை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826420/",
-      "headline": "දෙවන කුඹල් පෙරහර සඳහා රථවාහන සැලැස්ම",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826416/",
-      "headline": "වරදකරුවන් භාර දීම සම්බන්ධයෙන් ශ්‍රී ලංකාව සහ පෝලන්තය අතර ගිවිසුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826412/",
-      "headline": "முன்னாள் அமைச்சர் கெஹெலிய கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/18/826406/",
-      "headline": "ஈராக்கின் எண்ணெய் களஞ்சியத்தில் தீப்பரவல்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826401/",
-      "headline": "අල්ලස් ලබා ගැනීමේ සිද්ධියකට පොලිස් නිලධාරීන් දෙදෙනෙක්  අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826388/",
-      "headline": "වියළි කාලගුණය පවතින දිස්ත්‍රික්කවලට  ජලය බෙදාහැරීමට විශේෂ වැඩපිළිවෙළක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826395/",
-      "headline": "කෙහෙළිය රඹුක්වැල්ල අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/18/826389/",
-      "headline": "අකිල කාරියවසම්ට ඇප",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/18/keheliya-arrested-by-ciaboc-over-slrc-cadre",
-      "headline": "Keheliya Arrested by CIABOC Over SLRC Cadre",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/18/lawyers-and-political-parties-move-against-22a",
-      "headline": "Lawyers and Political Parties Move Against 22A",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/18/rajitha%e2%80%99s-brother-arrested-over-fisheries-corporation-irregularities",
-      "headline": "Rajitha’s Brother, Mahil Senarathne Arrested",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/08/18/why-does-alleged-drug-kingpin-shiran-basick-need-court-ordered-security",
+      "headline": "Why Does Basick Need Court-Ordered Security?",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/18/akila-viraj-gets-bail-court-issues-travel-ban",
-      "headline": "Akila Viraj Gets Bail | Court Issues Travel Ban",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/08/18/where-is-the-ranil-uk-trip-case-headed-why-are-indictments-still-pending",
+      "headline": "Ranil's UK Trip Case: Delayed Indictments?",
+      "reason": "max-posts-per-run-reached",
       "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/18/three-police-teams-launched-to-track-habarakada-shooting-suspects",
-      "headline": "Police Teams To Track Habarakada Shooting Suspects",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []
