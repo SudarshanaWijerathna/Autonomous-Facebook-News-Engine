@@ -1,10 +1,10 @@
 {
-  "runId": "83535fb6",
-  "startedAt": "2026-08-19T13:41:54.639Z",
-  "finishedAt": "2026-08-19T13:44:23.074Z",
+  "runId": "8be0a882",
+  "startedAt": "2026-08-19T17:46:22.488Z",
+  "finishedAt": "2026-08-19T17:47:34.877Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 46,
+  "afterDedup": 47,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -13,6 +13,36 @@
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826838/",
+      "headline": "අන්තර්කාලීන ඩිජිටල් මාධ්‍ය සහ මහජන සම්බන්ධතා ප්‍රචාරණ වැඩසටහන ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826834/",
+      "headline": "නියඟයෙන් පීඩාවට පත් ගොවීන්ට කඩිනමින් රක්ෂණ වන්දි – ගොවිජන රක්ෂණ මණ්ඩලය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826826/",
+      "headline": "ප්‍රවීණ ගීත රචක අපවත් වී වදාළ පූජ්‍ය රඹුකන සිද්ධාර්ථ හිමියන්ගේ ආදාහන පූජෝත්සවය අනිද්දා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826807/",
+      "headline": "අගෝස්තු මස පළමු දින 16 තුළ සංචාරකයින් 113,307ක් මෙරටට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826818/",
+      "headline": "අතිපූජ්‍ය රඹුකන සිද්ධාර්ථ ස්වාමීන්වහන්සේගේ අපවත් වීම ගැන අගමැතිගෙන් ශෝක පණිවුඩයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826791/",
+      "headline": "கொழும்பு கோட்டைப் பகுதியை சர்வதேச சுற்றுலா மையமாக மாற்றத் திட்டம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/19/826804/",
@@ -100,11 +130,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/19/826731/",
-      "headline": "ඉරානයෙන් අරාබිය දෙසට මිසයිල දෙකක්  නිකුත් කර ඇති බව තහවුරු වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/ta/2026/08/19/826729/",
       "headline": "களுவாஞ்சிகுடியில் சுகாதார சீர்கேட்டுடன் இயங்கிய பலசரக்குக் கடை மூடல்!",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -127,6 +152,11 @@
     {
       "url": "https://www.itnnews.lk/ta/2026/08/19/826709/",
       "headline": "வறட்சியால் பாதிக்கப்பட்ட நெற்பயிர்களுக்கு நிவாரணம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826703/",
+      "headline": "செப்டம்பர் 19 முதல் அதிவேக நெடுஞ்சாலைகளில் சீட் பெல்ட் கட்டாயம்",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -180,67 +210,26 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/19/826629/",
-      "headline": "පුත්තලමේ ඓතිහාසික විහාරස්ථාන සංරක්ෂණයට සැලසුම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826635/",
-      "headline": "පනත් කෙටුම්පත් දෙකකට කථානායකවරයාගේ සහතිකය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826630/",
-      "headline": "112 மீன்பிடி அதிகாரிகளுக்கு நியமனக் கடிதம் வழங்கும் நிகழ்வு இன்று கொழும்பில்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826619/",
-      "headline": "අසත්‍ය කරුණු ඉදිරිපත් කරමින් සමාජය බියගැන්වූ පුද්ගලයෙක් අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826597/",
-      "headline": "කෝටි 12ක් වටිනා අයිස් මත්ද්‍රව්‍ය සමග තරුණයෙක් STF අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826609/",
-      "headline": "12 கோடி ரூபாய் பெறுமதியான ஐஸ் போதைப்பொருளுடன் இளைஞர் ஒருவர் கைது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826618/",
-      "headline": "ශ්‍රී ලංකාවේ ගුවන්සේවා ක්ෂේත්‍රයට නව මානයක් – මගී ඩ්‍රෝන යානා සේවාවක් හඳුන්වාදීමේ හැකියාව පිළිබඳ සාකච්ඡා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/19/200-mn-adb-funding-for-cyclone-ditwah-recovery-and-reconstruction",
-      "headline": "$200 Mn ADB Funding for Cyclone Ditwah Recovery",
+      "url": "https://newsfirst.lk/2026/08/19/seat-belts-mandatory-for-all-expressway-passengers",
+      "headline": "Seat Belts Mandatory for All Expressway Passengers",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/08/19/coal-tenders-were-based-on-estimates-rather-than-actual-plant-requirements",
-      "headline": "Coal Tenders Based on Estimates, Not Plant Needs",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "url": "https://newsfirst.lk/2026/08/19/heat-related-deaths-on-the-rise-globally-says-medical-expert",
+      "headline": "Heat-Related Deaths on the Rise Globally",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/19/police-crack-down-on-false-ltte-camp-narrative",
-      "headline": "Police Crack Down on False LTTE Camp Narrative",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/19/19-year-old-arrested-over-undiyal-money-transfers",
-      "headline": "19-Year-Old Arrested Over Undiyal Money Transfers",
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/19/sajith-meets-tamil-and-muslim-mps-in-parliament",
-      "headline": "Sajith Meets Tamil and Muslim MPs In Parliament",
+      "url": "https://newsfirst.lk/2026/08/19/bimal-rejects-sajith-s-request-to-call-all-mps-for-basl-meeting",
+      "headline": "Bimal Rejects Sajith's Request to Call All MPs",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -249,6 +238,12 @@
       "headline": "AI Could Transform Developing Economies",
       "reason": "score-below-threshold (67 < 75)",
       "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/19/sajith-meets-tamil-and-muslim-mps-in-parliament",
+      "headline": "Sajith Meets Tamil and Muslim MPs In Parliament",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
