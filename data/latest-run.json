@@ -1,18 +1,68 @@
 {
-  "runId": "be7e066e",
-  "startedAt": "2026-08-19T10:52:57.495Z",
-  "finishedAt": "2026-08-19T10:54:58.027Z",
+  "runId": "83535fb6",
+  "startedAt": "2026-08-19T13:41:54.639Z",
+  "finishedAt": "2026-08-19T13:44:23.074Z",
   "shadowMode": false,
   "discovered": 87,
   "afterDedup": 46,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826804/",
+      "headline": "නව අධ්‍යාපන ප්‍රතිසංස්කරණවලට සමගාමීව සියලු දරුවන්ට උසස් අධ්‍යාපනය ලබා ගත හැකි පරිදි විෂයන් ස්ථානගත විය යුතුයි -අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826801/",
+      "headline": "සාර්ථක නව නිෂ්පාදන ජාතික වටිනාකම් බවට පත් කිරීම අරමුණයි – ඇමති ක්‍රිෂාන්ත අබේසේන",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826797/",
+      "headline": "විමල් , දිලිත් සහ ගම්මන්පිල ඇතුළු 6 දෙනෙකු අධිකරණයට අපහාස කළ බව කියන ප්‍රකාශවලට අදාළ CD තැටි CIDයෙන් අධිකරණයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826793/",
+      "headline": "කොළඹ, කොටුව ඓතිහාසික උරුමය සුරකිමින් සංචාරක කලාපයක් ලෙස සංවර්ධනය කිරීමේ සැලසුම් ජනපතිගේ අවධානයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826788/",
+      "headline": "පාරම්පරික වෛද්‍ය දැනුම ජාතික උරුමයක් ලෙස සංරක්ෂණයට නව තාක්ෂණික පියවරක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826775/",
+      "headline": "රට නැවත බංකොලොත් විය හැකි බවට රනිල් කළ ප්‍රකාශය නියෝජ්‍ය ඇමති චතුරංග ප්‍රතික්ෂේප කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826776/",
+      "headline": "அக்கரைப்பற்று முன்னாள் மேயர் விளக்கமறியலில்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826772/",
+      "headline": "42 වන ජාතික මීලාද්-උන්-නබි රාජ්‍ය මහෝත්සවය එළඹෙන 26 වැනිදා මීගමුවේදී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826767/",
+      "headline": "ADB වෙතින් ඩොලර් මිලියන 400ක ණයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826763/",
+      "headline": "ஒக்டோபர் 1 முதல் சுங்கத்தில் காகிதமற்ற ஆவண முறைமை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/19/826736/",
@@ -80,11 +130,6 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826703/",
-      "headline": "செப்டம்பர் 19 முதல் அதிவேக நெடுஞ்சாலைகளில் சீட் பெல்ட் கட்டாயம்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://www.itnnews.lk/2026/08/19/826698/",
       "headline": "වංචා / දූෂණවලට සම්බන්ධ දේශපාලඥයින් අත්අඩංගුවට ගැනීම විපක්ෂය දේශපාලන පළිගැනීම් ලෙස අර්ථ දැක්වීම කිසිසේත්  සාධාරණ නැහැ – ඇමති ආනන්ද විජේපාල",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -135,6 +180,11 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
+      "url": "https://www.itnnews.lk/2026/08/19/826629/",
+      "headline": "පුත්තලමේ ඓතිහාසික විහාරස්ථාන සංරක්ෂණයට සැලසුම්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
       "url": "https://www.itnnews.lk/2026/08/19/826635/",
       "headline": "පනත් කෙටුම්පත් දෙකකට කථානායකවරයාගේ සහතිකය",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
@@ -165,77 +215,39 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/19/826610/",
-      "headline": "මෙරට නෞකා සංචාරක කර්මාන්තයේ නව පිබිදීමකට ජර්මානු සහාය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826606/",
-      "headline": "මහනුවර ඇසළ පෙරහර මංගල්‍යයේ දෙවන කුඹල් පෙරහර අද",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826602/",
-      "headline": "නව ධීවර නිලධාරීන් 112 දෙනෙකුට පත්වීම් ලිපි ප්‍රදානය අද",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826607/",
-      "headline": "அஸ்வெசும கொடுப்பனவு இன்று வங்கிக் கணக்குகளில்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826598/",
-      "headline": "பாராளுமன்றம் இன்று  காலை 9.30 மணிக்கு கூடவுள்ளது",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826590/",
-      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826591/",
-      "headline": "ஏவுகணை அச்சுறுத்தல்- பாதுகாப்பான இடங்களில் தங்குமாறு ஐக்கிய அரபு அமீரகம் அறிவுறுத்தல்",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826589/",
-      "headline": "අස්වැසුම අද බැංකු ගිණුම් වෙත",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/19/826584/",
-      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/19/826585/",
-      "headline": "பல பிரதேசங்களுக்கு மழைக்கான வாய்ப்பு",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/19/200-mn-adb-funding-for-cyclone-ditwah-recovery-and-reconstruction",
       "headline": "$200 Mn ADB Funding for Cyclone Ditwah Recovery",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/19/coal-tenders-were-based-on-estimates-rather-than-actual-plant-requirements",
+      "headline": "Coal Tenders Based on Estimates, Not Plant Needs",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/19/vietjet-launches-direct-colombo-ho-chi-minh-city-flights",
-      "headline": "VietJet Launches Colombo-Ho Chi Minh City Flights",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/19/police-crack-down-on-false-ltte-camp-narrative",
+      "headline": "Police Crack Down on False LTTE Camp Narrative",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/19/19-year-old-arrested-over-undiyal-money-transfers",
+      "headline": "19-Year-Old Arrested Over Undiyal Money Transfers",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/19/sajith-meets-tamil-and-muslim-mps-in-parliament",
+      "headline": "Sajith Meets Tamil and Muslim MPs In Parliament",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (67 < 75)",
       "score": 67
     }
   ],
