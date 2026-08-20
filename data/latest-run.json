@@ -1,42 +1,254 @@
 {
-  "runId": "7ad18493",
-  "startedAt": "2026-08-20T02:09:50.034Z",
-  "finishedAt": "2026-08-20T02:11:58.885Z",
+  "runId": "8575bf68",
+  "startedAt": "2026-08-20T03:48:27.950Z",
+  "finishedAt": "2026-08-20T03:49:39.943Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 36,
+  "discovered": 87,
+  "afterDedup": 46,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/19/sri-lanka-targets-3-mn-visitors-and-10-bn-tourism-industry",
+      "headline": "SL Targets 3 Mn Visitors, $10 Bn Tourism Industry",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
       "headline": "FFSL President Jaswar Umar elected as SAFF VP",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/19/seat-belts-mandatory-for-all-expressway-passengers",
-      "headline": "Seat Belts Mandatory for All Expressway Passengers",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/08/19/over-92-000-dengue-cases-and-69-deaths-reported-so-far-this-year",
+      "headline": "Over 92,000 Dengue Cases and 69 Deaths Reported",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826838/",
+      "headline": "අන්තර්කාලීන ඩිජිටල් මාධ්‍ය සහ මහජන සම්බන්ධතා ප්‍රචාරණ වැඩසටහන ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826826/",
+      "headline": "ප්‍රවීණ ගීත රචක අපවත් වී වදාළ පූජ්‍ය රඹුකන සිද්ධාර්ථ හිමියන්ගේ ආදාහන පූජෝත්සවය අනිද්දා",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/826879/",
+      "headline": "නීතිඥ සංගමයේ දැනුවත් කිරීමේ සැසිය සියලුම මන්ත්‍රීවරුන් සඳහා බවට වන ප්‍රකාශය රජයේ මන්ත්‍රීවරුන් ප්‍රතික්ෂේප කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/826876/",
+      "headline": "ත්‍රීරෝද රථයක් හා මෝටර් රථයක් ගැටීමෙන් තිදෙනෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/826845/",
+      "headline": "පළාත් රැසකට විටින් විට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/826857/",
+      "headline": "මහනුවර ඇසළ පෙරහර මංගල්‍යයේ තුන්වැනි කුඹල් පෙරහර අද",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/20/826866/",
+      "headline": "மௌன்ட் லெவ்னியா துப்பாக்கிச் சூட்டின் பிரதான சந்தேக நபர் கைது",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/20/826861/",
+      "headline": "காணாமல் ஆக்கப்பட்டோரின் உறவினர்கள் சாட்சியம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826834/",
+      "headline": "නියඟයෙන් පීඩාවට පත් ගොවීන්ට කඩිනමින් රක්ෂණ වන්දි – ගොවිජන රක්ෂණ මණ්ඩලය",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/20/826858/",
+      "headline": "டிஜிட்டல் சுற்றுலா பிரச்சாரம் இன்று ஆரம்பம்",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/20/826852/",
+      "headline": "நாட்டின் பல பகுதிகளில் மழை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/826848/",
+      "headline": "පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කරමින් සිටි 8 දෙනෙකු අත්අඩංගුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826807/",
+      "headline": "අගෝස්තු මස පළමු දින 16 තුළ සංචාරකයින් 113,307ක් මෙරටට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/826851/",
+      "headline": "ශිෂ්‍යත්ව විභාගයේ උත්තර පත්‍ර ඇගයීම් කටයුතු අදින් ඇරඹෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826818/",
+      "headline": "අතිපූජ්‍ය රඹුකන සිද්ධාර්ථ ස්වාමීන්වහන්සේගේ අපවත් වීම ගැන අගමැතිගෙන් ශෝක පණිවුඩයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826791/",
+      "headline": "கொழும்பு கோட்டைப் பகுதியை சர்வதேச சுற்றுலா மையமாக மாற்றத் திட்டம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826804/",
+      "headline": "නව අධ්‍යාපන ප්‍රතිසංස්කරණවලට සමගාමීව සියලු දරුවන්ට උසස් අධ්‍යාපනය ලබා ගත හැකි පරිදි විෂයන් ස්ථානගත විය යුතුයි -අගමැති",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826801/",
+      "headline": "සාර්ථක නව නිෂ්පාදන ජාතික වටිනාකම් බවට පත් කිරීම අරමුණයි – ඇමති ක්‍රිෂාන්ත අබේසේන",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826797/",
+      "headline": "විමල් , දිලිත් සහ ගම්මන්පිල ඇතුළු 6 දෙනෙකු අධිකරණයට අපහාස කළ බව කියන ප්‍රකාශවලට අදාළ CD තැටි CIDයෙන් අධිකරණයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826793/",
+      "headline": "කොළඹ, කොටුව ඓතිහාසික උරුමය සුරකිමින් සංචාරක කලාපයක් ලෙස සංවර්ධනය කිරීමේ සැලසුම් ජනපතිගේ අවධානයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826788/",
+      "headline": "පාරම්පරික වෛද්‍ය දැනුම ජාතික උරුමයක් ලෙස සංරක්ෂණයට නව තාක්ෂණික පියවරක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826775/",
+      "headline": "රට නැවත බංකොලොත් විය හැකි බවට රනිල් කළ ප්‍රකාශය නියෝජ්‍ය ඇමති චතුරංග ප්‍රතික්ෂේප කරයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826776/",
+      "headline": "அக்கரைப்பற்று முன்னாள் மேயர் விளக்கமறியலில்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826772/",
+      "headline": "42 වන ජාතික මීලාද්-උන්-නබි රාජ්‍ය මහෝත්සවය එළඹෙන 26 වැනිදා මීගමුවේදී",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826767/",
+      "headline": "ADB වෙතින් ඩොලර් මිලියන 400ක ණයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826763/",
+      "headline": "ஒக்டோபர் 1 முதல் சுங்கத்தில் காகிதமற்ற ஆவண முறைமை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826736/",
+      "headline": "සියලු බන්ධනාගාර තුළ ඇතිවන ගැටළු කලින් හඳුනා ගැනීමේ ඒකාබද්ධ යාන්ත්‍රණයක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826759/",
+      "headline": "தெஹிவளை உயிரியல் பூங்காவின் வயதான ஒட்டகச்சிவிங்கி மரணம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826743/",
+      "headline": "දෙහිවල සත්වෝද්‍යානයේ සිටි ජිරාෆ් මියයයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826744/",
+      "headline": "வடக்கிற்கு புதிய சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826746/",
+      "headline": "“ඩිජිටල් අත්සන සහ කඩදාසි රහිත රේගු ප්‍රකාශන ක්‍රමවේදය” පිළිබඳ දැනුවත් කිරීමේ වැඩසටහනක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826684/",
+      "headline": "பல கடற்பகுதிகளுக்கு பலத்த காற்று மற்றும் கடல் கொந்தளிப்பு எச்சரிக்கை",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826737/",
+      "headline": "கொல்கத்தா விடுதியில் தீ விபத்து: 9 பேர் பலி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826729/",
+      "headline": "களுவாஞ்சிகுடியில் சுகாதார சீர்கேட்டுடன் இயங்கிய பலசரக்குக் கடை மூடல்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826726/",
+      "headline": "செப்டம்பரில் வடமாகாணத்தின் மிகப்பெரிய வாகனக் கண்காட்சி!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/19/826720/",
+      "headline": "සැප්තැම්බර් 19 සිට අධිවේගී මාර්ගයේ සියලු රියදුරන් හා මගීන්ට ආසන පටි අනිවාර්යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826715/",
+      "headline": "செம்மணி புதைகுழி 3ஆம் கட்ட அகழ்வு இன்றுடன் நிறைவு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/19/826709/",
+      "headline": "வறட்சியால் பாதிக்கப்பட்ட நெற்பயிர்களுக்கு நிவாரணம்!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/19/foreign-reserves-growing-despite-vehicle-imports-and-debt-repayments-minister",
+      "headline": "Reserves Growing Despite Imports and Repayments",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/08/19/samithpura-chathu-reveals-how-he-left-sri-lanka-after-ganemulla-sanjeewa-assassination",
       "headline": "Samithpura Chathu Reveals Escape After Killing",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/19/bimal-rejects-sajith-s-request-to-call-all-mps-for-basl-meeting",
       "headline": "Bimal Rejects Sajith's Request to Call All MPs",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/19/sajith-meets-tamil-and-muslim-mps-in-parliament",
       "headline": "Sajith Meets Tamil and Muslim MPs In Parliament",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
