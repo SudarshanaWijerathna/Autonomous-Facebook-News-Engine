@@ -1834,5 +1834,29 @@
     "score": 82,
     "addedAt": "2026-08-20T02:11:58.884Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/20/a-few-hours-in-the-sun-could-cost-you-your-life",
+    "contentHash": "b78b0f1b3b76520648dc5b2e1484cea22a82e43d19da31b82aacdfbbb8dc6ba6",
+    "headline": "A Few Hours in the Sun Could Cost You Your Life",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-20T10:55:33.082Z",
+    "fbPostId": "1278802861974766_122111977311402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-20T10:56:30.217Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/20/speaker-reveals-new-petitions-filed-against-22a",
+    "contentHash": "6849a78c2c07f9ca5acc826f6f5dba813a40f8109e3c045a4bf3b113f9437617",
+    "headline": "Speaker Reveals New Petitions Filed Against 22A",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-20T10:55:33.082Z",
+    "fbPostId": "1278802861974766_122111977527402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-08-20T10:57:12.375Z",
+    "isShadow": false
   }
 ]
