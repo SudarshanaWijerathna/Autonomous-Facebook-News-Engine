@@ -1810,5 +1810,29 @@
     "score": 82,
     "addedAt": "2026-08-19T10:54:58.025Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/19/over-92-000-dengue-cases-and-69-deaths-reported-so-far-this-year",
+    "contentHash": "7deafa572a48c75e5a320e91c4843895732cbb591300a754a03145691077a2c8",
+    "headline": "Over 92,000 Dengue Cases and 69 Deaths Reported",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-20T02:10:19.157Z",
+    "fbPostId": "1278802861974766_122111875215402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-20T02:11:15.380Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/19/sri-lanka-targets-3-mn-visitors-and-10-bn-tourism-industry",
+    "contentHash": "89a62b8f9280b0e8ce8cc430b7cf93a2ccf1bfa1a825e02eb17449a600b78b74",
+    "headline": "SL Targets 3 Mn Visitors, $10 Bn Tourism Industry",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-20T02:10:19.156Z",
+    "fbPostId": "1278802861974766_122111875575402039",
+    "category": "Business",
+    "score": 82,
+    "addedAt": "2026-08-20T02:11:58.884Z",
+    "isShadow": false
   }
 ]
