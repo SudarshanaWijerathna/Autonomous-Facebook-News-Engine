@@ -1,43 +1,49 @@
 {
-  "runId": "1f0327ec",
-  "startedAt": "2026-08-21T08:30:10.734Z",
-  "finishedAt": "2026-08-21T08:31:32.705Z",
+  "runId": "0b70b87e",
+  "startedAt": "2026-08-21T10:55:08.129Z",
+  "finishedAt": "2026-08-21T10:56:21.867Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 37,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/21/dr-nanda-malini%e2%80%99s-remains-placed-for-public-tribute",
+      "headline": "Nanda Malini’s Remains Placed for Public Tribute",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
     {
       "url": "https://newsfirst.lk/2026/08/21/five-killed-in-tipper-tractor-crash-in-monaragala",
       "headline": "Five Killed In Tipper-Tractor Crash In Monaragala",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/08/21/people-across-seven-districts-affected-due-to-dry-weather",
-      "headline": "Seven Districts Affected Due to Dry Weather",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/21/bogambara-prison-to-admit-inmates-within-two-weeks",
-      "headline": "Bogambara Prison To Admit Inmates Within Two Weeks",
+      "url": "https://newsfirst.lk/2026/08/21/police-clearance-service-disrupted-due-to-system-outage",
+      "headline": "Police Clearance Service Disrupted",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/21/funeral-rites-of-ven-rambukana-siddhartha-thera-to-be-held-today-21",
-      "headline": "Funeral Rites of Ven. Rambukana Thera Today",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-ni%c3%b1o",
+      "headline": "Panama Canal Limits Shipping Ahead of El Niño",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/21/bogambara-prison-to-admit-inmates-within-two-weeks",
+      "headline": "Bogambara Prison To Admit Inmates Within Two Weeks",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
