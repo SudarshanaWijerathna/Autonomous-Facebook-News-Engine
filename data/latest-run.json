@@ -1,7 +1,7 @@
 {
-  "runId": "0b70b87e",
-  "startedAt": "2026-08-21T10:55:08.129Z",
-  "finishedAt": "2026-08-21T10:56:21.867Z",
+  "runId": "a126583f",
+  "startedAt": "2026-08-21T15:56:36.980Z",
+  "finishedAt": "2026-08-21T16:01:51.269Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 37,
@@ -10,39 +10,39 @@
   "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/21/dr-nanda-malini%e2%80%99s-remains-placed-for-public-tribute",
-      "headline": "Nanda Malini’s Remains Placed for Public Tribute",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/21/five-killed-in-tipper-tractor-crash-in-monaragala",
       "headline": "Five Killed In Tipper-Tractor Crash In Monaragala",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/08/21/police-clearance-service-disrupted-due-to-system-outage",
       "headline": "Police Clearance Service Disrupted",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-ni%c3%b1o",
       "headline": "Panama Canal Limits Shipping Ahead of El Niño",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/08/21/bogambara-prison-to-admit-inmates-within-two-weeks",
       "headline": "Bogambara Prison To Admit Inmates Within Two Weeks",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     }
   ],
