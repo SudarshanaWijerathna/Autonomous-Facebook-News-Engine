@@ -1,257 +1,43 @@
 {
-  "runId": "4a96dd6b",
-  "startedAt": "2026-08-21T02:16:21.466Z",
-  "finishedAt": "2026-08-21T02:18:25.971Z",
+  "runId": "1f0327ec",
+  "startedAt": "2026-08-21T08:30:10.734Z",
+  "finishedAt": "2026-08-21T08:31:32.705Z",
   "shadowMode": false,
-  "discovered": 87,
-  "afterDedup": 43,
+  "discovered": 37,
+  "afterDedup": 37,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://www.itnnews.lk/2026/08/21/827134/",
-      "headline": "වී මිලදී ගැනීම සඳහා ප්‍රතිපාදන සපයා ගැනීමට අදාළ පරිපූරක ඇස්තමේන්තුව අද පාර්ලිමේන්තුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/21/827129/",
-      "headline": "වෙළෙඳපොලේ අලෙවියට ඇති සියලු පලතුරු වස විසෙන් තොර පලතුරු බවට සහතිකකරණ වැඩපිළිවෙළක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/21/827133/",
-      "headline": "டிப்பருடன் – உழவு இயந்திரம் விபத்து – ஐவர் பலி",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/21/827132/",
-      "headline": "මොණරාගල – වැල්ලවාය මාර්ගයේ මාරක රිය අනතුරක් – 05 දෙනෙකු ජීවිතක්ෂයට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/21/827124/",
-      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/21/827128/",
-      "headline": "தேசிய துக்க தினங்கள் அறிவிப்பு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/21/827123/",
-      "headline": "வடக்கு, கிழக்கு காணிகளை மக்களிடம் ஒப்படைக்க ஜனாதிபதி நடவடிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/21/827121/",
-      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827114/",
-      "headline": "ඥානසාර හිමි වාසය කරන විහාරයේ ආරක්ෂාවට සිටි පොලිස් නිලධාරියෙක් වෙඩි තබාගෙන මිය යයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827110/",
-      "headline": "උතුරු – නැගෙනහිර ඉඩම් කඩිනමින් ජනතාවට නිදහස් කිරීම ගැන සාකච්ඡාවක් ජනපති ප්‍රධානත්වයෙන්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827101/",
-      "headline": "ලංකා බැංකුවෙන් ඩිජිටල් මුදල් කළමනාකරණයට විසඳුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827105/",
-      "headline": "පූජ්‍ය රඹුකන සිද්ධාර්ථ හිමියන්ගේ දේහයට අගමැතිනිය අවසන් ගෞරව දක්වයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827087/",
-      "headline": "ජාත්‍යන්තර වෙඩි තැබීමේ තරගාවලියෙන් ශ්‍රී ලංකාවට පදක්කම් 10ක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/827092/",
-      "headline": "மெகசின் சிறைச்சாலைக்குள் தடைசெய்யப்பட்ட பொருட்களை வீசிய நபர் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827089/",
-      "headline": "ඉඟුරු වගාව ආශ්‍රිතව දිලීර රෝගයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827078/",
-      "headline": "මැගසින් බන්ධනාගාරයට පාර්සල් විසි කිරීමට උත්සාහ දැරූ පුද්ගලයෙකු අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827081/",
-      "headline": "ශ්‍රී ලංකා – යුරෝපා සංගම් සබඳතා ගැන සාකච්ඡා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827063/",
-      "headline": "ශ්‍රී ලාංකේය සංගීතයේ යුගයක නිමාව – නන්දා මාලනීය අභාවප්‍රාප්ත වෙයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/827070/",
-      "headline": "82 வயதில் விடைபெற்றார் பிரபல மூத்த பாடகி நந்தா மாலினி!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827064/",
-      "headline": "හරක් කටාගේ ත්‍රස්ත චෝදනා ඉවත් කිරීමට එරෙහිව නීතිපතිගෙන් අභියාචනයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827057/",
-      "headline": "ස්ත්‍රීන්, තරුණ අය සහ ළමයින් සේවයෙහි යෙදවීමේ පනත් කෙටුම්පත සම්මතයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827055/",
-      "headline": "ඩො.බිලියනයකට අධික මුදලක් නීතිවිරෝධී ලෙස රටින් බැහැර කිරීමේ සිද්ධියට අදාළ පුද්ගලයින් පස් දෙනා සැප්තැම්බර් 03 තෙක් රිමාන්ඩ්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827051/",
-      "headline": "වී මිලදී ගැනීම සඳහා ප්‍රතිපාදන සපයා ගැනීමට අදාළ පරිපූරක ඇස්තමේන්තුව හෙට පාර්ලිමේන්තුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/827048/",
-      "headline": "நயினாமடு கோவில் வருடாந்த பூஜைக்குப் பாதுகாப்பு ஏற்பாடுகள் தீவிரம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827044/",
-      "headline": "පොදු රාජ්‍ය මණ්ඩලීය ක්‍රීඩා උළෙලේ දස්කම් දැක්වූ ක්‍රීඩකයාට හමුදාධිපතිගෙන් ඇගයීම්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827037/",
-      "headline": "ශක්තිමත් පර්යේෂණ සංස්කෘතියක් රට තුළ නිර්මාණය විය යුතුයි – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827038/",
-      "headline": "ආනවිලුන්දාව රැම්සා තෙත්බිම් ආරක්ෂිතයි – හටගත් ගින්න මැඩපැවැත්වීමට ඒකාබද්ධ මෙහෙයුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827029/",
-      "headline": "වවුනියාවේ පුරාවිද්‍යා උරුමයන් සුරැකීමට පියවර",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827026/",
-      "headline": "ප්‍රගීත් එක්නැළිගොඩ නඩුව අද විශේෂ මහාධිකරණයේ කැඳවයි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827022/",
-      "headline": "දරුවන්ගේ නිවාඩුව දරුවන්ට දෙන්න – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827019/",
-      "headline": "ආනයනික ආලේපන හා පාවහන් සම්බන්ධයෙන් දිවයින පුරා විශේෂ වැටලීම් 108ක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827015/",
-      "headline": "ශෂී වීරවංශට ඇප",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/827008/",
-      "headline": "கண்டி பெரஹரா யானைகள் மீது லேசர் கதிர்களைப் பாய்ச்சுபவர்களுக்கு எதிராக நடவடிக்கை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827005/",
-      "headline": "අනුරාධපුර ශික්ෂණ රෝහලට මිලියන 153ක් වටිනා අතිනවීන මැමෝග්‍රැෆි යන්ත්‍රයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/827002/",
-      "headline": "விரைவில் மீன்பிடி உத்தியோகத்தர்களுக்கு மின்சார மோட்டார் சைக்கிள்கள்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826999/",
-      "headline": "திலீத் ஜயவீரவுடன் கைகோர்த்தார் முன்னாள் எம்பி லலித் எல்லாவல!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826992/",
-      "headline": "ඇසළ පෙරහරේ ගමන් කරන අලි ඇතුන්ට ලේසර් කිරණ එල්ල කරන පුද්ගලයන් එම මොහොතේම අත්අඩංගුවට – පොලිසිය",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826991/",
-      "headline": "වසර අවසානයේ ධීවර නිලධාරීන්ට විදුලි යතුරුපැදි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826983/",
-      "headline": "யாழ். இணுவிலில் மதுபானசாலையை அகற்றக் கோரி மக்கள் போராட்டம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826985/",
-      "headline": "විදුහල්පතිවරුන් පත් කිරීමේ ක්‍රියාවලිය තවදුරටත් විධිමත් කිරීමට පියවර – අගමැති",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826978/",
-      "headline": "நிறுத்தி வைக்கப்பட்டிருந்த ரயிலில் கொள்ளை!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826970/",
-      "headline": "වෙරළට ඔබ්බෙන්වන මුහුදු ප්‍රදේශවලට වැසි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826975/",
-      "headline": "දකුණු පළාතේ පොලිස් නිලධාරීන් 300කට සයිබර් ආරක්ෂණ පුහුණුව",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826966/",
-      "headline": "වසා දමා ඇති හෝමූස් සමුද්‍ර සන්ධිය නිසා ශ්‍රී ලංකාව ඔස්සේ නව භාණ්ඩ ප්‍රවාහන මාර්ගයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/what-exactly-was-the-threat-govt-challenges-basl-claim",
-      "headline": "What Was the Threat? Govt Challenges BASL Claim",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/21/five-killed-in-tipper-tractor-crash-in-monaragala",
+      "headline": "Five Killed In Tipper-Tractor Crash In Monaragala",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/accused-challenge-court-decision-to-rehear-witness-in-eknaligoda-case",
-      "headline": "Accused Challenge Eknaligoda Witness Rehearing",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/21/people-across-seven-districts-affected-due-to-dry-weather",
+      "headline": "Seven Districts Affected Due to Dry Weather",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/21/bogambara-prison-to-admit-inmates-within-two-weeks",
+      "headline": "Bogambara Prison To Admit Inmates Within Two Weeks",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/threat-thereat-or-what-how-many-explanations-can-one-official-letter-have",
-      "headline": "How Many Explanations Can An Official Letter Have?",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/08/21/funeral-rites-of-ven-rambukana-siddhartha-thera-to-be-held-today-21",
+      "headline": "Funeral Rites of Ven. Rambukana Thera Today",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
