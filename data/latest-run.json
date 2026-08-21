@@ -1,18 +1,68 @@
 {
-  "runId": "7e4e7a88",
-  "startedAt": "2026-08-20T15:57:12.244Z",
-  "finishedAt": "2026-08-20T15:58:25.799Z",
+  "runId": "4a96dd6b",
+  "startedAt": "2026-08-21T02:16:21.466Z",
+  "finishedAt": "2026-08-21T02:18:25.971Z",
   "shadowMode": false,
   "discovered": 87,
-  "afterDedup": 42,
+  "afterDedup": 43,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-      "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://www.itnnews.lk/2026/08/21/827134/",
+      "headline": "වී මිලදී ගැනීම සඳහා ප්‍රතිපාදන සපයා ගැනීමට අදාළ පරිපූරක ඇස්තමේන්තුව අද පාර්ලිමේන්තුවට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/21/827129/",
+      "headline": "වෙළෙඳපොලේ අලෙවියට ඇති සියලු පලතුරු වස විසෙන් තොර පලතුරු බවට සහතිකකරණ වැඩපිළිවෙළක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/21/827133/",
+      "headline": "டிப்பருடன் – உழவு இயந்திரம் விபத்து – ஐவர் பலி",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/21/827132/",
+      "headline": "මොණරාගල – වැල්ලවාය මාර්ගයේ මාරක රිය අනතුරක් – 05 දෙනෙකු ජීවිතක්ෂයට",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/21/827124/",
+      "headline": "පාර්ලිමේන්තුව අදත් රැස්වෙයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/21/827128/",
+      "headline": "தேசிய துக்க தினங்கள் அறிவிப்பு!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/ta/2026/08/21/827123/",
+      "headline": "வடக்கு, கிழக்கு காணிகளை மக்களிடம் ஒப்படைக்க ஜனாதிபதி நடவடிக்கை!",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/21/827121/",
+      "headline": "ප්‍රදේශ කිහිපයකට වැසි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/827114/",
+      "headline": "ඥානසාර හිමි වාසය කරන විහාරයේ ආරක්ෂාවට සිටි පොලිස් නිලධාරියෙක් වෙඩි තබාගෙන මිය යයි",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/827110/",
+      "headline": "උතුරු – නැගෙනහිර ඉඩම් කඩිනමින් ජනතාවට නිදහස් කිරීම ගැන සාකච්ඡාවක් ජනපති ප්‍රධානත්වයෙන්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
+    },
+    {
+      "url": "https://www.itnnews.lk/2026/08/20/827101/",
+      "headline": "ලංකා බැංකුවෙන් ඩිජිටල් මුදල් කළමනාකරණයට විසඳුමක්",
+      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
       "url": "https://www.itnnews.lk/2026/08/20/827105/",
@@ -92,11 +142,6 @@
     {
       "url": "https://www.itnnews.lk/2026/08/20/827038/",
       "headline": "ආනවිලුන්දාව රැම්සා තෙත්බිම් ආරක්ෂිතයි – හටගත් ගින්න මැඩපැවැත්වීමට ඒකාබද්ධ මෙහෙයුමක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/827032/",
-      "headline": "හොංකොං – ශ්‍රී ලංකා වෙළඳ සහ ආයෝජන සබඳතා ගැන පුළුල් සාකච්ඡාවක්",
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
@@ -185,90 +230,28 @@
       "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
     },
     {
-      "url": "https://www.itnnews.lk/2026/08/20/826965/",
-      "headline": "‘දිට්වා’ නිසා විපතට පත් බදුල්ලේ පවුල් 248කට ලක්ෂ 835ක වන්දි",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826921/",
-      "headline": "යෝෂිතටත්, කරන්නාගොඩටත් අධිචෝදනා",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826956/",
-      "headline": "இலங்கையில் டெங்கு மரணங்கள் 71 ஆக உயர்வு!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826948/",
-      "headline": "‘வனாதே சத்து’ டுபாயில் கைது!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826944/",
-      "headline": "නව අධ්‍යාපන ප්‍රතිසංස්කරණ යටතේ පෙර පාසලටත් ගුරු අත්පොතක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826935/",
-      "headline": "ලබන වසරේ ග්‍රාමීය සංවර්ධනය වෙනුවෙන් රුපියල් කෝටි ලක්ෂ දෙකක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826939/",
-      "headline": "වනාතේ චතූ ඩුබායිහිදී අත්අඩංගුවට",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826936/",
-      "headline": "75 ஆண்டுகளில் இல்லாத எல்நினோ அபாயம்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/ta/2026/08/20/826931/",
-      "headline": "இலங்கை போக்குவரத்து சபையில் 1,000 க்கும் மேற்பட்ட வேலைவாய்ப்புகள்!",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://www.itnnews.lk/2026/08/20/826923/",
-      "headline": "අවුරුදු 75කට පසු දරුණුම එල්නිනෝ තත්ත්වයක්",
-      "reason": "batch-cross-source-duplicate-of-itn-en (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/1-bn-illegal-transfer-four-bank-employees-remanded",
-      "headline": "$1 Bn Illegal Transfer: Four Bank Employees Remand",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/no-ltte-camp-just-a-farm-minister-exposes-truth-behind-viral-claim",
-      "headline": "No LTTE Camp, Just a Farm? Minister Exposes Truth",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/20/what-exactly-was-the-threat-govt-challenges-basl-claim",
       "headline": "What Was the Threat? Govt Challenges BASL Claim",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/20/accused-challenge-court-decision-to-rehear-witness-in-eknaligoda-case",
+      "headline": "Accused Challenge Eknaligoda Witness Rehearing",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/threat-thereat-or-what-how-many-explanations-can-one-official-letter-have",
+      "headline": "How Many Explanations Can An Official Letter Have?",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []
