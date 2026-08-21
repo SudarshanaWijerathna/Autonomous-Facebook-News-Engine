@@ -1,13 +1,13 @@
 {
-  "runId": "a126583f",
-  "startedAt": "2026-08-21T15:56:36.980Z",
-  "finishedAt": "2026-08-21T16:01:51.269Z",
+  "runId": "8fa810df",
+  "startedAt": "2026-08-21T17:52:03.258Z",
+  "finishedAt": "2026-08-21T17:53:20.739Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 37,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/21/five-killed-in-tipper-tractor-crash-in-monaragala",
@@ -16,20 +16,8 @@
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/21/police-clearance-service-disrupted-due-to-system-outage",
       "headline": "Police Clearance Service Disrupted",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
     },
@@ -44,6 +32,12 @@
       "headline": "Bogambara Prison To Admit Inmates Within Two Weeks",
       "reason": "score-below-threshold (62 < 65)",
       "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/21/uss-washington-arrives-in-arabian-sea-after-aircraft-carrier-outcry",
+      "headline": "USS Washington Enters Arabian Sea Amid Outcry",
+      "reason": "score-below-threshold (48 < 65)",
+      "score": 48
     }
   ],
   "errors": []
