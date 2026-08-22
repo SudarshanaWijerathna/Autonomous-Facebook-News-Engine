@@ -1,54 +1,37 @@
 {
-  "runId": "727e2cf0",
-  "startedAt": "2026-08-22T05:53:00.693Z",
-  "finishedAt": "2026-08-22T05:54:09.109Z",
+  "runId": "3c8939cd",
+  "startedAt": "2026-08-22T10:46:58.154Z",
+  "finishedAt": "2026-08-22T10:49:05.970Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 37,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/08/21/sri-lanka-s-rumesh-tharanga-to-compete-in-lausanne-diamond-league-tonight",
-      "headline": "Rumesh Tharanga To Compete In Diamond League",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/21/sri-lanka-name-14-member-squad-for-second-test-against-india",
-      "headline": "SL 14-Member Squad For Second Test Against India",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
     {
       "url": "https://newsfirst.lk/2026/08/22/more-properties-of-drug-trafficker-shiran-basik-revealed",
       "headline": "More Properties of Shiran Basik Revealed",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/08/21/2027-school-term-schedule-released",
-      "headline": "2027 School Term Schedule Released",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/08/22/gammadda%e2%80%99s-new-bridge-brings-relief-to-wilgamuwa-villagers",
+      "headline": "Gammadda’s New Bridge Brings Relief to Wilgamuwa",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (65 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/21/uss-washington-arrives-in-arabian-sea-after-aircraft-carrier-outcry",
-      "headline": "USS Washington Enters Arabian Sea Amid Outcry",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
   "errors": []
