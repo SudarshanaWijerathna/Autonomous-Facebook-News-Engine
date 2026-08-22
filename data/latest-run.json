@@ -1,37 +1,59 @@
 {
-  "runId": "3c8939cd",
-  "startedAt": "2026-08-22T10:46:58.154Z",
-  "finishedAt": "2026-08-22T10:49:05.970Z",
+  "runId": "a077feae",
+  "startedAt": "2026-08-22T13:29:38.647Z",
+  "finishedAt": "2026-08-22T13:31:12.926Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 37,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/08/22/dr-nanda-malini%e2%80%99s-last-rites-to-be-held-at-borella-cemetery-today",
+      "headline": "Dr. Nanda Malini’s Last Rites to Be Held Today",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/22/rumesh-tharanga-wins-lausanne-diamond-league-javelin-title",
+      "headline": "Rumesh Tharanga Wins Lausanne Diamond League",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/22/online-railway-season-tickets-to-be-extended-to-private-sector-from-september",
+      "headline": "Private Sector To Get Online Railway Season Ticket",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
     {
       "url": "https://newsfirst.lk/2026/08/22/more-properties-of-drug-trafficker-shiran-basik-revealed",
       "headline": "More Properties of Shiran Basik Revealed",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (73 < 75)",
       "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/22/gammadda%e2%80%99s-new-bridge-brings-relief-to-wilgamuwa-villagers",
-      "headline": "Gammadda’s New Bridge Brings Relief to Wilgamuwa",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/22/gammadda%e2%80%99s-new-bridge-brings-relief-to-wilgamuwa-villagers",
+      "headline": "Gammadda’s New Bridge Brings Relief to Wilgamuwa",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
