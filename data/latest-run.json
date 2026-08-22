@@ -1,43 +1,47 @@
 {
-  "runId": "8fa810df",
-  "startedAt": "2026-08-21T17:52:03.258Z",
-  "finishedAt": "2026-08-21T17:53:20.739Z",
+  "runId": "7cfded45",
+  "startedAt": "2026-08-22T02:07:35.554Z",
+  "finishedAt": "2026-08-22T02:09:32.639Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 37,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/21/five-killed-in-tipper-tractor-crash-in-monaragala",
-      "headline": "Five Killed In Tipper-Tractor Crash In Monaragala",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "url": "https://newsfirst.lk/2026/08/21/sri-lanka-s-rumesh-tharanga-to-compete-in-lausanne-diamond-league-tonight",
+      "headline": "Rumesh Tharanga To Compete In Diamond League",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/21/police-clearance-service-disrupted-due-to-system-outage",
-      "headline": "Police Clearance Service Disrupted",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://adaderana.lk/news/cmt3o0eur0001356q60cfxzhm",
+      "headline": "Rumesh Tharanga clinches first place at 2026 Lausanne Diamond League",
+      "reason": "batch-cross-source-duplicate-of-ada-derana-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/21/2027-school-term-schedule-released",
+      "headline": "2027 School Term Schedule Released",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-ni%c3%b1o",
-      "headline": "Panama Canal Limits Shipping Ahead of El Niño",
-      "reason": "score-below-threshold (62 < 65)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/21/bogambara-prison-to-admit-inmates-within-two-weeks",
-      "headline": "Bogambara Prison To Admit Inmates Within Two Weeks",
-      "reason": "score-below-threshold (62 < 65)",
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/08/21/uss-washington-arrives-in-arabian-sea-after-aircraft-carrier-outcry",
       "headline": "USS Washington Enters Arabian Sea Amid Outcry",
-      "reason": "score-below-threshold (48 < 65)",
-      "score": 48
+      "reason": "max-posts-per-run-reached",
+      "score": 45
     }
   ],
   "errors": []
