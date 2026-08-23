@@ -1,36 +1,47 @@
 {
-  "runId": "56e259a8",
-  "startedAt": "2026-08-23T05:54:11.585Z",
-  "finishedAt": "2026-08-23T05:56:12.521Z",
+  "runId": "00ef660d",
+  "startedAt": "2026-08-23T08:20:42.665Z",
+  "finishedAt": "2026-08-23T08:22:02.010Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 37,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/08/22/online-railway-season-tickets-to-be-extended-to-private-sector-from-september",
-      "headline": "Private Sector To Get Online Railway Season Ticket",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/08/22/president-expresses-condolences-over-dr-nanda-malini%e2%80%99s-passing",
+      "headline": "AKD Expresses Condolences Nanda Malini",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/08/22/revolver-recovered-after-summitpura-chathu%e2%80%99s-revelation",
       "headline": "Revolver Recovered After Chathu’s Revelation",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/22/new-mud-pond-project-launched-to-address-wildlife-water-shortages",
       "headline": "New Mud Pond Project Launched",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/23/hrcsl-reviews-measures-to-prevent-recurrence-of-prison-violence",
+      "headline": "HRCSL Reviews Prison Violence Prevention Measures",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
