@@ -1,13 +1,13 @@
 {
-  "runId": "18ad9694",
-  "startedAt": "2026-08-23T13:30:09.235Z",
-  "finishedAt": "2026-08-23T13:31:56.200Z",
+  "runId": "9be98ced",
+  "startedAt": "2026-08-23T15:44:43.224Z",
+  "finishedAt": "2026-08-23T15:45:44.039Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -15,21 +15,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/22/president-calls-for-plans-to-prepare-for-el-ni%c3%b1o-conditions",
-      "headline": "President Calls For Plans To Prepare For El Niño",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/08/23/special-audit-flags-unlimited-fuel-allocations-to-parliament-officials",
+      "headline": "Audit Flags Unlimited Fuel for Parliament Staff",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/08/22/dengue-cases-in-sri-lanka-surpass-93-000",
       "headline": "Dengue Cases In Sri Lanka Surpass 93,000",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/23/special-audit-flags-unlimited-fuel-allocations-to-parliament-officials",
-      "headline": "Audit Flags Unlimited Fuel for Parliament Staff",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/08/23/roadworthiness-tests-to-replace-emission-tests-from-2028",
@@ -40,20 +35,14 @@
     {
       "url": "https://newsfirst.lk/2026/08/22/professor-n-d-fernando-appointed-as-new-kelaniya-university-vice-chancellor",
       "headline": "New Kelaniya University Vice Chancellor Appointed",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/23/hrcsl-reviews-measures-to-prevent-recurrence-of-prison-violence",
+      "headline": "HRCSL Reviews Prison Violence Prevention Measures",
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     }
   ],
   "errors": []
