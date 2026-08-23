@@ -1,17 +1,22 @@
 {
-  "runId": "9be98ced",
-  "startedAt": "2026-08-23T15:44:43.224Z",
-  "finishedAt": "2026-08-23T15:45:44.039Z",
+  "runId": "dfb1e856",
+  "startedAt": "2026-08-23T17:40:58.565Z",
+  "finishedAt": "2026-08-23T17:42:09.453Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
+      "headline": "AI Could Transform Developing Economies",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -27,22 +32,28 @@
       "score": 81
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/roadworthiness-tests-to-replace-emission-tests-from-2028",
-      "headline": "Roadworthiness Tests To Replace Emission Tests",
+      "url": "https://newsfirst.lk/2026/08/23/hydropower-reservoirs-at-67-capacity-sufficient-until-october",
+      "headline": "Hydropower Reservoirs At 67% Capacity",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/22/professor-n-d-fernando-appointed-as-new-kelaniya-university-vice-chancellor",
-      "headline": "New Kelaniya University Vice Chancellor Appointed",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/23/hrcsl-reviews-measures-to-prevent-recurrence-of-prison-violence",
       "headline": "HRCSL Reviews Prison Violence Prevention Measures",
-      "reason": "score-below-threshold (62 < 65)",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/22/professor-n-d-fernando-appointed-as-new-kelaniya-university-vice-chancellor",
+      "headline": "New Kelaniya University Vice Chancellor Appointed",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
