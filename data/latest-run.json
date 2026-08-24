@@ -1,13 +1,13 @@
 {
-  "runId": "dfb1e856",
-  "startedAt": "2026-08-23T17:40:58.565Z",
-  "finishedAt": "2026-08-23T17:42:09.453Z",
+  "runId": "6355ef14",
+  "startedAt": "2026-08-24T02:15:18.415Z",
+  "finishedAt": "2026-08-24T02:17:21.712Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/special-audit-flags-unlimited-fuel-allocations-to-parliament-officials",
-      "headline": "Audit Flags Unlimited Fuel for Parliament Staff",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/22/dengue-cases-in-sri-lanka-surpass-93-000",
-      "headline": "Dengue Cases In Sri Lanka Surpass 93,000",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/23/hydropower-reservoirs-at-67-capacity-sufficient-until-october",
       "headline": "Hydropower Reservoirs At 67% Capacity",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (72 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/23/hrcsl-reviews-measures-to-prevent-recurrence-of-prison-violence",
-      "headline": "HRCSL Reviews Prison Violence Prevention Measures",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/22/professor-n-d-fernando-appointed-as-new-kelaniya-university-vice-chancellor",
       "headline": "New Kelaniya University Vice Chancellor Appointed",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/23/hrcsl-reviews-measures-to-prevent-recurrence-of-prison-violence",
+      "headline": "HRCSL Reviews Prison Violence Prevention Measures",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []

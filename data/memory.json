@@ -2002,5 +2002,29 @@
     "score": 67,
     "addedAt": "2026-08-23T15:45:44.037Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/22/dengue-cases-in-sri-lanka-surpass-93-000",
+    "contentHash": "e98263bbbce45997fd8bd60339c4300b99e1180f58b1c45d8c2300166ca47016",
+    "headline": "Dengue Cases In Sri Lanka Surpass 93,000",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-24T02:15:44.953Z",
+    "fbPostId": "1278802861974766_122113131081402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-24T02:16:41.073Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/23/special-audit-flags-unlimited-fuel-allocations-to-parliament-officials",
+    "contentHash": "0b53e00a2d0174c2430c52d14d1b576790c29e187133de2502a6e0e3876c5f22",
+    "headline": "Audit Flags Unlimited Fuel for Parliament Staff",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-24T02:15:44.953Z",
+    "fbPostId": "1278802861974766_122113131243402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-08-24T02:17:21.710Z",
+    "isShadow": false
   }
 ]
