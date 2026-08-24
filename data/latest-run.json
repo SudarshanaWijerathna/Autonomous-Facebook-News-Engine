@@ -1,13 +1,13 @@
 {
-  "runId": "6355ef14",
-  "startedAt": "2026-08-24T02:15:18.415Z",
-  "finishedAt": "2026-08-24T02:17:21.712Z",
+  "runId": "63b964df",
+  "startedAt": "2026-08-24T03:55:41.589Z",
+  "finishedAt": "2026-08-24T03:59:14.099Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -22,26 +22,32 @@
     {
       "url": "https://newsfirst.lk/2026/08/23/hydropower-reservoirs-at-67-capacity-sufficient-until-october",
       "headline": "Hydropower Reservoirs At 67% Capacity",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/08/22/professor-n-d-fernando-appointed-as-new-kelaniya-university-vice-chancellor",
-      "headline": "New Kelaniya University Vice Chancellor Appointed",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/23/live-hand-grenade-found-near-the-house-of-a-close-associate-of-wanathe-chathu",
+      "headline": "Live Hand Grenade Found In Borella",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/23/committee-report-on-presidential-pardons-to-be-submitted-to-cabinet",
+      "headline": "Presidential Pardons Report To Cabinet",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/hrcsl-reviews-measures-to-prevent-recurrence-of-prison-violence",
-      "headline": "HRCSL Reviews Prison Violence Prevention Measures",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/08/23/over-rs-73-million-worth-of-cannabis-seized-in-hambegamuwa",
+      "headline": "Over Rs. 73 Million Worth Of Cannabis Seized",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
