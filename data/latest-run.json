@@ -1,13 +1,13 @@
 {
-  "runId": "63b964df",
-  "startedAt": "2026-08-24T03:55:41.589Z",
-  "finishedAt": "2026-08-24T03:59:14.099Z",
+  "runId": "1417674b",
+  "startedAt": "2026-08-24T06:03:08.059Z",
+  "finishedAt": "2026-08-24T06:06:39.433Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 33,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,22 +20,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/08/23/roadworthiness-tests-to-replace-emission-tests-from-2028",
+      "headline": "Roadworthiness Tests To Replace Emission Tests",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://adaderana.lk/news/cmt6tamzm000h356qi05vc3a1",
+      "headline": "Dengue cases in Sri Lanka surpass 94,000",
+      "reason": "cross-source-duplicate-of-published (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/23/first-randoli-perahera-of-kandy-esala-perahera-takes-to-streets",
+      "headline": "Randoli Perahera of Kandy Esala Perahera Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/23/wimal-gammanpila-dilith-j-among-six-referred-for-contempt-of-court-action",
+      "headline": "Appeal Court Action Against Wimal, Dilith & Co.",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
       "url": "https://newsfirst.lk/2026/08/23/hydropower-reservoirs-at-67-capacity-sufficient-until-october",
       "headline": "Hydropower Reservoirs At 67% Capacity",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/live-hand-grenade-found-near-the-house-of-a-close-associate-of-wanathe-chathu",
-      "headline": "Live Hand Grenade Found In Borella",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/23/committee-report-on-presidential-pardons-to-be-submitted-to-cabinet",
-      "headline": "Presidential Pardons Report To Cabinet",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/23/contempt-probe-against-wimal-udaya-co-taken-to-appeal-court",
+      "headline": "Contempt Probe Against Wimal, Udaya & Co",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
@@ -46,8 +62,8 @@
     {
       "url": "https://newsfirst.lk/2026/08/23/over-rs-73-million-worth-of-cannabis-seized-in-hambegamuwa",
       "headline": "Over Rs. 73 Million Worth Of Cannabis Seized",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
