@@ -1,10 +1,10 @@
 {
-  "runId": "1417674b",
-  "startedAt": "2026-08-24T06:03:08.059Z",
-  "finishedAt": "2026-08-24T06:06:39.433Z",
+  "runId": "04af02c1",
+  "startedAt": "2026-08-24T08:38:42.865Z",
+  "finishedAt": "2026-08-24T08:39:50.764Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -20,30 +20,20 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/roadworthiness-tests-to-replace-emission-tests-from-2028",
-      "headline": "Roadworthiness Tests To Replace Emission Tests",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://adaderana.lk/news/cmt6tamzm000h356qi05vc3a1",
-      "headline": "Dengue cases in Sri Lanka surpass 94,000",
-      "reason": "cross-source-duplicate-of-published (sim=1.00)"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/23/first-randoli-perahera-of-kandy-esala-perahera-takes-to-streets",
-      "headline": "Randoli Perahera of Kandy Esala Perahera Today",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/23/wimal-gammanpila-dilith-j-among-six-referred-for-contempt-of-court-action",
-      "headline": "Appeal Court Action Against Wimal, Dilith & Co.",
+      "url": "https://newsfirst.lk/2026/08/24/second-randoli-perahera-parades-through-historic-kandy-city",
+      "headline": "Second Randoli Perahera Parades Through Kandy",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/hydropower-reservoirs-at-67-capacity-sufficient-until-october",
-      "headline": "Hydropower Reservoirs At 67% Capacity",
+      "url": "https://newsfirst.lk/2026/08/23/live-hand-grenade-found-near-the-house-of-a-close-associate-of-wanathe-chathu",
+      "headline": "Live Hand Grenade Found In Borella",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/23/education-reforms-to-focus-on-local-and-foreign-job-market",
+      "headline": "Education Reforms To Focus on Local & Foreign Jobs",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
@@ -54,16 +44,16 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "url": "https://newsfirst.lk/2026/08/24/police-uncover-alleged-accomplice-in-murder-of-backhoe-saman-s-mother",
+      "headline": "Suspect In Murder of Backhoe Saman's Mother Found",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/23/over-rs-73-million-worth-of-cannabis-seized-in-hambegamuwa",
-      "headline": "Over Rs. 73 Million Worth Of Cannabis Seized",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
