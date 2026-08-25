@@ -1,13 +1,13 @@
 {
-  "runId": "2a1ed67d",
-  "startedAt": "2026-08-25T02:10:58.540Z",
-  "finishedAt": "2026-08-25T02:12:19.302Z",
+  "runId": "f75614e9",
+  "startedAt": "2026-08-25T08:32:48.353Z",
+  "finishedAt": "2026-08-25T08:34:50.665Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -22,31 +22,25 @@
     {
       "url": "https://newsfirst.lk/2026/08/24/rs-974-m-in-loans-to-daya-gamage-linked-companies",
       "headline": "Rs. 974M In Loans To Gamage Firms",
-      "reason": "score-below-threshold (74 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/25/heat-levels-reach-%e2%80%98caution%e2%80%99-category-in-parts-of-sri-lanka",
+      "headline": "Heat Levels Reach ‘Caution’ Category",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/24/rs-100-mn-unaccounted-for-samurdhi-irregularities-during-daya-gamage%e2%80%99s-tenure",
+      "headline": "Samurdhi Irregularities During Gamage’s Tenure",
+      "reason": "max-posts-per-run-reached",
       "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/24/four-suspects-arrested-over-live-grenade-in-borella",
-      "headline": "Four Suspects Arrested Over Live Grenade",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/24/sjb-mp-chaminda-wijesiri-granted-bail-after-18-month-prison-sentence",
-      "headline": "SJB MP Chaminda Wijesiri Granted Bail",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/24/new-u-s-ambassador-eric-meyer-arrives-in-sri-lanka",
-      "headline": "New US Ambassador Eric Meyer Arrives in Sri Lanka",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     }
   ],
