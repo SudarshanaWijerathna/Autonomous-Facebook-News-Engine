@@ -1,7 +1,7 @@
 {
-  "runId": "1fceccb7",
-  "startedAt": "2026-08-24T16:02:57.716Z",
-  "finishedAt": "2026-08-24T16:04:13.507Z",
+  "runId": "2a1ed67d",
+  "startedAt": "2026-08-25T02:10:58.540Z",
+  "finishedAt": "2026-08-25T02:12:19.302Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -20,33 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/24/dengue-cases-reported-this-year-exceed-94-000-in-sri-lanka",
-      "headline": "Dengue Cases Reported This Year Exceed 94,000",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/08/24/rs-974-m-in-loans-to-daya-gamage-linked-companies",
+      "headline": "Rs. 974M In Loans To Gamage Firms",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/08/24/new-public-transport-driver-licensing-system-from-september",
-      "headline": "New Public Transport Driver Licensing System",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/08/24/four-suspects-arrested-over-live-grenade-in-borella",
+      "headline": "Four Suspects Arrested Over Live Grenade",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/08/24/sjb-mp-chaminda-wijesiri-granted-bail-after-18-month-prison-sentence",
       "headline": "SJB MP Chaminda Wijesiri Granted Bail",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 73
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/24/new-u-s-ambassador-eric-meyer-arrives-in-sri-lanka",
+      "headline": "New US Ambassador Eric Meyer Arrives in Sri Lanka",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/24/fire-ravages-hurulu-wewa-reserve-nearly-10-acres-destroyed",
-      "headline": "Fire Ravages Hurulu Wewa Reserve",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
   ],
