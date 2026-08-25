@@ -1,7 +1,7 @@
 {
-  "runId": "7c7035d8",
-  "startedAt": "2026-08-25T10:57:29.362Z",
-  "finishedAt": "2026-08-25T10:58:40.273Z",
+  "runId": "47c44848",
+  "startedAt": "2026-08-25T13:47:43.226Z",
+  "finishedAt": "2026-08-25T13:50:59.707Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -20,20 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/interest-free-loans-for-rice-millers-for-paddy-purchasing",
-      "headline": "Interest-Free Loans for Rice Millers",
+      "url": "https://newsfirst.lk/2026/08/25/bus-lalith-handed-over-to-ccib-public-celebration-erupts-after-extradition-from-dubai",
+      "headline": "'Bus Lalith' Handed Over to CCIB",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/heat-levels-reach-%e2%80%98caution%e2%80%99-category-in-parts-of-sri-lanka",
-      "headline": "Heat Levels Reach ‘Caution’ Category",
+      "url": "https://newsfirst.lk/2026/08/25/%e2%80%98bus-lalith%e2%80%99-brought-back-to-sri-lanka-after-dubai-court-orders-deportation",
+      "headline": "‘Bus Lalith’ Brought Back to Sri Lanka",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/water-supply-restored-after-kelani-river-scare-delays-continue-in-battaramulla-kotte-nugegoda",
-      "headline": "Water Supply Returning, But Some Areas Face Delays",
+      "url": "https://newsfirst.lk/2026/08/25/9-bus-drivers-conductors-arrested-for-drug-use",
+      "headline": "9 Bus Drivers, Conductors Arrested For Drug Use",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/25/water-supply-restoration-underway-across-colombo-and-gampaha",
+      "headline": "Water Supply Restoration Underway Across Colombo",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
@@ -41,19 +47,13 @@
       "url": "https://newsfirst.lk/2026/08/25/indian-defence-minister-rajnath-singh-to-visit-sri-lanka-in-september",
       "headline": "Indian Defence Minister Rajnath Singh To Visit SL",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/24/joint-opp-demands-resignation-of-basl-president",
-      "headline": "Joint Opp Demands Resignation of BASL President",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/25/sri-lanka-moves-to-seize-rs-3-87-bn-in-criminal-assets",
+      "headline": "Sri Lanka to Seize Rs. 3.87 Bn in Criminal Assets",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     }
   ],
   "errors": []
