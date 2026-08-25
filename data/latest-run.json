@@ -1,13 +1,13 @@
 {
-  "runId": "f75614e9",
-  "startedAt": "2026-08-25T08:32:48.353Z",
-  "finishedAt": "2026-08-25T08:34:50.665Z",
+  "runId": "7c7035d8",
+  "startedAt": "2026-08-25T10:57:29.362Z",
+  "finishedAt": "2026-08-25T10:58:40.273Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,27 +20,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/24/rs-974-m-in-loans-to-daya-gamage-linked-companies",
-      "headline": "Rs. 974M In Loans To Gamage Firms",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/08/25/interest-free-loans-for-rice-millers-for-paddy-purchasing",
+      "headline": "Interest-Free Loans for Rice Millers",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/08/25/heat-levels-reach-%e2%80%98caution%e2%80%99-category-in-parts-of-sri-lanka",
       "headline": "Heat Levels Reach ‘Caution’ Category",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/08/24/rs-100-mn-unaccounted-for-samurdhi-irregularities-during-daya-gamage%e2%80%99s-tenure",
-      "headline": "Samurdhi Irregularities During Gamage’s Tenure",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/08/25/water-supply-restored-after-kelani-river-scare-delays-continue-in-battaramulla-kotte-nugegoda",
+      "headline": "Water Supply Returning, But Some Areas Face Delays",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/25/indian-defence-minister-rajnath-singh-to-visit-sri-lanka-in-september",
+      "headline": "Indian Defence Minister Rajnath Singh To Visit SL",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/24/joint-opp-demands-resignation-of-basl-president",
+      "headline": "Joint Opp Demands Resignation of BASL President",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
   ],
