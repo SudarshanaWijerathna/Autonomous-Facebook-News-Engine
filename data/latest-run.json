@@ -1,7 +1,7 @@
 {
-  "runId": "47c44848",
-  "startedAt": "2026-08-25T13:47:43.226Z",
-  "finishedAt": "2026-08-25T13:50:59.707Z",
+  "runId": "37567f1e",
+  "startedAt": "2026-08-25T17:51:17.821Z",
+  "finishedAt": "2026-08-25T17:52:27.779Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
@@ -29,13 +29,7 @@
       "url": "https://newsfirst.lk/2026/08/25/%e2%80%98bus-lalith%e2%80%99-brought-back-to-sri-lanka-after-dubai-court-orders-deportation",
       "headline": "‘Bus Lalith’ Brought Back to Sri Lanka",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/25/9-bus-drivers-conductors-arrested-for-drug-use",
-      "headline": "9 Bus Drivers, Conductors Arrested For Drug Use",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/08/25/water-supply-restoration-underway-across-colombo-and-gampaha",
@@ -44,16 +38,22 @@
       "score": 76
     },
     {
+      "url": "https://newsfirst.lk/2026/08/25/sri-lanka-moves-to-seize-rs-3-87-bn-in-criminal-assets",
+      "headline": "Sri Lanka to Seize Rs. 3.87 Bn in Criminal Assets",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/08/25/indian-defence-minister-rajnath-singh-to-visit-sri-lanka-in-september",
       "headline": "Indian Defence Minister Rajnath Singh To Visit SL",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/sri-lanka-moves-to-seize-rs-3-87-bn-in-criminal-assets",
-      "headline": "Sri Lanka to Seize Rs. 3.87 Bn in Criminal Assets",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 65
     }
   ],
   "errors": []
