@@ -1,13 +1,13 @@
 {
-  "runId": "cf4947fb",
-  "startedAt": "2026-08-26T02:17:31.947Z",
-  "finishedAt": "2026-08-26T02:19:30.561Z",
+  "runId": "d6b1fc0b",
+  "startedAt": "2026-08-26T08:34:04.189Z",
+  "finishedAt": "2026-08-26T08:35:27.180Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,27 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/kehelbaddara-padme-remanded-until-september-3",
-      "headline": "Kehelbaddara Padme Remanded Until September 3",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/08/26/milad-un-nabi-marked-today",
+      "headline": "Milad-Un-Nabi Marked Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/26/proposals-invited-to-lease-29-abandoned-oil-tanks-in-trincomalee",
+      "headline": "Proposals Invited To Lease 29 Abandoned Oil Tanks",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/air-vice-marshal-retd-thushara-indunil-fernando-appointed-new-commissioner-general-of-motor-traffic",
-      "headline": "New Commisioner General of DMT Appointed",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/26/eleven-new-envoys-to-sri-lanka-present-credentials-to-president",
+      "headline": "Eleven New Envoys to Sri Lanka Present Credentials",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/08/26/dolly-parton-queen-of-country-music-dies-at-80",
       "headline": "Dolly Parton, Queen Of Country Music, Dies At 80",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
