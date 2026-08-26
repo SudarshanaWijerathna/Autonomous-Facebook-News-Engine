@@ -1,13 +1,13 @@
 {
-  "runId": "37567f1e",
-  "startedAt": "2026-08-25T17:51:17.821Z",
-  "finishedAt": "2026-08-25T17:52:27.779Z",
+  "runId": "cf4947fb",
+  "startedAt": "2026-08-26T02:17:31.947Z",
+  "finishedAt": "2026-08-26T02:19:30.561Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/25/bus-lalith-handed-over-to-ccib-public-celebration-erupts-after-extradition-from-dubai",
-      "headline": "'Bus Lalith' Handed Over to CCIB",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/25/%e2%80%98bus-lalith%e2%80%99-brought-back-to-sri-lanka-after-dubai-court-orders-deportation",
-      "headline": "‘Bus Lalith’ Brought Back to Sri Lanka",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/25/water-supply-restoration-underway-across-colombo-and-gampaha",
-      "headline": "Water Supply Restoration Underway Across Colombo",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/25/sri-lanka-moves-to-seize-rs-3-87-bn-in-criminal-assets",
-      "headline": "Sri Lanka to Seize Rs. 3.87 Bn in Criminal Assets",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/25/indian-defence-minister-rajnath-singh-to-visit-sri-lanka-in-september",
-      "headline": "Indian Defence Minister Rajnath Singh To Visit SL",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/08/25/kehelbaddara-padme-remanded-until-september-3",
+      "headline": "Kehelbaddara Padme Remanded Until September 3",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "max-posts-per-run-reached",
       "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/25/air-vice-marshal-retd-thushara-indunil-fernando-appointed-new-commissioner-general-of-motor-traffic",
+      "headline": "New Commisioner General of DMT Appointed",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/26/dolly-parton-queen-of-country-music-dies-at-80",
+      "headline": "Dolly Parton, Queen Of Country Music, Dies At 80",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []
