@@ -1,13 +1,13 @@
 {
-  "runId": "d6b1fc0b",
-  "startedAt": "2026-08-26T08:34:04.189Z",
-  "finishedAt": "2026-08-26T08:35:27.180Z",
+  "runId": "23e4c26a",
+  "startedAt": "2026-08-27T10:43:16.294Z",
+  "finishedAt": "2026-08-27T10:45:51.198Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,34 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/26/milad-un-nabi-marked-today",
-      "headline": "Milad-Un-Nabi Marked Today",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "url": "https://newsfirst.lk/2026/08/27/three-killed-including-10-day-old-baby-in-anuradhapura-road-accident",
+      "headline": "03 Killed, Including 10-Day-Old-Baby, In A'Pura",
+      "reason": "url-duplicate-within-batch"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/26/proposals-invited-to-lease-29-abandoned-oil-tanks-in-trincomalee",
-      "headline": "Proposals Invited To Lease 29 Abandoned Oil Tanks",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/08/27/sri-lanka-railways-bans-social-media-use-during-duty-hours",
+      "headline": "SL Railways Bans Social Media During Duty Hours",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/26/eleven-new-envoys-to-sri-lanka-present-credentials-to-president",
-      "headline": "Eleven New Envoys to Sri Lanka Present Credentials",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/08/27/fire-breaks-out-at-a-house-in-kinsey-junction-borella",
+      "headline": "Fire Breaks Out At A House In Borella",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/26/dolly-parton-queen-of-country-music-dies-at-80",
-      "headline": "Dolly Parton, Queen Of Country Music, Dies At 80",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/08/27/british-actor-tim-curry-dies-at-80",
+      "headline": "British Actor Tim Curry, Dies at 80",
+      "reason": "max-posts-per-run-reached",
+      "score": 48
     }
   ],
   "errors": []
