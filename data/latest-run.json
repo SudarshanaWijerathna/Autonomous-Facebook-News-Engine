@@ -1,13 +1,13 @@
 {
-  "runId": "cd8b2faa",
-  "startedAt": "2026-08-27T13:54:21.299Z",
-  "finishedAt": "2026-08-27T13:56:18.563Z",
+  "runId": "e317fc5f",
+  "startedAt": "2026-08-27T16:38:19.559Z",
+  "finishedAt": "2026-08-27T16:39:29.662Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 32,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -17,6 +17,11 @@
     {
       "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
       "headline": "AI Could Transform Developing Economies",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/final-randoli-perahera-of-kandy-esala-perahera-to-take-to-the-streets-tonight",
+      "headline": "Final Randoli of Kandy Esala Perahera Today (27)",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -33,31 +38,37 @@
       "url": "https://newsfirst.lk/2026/08/27/24-hour-hotlines-for-sri-lankans-affected-by-nepal-floods",
       "headline": "24-Hour Hotlines for Nationals in Nepal",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/three-killed-including-10-day-old-baby-in-anuradhapura-road-accident",
+      "headline": "Three Killed, In Anuradhapura Road Accident",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 79
     },
     {
       "url": "https://newsfirst.lk/2026/08/27/el-ni%c3%b1o-affect-84-545-people-across-seven-districts",
       "headline": "El Niño Affect 84,545 People Across 07 Districts",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/08/27/one-dead-in-collision-at-unprotected-railway-crossing",
       "headline": "One Dead In Collision At Unprotected Rail Crossing",
-      "reason": "score-below-threshold (72 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/27/london-neurosurgeons-perform-first-successful-ai-assisted-operation-to-remove-brain-tumour",
-      "headline": "World's 1st AI-Assisted Brain Surgery, Successful",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "url": "https://newsfirst.lk/2026/08/27/nepal-pm-calls-flash-floods-an-%e2%80%9cunprecedented-disaster%e2%80%9d-assures-swift-rescue-efforts",
+      "headline": "Nepal PM Assures Swift Rescue Efforts",
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     }
   ],
   "errors": []
