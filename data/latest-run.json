@@ -1,10 +1,10 @@
 {
-  "runId": "e317fc5f",
-  "startedAt": "2026-08-27T16:38:19.559Z",
-  "finishedAt": "2026-08-27T16:39:29.662Z",
+  "runId": "8247cb21",
+  "startedAt": "2026-08-27T22:47:49.433Z",
+  "finishedAt": "2026-08-27T22:49:00.715Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 32,
+  "afterDedup": 33,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -25,11 +25,6 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/27/rs-3-bn-allocated-to-compensate-farmers-for-el-ni%c3%b1o-related-crop-damage",
-      "headline": "Rs.3B Allocated To Compensate Farmers from El Niño",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/27/three-killed-including-10-day-old-baby-in-anuradhapura-road-accident",
       "headline": "03 Killed, Including 10-Day-Old-Baby, In A'Pura",
       "reason": "url-duplicate-within-batch"
@@ -41,34 +36,34 @@
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/08/27/three-killed-including-10-day-old-baby-in-anuradhapura-road-accident",
-      "headline": "Three Killed, In Anuradhapura Road Accident",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 79
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/27/el-ni%c3%b1o-affect-84-545-people-across-seven-districts",
-      "headline": "El Niño Affect 84,545 People Across 07 Districts",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/27/one-dead-in-collision-at-unprotected-railway-crossing",
       "headline": "One Dead In Collision At Unprotected Rail Crossing",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/foreign-minister-vijitha-herath-discusses-disaster-situation-in-nepal-with-nepalese-counterpart",
+      "headline": "SL Reaffirms Support For Nepal Amid Floods",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/london-neurosurgeons-perform-first-successful-ai-assisted-operation-to-remove-brain-tumour",
+      "headline": "World's 1st AI-Assisted Brain Surgery, Successful",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/08/27/nepal-pm-calls-flash-floods-an-%e2%80%9cunprecedented-disaster%e2%80%9d-assures-swift-rescue-efforts",
       "headline": "Nepal PM Assures Swift Rescue Efforts",
-      "reason": "score-below-threshold (62 < 65)",
-      "score": 62
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
     }
   ],
   "errors": []
