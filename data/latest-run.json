@@ -1,13 +1,13 @@
 {
-  "runId": "43cfe2cd",
-  "startedAt": "2026-08-28T00:28:57.994Z",
-  "finishedAt": "2026-08-28T00:30:56.994Z",
+  "runId": "7bb0249d",
+  "startedAt": "2026-08-28T01:32:46.419Z",
+  "finishedAt": "2026-08-28T01:33:54.581Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 33,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,27 +20,49 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/27/three-killed-including-10-day-old-baby-in-anuradhapura-road-accident",
-      "headline": "Three Killed, In Anuradhapura Road Accident",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/08/27/el-ni%c3%b1o-affect-84-545-people-across-seven-districts",
+      "headline": "El Niño Affect 84,545 People Across 07 Districts",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/24-hour-hotlines-for-sri-lankans-affected-by-nepal-floods",
+      "headline": "24-Hour Hotlines for Nationals in Nepal",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/08/27/one-dead-in-collision-at-unprotected-railway-crossing",
       "headline": "One Dead In Collision At Unprotected Rail Crossing",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/heat-index-to-remain-at-%e2%80%98attention%e2%80%99-level-in-8-districts-tomorrow",
+      "headline": "Heat Index To Remain At ‘Attention’ Level",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/27/foreign-minister-vijitha-herath-discusses-disaster-situation-in-nepal-with-nepalese-counterpart",
       "headline": "SL Reaffirms Support For Nepal Amid Floods",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/27/london-neurosurgeons-perform-first-successful-ai-assisted-operation-to-remove-brain-tumour",
       "headline": "World's 1st AI-Assisted Brain Surgery, Successful",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/27/nepal-pm-calls-flash-floods-an-%e2%80%9cunprecedented-disaster%e2%80%9d-assures-swift-rescue-efforts",
+      "headline": "Nepal PM Assures Swift Rescue Efforts",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
