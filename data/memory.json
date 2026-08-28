@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/13/cid-records-statements-from-over-150-people-negombo-prison-clash-probe-continues",
-    "contentHash": "ac37f788b2f111b5167dc31761b3f181ff44c2ae9f5b3d91d8d20356f3dc6df1",
-    "headline": "CID Records Statements From Over 150 People",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-13T15:41:20.857Z",
-    "fbPostId": "1278802861974766_122095010745402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-13T15:42:10.355Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/13/survey-launched-on-incomplete-government-housing-projects-in-north-and-east",
-    "contentHash": "5a9c5986b78ad65c2fd481ee5891b2f4b41b85de14e9b30cdc312a9a0654545b",
-    "headline": "Survey Launched on Incomplete Gov.Housing Projects",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-13T15:41:20.857Z",
-    "fbPostId": "1278802861974766_122095011075402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-13T15:42:49.629Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://adaderana.lk/news/cmrje9s4j000n356pbwkrqkck",
-    "contentHash": "878d1ecc31a2d0e33e06de21f240efe6296903901f2aa0ad07e3aa1f34adb271",
-    "headline": "Oil prices jump 5% after Donald Trump reimposes Iran blockade",
-    "sourceId": "ada-derana-en",
-    "publishedAt": "2026-07-13T17:27:54.019Z",
-    "fbPostId": "1278802861974766_122095053897402039",
-    "category": "Business",
-    "score": 88,
-    "addedAt": "2026-07-13T17:29:12.226Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://adaderana.lk/news/cmrjg8rkg000p356pjihoftsf",
-    "contentHash": "843b8a2d13f5a18f05f384e84ebdc1bc8fb83eb8af5225a305ed49d0c7ef452a",
-    "headline": "Colombo–KKS intercity train service to resume daily operations",
-    "sourceId": "ada-derana-en",
-    "publishedAt": "2026-07-13T17:27:54.019Z",
-    "fbPostId": "1278802861974766_122095054119402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-13T17:29:25.037Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/13/opposition-split-six-parties-announce-independent-position",
     "contentHash": "c487f26e7e85bf8b8e987833a871ee89171c5e22adcb04509dbf950911ff9840",
     "headline": "Opposition Split? 6 Parties To Go Independent?",
@@ -2157,6 +2109,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-08-27T13:56:18.562Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/27/24-hour-hotlines-for-sri-lankans-affected-by-nepal-floods",
+    "contentHash": "a6bff6f24e76e4aa507260fc972e9bc2f87286f543edf5a56920358076ca7f16",
+    "headline": "24-Hour Hotlines for Nationals in Nepal",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-28T00:29:20.378Z",
+    "fbPostId": "1278802861974766_122113985397402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-28T00:30:13.950Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/27/el-ni%c3%b1o-affect-84-545-people-across-seven-districts",
+    "contentHash": "3e292e21b4dc87e56f4e5ddff92ded22ba52f310d9eef38d0046d66277087fa7",
+    "headline": "El Niño Affect 84,545 People Across 07 Districts",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-28T00:29:20.378Z",
+    "fbPostId": "1278802861974766_122113985775402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-08-28T00:30:56.993Z",
     "isShadow": false
   }
 ]
