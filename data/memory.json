@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/13/opposition-split-six-parties-announce-independent-position",
-    "contentHash": "c487f26e7e85bf8b8e987833a871ee89171c5e22adcb04509dbf950911ff9840",
-    "headline": "Opposition Split? 6 Parties To Go Independent?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-14T03:51:01.580Z",
-    "fbPostId": "1278802861974766_122095264701402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-07-14T03:51:50.623Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/13/pillayan-back-to-remand-over-killings-in-2008",
-    "contentHash": "2ebc4af0be11d7d61a57ec046f472b474a57e6e1733bbb4c44041b815c490359",
-    "headline": "Pillayan Back To Remand Over Killings In 2008",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-14T03:51:01.579Z",
-    "fbPostId": "1278802861974766_122095264761402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-07-14T03:51:58.050Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/13/negombo-prison-riot-weapons-clubs-and-improvised-arms-handed-to-court",
-    "contentHash": "fd410c438825e79f85bcf2662dd1505b5d3a84b0760c1d20811e5614e9ef6be1",
-    "headline": "Weapons, Clubs, Improvised Arms Handed to Court",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-14T07:25:17.279Z",
-    "fbPostId": "1278802861974766_122095331103402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-14T07:26:17.587Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/10/can-governments-beat-corruption-south-korea-s-answer-is-data-transparency-and-ai",
-    "contentHash": "13b694af7a9adab3188a30acef85d92245d615314b005fe0d9bb536e088ab264",
-    "headline": "Is This World's Smartest Anti-Corruption System?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-14T07:25:17.279Z",
-    "fbPostId": "1278802861974766_122095331187402039",
-    "category": "AI & Tech",
-    "score": 78,
-    "addedAt": "2026-07-14T07:26:25.275Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/14/dengue-cases-near-70-000-special-control-drive-to-begin-in-11-districts",
     "contentHash": "51a7df06339497525527804208bf52dea6673029c349b28ddbfee19a40ea6be9",
     "headline": "Dengue Cases Near 70,000",
@@ -2133,6 +2085,18 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-08-28T00:30:56.993Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/28/email-address-to-report-exploitative-social-media-groups-dir-cid-police-gov-lk",
+    "contentHash": "368dc623a90289b39b26d9bb6e26087c8d04a1fbfb998c31b53aac72e4e04a57",
+    "headline": "Email To Report Exploitative Social Media Groups",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-28T12:21:28.330Z",
+    "fbPostId": "1278802861974766_122114112015402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-28T12:23:53.114Z",
     "isShadow": false
   }
 ]
