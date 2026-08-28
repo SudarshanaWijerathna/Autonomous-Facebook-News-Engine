@@ -1,13 +1,13 @@
 {
-  "runId": "446aa9b6",
-  "startedAt": "2026-08-28T12:21:01.685Z",
-  "finishedAt": "2026-08-28T12:23:53.116Z",
+  "runId": "60e650db",
+  "startedAt": "2026-08-28T22:52:50.813Z",
+  "finishedAt": "2026-08-28T22:54:09.910Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
-  "scored": 5,
-  "selected": 1,
-  "published": 1,
+  "afterDedup": 34,
+  "scored": 6,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,16 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/28/sun-directly-over-sri-lanka-authorities-warn-of-rising-heat-and-worsening-drought",
-      "headline": "Sri Lanka Swelters Under Extreme Heat Warning",
+      "url": "https://newsfirst.lk/2026/08/28/email-address-to-report-exploitative-social-media-groups-dir-cid-police-gov-lk",
+      "headline": "Email To Report Exploitative Social Media Groups",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/28/police-hunt-toxic-social-media-groups-targeting-women-and-children",
+      "headline": "Police Hunt Toxic Social Media Groups",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 83
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/08/28/northern-railway-services-disrupted-after-train-derails-at-pothuhera",
       "headline": "Northern Rail Halted After Derailment at Pothuhera",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/28/you-are-our-own-people-president-promises-greater-rights-for-estate-communities",
+      "headline": "AKD Promises Greater Rights for Estate Communities",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/08/28/after-years-in-an-abandoned-tea-factory-50-families-finally-get-permanent-homes",
@@ -38,17 +49,17 @@
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/08/28/litigation-is-not-always-the-answer-justice-kodagoda-urges-rethink-of-legal-system",
-      "headline": "'Litigation Is Not Always the Answer': SC Justice",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/28/king-harald-v-of-norway-europe%e2%80%99s-oldest-monarch-dies-after-35-years-on-the-throne",
+      "headline": "Norway's King Harald dies at 89",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/08/28/expressways-earn-over-rs-120-million-in-two-days",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
