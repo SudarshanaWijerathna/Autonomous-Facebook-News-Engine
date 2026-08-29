@@ -1,10 +1,10 @@
 {
-  "runId": "23ef03c4",
-  "startedAt": "2026-08-29T15:08:55.070Z",
-  "finishedAt": "2026-08-29T15:11:36.438Z",
+  "runId": "edea6a34",
+  "startedAt": "2026-08-29T16:57:49.536Z",
+  "finishedAt": "2026-08-29T16:59:10.852Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 33,
   "scored": 6,
   "selected": 1,
   "published": 1,
@@ -25,34 +25,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/dengue-control-programmes-before-commencement-of-new-school-term",
-      "headline": "Dengue Control Programmes Before New School Term",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/08/29/three-murders-reported-in-tangalle-anuradhapura-and-galle",
+      "headline": "Three Murders Reported",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/a-special-programme-launched-to-address-drinking-water-shortages-in-the-dry-zone",
-      "headline": "Special Programme To Address Water Shortages",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/29/ravi-karunanayake-fails-to-appear-before-ciaboc-for-fourth-time",
+      "headline": "Ravi Karunanayake Fails To Appear Before CIABOC",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/29/dengue-control-programmes-before-commencement-of-new-school-term",
+      "headline": "Dengue Control Programmes Before New School Term",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/08/29/accident-along-horana-colombo-road-blocks-one-lane",
       "headline": "Accident along Horana-Colombo road blocks one lane",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/08/29/four-injured-from-bus-accident-in-nawalapitiya",
       "headline": "Four Injured From Bus Accident In Nawalapitiya",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     }
   ],
   "errors": []
