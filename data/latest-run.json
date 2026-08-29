@@ -1,13 +1,13 @@
 {
-  "runId": "b1f12a70",
-  "startedAt": "2026-08-29T13:30:26.662Z",
-  "finishedAt": "2026-08-29T13:32:36.050Z",
+  "runId": "23ef03c4",
+  "startedAt": "2026-08-29T15:08:55.070Z",
+  "finishedAt": "2026-08-29T15:11:36.438Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,28 +20,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/28/president-pledges-new-clauses-to-protect-estate-community-rights-in-future-agreements",
-      "headline": "President Pledges Estate Rights in New Agreements",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/29/sri-lanka-beat-kazakhstan-497-in-the-asia-rugby-men-s-sevens-series-2026",
+      "headline": "Sri Lanka Beat Kazakhstan",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/29/dengue-control-programmes-before-commencement-of-new-school-term",
+      "headline": "Dengue Control Programmes Before New School Term",
+      "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/17-member-committee-appointed-to-amend-labour-laws",
-      "headline": "17-Member Committee Appointed",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/29/accident-along-horana-colombo-road-blocks-one-lane",
-      "headline": "Accident along Horana-Colombo road blocks one lane",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/08/29/a-special-programme-launched-to-address-drinking-water-shortages-in-the-dry-zone",
+      "headline": "Special Programme To Address Water Shortages",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/29/accident-along-horana-colombo-road-blocks-one-lane",
+      "headline": "Accident along Horana-Colombo road blocks one lane",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/29/four-injured-from-bus-accident-in-nawalapitiya",
+      "headline": "Four Injured From Bus Accident In Nawalapitiya",
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
     }
   ],
   "errors": []
