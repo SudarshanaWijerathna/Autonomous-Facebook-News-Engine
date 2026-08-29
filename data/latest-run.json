@@ -1,13 +1,13 @@
 {
-  "runId": "60e650db",
-  "startedAt": "2026-08-28T22:52:50.813Z",
-  "finishedAt": "2026-08-28T22:54:09.910Z",
+  "runId": "b1f12a70",
+  "startedAt": "2026-08-29T13:30:26.662Z",
+  "finishedAt": "2026-08-29T13:32:36.050Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,45 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/28/email-address-to-report-exploitative-social-media-groups-dir-cid-police-gov-lk",
-      "headline": "Email To Report Exploitative Social Media Groups",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/28/police-hunt-toxic-social-media-groups-targeting-women-and-children",
-      "headline": "Police Hunt Toxic Social Media Groups",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/28/northern-railway-services-disrupted-after-train-derails-at-pothuhera",
-      "headline": "Northern Rail Halted After Derailment at Pothuhera",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/28/you-are-our-own-people-president-promises-greater-rights-for-estate-communities",
-      "headline": "AKD Promises Greater Rights for Estate Communities",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/28/after-years-in-an-abandoned-tea-factory-50-families-finally-get-permanent-homes",
-      "headline": "Navodayapuram Homes for 50 Landslide Families",
-      "reason": "score-below-threshold (74 < 75)",
+      "url": "https://newsfirst.lk/2026/08/28/president-pledges-new-clauses-to-protect-estate-community-rights-in-future-agreements",
+      "headline": "President Pledges Estate Rights in New Agreements",
+      "reason": "max-posts-per-run-reached",
       "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/29/17-member-committee-appointed-to-amend-labour-laws",
+      "headline": "17-Member Committee Appointed",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/29/accident-along-horana-colombo-road-blocks-one-lane",
+      "headline": "Accident along Horana-Colombo road blocks one lane",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/28/king-harald-v-of-norway-europe%e2%80%99s-oldest-monarch-dies-after-35-years-on-the-throne",
-      "headline": "Norway's King Harald dies at 89",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []

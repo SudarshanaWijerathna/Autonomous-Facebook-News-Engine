@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/14/dengue-cases-near-70-000-special-control-drive-to-begin-in-11-districts",
-    "contentHash": "51a7df06339497525527804208bf52dea6673029c349b28ddbfee19a40ea6be9",
-    "headline": "Dengue Cases Near 70,000",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-15T05:34:40.846Z",
-    "fbPostId": "1278802861974766_122095923423402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-15T05:35:35.104Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/14/sri-lanka-among-world%e2%80%99s-top-50-food-destinations-for-2026",
-    "contentHash": "ce81b26f203419d24d0c6c72d8e9d0bfcc535daea59bf2b08468a48c2ab36a76",
-    "headline": "Sri Lanka Among World’s Top 50 Food Destinations",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-15T05:34:40.843Z",
-    "fbPostId": "1278802861974766_122095923579402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-07-15T05:35:44.754Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/14/international-probes-cleared-salley-of-easter-attacks-allegations-says-lawyer",
-    "contentHash": "fe48090a8f351b25bd4a346986179bc7a59e563d41f8d3b9e863463526b3398b",
-    "headline": "Court Hears Claims of Missed Warnings",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-15T07:29:12.940Z",
-    "fbPostId": "1278802861974766_122095974819402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-15T07:30:03.552Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/15/two-russian-firms-registered-as-fuel-suppliers-to-sri-lanka",
-    "contentHash": "1f25f8457fedc834c63d66d86ccdacf4c44e6278a33ade7a1ab0620f3d221577",
-    "headline": "2 Russian Firms Registered as Fuel Suppliers to SL",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-15T07:29:12.936Z",
-    "fbPostId": "1278802861974766_122095974993402039",
-    "category": "Business",
-    "score": 82,
-    "addedAt": "2026-07-15T07:30:10.436Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/15/wimal-weerawansa%e2%80%99s-brother-arrested-over-misuse-of-state-vehicles-and-fuel",
     "contentHash": "7d35ad990b80f6a2d76713016c392bf0934e803969071164a8bf9c54d69be49c",
     "headline": "Wimal Weerawansa’s Brother Arrested",
@@ -2097,6 +2049,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-08-28T12:23:53.114Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/29/reservoir-water-levels-drop-to-34-7-amid-dry-spell",
+    "contentHash": "5782e16b2b739ef84df3e52751ba6404f869546e743201cb1169773171214440",
+    "headline": "Reservoir Water Levels Drop to 34.7%",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-29T13:30:54.041Z",
+    "fbPostId": "1278802861974766_122114338371402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-29T13:31:57.674Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/29/sri-lanka-beat-kazakhstan-497-in-the-asia-rugby-men-s-sevens-series-2026",
+    "contentHash": "6437f9c2982871694019f53d3ef0a703b5ea583a20fb2156f420fa1cf7b3f50d",
+    "headline": "Sri Lanka Beat Kazakhstan",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-29T13:30:54.040Z",
+    "fbPostId": "1278802861974766_122114338563402039",
+    "category": "Sports",
+    "score": 76,
+    "addedAt": "2026-08-29T13:32:36.049Z",
     "isShadow": false
   }
 ]
