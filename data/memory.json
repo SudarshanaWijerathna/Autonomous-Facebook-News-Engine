@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/15/wimal-weerawansa%e2%80%99s-brother-arrested-over-misuse-of-state-vehicles-and-fuel",
-    "contentHash": "7d35ad990b80f6a2d76713016c392bf0934e803969071164a8bf9c54d69be49c",
-    "headline": "Wimal Weerawansa’s Brother Arrested",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-16T05:43:20.467Z",
-    "fbPostId": "1278802861974766_122096573865402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-16T05:44:11.716Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/14/can-sri-lanka-get-its-stolen-assets-back-unodc-says-the-door-is-open",
-    "contentHash": "63b8e464c68a7392e2f6d1f6076c49f06ebdaf55ab26838ae0aa196110d6c87c",
-    "headline": "Can Sri Lanka Get Its Stolen Assets Back?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-16T05:43:20.466Z",
-    "fbPostId": "1278802861974766_122096573943402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-16T05:44:24.686Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/16/legal-action-against-those-setting-forest-fires",
-    "contentHash": "73b7df4975ead298c4fc230ed6b05d0812c35ac3051980b4c88c28a74ea68b05",
-    "headline": "Legal Action Against Those Setting Forest Fires",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-16T07:36:15.863Z",
-    "fbPostId": "1278802861974766_122096620353402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-07-16T07:37:14.165Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
     "contentHash": "44d900b4ec2caa773bb43b6e389b1852af7cc8f568e6a16ef9cf6e186d95dda4",
     "headline": "Sri Lanka’s First AI-Enabled Surgery",
@@ -2097,6 +2061,30 @@
     "category": "Sri Lanka",
     "score": 82,
     "addedAt": "2026-08-29T16:59:10.851Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/29/iranian-fuel-tankers-anchored-outside-sri-lanka-s-exclusive-economic-zone-says-foreign-ministry",
+    "contentHash": "aacc6714b6e4da90bfcad8b4b6b147facc348060fdb17b85840f0fc4661638cf",
+    "headline": "Iranian Fuel Tankers Anchored Outside SL's EEZ",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-30T09:00:04.606Z",
+    "fbPostId": "1278802861974766_122114504283402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-08-30T09:00:56.369Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/30/24-hour-detention-orders-for-two-suspects-over-port-city-murder",
+    "contentHash": "0abcf354b05d91fb9a5f40de244386d9b0430c7738a3cb322cf660f0d060c75d",
+    "headline": "24-Hour Detention for 2 Port City Murder Suspects",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-30T09:00:04.605Z",
+    "fbPostId": "1278802861974766_122114504517402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-08-30T09:01:38.499Z",
     "isShadow": false
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "runId": "2f37798f",
-  "startedAt": "2026-08-30T06:01:18.005Z",
-  "finishedAt": "2026-08-30T06:02:27.946Z",
+  "runId": "adfd17cc",
+  "startedAt": "2026-08-30T08:59:38.518Z",
+  "finishedAt": "2026-08-30T09:01:38.501Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/dengue-control-programmes-before-commencement-of-new-school-term",
-      "headline": "Dengue Control Programmes Before New School Term",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/29/ravi-karunanayake-fails-to-appear-before-ciaboc-for-fourth-time",
+      "headline": "Ravi Karunanayake Fails To Appear Before CIABOC",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/minister-nalinda-jayatissa-speaks-on-possible-date-for-22nd-amendment-debate",
-      "headline": "Possible Date For 22nd Amendment Debate",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/08/29/dengue-control-programmes-before-commencement-of-new-school-term",
+      "headline": "Dengue Control Programmes Before New School Term",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/29/a-special-programme-launched-to-address-drinking-water-shortages-in-the-dry-zone",
       "headline": "Special Programme To Address Water Shortages",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/30/six-injured-in-a-van-accident-in-kesbewa",
-      "headline": "Six Injured in a Van Accident in Kesbewa",
-      "reason": "score-below-threshold (63 < 75)",
-      "score": 63
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/29/four-injured-from-bus-accident-in-nawalapitiya",
-      "headline": "Four Injured From Bus Accident In Nawalapitiya",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []
