@@ -1,10 +1,10 @@
 {
-  "runId": "61661a84",
-  "startedAt": "2026-08-29T19:49:54.655Z",
-  "finishedAt": "2026-08-29T19:51:38.185Z",
+  "runId": "2f37798f",
+  "startedAt": "2026-08-30T06:01:18.005Z",
+  "finishedAt": "2026-08-30T06:02:27.946Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 32,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -20,37 +20,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/rs-80-billion-allocated-to-introduce-electric-trains-in-sl",
-      "headline": "Rs. 80 Bn Allocated To Introduce Electric Trains",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/29/sri-lanka-beat-kazakhstan-497-in-the-asia-rugby-men-s-sevens-series-2026",
-      "headline": "Sri Lanka Beat Kazakhstan",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/29/three-murders-reported-in-tangalle-anuradhapura-and-galle",
-      "headline": "Three Murders Reported",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/29/ravi-karunanayake-fails-to-appear-before-ciaboc-for-fourth-time",
-      "headline": "Ravi Karunanayake Fails To Appear Before CIABOC",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/08/29/dengue-control-programmes-before-commencement-of-new-school-term",
       "headline": "Dengue Control Programmes Before New School Term",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/29/minister-nalinda-jayatissa-speaks-on-possible-date-for-22nd-amendment-debate",
+      "headline": "Possible Date For 22nd Amendment Debate",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/29/a-special-programme-launched-to-address-drinking-water-shortages-in-the-dry-zone",
@@ -59,16 +38,22 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/four-injured-from-bus-accident-in-nawalapitiya",
-      "headline": "Four Injured From Bus Accident In Nawalapitiya",
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/30/six-injured-in-a-van-accident-in-kesbewa",
+      "headline": "Six Injured in a Van Accident in Kesbewa",
       "reason": "score-below-threshold (63 < 75)",
       "score": 63
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/accident-along-horana-colombo-road-blocks-one-lane",
-      "headline": "Accident along Horana-Colombo road blocks one lane",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/08/29/four-injured-from-bus-accident-in-nawalapitiya",
+      "headline": "Four Injured From Bus Accident In Nawalapitiya",
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
     }
   ],
   "errors": []
