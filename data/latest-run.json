@@ -1,10 +1,10 @@
 {
-  "runId": "1e0445ef",
-  "startedAt": "2026-08-31T09:27:08.645Z",
-  "finishedAt": "2026-08-31T09:29:18.055Z",
+  "runId": "ac9ee56d",
+  "startedAt": "2026-08-31T11:44:27.545Z",
+  "finishedAt": "2026-08-31T11:46:35.062Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 34,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,20 +20,13 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/31/30-petitions-filed-against-and-in-support-of-22nd-amendment",
-      "headline": "30 Petitions Filed Against and in Support of 22A",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/08/31/no-more-governance-chaos-new-constitution-aims-to-reshape-sri-lanka-cricket",
+      "headline": "New Constitution Aims to Reshape Sri Lanka Cricket",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/31/four-bodies-recovered-after-going-missing-while-bathing-at-pamunugama-beach",
-      "headline": "Bodies of Four Missing Bathers Recovered",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/31/atlas-angel-ii-us-sri-lanka-forces-train-together-for-future-emergencies",
-      "headline": "Atlas Angel II: US-Sri Lanka Forces Train Together",
+      "url": "https://newsfirst.lk/2026/08/31/money-laundering-case-against-yoshitha-grandmother-set-for-hearing",
+      "headline": "Pre-Trial Conference Scheduled Against Yoshitha",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
@@ -42,6 +35,18 @@
       "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "max-posts-per-run-reached",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/31/nepal-floods-death-toll-crosses-900-4000-remain-missing",
+      "headline": "Nepal Floods Death Toll Crosses 900, 4000+ Missing",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/31/cricketers-win-relief-over-advance-personal-income-tax",
+      "headline": "Cricketers Win Relief Over APIT",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []
