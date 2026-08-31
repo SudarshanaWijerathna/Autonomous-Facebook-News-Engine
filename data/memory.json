@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/17/cpc-to-build-seven-new-oil-tanks-in-muthurajawela",
-    "contentHash": "097204c5549e9d408e3d315c7cb4dc29ff1a2e63a3bf73390106edef690a294b",
-    "headline": "CPC To Build Seven New Oil Tanks In Muthurajawela",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-17T11:49:37.757Z",
-    "fbPostId": "1278802861974766_122097344103402039",
-    "category": "Business",
-    "score": 78,
-    "addedAt": "2026-07-17T11:50:34.062Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/17/former-igp-c-d-wickramaratne-dies-after-shooting-himself",
-    "contentHash": "caafc157c48b7c0eb0c7fffc1425ef1ce5cea6402529d1b0df1c64b4498613bc",
-    "headline": "Former IGP C.D. Wickramaratne Dies",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-17T14:42:39.064Z",
-    "fbPostId": "1278802861974766_122097421125402039",
-    "category": "Sri Lanka",
-    "score": 94,
-    "addedAt": "2026-07-17T14:43:35.778Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
     "contentHash": "c1612491fde5c00010cd912a33ef083ba6097e61484829b93baafbc73bef238f",
     "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
@@ -2097,6 +2073,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-08-31T11:46:35.061Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/31/sri-lanka-exports-cross-us-10-bn-mark-in-first-seven-months-of-2026",
+    "contentHash": "04b3abb022f6792ec31ddeabc87afbf1c67f61b79f38d374cf6a3eba06cdc90f",
+    "headline": "Exports Smash US$10 Billion Milestone in 2026",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-31T17:40:10.833Z",
+    "fbPostId": "1278802861974766_122114821431402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-08-31T17:41:03.415Z",
     "isShadow": false
   }
 ]
