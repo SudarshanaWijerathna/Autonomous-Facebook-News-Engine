@@ -1,7 +1,7 @@
 {
-  "runId": "3258aa61",
-  "startedAt": "2026-08-31T19:22:43.803Z",
-  "finishedAt": "2026-08-31T19:23:54.591Z",
+  "runId": "93224f39",
+  "startedAt": "2026-08-31T20:55:22.594Z",
+  "finishedAt": "2026-08-31T20:56:30.238Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 33,
@@ -39,13 +39,7 @@
       "url": "https://newsfirst.lk/2026/08/31/five-judge-supreme-court-bench-to-hear-petitions-on-22nd-amendment",
       "headline": "Five-Judge SC Bench to Hear Petitions On 22A",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/31/ravi-karunanayake-granted-bail-after-arrest-in-lotteries-board-probe",
-      "headline": "Ravi Karunanayake Granted Bail After Arrest",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/08/31/follow-the-money-minister-declares-new-front-in-sri-lanka-s-war-on-crime",
@@ -56,12 +50,18 @@
     {
       "url": "https://newsfirst.lk/2026/08/31/bakers-announce-rs-10-increase-on-450g-loaf-of-bread",
       "headline": "Bakers Announce Rs. 10 Increase on 450g Loaf",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/31/celebrated-model-chula-padmendra-passes-away-aged-46",
+      "headline": "Celebrated Model Chula Padmendra Passes Away",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     }
