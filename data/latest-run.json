@@ -1,13 +1,13 @@
 {
-  "runId": "9c1f89b6",
-  "startedAt": "2026-08-30T14:54:41.041Z",
-  "finishedAt": "2026-08-30T14:57:27.057Z",
+  "runId": "1e0445ef",
+  "startedAt": "2026-08-31T09:27:08.645Z",
+  "finishedAt": "2026-08-31T09:29:18.055Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,44 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/iranian-fuel-tankers-anchored-outside-sri-lanka-s-exclusive-economic-zone-says-foreign-ministry",
-      "headline": "Iranian Fuel Tankers Anchored Outside SL's EEZ",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/08/31/30-petitions-filed-against-and-in-support-of-22nd-amendment",
+      "headline": "30 Petitions Filed Against and in Support of 22A",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/08/29/ravi-karunanayake-fails-to-appear-before-ciaboc-for-fourth-time",
-      "headline": "Ravi Karunanayake Fails To Appear Before CIABOC",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/08/31/four-bodies-recovered-after-going-missing-while-bathing-at-pamunugama-beach",
+      "headline": "Bodies of Four Missing Bathers Recovered",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/08/30/chief-of-defence-staff-post-set-to-be-abolished",
-      "headline": "Chief of Defence Staff Post Set to Be Abolished",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/30/special-transport-services-deployed-to-ease-post-holiday-travel-to-colombo",
-      "headline": "Special Transport Services for Colombo Travel",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/08/31/atlas-angel-ii-us-sri-lanka-forces-train-together-for-future-emergencies",
+      "headline": "Atlas Angel II: US-Sri Lanka Forces Train Together",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/30/el-ni%c3%b1o-impact-on-ocean-and-fish-stocks-under-study",
-      "headline": "El Niño Impact on Fisheries Studied",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/30/six-injured-in-a-van-accident-in-kesbewa",
-      "headline": "Six Injured in a Van Accident in Kesbewa",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []

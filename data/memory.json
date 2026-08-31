@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/16/medical-renaissance-sri-lanka%e2%80%99s-first-ai-enabled-surgery",
-    "contentHash": "44d900b4ec2caa773bb43b6e389b1852af7cc8f568e6a16ef9cf6e186d95dda4",
-    "headline": "Sri Lanka’s First AI-Enabled Surgery",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-16T16:48:15.939Z",
-    "fbPostId": "1278802861974766_122096877501402039",
-    "category": "AI & Tech",
-    "score": 90,
-    "addedAt": "2026-07-16T16:49:07.692Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/16/why-is-nutritious-food-becoming-a-luxury-for-billions-around-the-world",
-    "contentHash": "ed468fd0b64be35bb234ac1618863210099d3ff5f957ca27f233de13a5c09ace",
-    "headline": "Why Is Nutritious Food Becoming a Luxury?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-16T18:36:52.979Z",
-    "fbPostId": "1278802861974766_122096921625402039",
-    "category": "World",
-    "score": 82,
-    "addedAt": "2026-07-16T18:37:46.239Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/16/president-orders-fast-track-pension-scheme-for-sri-lankan-migrant-workers",
-    "contentHash": "ca517e0629df3632661ea43f18d764af0d6f9161145532e7acf1496340c89cfd",
-    "headline": "Fast-Track Pension Scheme for SL Migrant Workers",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-17T03:54:41.736Z",
-    "fbPostId": "1278802861974766_122097120039402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-07-17T03:55:35.737Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/16/deadline-set-for-nipuna-saviya-grant-applications-for-2025-a-l-students",
-    "contentHash": "0a050499284950f2df07e565ce3e4b1b95336a0bad32ce3173d2dd55b60c3401",
-    "headline": "Deadline Set for 'Nipuna Saviya' Grant Application",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-17T03:54:41.737Z",
-    "fbPostId": "1278802861974766_122097120117402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-17T03:55:55.392Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/17/dengue-cases-top-73-000-in-sri-lanka-so-far-this-year",
-    "contentHash": "33947a532f4c8ca8c0b87ba4fc36b209cb629b8eef7e53bbe9e1e676b91b3f64",
-    "headline": "Dengue Cases Top 73,000",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-17T07:32:48.903Z",
-    "fbPostId": "1278802861974766_122097220539402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-17T07:33:42.236Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/17/cpc-to-build-seven-new-oil-tanks-in-muthurajawela",
     "contentHash": "097204c5549e9d408e3d315c7cb4dc29ff1a2e63a3bf73390106edef690a294b",
     "headline": "CPC To Build Seven New Oil Tanks In Muthurajawela",
@@ -2109,6 +2049,30 @@
     "category": "Sports",
     "score": 81,
     "addedAt": "2026-08-30T14:57:27.056Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/31/over-531-000-drug-suspects-arrested-since-current-government-took-office",
+    "contentHash": "4bbad800ad0817d45aba028bbb0128a68e4de91d1050378c27a54cd21fd78ca3",
+    "headline": "531,000+ Drug-Suspects Arrested During Current Gov",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-31T09:27:32.759Z",
+    "fbPostId": "1278802861974766_122114734299402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-08-31T09:28:37.643Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/31/no-more-governance-chaos-new-constitution-aims-to-reshape-sri-lanka-cricket",
+    "contentHash": "50296a28ed190f36582a35acddebdbbc5cbf0d882f33175423646900a0602ccd",
+    "headline": "New Constitution Aims to Reshape Sri Lanka Cricket",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-08-31T09:27:32.754Z",
+    "fbPostId": "1278802861974766_122114734479402039",
+    "category": "Sports",
+    "score": 78,
+    "addedAt": "2026-08-31T09:29:18.053Z",
     "isShadow": false
   }
 ]
