@@ -1,13 +1,13 @@
 {
-  "runId": "7cdd2d43",
-  "startedAt": "2026-09-01T10:19:41.456Z",
-  "finishedAt": "2026-09-01T10:21:43.259Z",
+  "runId": "c8e7d035",
+  "startedAt": "2026-09-01T15:00:19.080Z",
+  "finishedAt": "2026-09-01T15:02:58.770Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,27 +20,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/taavi-secures-silver-in-croatia-continues-international-table-tennis-brilliance-with-fifth-consecutive-u-11-final",
-      "headline": "Taavi Wins Silver in Croatia for Sri Lanka",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/09/01/president-calls-for-transparent-investor-friendly-mineral-sector-reforms",
+      "headline": "AKD Eyes Mineral Export Boom Under New Policy",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/01/we-are-implementing-what-was-recommended-minister-responds-to-geneva-concerns",
+      "headline": "Sri Lanka Explains Court Reform Agenda to HRC",
+      "reason": "score-below-threshold (72 < 75)",
       "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/01/cid-gets-new-acting-director",
+      "headline": "CID Gets New Acting Director",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/01/what-king-parakramabahu-can-teach-the-modern-world-pm-explains-in-bhutan",
+      "headline": "PM Explains Parakramabahu Wisdom In Bhutan",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/01/rear-admiral-dammika-kumara-receives-french-maritime-honour",
       "headline": "Rear Admiral Kumara Receives French Honour",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/suspect-arrested-in-ahungalla-with-ice-heroin-and-kush",
-      "headline": "Suspect Arrested in Ahungalla",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/world-produces-enough-food-why-are-millions-still-hungry-asks-bhutanese-pm",
-      "headline": "More Production, More Tech, Yet Hunger Persists",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
