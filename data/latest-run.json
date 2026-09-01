@@ -1,14 +1,19 @@
 {
-  "runId": "c8e7d035",
-  "startedAt": "2026-09-01T15:00:19.080Z",
-  "finishedAt": "2026-09-01T15:02:58.770Z",
+  "runId": "879f3708",
+  "startedAt": "2026-09-01T18:41:02.358Z",
+  "finishedAt": "2026-09-01T18:42:28.224Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 33,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/01/ex-minister-piyankara-jayaratne-convicted-sentenced-to-seven-years",
+      "headline": "Ex-Minister Piyankara Jayaratne Convicted",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
@@ -31,16 +36,16 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/01/cid-gets-new-acting-director",
       "headline": "CID Gets New Acting Director",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/01/motorcycle-linked-to-payagala-shooting-found",
+      "headline": "Motorcycle Linked to Payagala Shooting Found",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/01/what-king-parakramabahu-can-teach-the-modern-world-pm-explains-in-bhutan",
@@ -51,6 +56,12 @@
     {
       "url": "https://newsfirst.lk/2026/09/01/rear-admiral-dammika-kumara-receives-french-maritime-honour",
       "headline": "Rear Admiral Kumara Receives French Honour",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/01/world-produces-enough-food-why-are-millions-still-hungry-asks-bhutanese-pm",
+      "headline": "More Production, More Tech, Yet Hunger Persists",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
