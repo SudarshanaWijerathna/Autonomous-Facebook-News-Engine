@@ -1,19 +1,14 @@
 {
-  "runId": "e2dec0ea",
-  "startedAt": "2026-08-31T21:56:49.174Z",
-  "finishedAt": "2026-08-31T21:58:22.153Z",
+  "runId": "7cdd2d43",
+  "startedAt": "2026-09-01T10:19:41.456Z",
+  "finishedAt": "2026-09-01T10:21:43.259Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/08/31/sri-lanka-exports-cross-us-10-bn-mark-in-first-seven-months-of-2026",
-      "headline": "Exports Smash US$10 Billion Milestone in 2026",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
@@ -25,45 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/31/sri-lanka-among-countries-of-concern-as-powerful-el-ni%c3%b1o-strengthens",
-      "headline": "Experts Are Watching Sri Lanka as El Niño Builds",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/01/taavi-secures-silver-in-croatia-continues-international-table-tennis-brilliance-with-fifth-consecutive-u-11-final",
+      "headline": "Taavi Wins Silver in Croatia for Sri Lanka",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/08/31/ravi-karunanayake-arrested-by-bribery-commission-after-recording-statement",
-      "headline": "Ravi Karunanayake Arrested by Bribery Commission",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "url": "https://newsfirst.lk/2026/09/01/rear-admiral-dammika-kumara-receives-french-maritime-honour",
+      "headline": "Rear Admiral Kumara Receives French Honour",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/31/ravi-karunanayake-granted-bail-after-arrest-in-lotteries-board-probe",
-      "headline": "Ravi Karunanayake Granted Bail After Arrest",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/09/01/suspect-arrested-in-ahungalla-with-ice-heroin-and-kush",
+      "headline": "Suspect Arrested in Ahungalla",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/31/five-judge-supreme-court-bench-to-hear-petitions-on-22nd-amendment",
-      "headline": "Five-Judge SC Bench to Hear Petitions On 22A",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/31/follow-the-money-minister-declares-new-front-in-sri-lanka-s-war-on-crime",
-      "headline": "\"Follow the Money\": New Front in War on Crime",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/31/bakers-announce-rs-10-increase-on-450g-loaf-of-bread",
-      "headline": "Bakers Announce Rs. 10 Increase on 450g Loaf",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/01/world-produces-enough-food-why-are-millions-still-hungry-asks-bhutanese-pm",
+      "headline": "More Production, More Tech, Yet Hunger Persists",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []

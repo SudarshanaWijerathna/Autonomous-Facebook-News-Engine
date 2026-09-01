@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/17/26-year-old-youth-killed-in-nawagamuwa-shooting",
-    "contentHash": "c1612491fde5c00010cd912a33ef083ba6097e61484829b93baafbc73bef238f",
-    "headline": "26-Year-Old Youth Killed in Nawagamuwa Shooting",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-18T03:48:10.839Z",
-    "fbPostId": "1278802861974766_122097826449402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-18T03:49:01.252Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/17/substandard-coal-costs-sri-lanka-over-rs-4-5-billion-in-four-months",
-    "contentHash": "8d77f5aaf574264ea1f7c8522c77eca57a3d41718ef68ca3ae97fa4ef8e67992",
-    "headline": "Substandard Coal Costs SL Rs. 4.5B in 4 months",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-18T03:48:10.838Z",
-    "fbPostId": "1278802861974766_122097826581402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-18T03:49:08.181Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/17/rakhitha-rajapakshe-charith-abeysinghe-aruna-sri-chathuranga-further-remanded-until-july-28",
-    "contentHash": "13814696b8571da1ed033ea762ea26e931b7f0b41e0d7e2756c688007389b123",
-    "headline": "Trio including Rakitha, Remanded Until July 28",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-18T07:14:26.167Z",
-    "fbPostId": "1278802861974766_122097933075402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-18T07:15:23.342Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/18/sword-live-grenades-discovered-from-asp-s-house-in-pallekele",
     "contentHash": "d5fc67d4ab3efcf6960ab18a8dec0c7d34dc7e58d54203bdbe45f1173c4dbac6",
     "headline": "Sword, Live Grenades Discovered From ASP's House",
@@ -2085,6 +2049,30 @@
     "category": "Business",
     "score": 85,
     "addedAt": "2026-08-31T17:41:03.415Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/01/nearly-30-000-houses-in-landslide-prone-areas-require-relocation-nbro",
+    "contentHash": "8317c019d1ce84b1b9a2fce158033f7d250b8fe19d8289b34b59cb4845cea13c",
+    "headline": "NBRO: 30,000 houses need relocation",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-01T10:20:06.785Z",
+    "fbPostId": "1278802861974766_122114977353402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-09-01T10:21:00.551Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/01/president-calls-for-transparent-investor-friendly-mineral-sector-reforms",
+    "contentHash": "70fd8cfec8080a39c2dd9a9584e8dfb5ee90258b27a62066db42fc7005512619",
+    "headline": "AKD Eyes Mineral Export Boom Under New Policy",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-01T10:20:06.785Z",
+    "fbPostId": "1278802861974766_122114977635402039",
+    "category": "Business",
+    "score": 76,
+    "addedAt": "2026-09-01T10:21:43.258Z",
     "isShadow": false
   }
 ]
