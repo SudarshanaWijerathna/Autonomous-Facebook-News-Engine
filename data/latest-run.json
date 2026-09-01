@@ -1,7 +1,7 @@
 {
-  "runId": "879f3708",
-  "startedAt": "2026-09-01T18:41:02.358Z",
-  "finishedAt": "2026-09-01T18:42:28.224Z",
+  "runId": "ec9e4d25",
+  "startedAt": "2026-09-01T19:59:19.149Z",
+  "finishedAt": "2026-09-01T20:00:38.215Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 33,
@@ -36,26 +36,26 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/cid-gets-new-acting-director",
-      "headline": "CID Gets New Acting Director",
+      "url": "https://newsfirst.lk/2026/09/01/motorcycle-linked-to-payagala-shooting-found",
+      "headline": "Motorcycle Linked to Payagala Shooting Found",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/motorcycle-linked-to-payagala-shooting-found",
-      "headline": "Motorcycle Linked to Payagala Shooting Found",
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/what-king-parakramabahu-can-teach-the-modern-world-pm-explains-in-bhutan",
-      "headline": "PM Explains Parakramabahu Wisdom In Bhutan",
+      "url": "https://newsfirst.lk/2026/09/01/rear-admiral-dammika-kumara-receives-french-maritime-honour",
+      "headline": "Rear Admiral Kumara Receives French Honour",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/rear-admiral-dammika-kumara-receives-french-maritime-honour",
-      "headline": "Rear Admiral Kumara Receives French Honour",
+      "url": "https://newsfirst.lk/2026/09/01/what-king-parakramabahu-can-teach-the-modern-world-pm-explains-in-bhutan",
+      "headline": "PM Explains Parakramabahu Wisdom In Bhutan",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
