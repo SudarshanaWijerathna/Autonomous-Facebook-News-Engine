@@ -1,13 +1,13 @@
 {
-  "runId": "bd5245cd",
-  "startedAt": "2026-09-02T05:12:34.964Z",
-  "finishedAt": "2026-09-02T05:15:21.955Z",
+  "runId": "09524af9",
+  "startedAt": "2026-09-02T07:42:55.657Z",
+  "finishedAt": "2026-09-02T07:45:35.155Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
-  "scored": 3,
-  "selected": 0,
-  "published": 0,
+  "scored": 6,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,39 +20,35 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/dehibale-s-brother-arrested-in-dubai",
-      "headline": "Dehibale's Brother Arrested In Dubai",
+      "url": "https://newsfirst.lk/2026/09/01/supreme-court-rejects-full-bench-request-22a-challenge-continues-before-five-judge-panel",
+      "headline": "Supreme Court Rejects Full Bench Request On 22A",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/02/88-068-people-affected-as-dry-weather-ravages-6-districts-monaragala-worst-hit",
-      "headline": "88,068 Affected By Dry Weather In 6 Districts",
+      "url": "https://newsfirst.lk/2026/09/02/supreme-court-hears-challenges-to-22a-for-second-day",
+      "headline": "SC Hears 22A For Second Day",
       "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
     {
+      "url": "https://newsfirst.lk/2026/09/02/vijitha-herath-heads-to-uae-for-trade-jobs-and-tourism-talks",
+      "headline": "Vijitha Herath to Meet Top UAE Ministers",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
+      "headline": "The Untold Story of Kumana’s Post War Restoration",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/02/national-program-to-establish-250-%e2%80%9cceylon-king-coconut-villages%e2%80%9d-launched",
       "headline": "250 “Ceylon King Coconut Villages” Launched",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/01/former-dehiwala-mount-lavinia-mayor-summoned-over-drug-trafficker%e2%80%99s-cash-transaction",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/motorcycle-linked-to-payagala-shooting-found",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/cid-gets-new-acting-director",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
