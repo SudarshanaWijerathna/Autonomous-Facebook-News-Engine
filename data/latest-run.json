@@ -1,13 +1,13 @@
 {
-  "runId": "daf0bb3a",
-  "startedAt": "2026-09-02T16:58:51.630Z",
-  "finishedAt": "2026-09-02T17:01:15.697Z",
+  "runId": "03301111",
+  "startedAt": "2026-09-02T18:50:12.828Z",
+  "finishedAt": "2026-09-02T18:52:04.054Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
+  "afterDedup": 32,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/grade-5-scholarship-exam-results-expected-today",
@@ -30,33 +30,44 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/02/iran-says-us-bombed-a-wedding-party-in-sirik-killing-five-people",
+      "headline": "Iran says US bombed a Wedding Party in Sirik",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/02/grade-5-scholarship-exam-results-released",
+      "headline": "Grade 5 Scholarship Exam Results Released",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/02/24-hour-water-cut-announced-for-several-colombo-suburbs",
       "headline": "24-Hour Water Cut Announced for Colombo Suburbs",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/09/02/namal-to-appear-before-ciaboc-over-srilankan-airlines-probe",
       "headline": "Namal to Appear Before CIABOC On Friday (4)",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/09/02/four-man-gang-escapes-with-massive-cash-haul-in-thalawathugoda",
       "headline": "Four-Man Gang Escapes With Massive Cash Haul",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/02/sri-lanka-receives-new-low-floor-buses-from-japan",
       "headline": "Sri Lanka Receives New Low-Floor Buses from Japan",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
