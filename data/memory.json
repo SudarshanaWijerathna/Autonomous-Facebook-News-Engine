@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/19/majority-dengue-cases-linked-to-denv-2-strain",
-    "contentHash": "cd2533b8ae33b66dce9437877edef22da279604c28b9616e80a175c6c8f002cc",
-    "headline": "Majority Dengue Cases Linked To DENV-2 Strain",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-19T16:25:42.920Z",
-    "fbPostId": "1278802861974766_122099028687402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-19T16:26:41.251Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/19/fire-breaks-out-at-apartment-complex-in-ratmalana",
-    "contentHash": "ef0098bb9763b680b386c405f14674e390a57531469e1ecdea1d566760afff0b",
-    "headline": "Fire Breaks Out At Apartment Complex in Ratmalana",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-19T16:25:42.922Z",
-    "fbPostId": "1278802861974766_122099028849402039",
-    "category": "Breaking",
-    "score": 78,
-    "addedAt": "2026-07-19T16:26:56.425Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/19/20-rabies-deaths-recorded-so-far",
     "contentHash": "0ba88737dc2ba1fca231629b79ea771f0e33e47122647b54a5b732129e9ca232",
     "headline": "20 Rabies Deaths Recorded So Far",
@@ -2097,6 +2073,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-02T14:37:38.014Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/02/iran-says-us-bombed-a-wedding-party-in-sirik-killing-five-people",
+    "contentHash": "1cdd644d8126d647d04f6e1297838be9e6a21072896efb0dbc4fac050fab5879",
+    "headline": "Iran says US bombed a Wedding Party in Sirik",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-02T16:59:19.131Z",
+    "fbPostId": "1278802861974766_122115329757402039",
+    "category": "World",
+    "score": 74,
+    "addedAt": "2026-09-02T17:01:15.696Z",
     "isShadow": false
   }
 ]

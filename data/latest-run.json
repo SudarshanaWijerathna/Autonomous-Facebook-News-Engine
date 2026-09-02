@@ -1,14 +1,19 @@
 {
-  "runId": "8d671fa2",
-  "startedAt": "2026-09-02T14:35:21.333Z",
-  "finishedAt": "2026-09-02T14:37:38.015Z",
+  "runId": "daf0bb3a",
+  "startedAt": "2026-09-02T16:58:51.630Z",
+  "finishedAt": "2026-09-02T17:01:15.697Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 33,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/02/grade-5-scholarship-exam-results-expected-today",
+      "headline": "Grade 5 Scholarship Exam Results Expected Today",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
@@ -20,28 +25,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/02/iran-says-us-bombed-a-wedding-party-in-sirik-killing-five-people",
-      "headline": "Iran says US bombed a Wedding Party in Sirik",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/09/02/judicial-independence-concerns-raised-in-22a-case",
+      "headline": "Judicial Independence Concerns Raised in 22A Case",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/09/02/24-hour-water-cut-announced-for-several-colombo-suburbs",
       "headline": "24-Hour Water Cut Announced for Colombo Suburbs",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/09/02/namal-to-appear-before-ciaboc-over-srilankan-airlines-probe",
       "headline": "Namal to Appear Before CIABOC On Friday (4)",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/02/four-man-gang-escapes-with-massive-cash-haul-in-thalawathugoda",
+      "headline": "Four-Man Gang Escapes With Massive Cash Haul",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/02/sri-lanka-receives-new-low-floor-buses-from-japan",
+      "headline": "Sri Lanka Receives New Low-Floor Buses from Japan",
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     }
   ],
   "errors": []
