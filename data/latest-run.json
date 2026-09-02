@@ -1,19 +1,14 @@
 {
-  "runId": "ec9e4d25",
-  "startedAt": "2026-09-01T19:59:19.149Z",
-  "finishedAt": "2026-09-01T20:00:38.215Z",
+  "runId": "bd5245cd",
+  "startedAt": "2026-09-02T05:12:34.964Z",
+  "finishedAt": "2026-09-02T05:15:21.955Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
-  "scored": 6,
+  "afterDedup": 35,
+  "scored": 3,
   "selected": 0,
   "published": 0,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/09/01/ex-minister-piyankara-jayaratne-convicted-sentenced-to-seven-years",
-      "headline": "Ex-Minister Piyankara Jayaratne Convicted",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
@@ -25,46 +20,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/president-calls-for-transparent-investor-friendly-mineral-sector-reforms",
-      "headline": "AKD Eyes Mineral Export Boom Under New Policy",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/01/dehibale-s-brother-arrested-in-dubai",
+      "headline": "Dehibale's Brother Arrested In Dubai",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/we-are-implementing-what-was-recommended-minister-responds-to-geneva-concerns",
-      "headline": "Sri Lanka Explains Court Reform Agenda to HRC",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/02/88-068-people-affected-as-dry-weather-ravages-6-districts-monaragala-worst-hit",
+      "headline": "88,068 Affected By Dry Weather In 6 Districts",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/02/national-program-to-establish-250-%e2%80%9cceylon-king-coconut-villages%e2%80%9d-launched",
+      "headline": "250 “Ceylon King Coconut Villages” Launched",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/09/01/former-dehiwala-mount-lavinia-mayor-summoned-over-drug-trafficker%e2%80%99s-cash-transaction",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
       "url": "https://newsfirst.lk/2026/09/01/motorcycle-linked-to-payagala-shooting-found",
-      "headline": "Motorcycle Linked to Payagala Shooting Found",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/rear-admiral-dammika-kumara-receives-french-maritime-honour",
-      "headline": "Rear Admiral Kumara Receives French Honour",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/what-king-parakramabahu-can-teach-the-modern-world-pm-explains-in-bhutan",
-      "headline": "PM Explains Parakramabahu Wisdom In Bhutan",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/01/world-produces-enough-food-why-are-millions-still-hungry-asks-bhutanese-pm",
-      "headline": "More Production, More Tech, Yet Hunger Persists",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/01/cid-gets-new-acting-director",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     }
-  ],
-  "errors": []
+  ]
 }
