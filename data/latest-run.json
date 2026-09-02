@@ -1,13 +1,13 @@
 {
-  "runId": "09524af9",
-  "startedAt": "2026-09-02T07:42:55.657Z",
-  "finishedAt": "2026-09-02T07:45:35.155Z",
+  "runId": "8d671fa2",
+  "startedAt": "2026-09-02T14:35:21.333Z",
+  "finishedAt": "2026-09-02T14:37:38.015Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -20,33 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/01/supreme-court-rejects-full-bench-request-22a-challenge-continues-before-five-judge-panel",
-      "headline": "Supreme Court Rejects Full Bench Request On 22A",
-      "reason": "score-below-threshold (74 < 75)",
+      "url": "https://newsfirst.lk/2026/09/02/iran-says-us-bombed-a-wedding-party-in-sirik-killing-five-people",
+      "headline": "Iran says US bombed a Wedding Party in Sirik",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/02/24-hour-water-cut-announced-for-several-colombo-suburbs",
+      "headline": "24-Hour Water Cut Announced for Colombo Suburbs",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/02/namal-to-appear-before-ciaboc-over-srilankan-airlines-probe",
+      "headline": "Namal to Appear Before CIABOC On Friday (4)",
+      "reason": "max-posts-per-run-reached",
       "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/02/supreme-court-hears-challenges-to-22a-for-second-day",
-      "headline": "SC Hears 22A For Second Day",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/02/vijitha-herath-heads-to-uae-for-trade-jobs-and-tourism-talks",
-      "headline": "Vijitha Herath to Meet Top UAE Ministers",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
       "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/02/national-program-to-establish-250-%e2%80%9cceylon-king-coconut-villages%e2%80%9d-launched",
-      "headline": "250 “Ceylon King Coconut Villages” Launched",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     }
   ],
