@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/20/dengue-control-through-wolbachia-to-begin-next-month",
-    "contentHash": "c355ec00bb447aa4441e302575fd49f242c0bbce704396cb5c5f35fbb9503320",
-    "headline": "Dengue Control Through Wolbachia From Next Month",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-20T06:20:23.636Z",
-    "fbPostId": "1278802861974766_122099379459402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-20T06:21:17.548Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/19/direct-flights-to-ho-chi-minh-strengthens-connectivity-between-sri-lanka-and-vietnam",
-    "contentHash": "4167166c093549391b71adcdd197fd8fe0d1c8410fcb8d6e0d7a6aa332c9ea86",
-    "headline": "Direct Flights To Ho Chi Minh Launched",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-20T06:20:23.638Z",
-    "fbPostId": "1278802861974766_122099379651402039",
-    "category": "Business",
-    "score": 78,
-    "addedAt": "2026-07-20T06:21:27.761Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/20/global-ai-rules-must-include-developing-nations-says-sri-lanka",
     "contentHash": "aad2fd9d3dc601cf65a346e758544c4e217fbcb24f5644d1bd144d723d32890a",
     "headline": "Global AI Rules Must Include Developing Nations",
@@ -2085,6 +2061,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-03T05:19:06.868Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/03/sri-lanka-women-qualify-for-icc-women-s-champions-trophy-2027",
+    "contentHash": "17333dca2d0d4b753560d3aa31e1f165f770251ef2fdb6023db3357728f5b52c",
+    "headline": "Sri Lanka Women Qualify for ICC Women's CT27",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-03T14:40:16.167Z",
+    "fbPostId": "1278802861974766_122115504729402039",
+    "category": "Sports",
+    "score": 81,
+    "addedAt": "2026-09-03T14:42:54.429Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/03/wild-elephant-attack-overturns-pilgrim-bus-on-kataragama-road",
+    "contentHash": "bfcf6f111f39fe2d5d98600166fca1b6ae8f492d2256684f780f19586dffd4a7",
+    "headline": "Wild Elephant Attack Overturns Pilgrim Bus",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-03T14:40:16.167Z",
+    "fbPostId": "1278802861974766_122115505035402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-09-03T14:43:36.627Z",
     "isShadow": false
   }
 ]
