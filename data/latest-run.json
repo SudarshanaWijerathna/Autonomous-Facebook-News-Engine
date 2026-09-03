@@ -1,13 +1,13 @@
 {
-  "runId": "29761ce5",
-  "startedAt": "2026-09-03T05:16:57.497Z",
-  "finishedAt": "2026-09-03T05:19:06.870Z",
+  "runId": "6ba291b0",
+  "startedAt": "2026-09-03T10:00:05.650Z",
+  "finishedAt": "2026-09-03T10:01:59.860Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -15,38 +15,40 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-      "headline": "AI Could Transform Developing Economies",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/03/police-open-fire-on-three-wheeler-arrest-men-armed-with-swords",
+      "headline": "Police Open Fire on Three-Wheeler; 5 Arrested",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/02/grade-5-scholarship-exam-results-expected-today",
-      "headline": "Grade 5 Scholarship Exam Results Expected Today",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/03/police-tracks-money-trail-after-massive-drug-seizure-in-sedawatte",
+      "headline": "Police Tracks Money Trail After Drug Seizure",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/02/police-reveal-new-details-on-death-of-former-mayor-eraj-fernando",
-      "headline": "Police Reveal Details in Death of Eraj Fernando",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/09/03/trapped-in-mud-reunited-with-mother-baby-elephant-s-dramatic-rescue-in-kantale",
+      "headline": "Trapped in Mud, Reunited With Mother",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/02/what-happened-in-court-today-22a-hearings-conclude",
-      "headline": "What Happened in Court? 22A Hearings Conclude",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/05/hope-for-nature-the-untold-story-of-kumana%e2%80%99s-post-war-restoration",
-      "headline": "The Untold Story of Kumana’s Post War Restoration",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/03/sri-lanka-commemorates-160th-police-day",
+      "headline": "Sri Lanka Commemorates 160th Police Day",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/rs-36-mn-unpaid-construction-payment-leads-to-airport-arrest",
       "headline": "Rs. 36 Mn Unpaid Payment Leads to Airport Arrest",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
