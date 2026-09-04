@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/20/global-ai-rules-must-include-developing-nations-says-sri-lanka",
-    "contentHash": "aad2fd9d3dc601cf65a346e758544c4e217fbcb24f5644d1bd144d723d32890a",
-    "headline": "Global AI Rules Must Include Developing Nations",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-20T16:52:46.948Z",
-    "fbPostId": "1278802861974766_122099686095402039",
-    "category": "AI & Tech",
-    "score": 78,
-    "addedAt": "2026-07-20T16:53:44.283Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/20/dengue-cases-surge-to-76-044-death-toll-rises-to-53",
-    "contentHash": "2fd0dda238324172490fc48f15af2b91f9c5d3156684c44c6bd6951f3474e040",
-    "headline": "Dengue Cases Hit 76,044; 53 Dead",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-21T04:09:17.984Z",
-    "fbPostId": "1278802861974766_122100005553402039",
-    "category": "Sri Lanka",
-    "score": 90,
-    "addedAt": "2026-07-21T04:10:09.978Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/20/30-000-teacher-appointments-and-over-120-000-to-be-recruited-for-public-service-this-year",
-    "contentHash": "074647377d1a4383e36080cc8f72da0c2f1eecbdb87e5dd3f324745ce0e34f54",
-    "headline": "30,000 Teacher Appointments For Public Service",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-21T04:09:17.984Z",
-    "fbPostId": "1278802861974766_122100005721402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-07-21T04:10:25.244Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/21/navy-seizes-over-2-6-tonnes-of-narcotics-in-operations-this-year",
     "contentHash": "8fc81f57a8df90f8a1452fd055a438cf5e0119069cdbe509db754ac9b89d60c9",
     "headline": "Navy Seizes Over 2.6 Tonnes Of Narcotics",
@@ -2085,6 +2049,30 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-09-03T14:43:36.627Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+    "contentHash": "6ed2e3fa9db7548fdf0806a1a402a17205cc98d2606847f124592b278aae4780",
+    "headline": "South Asia Emerges As Rare Coral Recovery Success",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-04T05:16:28.105Z",
+    "fbPostId": "1278802861974766_122115642663402039",
+    "category": "Sri Lanka",
+    "score": 77,
+    "addedAt": "2026-09-04T05:17:22.560Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/03/fort-protest-against-22a-sees-unusual-political-gatherings-social-media-moments",
+    "contentHash": "7229cbd5670e0dd6c659d01bb07904c1ff78de7c46b4cbbd8512b799cd18cc92",
+    "headline": "Fort Protest Against 22A Sees Unusual Gatherings",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-04T05:16:28.106Z",
+    "fbPostId": "1278802861974766_122115642795402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-09-04T05:18:05.636Z",
     "isShadow": false
   }
 ]

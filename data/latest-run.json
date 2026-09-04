@@ -1,13 +1,13 @@
 {
-  "runId": "9f86ddd7",
-  "startedAt": "2026-09-03T19:57:55.209Z",
-  "finishedAt": "2026-09-03T19:59:00.485Z",
+  "runId": "48670606",
+  "startedAt": "2026-09-04T05:15:59.829Z",
+  "finishedAt": "2026-09-04T05:18:05.638Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 36,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
@@ -15,49 +15,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/sri-lanka-women-qualify-for-icc-women-s-champions-trophy-2027",
-      "headline": "Sri Lanka Women Qualify for ICC Women's CT27",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-to-appear-before-ciaboc-today",
+      "headline": "Namal Rajapaksa To Appear Before CIABOC Today",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/wild-elephant-attack-overturns-pilgrim-bus-on-kataragama-road",
-      "headline": "Wild Elephant Attack Overturns Pilgrim Bus",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/traffic-alert-katunayake-expressway-lane-towards-colombo-disrupted",
-      "headline": "Katunayake Expressway Lane To Colombo Disrupted",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/india-to-host-first-ever-icc-women-s-champions-trophy",
-      "headline": "India to Host First-Ever ICC Women's CT",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/09/03/rare-cancer-surgery-saves-sri-lanka-s-only-sea-lion",
+      "headline": "Rare Surgery Saves Sri Lanka's Only Sea Lion",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/eraj-fernando-case-body-samples-sent-for-further-examination",
       "headline": "Eraj Fernando Body Samples Sent for Examination",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/arundika-fernando-questioned-over-2-hours-by-ccib",
-      "headline": "Arundika Fernando Questioned Over 2 Hours by CCIB",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/bhutan-looks-to-sri-lanka-s-development-experience-king-tells-pm-harini",
-      "headline": "Bhutan Looks to Sri Lanka's Development Experience",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/news-1st-wins-big-in-sydney-special-jury-award-at-asiavision-awards-for-outstanding-reporting",
-      "headline": "News 1st Wins Big At AsiaVision Awards",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/09/03/court-hears-challenge-to-former-sis-chief-salley-s-application",
+      "headline": "Court Hears Challenge to Ex-SIS Chief's Petition",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
