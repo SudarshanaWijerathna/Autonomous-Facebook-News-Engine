@@ -1,13 +1,13 @@
 {
-  "runId": "d10efae3",
-  "startedAt": "2026-09-04T18:31:02.239Z",
-  "finishedAt": "2026-09-04T18:34:41.026Z",
+  "runId": "3790a096",
+  "startedAt": "2026-09-04T19:42:19.559Z",
+  "finishedAt": "2026-09-04T19:44:13.705Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,38 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/un-calls-for-faster-action-on-easter-attacks-disappearances",
-      "headline": "UN Calls for Faster Action on Easter Attacks",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/04/pregnant-woman-killed-in-brutal-attack-in-kalpitiya",
       "headline": "Pregnant Woman Killed in Brutal Attack",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/why-are-astronauts-better-protected-than-flood-victims",
-      "headline": "Astronauts Have a Treaty, Disaster Victims Do Not",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/04/remains-of-missing-navy-officer-recovered-from-sunken-vessel",
+      "headline": "Remains of Missing Navy Officer Recovered",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/property-linked-to-%e2%80%98midigama-chuti%e2%80%99-suspended",
-      "headline": "Property Linked to ‘Midigama Chuti’ Suspended",
+      "url": "https://newsfirst.lk/2026/09/04/why-are-astronauts-better-protected-than-flood-victims",
+      "headline": "Astronauts Have a Treaty, Disaster Victims Do Not",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/%e2%80%98atmosphere-of-stillness%e2%80%99-where-every-painting-preserves-a-memory",
-      "headline": "Exhibition Turns Everyday Life into Timeless Art",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/04/property-linked-to-%e2%80%98midigama-chuti%e2%80%99-suspended",
+      "headline": "Property Linked to ‘Midigama Chuti’ Suspended",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/09/04/%e2%80%98atmosphere-of-stillness%e2%80%99-where-every-painting-preserves-a-memory",
+      "headline": "Exhibition Turns Everyday Life into Timeless Art",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
