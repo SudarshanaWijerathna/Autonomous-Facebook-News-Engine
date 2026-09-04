@@ -1,13 +1,13 @@
 {
-  "runId": "ff15fc5a",
-  "startedAt": "2026-09-04T07:50:51.793Z",
-  "finishedAt": "2026-09-04T07:53:12.616Z",
+  "runId": "427839c7",
+  "startedAt": "2026-09-04T14:26:52.409Z",
+  "finishedAt": "2026-09-04T14:30:44.260Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
-  "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "scored": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,29 +20,37 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/sedawatte-kasun-s-aide-detained-after-major-drug-bust",
-      "headline": "Sedawatte Kasun's Aide Detained",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-to-appear-before-ciaboc-today",
-      "headline": "Namal Rajapaksa To Appear Before CIABOC Today",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/04/two-injured-in-kollupitiya-shooting",
-      "headline": "Two Injured In Kollupitiya Shooting",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/04/u-s-federal-maritime-commission-chiefs-to-arrive-in-sri-lanka",
-      "headline": "Top U.S. Maritime Leaders to Visit Sri Lanka",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/09/04/sufficient-coal-stocks-available-for-uninterrupted-power-supply",
+      "headline": "Sufficient Coal Stocks Available for Power Supply",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/09/04/%e2%80%98atmosphere-of-stillness%e2%80%99-where-every-painting-preserves-a-memory",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/04/property-linked-to-%e2%80%98midigama-chuti%e2%80%99-suspended",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/04/pregnant-woman-killed-in-brutal-attack-in-kalpitiya",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/04/why-are-astronauts-better-protected-than-flood-victims",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/04/remains-of-missing-navy-officer-recovered-from-sunken-vessel",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
