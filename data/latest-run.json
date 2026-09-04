@@ -1,42 +1,47 @@
 {
-  "runId": "48670606",
-  "startedAt": "2026-09-04T05:15:59.829Z",
-  "finishedAt": "2026-09-04T05:18:05.638Z",
+  "runId": "ff15fc5a",
+  "startedAt": "2026-09-04T07:50:51.793Z",
+  "finishedAt": "2026-09-04T07:53:12.616Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 36,
+  "afterDedup": 35,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-to-appear-before-ciaboc-today",
-      "headline": "Namal Rajapaksa To Appear Before CIABOC Today",
+      "url": "https://newsfirst.lk/2026/09/04/sedawatte-kasun-s-aide-detained-after-major-drug-bust",
+      "headline": "Sedawatte Kasun's Aide Detained",
       "reason": "max-posts-per-run-reached",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/rare-cancer-surgery-saves-sri-lanka-s-only-sea-lion",
-      "headline": "Rare Surgery Saves Sri Lanka's Only Sea Lion",
+      "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-to-appear-before-ciaboc-today",
+      "headline": "Namal Rajapaksa To Appear Before CIABOC Today",
       "reason": "max-posts-per-run-reached",
-      "score": 72
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/eraj-fernando-case-body-samples-sent-for-further-examination",
-      "headline": "Eraj Fernando Body Samples Sent for Examination",
+      "url": "https://newsfirst.lk/2026/09/04/two-injured-in-kollupitiya-shooting",
+      "headline": "Two Injured In Kollupitiya Shooting",
       "reason": "max-posts-per-run-reached",
-      "score": 62
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/court-hears-challenge-to-former-sis-chief-salley-s-application",
-      "headline": "Court Hears Challenge to Ex-SIS Chief's Petition",
+      "url": "https://newsfirst.lk/2026/09/04/u-s-federal-maritime-commission-chiefs-to-arrive-in-sri-lanka",
+      "headline": "Top U.S. Maritime Leaders to Visit Sri Lanka",
       "reason": "max-posts-per-run-reached",
-      "score": 62
+      "score": 65
     }
   ],
   "errors": []
