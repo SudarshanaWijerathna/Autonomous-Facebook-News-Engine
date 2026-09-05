@@ -1,13 +1,13 @@
 {
-  "runId": "8f1a0513",
-  "startedAt": "2026-09-05T13:29:11.157Z",
-  "finishedAt": "2026-09-05T13:31:03.313Z",
+  "runId": "d2b4dc09",
+  "startedAt": "2026-09-05T17:25:37.944Z",
+  "finishedAt": "2026-09-05T17:26:43.175Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,16 +20,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/05/dry-weather-affects-35-000-families-across-seven-districts",
-      "headline": "Dry Weather Affects 35,000 Families",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/05/litro-gas-price-reduced-from-today-5th",
       "headline": "Litro Gas Price Reduced From Today (5th)",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/09/05/fuel-distribution-under-qr-code-system-to-continue",
@@ -38,14 +32,26 @@
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/05/maha-season-cultivation-plans-to-be-reviewed-over-el-ni%c3%b1o-concerns",
-      "headline": "Maha Season Cultivation Plans To Be Reviewed",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/09/05/government-moves-to-support-those-affected-by-el-ni%c3%b1o",
+      "headline": "Govt Moves To Support Those Affected By El Niño",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/09/05/74-year-old-man-killed-in-boralesgamuwa-shooting",
+      "headline": "74-Year-Old Man Killed In Boralesgamuwa Shooting",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/05/maha-season-cultivation-plans-to-be-reviewed-over-el-ni%c3%b1o-concerns",
+      "headline": "Maha Season Cultivation Plans To Be Reviewed",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/05/t-56-firearm-ammunition-recovered-in-mihintale",
+      "headline": "T-56 Firearm, Ammunition Recovered In Mihintale",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
