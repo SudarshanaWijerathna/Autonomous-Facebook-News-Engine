@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://adaderana.lk/news/cmrvmc6ar0002356qm5ciex32",
-    "contentHash": "f310d65c6ddfaf9916cda7ef1d5340fcb1fb5ff4e88d64860dd1c6dda15af08b",
-    "headline": "Dengue cases surge past 78,000; 56 deaths reported this year",
-    "sourceId": "ada-derana-en",
-    "publishedAt": "2026-07-22T05:52:41.346Z",
-    "fbPostId": "1278802861974766_122100952689402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-07-22T05:54:06.395Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://adaderana.lk/news/cmrvme40h000g356p571usfx6",
-    "contentHash": "1576fba47fe07902b1a845b780ae15f5dc79f95c06c67c1bd3e72395ea15b598",
-    "headline": "Ex-Navy Commander Ravindra Wijegunaratne granted bail in abduction case",
-    "sourceId": "ada-derana-en",
-    "publishedAt": "2026-07-22T05:52:41.346Z",
-    "fbPostId": "1278802861974766_122100952887402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-07-22T05:54:14.210Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/22/sri-lanka-to-repay-us-1-billion-in-foreign-debt-this-year",
-    "contentHash": "c8d804589a97f645bdf9620d19d8a0d93c5f933f3976d8e55bc1f60f4e06528e",
-    "headline": "Sri Lanka To Repay US$1 Billion In Foreign Debt",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-22T07:54:19.671Z",
-    "fbPostId": "1278802861974766_122101014705402039",
-    "category": "Business",
-    "score": 86,
-    "addedAt": "2026-07-22T07:55:10.462Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/22/dengue-cases-top-77-000-as-high-risk-areas-remain-under-surveillance",
-    "contentHash": "7517d432d0e209016b610c569c1d9417e189a52afbdff0bba1d1c2cb07469290",
-    "headline": "Dengue Cases Top 77,000",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-22T07:54:19.672Z",
-    "fbPostId": "1278802861974766_122101014813402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-07-22T07:55:24.028Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/22/24-hour-detention-for-shantha-bandara-s-son-in-rs-20m-robbery",
     "contentHash": "9f7d89c1f89fd3ae479911e8482c014e1074a21ed304fbb8400899eec0927b37",
     "headline": "Shantha Bandara's Son Detained Over Robbery",
@@ -2073,6 +2025,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-05T05:03:43.094Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/05/namal-moved-to-colombo-remand-prison",
+    "contentHash": "7973e59c1530f8f03ce93e785a1914c6aaac0c5e492c0de0ac6eacc400a6fbc2",
+    "headline": "Namal Moved To Colombo Remand Prison",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-05T13:29:42.145Z",
+    "fbPostId": "1278802861974766_122115960909402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-05T13:31:03.312Z",
     "isShadow": false
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "runId": "1a701927",
-  "startedAt": "2026-09-05T05:01:25.613Z",
-  "finishedAt": "2026-09-05T05:03:43.095Z",
+  "runId": "8f1a0513",
+  "startedAt": "2026-09-05T13:29:11.157Z",
+  "finishedAt": "2026-09-05T13:31:03.313Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
+  "afterDedup": 35,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-arrested-by-bribery-commission",
-      "headline": "Namal Rajapaksa Arrested By Bribery Commission",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/04/remains-of-missing-navy-officer-recovered-from-sunken-vessel",
-      "headline": "Remains of Missing Navy Officer Recovered",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/09/05/dry-weather-affects-35-000-families-across-seven-districts",
+      "headline": "Dry Weather Affects 35,000 Families",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/johnston-granted-bail-in-procurement-controversy-at-mahinda-rajapaksa-auditorium",
-      "headline": "Johnston Granted Bail In Procurement Controversy",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/09/05/litro-gas-price-reduced-from-today-5th",
+      "headline": "Litro Gas Price Reduced From Today (5th)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/04/sufficient-coal-stocks-available-for-uninterrupted-power-supply",
-      "headline": "Sufficient Coal Stocks Available for Power Supply",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/05/fuel-distribution-under-qr-code-system-to-continue",
+      "headline": "Fuel Distribution Under QR Code System To Continue",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/05/maha-season-cultivation-plans-to-be-reviewed-over-el-ni%c3%b1o-concerns",
+      "headline": "Maha Season Cultivation Plans To Be Reviewed",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
