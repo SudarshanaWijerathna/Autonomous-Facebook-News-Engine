@@ -1,11 +1,11 @@
 {
-  "runId": "7ecb9d06",
-  "startedAt": "2026-09-06T15:58:33.329Z",
-  "finishedAt": "2026-09-06T16:00:07.260Z",
+  "runId": "683c3e82",
+  "startedAt": "2026-09-06T17:37:53.982Z",
+  "finishedAt": "2026-09-06T17:39:56.490Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 33,
-  "scored": 6,
+  "scored": 5,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -30,20 +30,14 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/41-arrested-with-narcotics-at-theldeniya-party",
-      "headline": "41 Arrested with narcotics at Theldeniya Party",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/06/popular-nildiya-pokuna-in-ella-to-be-declared-a-tourism-zone",
-      "headline": "Nildiya Pokuna To Be Declared a Tourism Zone",
+      "url": "https://newsfirst.lk/2026/09/06/three-suspects-arrested-with-over-1kg-of-heroin-and-ammunition-in-matara",
+      "headline": "03 Arrested with Over 1kg of Heroin & Ammunition",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/three-suspects-arrested-with-over-1kg-of-heroin-and-ammunition-in-matara",
-      "headline": "03 Arrested with Over 1kg of Heroin & Ammunition",
+      "url": "https://newsfirst.lk/2026/09/06/popular-nildiya-pokuna-in-ella-to-be-declared-a-tourism-zone",
+      "headline": "Nildiya Pokuna To Be Declared a Tourism Zone",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -54,10 +48,10 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/dehiwala-traffic-oic-suspended-over-disciplinary-concerns",
-      "headline": "Dehiwala Traffic OIC Suspended",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/06/schools-to-begin-second-phase-of-third-term-tomorrow",
+      "headline": "Schools To Begin Second Phase of Third Term Tomo",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -66,5 +60,11 @@
       "score": 62
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/09/06/41-arrested-with-narcotics-at-theldeniya-party",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
