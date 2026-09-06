@@ -1,14 +1,19 @@
 {
-  "runId": "6ae25a21",
-  "startedAt": "2026-09-06T13:43:59.431Z",
-  "finishedAt": "2026-09-06T13:46:53.404Z",
+  "runId": "7ecb9d06",
+  "startedAt": "2026-09-06T15:58:33.329Z",
+  "finishedAt": "2026-09-06T16:00:07.260Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 34,
-  "scored": 5,
-  "selected": 1,
-  "published": 1,
+  "afterDedup": 33,
+  "scored": 6,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/06/train-services-between-peradeniya-and-colombo-fort-to-resume-next-month",
+      "headline": "Colombo–Peradeniya Train Services To Resume Soon",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,8 +30,20 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/06/41-arrested-with-narcotics-at-theldeniya-party",
+      "headline": "41 Arrested with narcotics at Theldeniya Party",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/06/popular-nildiya-pokuna-in-ella-to-be-declared-a-tourism-zone",
       "headline": "Nildiya Pokuna To Be Declared a Tourism Zone",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/06/three-suspects-arrested-with-over-1kg-of-heroin-and-ammunition-in-matara",
+      "headline": "03 Arrested with Over 1kg of Heroin & Ammunition",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -37,10 +54,10 @@
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/41-arrested-with-narcotics-at-theldeniya-party",
-      "headline": "41 Arrested with narcotics at Theldeniya Party",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/09/06/dehiwala-traffic-oic-suspended-over-disciplinary-concerns",
+      "headline": "Dehiwala Traffic OIC Suspended",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -49,11 +66,5 @@
       "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/06/three-suspects-arrested-with-over-1kg-of-heroin-and-ammunition-in-matara",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
