@@ -1,13 +1,13 @@
 {
-  "runId": "d2b4dc09",
-  "startedAt": "2026-09-05T17:25:37.944Z",
-  "finishedAt": "2026-09-05T17:26:43.175Z",
+  "runId": "808dc94b",
+  "startedAt": "2026-09-06T05:15:15.517Z",
+  "finishedAt": "2026-09-06T05:17:12.407Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/05/litro-gas-price-reduced-from-today-5th",
-      "headline": "Litro Gas Price Reduced From Today (5th)",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/05/fuel-distribution-under-qr-code-system-to-continue",
-      "headline": "Fuel Distribution Under QR Code System To Continue",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/09/06/30-919-mosquito-breeding-sites-found-so-far-this-year",
+      "headline": "30,919 Mosquito Breeding Sites Found So Far in '26",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/05/government-moves-to-support-those-affected-by-el-ni%c3%b1o",
-      "headline": "Govt Moves To Support Those Affected By El Niño",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/05/suspect-arrested-over-kollupitiya-shooting",
+      "headline": "Suspect Arrested Over Kollupitiya Shooting",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/05/74-year-old-man-killed-in-boralesgamuwa-shooting",
-      "headline": "74-Year-Old Man Killed In Boralesgamuwa Shooting",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/05/maha-season-cultivation-plans-to-be-reviewed-over-el-ni%c3%b1o-concerns",
-      "headline": "Maha Season Cultivation Plans To Be Reviewed",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/05/digital-system-to-speed-up-attorney-general%e2%80%99s-case-reviews",
+      "headline": "Digital System To Speed Up AG’s Case Reviews",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/05/t-56-firearm-ammunition-recovered-in-mihintale",
-      "headline": "T-56 Firearm, Ammunition Recovered In Mihintale",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/05/unauthorized-construction-removal-along-colombo-coast-to-begin-this-month",
+      "headline": "Unauthorized Construction Removal in Colombo",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []
