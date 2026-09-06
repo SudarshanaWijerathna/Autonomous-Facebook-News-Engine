@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/22/24-hour-detention-for-shantha-bandara-s-son-in-rs-20m-robbery",
-    "contentHash": "9f7d89c1f89fd3ae479911e8482c014e1074a21ed304fbb8400899eec0927b37",
-    "headline": "Shantha Bandara's Son Detained Over Robbery",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-23T05:57:33.474Z",
-    "fbPostId": "1278802861974766_122101942461402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-07-23T05:58:25.524Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/22/sri-lankan-passport-hits-highest-ranking-in-a-decade-climbs-to-94th-globally",
-    "contentHash": "6b2844d8e9cdca15366522c1eb80952fec4fab42209545849b2a70631abc774d",
-    "headline": "Lankan Passport Hits Highest Ranking In A Decade",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-23T05:57:33.474Z",
-    "fbPostId": "1278802861974766_122101942641402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-07-23T05:58:33.616Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/23/court-rejects-bid-to-postpone-sri-lanka%e2%80%99s-a-l-exam",
-    "contentHash": "ebd93cc7241a7f92b7c1f97e037bdc443a247bbbde0b455aa9c4d5a9d65f5f5a",
-    "headline": "Court Rejects Bid to Postpone Sri Lanka’s A/L Exam",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-23T10:14:14.097Z",
-    "fbPostId": "1278802861974766_122102215899402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-07-23T10:15:04.123Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/23/record-export-growth-sri-lanka-crosses-major-us-9-billion-milestone-in-first-half-of-2026",
     "contentHash": "3bed493aca29b890d04428b6fb26778534320dcab8f3f79458075435e3aff39f",
     "headline": "Record Export Growth: S$9 Bn in First Half of 2026",
@@ -2061,6 +2025,18 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-09-06T05:17:12.405Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/06/a-l-examination-evaluation-commences-results-expected-before-year-end",
+    "contentHash": "60a5b3f51b0d1efe73da012d5491ba00270db8235d7b6fe07339a8085379d5b5",
+    "headline": "A/L Examination Evaluation Commences",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-06T11:52:13.882Z",
+    "fbPostId": "1278802861974766_122116166331402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-06T11:53:10.028Z",
     "isShadow": false
   }
 ]
