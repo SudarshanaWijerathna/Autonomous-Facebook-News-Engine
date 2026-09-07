@@ -1,13 +1,13 @@
 {
-  "runId": "46b97a5d",
-  "startedAt": "2026-09-07T19:18:49.402Z",
-  "finishedAt": "2026-09-07T19:19:50.157Z",
+  "runId": "90721792",
+  "startedAt": "2026-09-07T20:40:01.046Z",
+  "finishedAt": "2026-09-07T20:41:06.631Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 35,
+  "afterDedup": 34,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,43 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/two-inmates-escape-from-pallekele-open-prison-camp",
-      "headline": "02 Inmates Escape from Pallekele Open Prison Camp",
+      "url": "https://newsfirst.lk/2026/09/07/rajnath-singh-s-sri-lanka-visit-to-focus-on-defence-maritime-security",
+      "headline": "Defence In Focus During Rajnath Singh's Visit",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/07/airbus-officials-gave-evidence-four-times-in-sri-lanka-says-deputy-minister",
+      "headline": "Airbus Officials Gave Evidence Four Times: Dep.Min",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/07/embilipitiya-properties-worth-rs-150m-suspended-over-drug-links",
       "headline": "Embilipitiya Properties Worth Rs. 150M, Suspended",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/07/airbus-officials-gave-evidence-four-times-in-sri-lanka-says-deputy-minister",
-      "headline": "Airbus Officials Gave Evidence Four Times: Dep.Min",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/more-than-60-armed-conflicts-push-world-into-dangerous-territory",
-      "headline": "More Than 60 Wars Underway Worldwide",
+      "url": "https://newsfirst.lk/2026/09/07/two-inmates-escape-from-pallekele-open-prison-camp",
+      "headline": "02 Inmates Escape from Pallekele Open Prison Camp",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/07/handful-of-men-have-almost-unlimited-power-over-ai-un-rights-chief",
+      "headline": "Handful of Men Have Almost Unlimited Power Over AI",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/07/more-than-60-armed-conflicts-push-world-into-dangerous-territory",
+      "headline": "More Than 60 Wars Underway Worldwide",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
