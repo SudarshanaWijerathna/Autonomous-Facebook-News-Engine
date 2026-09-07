@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/23/record-export-growth-sri-lanka-crosses-major-us-9-billion-milestone-in-first-half-of-2026",
-    "contentHash": "3bed493aca29b890d04428b6fb26778534320dcab8f3f79458075435e3aff39f",
-    "headline": "Record Export Growth: S$9 Bn in First Half of 2026",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-23T15:09:06.062Z",
-    "fbPostId": "1278802861974766_122102452575402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-07-23T15:09:57.452Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/23/sri-lanka-invesitgating-three-chinese-linked-cases-port-city-abduction-body-discovery-and-rs-20-mn-theft",
-    "contentHash": "aadaba25bb7b55422cb1818cca9ea2d765fb584dfeed3aacb3287a4b439ed367",
-    "headline": "Sri Lanka Invesitgating Three Chinese-Linked Cases",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-24T04:00:17.722Z",
-    "fbPostId": "1278802861974766_122102954523402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-07-24T04:01:10.593Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/23/sri-lanka-freezes-rs-150-mn-in-assets-linked-to-%e2%80%98rathgama-vidura%e2%80%99",
-    "contentHash": "8f2b7a30d5c0bf2c69576125f008832cb0c623cbef8ec160b87c935fb72d593c",
-    "headline": "SL Freezes Rs. 150 Mn of 'Rathgama Vidura' Assets",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-24T04:00:17.722Z",
-    "fbPostId": "1278802861974766_122102954745402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-07-24T04:01:19.451Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/23/negombo-prison-riots-autopsy-reports-reveal-how-28-victims-died",
     "contentHash": "a4dde0fc0c95e7e33a149e6ee497d55181b39da78a45606a4ed7fc292636f93b",
     "headline": "Negombo Prison : Autopsy Reveal How 28 Died",
@@ -2049,6 +2013,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-09-06T13:46:53.403Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/06/india-s-defence-minister-to-undertake-a-three-day-visit-to-sri-lanka",
+    "contentHash": "66a327b9aa03b5648f4c6b2977d57869c997c39414916eb43384c201b404b1d0",
+    "headline": "Indian Defence Minister to Undertake a 3 Day Visit",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-07T05:23:59.014Z",
+    "fbPostId": "1278802861974766_122116323345402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-07T05:24:50.949Z",
     "isShadow": false
   }
 ]

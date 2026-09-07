@@ -1,19 +1,14 @@
 {
-  "runId": "683c3e82",
-  "startedAt": "2026-09-06T17:37:53.982Z",
-  "finishedAt": "2026-09-06T17:39:56.490Z",
+  "runId": "18475744",
+  "startedAt": "2026-09-07T05:23:32.805Z",
+  "finishedAt": "2026-09-07T05:24:50.951Z",
   "shadowMode": false,
   "discovered": 37,
-  "afterDedup": 33,
-  "scored": 5,
-  "selected": 0,
-  "published": 0,
+  "afterDedup": 35,
+  "scored": 6,
+  "selected": 1,
+  "published": 1,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/09/06/train-services-between-peradeniya-and-colombo-fort-to-resume-next-month",
-      "headline": "Colombo–Peradeniya Train Services To Resume Soon",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,19 +20,8 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/a-l-examination-evaluation-commences-results-expected-before-year-end",
-      "headline": "A/L Examination Evaluation Commences",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/06/three-suspects-arrested-with-over-1kg-of-heroin-and-ammunition-in-matara",
-      "headline": "03 Arrested with Over 1kg of Heroin & Ammunition",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/06/popular-nildiya-pokuna-in-ella-to-be-declared-a-tourism-zone",
-      "headline": "Nildiya Pokuna To Be Declared a Tourism Zone",
+      "url": "https://newsfirst.lk/2026/09/06/35-bullets-found-in-a-garbage-dump-in-kiribathgoda",
+      "headline": "35 Bullets Found in a Garbage Dump in Kiribathgoda",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -56,15 +40,15 @@
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/06/dehiwala-traffic-oic-suspended-over-disciplinary-concerns",
+      "headline": "Dehiwala Traffic OIC Suspended",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/06/41-arrested-with-narcotics-at-theldeniya-party",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
