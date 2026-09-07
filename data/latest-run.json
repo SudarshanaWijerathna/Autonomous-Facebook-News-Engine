@@ -1,13 +1,13 @@
 {
-  "runId": "c51f82c4",
-  "startedAt": "2026-09-07T10:36:09.396Z",
-  "finishedAt": "2026-09-07T10:37:30.910Z",
+  "runId": "46b97a5d",
+  "startedAt": "2026-09-07T19:18:49.402Z",
+  "finishedAt": "2026-09-07T19:19:50.157Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/sewanagala-strike-causes-rs-250m-loss",
-      "headline": "Sewanagala Strike Causes Rs. 250M Loss",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/07/namal-rajapaksa-allowed-home-cooked-meals-in-remand",
-      "headline": "Namal Allowed Home-Cooked Meals in Remand",
+      "url": "https://newsfirst.lk/2026/09/07/two-inmates-escape-from-pallekele-open-prison-camp",
+      "headline": "02 Inmates Escape from Pallekele Open Prison Camp",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/parliament-to-vote-on-scrapping-chief-of-defence-staff-position",
-      "headline": "Parliament to Vote on CoD Staff Position",
+      "url": "https://newsfirst.lk/2026/09/07/embilipitiya-properties-worth-rs-150m-suspended-over-drug-links",
+      "headline": "Embilipitiya Properties Worth Rs. 150M, Suspended",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/07/airbus-officials-gave-evidence-four-times-in-sri-lanka-says-deputy-minister",
+      "headline": "Airbus Officials Gave Evidence Four Times: Dep.Min",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/who-south-east-asia-leaders-gather-in-timor-leste",
-      "headline": "WHO South-East Asia Leaders Gather in Timor-Leste",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/07/second-phase-of-third-term-for-schools-commences-today-07",
-      "headline": "Second Phase of Third Term For Schools Commences",
+      "url": "https://newsfirst.lk/2026/09/07/more-than-60-armed-conflicts-push-world-into-dangerous-territory",
+      "headline": "More Than 60 Wars Underway Worldwide",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
