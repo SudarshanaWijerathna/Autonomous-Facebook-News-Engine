@@ -1,13 +1,13 @@
 {
-  "runId": "18475744",
-  "startedAt": "2026-09-07T05:23:32.805Z",
-  "finishedAt": "2026-09-07T05:24:50.951Z",
+  "runId": "c51f82c4",
+  "startedAt": "2026-09-07T10:36:09.396Z",
+  "finishedAt": "2026-09-07T10:37:30.910Z",
   "shadowMode": false,
   "discovered": 37,
   "afterDedup": 35,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/35-bullets-found-in-a-garbage-dump-in-kiribathgoda",
-      "headline": "35 Bullets Found in a Garbage Dump in Kiribathgoda",
+      "url": "https://newsfirst.lk/2026/09/07/sewanagala-strike-causes-rs-250m-loss",
+      "headline": "Sewanagala Strike Causes Rs. 250M Loss",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/07/namal-rajapaksa-allowed-home-cooked-meals-in-remand",
+      "headline": "Namal Allowed Home-Cooked Meals in Remand",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/9mm-live-round-found-near-residence-of-female-associate-linked-to-%e2%80%98kosgoda-tharaka%e2%80%99",
-      "headline": "9mm Round Near Kosgoda Tharaka's Associate's Home",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/06/schools-to-begin-second-phase-of-third-term-tomorrow",
-      "headline": "Schools To Begin Second Phase of Third Term Tomo",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/09/07/parliament-to-vote-on-scrapping-chief-of-defence-staff-position",
+      "headline": "Parliament to Vote on CoD Staff Position",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/06/dehiwala-traffic-oic-suspended-over-disciplinary-concerns",
-      "headline": "Dehiwala Traffic OIC Suspended",
+      "url": "https://newsfirst.lk/2026/09/07/who-south-east-asia-leaders-gather-in-timor-leste",
+      "headline": "WHO South-East Asia Leaders Gather in Timor-Leste",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/07/second-phase-of-third-term-for-schools-commences-today-07",
+      "headline": "Second Phase of Third Term For Schools Commences",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
