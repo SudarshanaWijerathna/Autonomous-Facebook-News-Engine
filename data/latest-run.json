@@ -1,11 +1,11 @@
 {
-  "runId": "1b333b5e",
-  "startedAt": "2026-09-08T09:56:05.624Z",
-  "finishedAt": "2026-09-08T09:59:12.446Z",
+  "runId": "a9d5d25a",
+  "startedAt": "2026-09-08T12:27:42.844Z",
+  "finishedAt": "2026-09-08T12:28:57.556Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 9,
-  "scored": 5,
+  "afterDedup": 10,
+  "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -20,19 +20,14 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/indian-defence-minister-rajnath-singh-arrives-in-sri-lanka-today-8",
-      "headline": "Indian Defence Minister Arrives in SL",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/08/ex-speaker-chamal-rajapaksa-at-ciaboc-over-airbus-probe",
+      "headline": "Ex-Speaker Chamal At CIABOC Over Airbus Probe",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/wife-arrested-over-2018-abduction-and-murder-of-retired-soldier",
-      "headline": "Wife Arrested Over 2018 Abduction and Murder",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/08/4-5-mn-un-backed-project-to-protect-sri-lanka-s-coastal-biodiversity",
-      "headline": "UN-Backed Project to Protect Coastal Biodiversity",
+      "url": "https://newsfirst.lk/2026/09/08/supreme-court-says-media-professionals-bill-requires-amendments-or-special-majority",
+      "headline": "Media Professionals Bill Determination Announced",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
@@ -43,23 +38,23 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/sri-lanka-un-discuss-priorities-for-upcoming-un-general-assembly",
-      "headline": "Sri Lanka, UN Discuss Priorities for Upcoming UNGA",
+      "url": "https://newsfirst.lk/2026/09/08/4-5-mn-un-backed-project-to-protect-sri-lanka-s-coastal-biodiversity",
+      "headline": "UN-Backed Project to Protect Coastal Biodiversity",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/special-traffic-plan-in-colombo-for-visit-of-indian-defence-minister",
-      "headline": "Special Traffic Plan in Colombo",
+      "url": "https://newsfirst.lk/2026/09/08/journey-of-healing-continues-sri-lanka-tells-un-human-rights-council",
+      "headline": "Journey of Healing Continues, Sri Lanka Tells UN",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/08/ins-udaygiri-makes-port-call-in-colombo",
+      "headline": "INS Udaygiri Makes Port Call in Colombo",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/08/ex-speaker-chamal-rajapaksa-at-ciaboc-over-airbus-probe",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
