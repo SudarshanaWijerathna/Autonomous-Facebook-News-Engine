@@ -1,7 +1,7 @@
 {
-  "runId": "a9d5d25a",
-  "startedAt": "2026-09-08T12:27:42.844Z",
-  "finishedAt": "2026-09-08T12:28:57.556Z",
+  "runId": "8d8b7b0c",
+  "startedAt": "2026-09-08T18:51:03.042Z",
+  "finishedAt": "2026-09-08T18:52:13.412Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
@@ -23,13 +23,13 @@
       "url": "https://newsfirst.lk/2026/09/08/ex-speaker-chamal-rajapaksa-at-ciaboc-over-airbus-probe",
       "headline": "Ex-Speaker Chamal At CIABOC Over Airbus Probe",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/09/08/supreme-court-says-media-professionals-bill-requires-amendments-or-special-majority",
       "headline": "Media Professionals Bill Determination Announced",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/09/08/rajnath-singh-looks-forward-to-%e2%80%98productive-engagement%e2%80%99-in-sri-lanka",
@@ -38,14 +38,14 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/4-5-mn-un-backed-project-to-protect-sri-lanka-s-coastal-biodiversity",
-      "headline": "UN-Backed Project to Protect Coastal Biodiversity",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/08/journey-of-healing-continues-sri-lanka-tells-un-human-rights-council",
       "headline": "Journey of Healing Continues, Sri Lanka Tells UN",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/08/4-5-mn-un-backed-project-to-protect-sri-lanka-s-coastal-biodiversity",
+      "headline": "UN-Backed Project to Protect Coastal Biodiversity",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
