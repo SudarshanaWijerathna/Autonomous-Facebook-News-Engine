@@ -1,11 +1,11 @@
 {
-  "runId": "b25baf6d",
-  "startedAt": "2026-09-08T07:53:53.959Z",
-  "finishedAt": "2026-09-08T07:55:16.017Z",
+  "runId": "1b333b5e",
+  "startedAt": "2026-09-08T09:56:05.624Z",
+  "finishedAt": "2026-09-08T09:59:12.446Z",
   "shadowMode": false,
-  "discovered": 37,
-  "afterDedup": 34,
-  "scored": 6,
+  "discovered": 12,
+  "afterDedup": 9,
+  "scored": 5,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -20,15 +20,9 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/unhrc-report-makes-note-of-mahinda-and-ranil",
-      "headline": "UNHRC Report Makes Note Of Mahinda And Ranil",
+      "url": "https://newsfirst.lk/2026/09/08/indian-defence-minister-rajnath-singh-arrives-in-sri-lanka-today-8",
+      "headline": "Indian Defence Minister Arrives in SL",
       "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/08/unhrc-to-review-latest-report-on-sri-lanka-today-8",
-      "headline": "UNHRC to Review Latest Report on Sri Lanka Today",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/09/08/wife-arrested-over-2018-abduction-and-murder-of-retired-soldier",
@@ -37,29 +31,35 @@
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/07/special-traffic-plan-in-place-for-colombo-over-indian-defence-minister%e2%80%99s-visit",
-      "headline": "Special Traffic Plan in Place For Colombo",
+      "url": "https://newsfirst.lk/2026/09/08/4-5-mn-un-backed-project-to-protect-sri-lanka-s-coastal-biodiversity",
+      "headline": "UN-Backed Project to Protect Coastal Biodiversity",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/08/rajnath-singh-looks-forward-to-%e2%80%98productive-engagement%e2%80%99-in-sri-lanka",
+      "headline": "Rajnath Singh Seeks Stronger India-Lanka Ties",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/special-traffic-plan-in-colombo-for-visit-of-indian-defence-minister",
-      "headline": "Special Traffic Plan in Colombo",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/08/panama-canal-may-slash-ship-traffic-further-as-powerful-el-ni%c3%b1o-intensifies",
-      "headline": "Panama Canal May Slash Ship Traffic Further",
-      "reason": "score-below-threshold (63 < 75)",
-      "score": 63
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/08/sri-lanka-un-discuss-priorities-for-upcoming-un-general-assembly",
       "headline": "Sri Lanka, UN Discuss Priorities for Upcoming UNGA",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/08/special-traffic-plan-in-colombo-for-visit-of-indian-defence-minister",
+      "headline": "Special Traffic Plan in Colombo",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/09/08/ex-speaker-chamal-rajapaksa-at-ciaboc-over-airbus-probe",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
