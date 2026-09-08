@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/24/pillayan-remanded-until-august-4",
-    "contentHash": "01b01af4e73d88ce5a40708f902b81ca6fd1b11ae7b3003f8d56e01923e1610a",
-    "headline": "Pillayan Remanded Until August 4",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-25T03:56:48.234Z",
-    "fbPostId": "1278802861974766_122103848865402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-07-25T03:57:41.223Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/24/rs-332m-cost-despite-dissolved-provincial-councils",
-    "contentHash": "0d7fa086ea2241db2ee810441f44cb50b263f20ae628c52c147f31835ed6859a",
-    "headline": "332M Cost Despite Dissolved Provincial Councils",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-25T03:56:48.234Z",
-    "fbPostId": "1278802861974766_122103848919402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-07-25T03:57:51.506Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/24/152-36-no-confidence-motion-against-justice-minister-crushed-in-parliament",
     "contentHash": "0942579d47f6dd90ae40d5ba753c3d4154fb17c96a1365a8cb7b35403dcab7fe",
     "headline": "Justice Minister Defeats No-Faith Motion 152-36",
@@ -2001,6 +1977,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-09-07T19:19:50.156Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/07/unhrc-report-makes-note-of-mahinda-and-ranil",
+    "contentHash": "c5324d8ebc539695d6194a4bb59313e52529f3d95a319355c7abd41f894a6baf",
+    "headline": "UNHRC Report Makes Note Of Mahinda And Ranil",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-08T05:25:36.537Z",
+    "fbPostId": "1278802861974766_122116526979402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-08T05:26:29.161Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/08/indian-defence-minister-rajnath-singh-arrives-in-sri-lanka-today-8",
+    "contentHash": "f0a717c8d11c531dceeb970beaec6810219230545f6b2806eae5c892a6ddc29c",
+    "headline": "Indian Defence Minister Arrives in SL",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-08T05:25:36.536Z",
+    "fbPostId": "1278802861974766_122116527261402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-08T05:27:15.483Z",
     "isShadow": false
   }
 ]
