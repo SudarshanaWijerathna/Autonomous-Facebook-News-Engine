@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/25/trinity-crush-royal-to-clinch-bradby-shield-triumph-with-7220-aggregate-win",
-    "contentHash": "140b906e6ddd71bd596c26cf27fc681c63f7fb828be1ff79f5f3916696205d90",
-    "headline": "Trinity Crush Royal To Claim 80th Bradby Shield",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-26T11:43:11.528Z",
-    "fbPostId": "1278802861974766_122104832919402039",
-    "category": "Sports",
-    "score": 75,
-    "addedAt": "2026-07-26T11:44:02.941Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/26/hot-weather-expected-to-intensify-next-month-met-department-warns",
     "contentHash": "8ff5b9289834143be8c601582a0cf45dd7650f835acea351885cf6ae18568e9b",
     "headline": "Hot Weather Expected to Intensify Next Month",
@@ -1977,6 +1965,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-09T10:00:58.999Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/09/sri-lanka-india-ink-three-mous-on-defence",
+    "contentHash": "f6f9fb1a6d685ab80791a69f3f39b7a9843aa21e2e1a6893aa96b4c1514b5ed5",
+    "headline": "Sri Lanka, India Ink Three MoUs On Defence",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-09T14:42:37.341Z",
+    "fbPostId": "1278802861974766_122116833669402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-09T14:45:30.976Z",
     "isShadow": false
   }
 ]
