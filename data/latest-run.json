@@ -1,7 +1,7 @@
 {
-  "runId": "971e991e",
-  "startedAt": "2026-09-09T18:44:40.443Z",
-  "finishedAt": "2026-09-09T18:45:53.615Z",
+  "runId": "aa2e5016",
+  "startedAt": "2026-09-09T19:52:57.564Z",
+  "finishedAt": "2026-09-09T19:54:08.886Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 8,
@@ -30,16 +30,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/09/arjuna-mahendran-absent-as-bond-scam-case-is-taken-up-again",
-      "headline": "Arjuna Mahendran Absent as Bond Scam Case is Taken",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/09/cid-arrests-%e2%80%98konda-ranjith%e2%80%99-at-bia-following-uae-deportation",
       "headline": "CID Arrests ‘Konda Ranjith’ at BIA",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/09/09/cid-moves-to-obtain-ex-srilankan-ceo-s-phone-records",
@@ -50,20 +44,26 @@
     {
       "url": "https://newsfirst.lk/2026/09/09/no-iranian-ships-in-sri-lankan-waters-sri-lanka-clarifies",
       "headline": "No Iranian Ships in Sri Lankan Waters, Says SL",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/09/09/two-women-arrested-at-bia-with-5-3kg-of-%e2%80%98kush%e2%80%99",
       "headline": "Two Women Arrested at BIA with 5.3kg of ‘Kush’",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/09/gotabaya-s-ex-secretary-remanded-again",
+      "headline": "Gotabaya's Ex-Secretary Remanded Again",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
