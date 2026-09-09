@@ -1,13 +1,13 @@
 {
-  "runId": "a24c2526",
-  "startedAt": "2026-09-08T19:58:35.560Z",
-  "finishedAt": "2026-09-08T19:59:45.124Z",
+  "runId": "5c351789",
+  "startedAt": "2026-09-09T09:58:46.153Z",
+  "finishedAt": "2026-09-09T10:00:59.000Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/ex-speaker-chamal-rajapaksa-at-ciaboc-over-airbus-probe",
-      "headline": "Ex-Speaker Chamal At CIABOC Over Airbus Probe",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "url": "https://newsfirst.lk/2026/09/09/vijitha-herath-to-address-un-general-assembly-on-september-28",
+      "headline": "Vijitha Herath to Address UN General Assembly",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/supreme-court-says-media-professionals-bill-requires-amendments-or-special-majority",
-      "headline": "Media Professionals Bill Determination Announced",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/08/rajnath-singh-looks-forward-to-%e2%80%98productive-engagement%e2%80%99-in-sri-lanka",
-      "headline": "Rajnath Singh Seeks Stronger India-Lanka Ties",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/09/09/uk-led-core-group-welcomes-progress-calls-for-faster-reforms",
+      "headline": "UK-Led Core Group Welcomes Progress",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/08/4-5-mn-un-backed-project-to-protect-sri-lanka-s-coastal-biodiversity",
-      "headline": "UN-Backed Project to Protect Coastal Biodiversity",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/08/journey-of-healing-continues-sri-lanka-tells-un-human-rights-council",
-      "headline": "Journey of Healing Continues, Sri Lanka Tells UN",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/08/ins-udaygiri-makes-port-call-in-colombo",
-      "headline": "INS Udaygiri Makes Port Call in Colombo",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/09/sri-lanka-pursues-fresh-visa-agreement-with-thailand-following-policy-change",
+      "headline": "Sri Lanka Pursues New Visa Agreement with Thailand",
+      "reason": "max-posts-per-run-reached",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []

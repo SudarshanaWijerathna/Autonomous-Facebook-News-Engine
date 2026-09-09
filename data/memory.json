@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/24/152-36-no-confidence-motion-against-justice-minister-crushed-in-parliament",
-    "contentHash": "0942579d47f6dd90ae40d5ba753c3d4154fb17c96a1365a8cb7b35403dcab7fe",
-    "headline": "Justice Minister Defeats No-Faith Motion 152-36",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-25T07:32:58.088Z",
-    "fbPostId": "1278802861974766_122103986121402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-07-25T07:33:49.856Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/25/kandy-esala-perahara-to-begin-on-the-18th-of-august",
-    "contentHash": "ca84b443e654d1789546d9c29d4bf6dd6f46d2bede2ffcf240b5f02bac52c420",
-    "headline": "Esala Perahara To Begin On The 18th Of August",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-26T04:21:52.811Z",
-    "fbPostId": "1278802861974766_122104695243402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-07-26T04:22:48.764Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/25/mahapola-scholarship-2024-2025-final-list-released",
-    "contentHash": "01f611a26af7112368ce8bd984073b347fe8851a53a3e7fa36b907381c708e10",
-    "headline": "Mahapola Scholarship 2024/2025 Final List Released",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-26T04:21:52.811Z",
-    "fbPostId": "1278802861974766_122104695309402039",
-    "category": "Sri Lanka",
-    "score": 79,
-    "addedAt": "2026-07-26T04:23:01.557Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/26/seek-immediate-medical-care-for-children-with-fever-lasting-over-24-hours",
-    "contentHash": "019cbaf50eb76cd519d3df307ebc997a27ab407d430f2d7030b111d4b24e4530",
-    "headline": "Children with Fever Adviced to Seek Immediate Care",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-26T07:54:55.029Z",
-    "fbPostId": "1278802861974766_122104767939402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-07-26T07:55:46.345Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/25/trinity-crush-royal-to-clinch-bradby-shield-triumph-with-7220-aggregate-win",
     "contentHash": "140b906e6ddd71bd596c26cf27fc681c63f7fb828be1ff79f5f3916696205d90",
     "headline": "Trinity Crush Royal To Claim 80th Bradby Shield",
@@ -2001,6 +1953,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-08T05:27:15.483Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/09/whatsapp-based-emergency-service-for-hearing-impaired-community",
+    "contentHash": "f411b952940a359b73de36df7eb0a97099801ac0afdedeb36047032798995b67",
+    "headline": "WhatsApp-Based Service for Hearing-Impaired",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-09T09:59:11.361Z",
+    "fbPostId": "1278802861974766_122116789563402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-09-09T10:00:16.728Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/09/sri-lanka-calls-for-review-of-country-specific-un-human-rights-mandates",
+    "contentHash": "9f2d6c29cdb95d7c1a797df9cc15378e47e6346aca684c536e58f1ebc31997a1",
+    "headline": "Country-Specific UN Mandates Must Have Clear Exits",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-09T09:59:11.365Z",
+    "fbPostId": "1278802861974766_122116789689402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-09T10:00:58.999Z",
     "isShadow": false
   }
 ]
