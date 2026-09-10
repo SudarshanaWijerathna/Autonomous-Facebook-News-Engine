@@ -1,7 +1,7 @@
 {
-  "runId": "0438f65b",
-  "startedAt": "2026-09-10T16:53:23.456Z",
-  "finishedAt": "2026-09-10T16:55:14.526Z",
+  "runId": "10a9294e",
+  "startedAt": "2026-09-10T18:35:47.635Z",
+  "finishedAt": "2026-09-10T18:37:13.031Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
@@ -23,13 +23,13 @@
       "url": "https://newsfirst.lk/2026/09/10/imf-delegation-lands-in-colombo-begins-economic-discussions",
       "headline": "IMF Delegation in Colombo, Begins Economic Talks",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/09/10/ex-air-force-commander-questioned-over-missing-millions-in-mig-deal",
       "headline": "Ex-Air Force Commander Questioned Over MiG Deal",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/09/10/grenade-attack-on-kohuwala-residence-house-allegedly-linked-to-kudu-avishka",
@@ -38,22 +38,22 @@
       "score": 76
     },
     {
+      "url": "https://newsfirst.lk/2026/09/10/why-must-sri-lanka-strengthen-buffers-in-an-uncertain-world",
+      "headline": "Why Must Sri Lanka Strengthen Buffers?",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 76
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/10/properties-linked-to-alleged-drug-kingpin-s-associate-frozen",
       "headline": "Properties of Alleged Kingpin Associate Frozen",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/10/ravi-k-mahendran-bond-case-postponed-until-october",
+      "headline": "Ravi K, Mahendran Bond Case Postponed Until Oct.",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/us-dollar-remains-dominant-but-gold-gains-ground-as-safe-haven-asset",
-      "headline": "Shock Away From Crisis in a Fragile Global Economy",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []
