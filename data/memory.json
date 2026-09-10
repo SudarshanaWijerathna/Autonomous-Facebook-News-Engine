@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/26/sajith-summoned-before-ciaboc-over-parliament-appointment-probe",
-    "contentHash": "365e67beb58e7031360ef63f70554fb85f90315072b8c5dcde414df0a9fd0233",
-    "headline": "Sajith Summoned Before CIABOC",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-27T06:33:27.041Z",
-    "fbPostId": "1278802861974766_122105210391402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-07-27T06:34:21.076Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/27/customs-to-auction-1-025-vehicles-left-uncleared-at-hambantota-port",
     "contentHash": "6403d0a6e6ca089a59fbe2255466c4cf3698fac18ea70aa2fede8f2f98ca6bb8",
     "headline": "Customs To Auction Vehicles Left Uncleared At HIP",
@@ -1977,6 +1965,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-10T05:27:07.524Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/09/srilankan-airlines-names-vipul-misra-as-new-ceo",
+    "contentHash": "9a19db6941612527bc20eb7ab9a1bd1d6099d5e6275362c077e567c332ad0758",
+    "headline": "SriLankan Airlines Names Vipul Misra as New CEO",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-10T07:57:00.691Z",
+    "fbPostId": "1278802861974766_122116974771402039",
+    "category": "Business",
+    "score": 75,
+    "addedAt": "2026-09-10T07:57:54.456Z",
     "isShadow": false
   }
 ]
