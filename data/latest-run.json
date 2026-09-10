@@ -1,7 +1,7 @@
 {
-  "runId": "8f6f9e8f",
-  "startedAt": "2026-09-10T07:56:28.425Z",
-  "finishedAt": "2026-09-10T07:57:54.457Z",
+  "runId": "8bfb110d",
+  "startedAt": "2026-09-10T12:33:42.120Z",
+  "finishedAt": "2026-09-10T12:35:36.980Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
@@ -20,26 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/09/cid-moves-to-obtain-ex-srilankan-ceo-s-phone-records",
-      "headline": "CID to Obtain Ex-SriLankan CEO's Phone Records",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/09/10/businessman-arrested-over-us-80-mn-illegal-transfer",
+      "headline": "Businessman Arrested Over $80 Mn Illegal Transfer",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/09/09/appeal-court-orders-next-steps-in-case-linked-to-suresh-salley-protest",
-      "headline": "Appeal Court Orders Next Steps in Salley Case",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/09/10/duminda-dissanayake-another-accused-indicted-over-gold-colored-t-56-firearm",
+      "headline": "Duminda Dissanayake Indicted",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/09/gotabaya-s-ex-secretary-remanded-again",
-      "headline": "Gotabaya's Ex-Secretary Remanded Again",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/10/87-unauthorized-structures-identified-along-bambalapitiyawellawatte-coastal-belt",
+      "headline": "87 Unauthorized Structures Along Marine Drive",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/fire-breaks-out-at-fuel-station-in-katugastota",
-      "headline": "Fire Breaks Out at Fuel Station in Katugastota",
+      "url": "https://newsfirst.lk/2026/09/10/former-air-force-commander-roshan-gunatilake-appears-before-fcid",
+      "headline": "Ex-Commander Roshan Gunatilake Appears Before FCID",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
