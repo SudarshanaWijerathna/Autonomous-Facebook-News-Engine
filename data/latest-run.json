@@ -1,13 +1,13 @@
 {
-  "runId": "8bfb110d",
-  "startedAt": "2026-09-10T12:33:42.120Z",
-  "finishedAt": "2026-09-10T12:35:36.980Z",
+  "runId": "0438f65b",
+  "startedAt": "2026-09-10T16:53:23.456Z",
+  "finishedAt": "2026-09-10T16:55:14.526Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,28 +20,34 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/businessman-arrested-over-us-80-mn-illegal-transfer",
-      "headline": "Businessman Arrested Over $80 Mn Illegal Transfer",
-      "reason": "category-cap-reached (Business: 1/1 today)",
+      "url": "https://newsfirst.lk/2026/09/10/imf-delegation-lands-in-colombo-begins-economic-discussions",
+      "headline": "IMF Delegation in Colombo, Begins Economic Talks",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/duminda-dissanayake-another-accused-indicted-over-gold-colored-t-56-firearm",
-      "headline": "Duminda Dissanayake Indicted",
+      "url": "https://newsfirst.lk/2026/09/10/ex-air-force-commander-questioned-over-missing-millions-in-mig-deal",
+      "headline": "Ex-Air Force Commander Questioned Over MiG Deal",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/10/grenade-attack-on-kohuwala-residence-house-allegedly-linked-to-kudu-avishka",
+      "headline": "Grenade Attack On Kohuwala Residence",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/87-unauthorized-structures-identified-along-bambalapitiyawellawatte-coastal-belt",
-      "headline": "87 Unauthorized Structures Along Marine Drive",
+      "url": "https://newsfirst.lk/2026/09/10/properties-linked-to-alleged-drug-kingpin-s-associate-frozen",
+      "headline": "Properties of Alleged Kingpin Associate Frozen",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/former-air-force-commander-roshan-gunatilake-appears-before-fcid",
-      "headline": "Ex-Commander Roshan Gunatilake Appears Before FCID",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/10/us-dollar-remains-dominant-but-gold-gains-ground-as-safe-haven-asset",
+      "headline": "Shock Away From Crisis in a Fragile Global Economy",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
