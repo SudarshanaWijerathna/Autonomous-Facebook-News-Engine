@@ -1,11 +1,11 @@
 {
-  "runId": "3f812ba4",
-  "startedAt": "2026-09-11T12:28:55.689Z",
-  "finishedAt": "2026-09-11T12:34:15.174Z",
+  "runId": "95dac1b5",
+  "startedAt": "2026-09-11T14:31:48.594Z",
+  "finishedAt": "2026-09-11T14:34:18.498Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
-  "scored": 1,
+  "afterDedup": 9,
+  "scored": 5,
   "selected": 1,
   "published": 1,
   "skipped": [
@@ -18,31 +18,40 @@
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/two-children-killed-in-dehiwala-grenade-attack",
+      "headline": "Two Children Killed in Dehiwala Grenade Attack",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/wrong-house-targeted-in-deadly-dehiwala-grenade-attack-that-killed-two-children-police",
+      "headline": "Wrong house hit in Dehiwala attack",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/mahaweli-authority-offers-support-to-restore-small-tanks",
+      "headline": "Mahaweli Authority Offers Support to Restore Tanks",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/govt-spends-rs-7-9-billion-on-paddy-purchases",
+      "headline": "Govt Spends Rs. 7.9 Billion on Paddy Purchases",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": [
     {
-      "url": "https://newsfirst.lk/2026/09/11/mahaweli-authority-offers-support-to-restore-small-tanks",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/11/migrant-workers-eligible-for-housing-loans-up-to-rs-10-million",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/11/wrong-house-targeted-in-deadly-dehiwala-grenade-attack-that-killed-two-children-police",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/11/spies-strategies-and-missed-opportunities-how-the-lessons-of-9-11-are-still-being-learnt",
+      "url": "https://newsfirst.lk/2026/09/11/could-ai-become-uncontrollable-insider-sparks-global-alarm",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
