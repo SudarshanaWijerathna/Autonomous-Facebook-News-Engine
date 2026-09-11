@@ -1,13 +1,13 @@
 {
-  "runId": "10a9294e",
-  "startedAt": "2026-09-10T18:35:47.635Z",
-  "finishedAt": "2026-09-10T18:37:13.031Z",
+  "runId": "5839d487",
+  "startedAt": "2026-09-11T05:22:39.761Z",
+  "finishedAt": "2026-09-11T05:25:16.064Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/imf-delegation-lands-in-colombo-begins-economic-discussions",
-      "headline": "IMF Delegation in Colombo, Begins Economic Talks",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "url": "https://newsfirst.lk/2026/09/10/22a-bill-to-be-debated-on-september-24-and-25",
+      "headline": "22A Bill to Be Debated on September 24 and 25",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/ex-air-force-commander-questioned-over-missing-millions-in-mig-deal",
-      "headline": "Ex-Air Force Commander Questioned Over MiG Deal",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/09/10/witnesses-testify-over-dehiwala-land-deal-in-yoshitha-rajapaksa-case",
+      "headline": "Witnesses Testify Over Land Deal in Yoshitha Case",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/10/grenade-attack-on-kohuwala-residence-house-allegedly-linked-to-kudu-avishka",
-      "headline": "Grenade Attack On Kohuwala Residence",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/why-must-sri-lanka-strengthen-buffers-in-an-uncertain-world",
-      "headline": "Why Must Sri Lanka Strengthen Buffers?",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/properties-linked-to-alleged-drug-kingpin-s-associate-frozen",
-      "headline": "Properties of Alleged Kingpin Associate Frozen",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/09/10/us-dollar-remains-dominant-but-gold-gains-ground-as-safe-haven-asset",
+      "headline": "Shock Away From Crisis in a Fragile Global Economy",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/10/ravi-k-mahendran-bond-case-postponed-until-october",
       "headline": "Ravi K, Mahendran Bond Case Postponed Until Oct.",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []
