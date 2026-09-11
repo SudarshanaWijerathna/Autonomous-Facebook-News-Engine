@@ -1,13 +1,13 @@
 {
-  "runId": "5839d487",
-  "startedAt": "2026-09-11T05:22:39.761Z",
-  "finishedAt": "2026-09-11T05:25:16.064Z",
+  "runId": "3f812ba4",
+  "startedAt": "2026-09-11T12:28:55.689Z",
+  "finishedAt": "2026-09-11T12:34:15.174Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
-  "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "scored": 1,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -18,31 +18,33 @@
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
       "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/22a-bill-to-be-debated-on-september-24-and-25",
-      "headline": "22A Bill to Be Debated on September 24 and 25",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/witnesses-testify-over-dehiwala-land-deal-in-yoshitha-rajapaksa-case",
-      "headline": "Witnesses Testify Over Land Deal in Yoshitha Case",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/us-dollar-remains-dominant-but-gold-gains-ground-as-safe-haven-asset",
-      "headline": "Shock Away From Crisis in a Fragile Global Economy",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/10/ravi-k-mahendran-bond-case-postponed-until-october",
-      "headline": "Ravi K, Mahendran Bond Case Postponed Until Oct.",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/09/11/mahaweli-authority-offers-support-to-restore-small-tanks",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/migrant-workers-eligible-for-housing-loans-up-to-rs-10-million",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/wrong-house-targeted-in-deadly-dehiwala-grenade-attack-that-killed-two-children-police",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/spies-strategies-and-missed-opportunities-how-the-lessons-of-9-11-are-still-being-learnt",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }

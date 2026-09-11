@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/27/crypto-bank-records-and-missing-millions-under-investigation",
-    "contentHash": "dbea1afc977c23a06ed7656138d3e9dd4ddf29e7ed067ab66008fe465574a74c",
-    "headline": "Crypto & Missing Millions Under Investigation",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-28T05:48:45.576Z",
-    "fbPostId": "1278802861974766_122105580063402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-28T05:49:35.457Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/28/chaminda-wijesiri-sentenced-to-1-5-years-in-prison",
     "contentHash": "e3421a684d48d838a04a0c5c313739362dc472a889795d83baa09e361ffd9b8e",
     "headline": "Chaminda Wijesiri Sentenced to 1.5 Years in Prison",
@@ -1977,6 +1965,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-09-11T05:25:16.063Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/11/two-children-killed-in-dehiwala-grenade-attack",
+    "contentHash": "02d545022bab656cfde35d83a5810ff2fcbe05aa229b1eb127b6d27242e212fd",
+    "headline": "Two Children Killed in Dehiwala Grenade Attack",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-11T12:29:22.037Z",
+    "fbPostId": "1278802861974766_122117216469402039",
+    "category": "Breaking",
+    "score": 93,
+    "addedAt": "2026-09-11T12:34:15.173Z",
     "isShadow": false
   }
 ]
