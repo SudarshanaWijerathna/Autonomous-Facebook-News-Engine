@@ -1,13 +1,13 @@
 {
-  "runId": "95dac1b5",
-  "startedAt": "2026-09-11T14:31:48.594Z",
-  "finishedAt": "2026-09-11T14:34:18.498Z",
+  "runId": "94d98565",
+  "startedAt": "2026-09-11T19:51:58.453Z",
+  "finishedAt": "2026-09-11T19:53:07.453Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 9,
-  "scored": 5,
-  "selected": 1,
-  "published": 1,
+  "afterDedup": 8,
+  "scored": 6,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -17,6 +17,11 @@
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/former-president-gotabaya-rajapaksa-at-fcid-over-mig-probe",
+      "headline": "Former President Gotabaya Rajapaksa at FCID",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -31,6 +36,12 @@
       "score": 85
     },
     {
+      "url": "https://newsfirst.lk/2026/09/11/narco-seeds-enter-sri-lanka-through-courier-parcels",
+      "headline": "Narco Seeds Enter Sri Lanka Through Courier Parcel",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/11/mahaweli-authority-offers-support-to-restore-small-tanks",
       "headline": "Mahaweli Authority Offers Support to Restore Tanks",
       "reason": "score-below-threshold (68 < 75)",
@@ -39,8 +50,14 @@
     {
       "url": "https://newsfirst.lk/2026/09/11/govt-spends-rs-7-9-billion-on-paddy-purchases",
       "headline": "Govt Spends Rs. 7.9 Billion on Paddy Purchases",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/11/could-ai-become-uncontrollable-insider-sparks-global-alarm",
+      "headline": "Could AI Become Uncontrollable?",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -49,11 +66,5 @@
       "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/11/could-ai-become-uncontrollable-insider-sparks-global-alarm",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
