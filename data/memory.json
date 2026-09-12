@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/28/chaminda-wijesiri-sentenced-to-1-5-years-in-prison",
-    "contentHash": "e3421a684d48d838a04a0c5c313739362dc472a889795d83baa09e361ffd9b8e",
-    "headline": "Chaminda Wijesiri Sentenced to 1.5 Years in Prison",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-29T03:57:42.144Z",
-    "fbPostId": "1278802861974766_122105883369402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-07-29T03:58:44.673Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/29/over-1-000-new-exporters-join-sri-lanka-s-export-sector",
-    "contentHash": "1782a780fa2a2039c122cf53c6d698ae80d881149250b4f62b150f8dcfaa60b7",
-    "headline": "Export Sector Gains 1,000+ New Exporters",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-29T05:54:52.608Z",
-    "fbPostId": "1278802861974766_122105902503402039",
-    "category": "Business",
-    "score": 76,
-    "addedAt": "2026-07-29T05:55:45.870Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/29/over-80-000-dengue-cases-reported-so-far-observes-gradual-reduction-in-cases",
     "contentHash": "08a4d0bed149adb899248a857df3075e974f449288561271b8c992a301c050b1",
     "headline": "Over 80,000 Dengue Cases Reported so far",
@@ -1989,6 +1965,30 @@
     "category": "Sri Lanka",
     "score": 88,
     "addedAt": "2026-09-11T14:34:18.497Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/12/sri-lanka-hold-their-nerve-to-reach-asia-cup-final",
+    "contentHash": "55d5a910cc563f0b6e4bff6d7600d08267260005370506f8366cc67847138f60",
+    "headline": "Sri Lanka Hold Their Nerve to Reach Asia Cup Final",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-12T09:30:30.187Z",
+    "fbPostId": "1278802861974766_122117382225402039",
+    "category": "Sports",
+    "score": 90,
+    "addedAt": "2026-09-12T09:31:21.428Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/12/98-chance-of-very-strong-el-ni%c3%b1o-met-department-says",
+    "contentHash": "221192262f3b567d53df4d5aab874fb9e04e8d0a0b3d29eb5f7310010aa7339d",
+    "headline": "98% Chance of Very Strong El Niño, Met Department",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-12T09:30:30.185Z",
+    "fbPostId": "1278802861974766_122117382339402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-09-12T09:32:03.553Z",
     "isShadow": false
   }
 ]
