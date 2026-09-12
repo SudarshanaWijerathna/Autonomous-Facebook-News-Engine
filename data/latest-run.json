@@ -1,10 +1,10 @@
 {
-  "runId": "7606a1fa",
-  "startedAt": "2026-09-12T09:30:06.143Z",
-  "finishedAt": "2026-09-12T09:32:03.555Z",
+  "runId": "b0ddf9ef",
+  "startedAt": "2026-09-12T15:59:20.373Z",
+  "finishedAt": "2026-09-12T16:01:22.302Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 8,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,22 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/11/supreme-court-to-hear-cabraal%e2%80%99s-greek-bond-appeal",
-      "headline": "Supreme Court to Hear Cabraal’s Greek Bond Appeal",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/12/98-chance-of-very-strong-el-ni%c3%b1o-met-department-says",
+      "headline": "98% Chance of Very Strong El Niño, Met Department",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/12/old-bogambara-prison-to-receive-inmates-next-week",
-      "headline": "Old Bogambara Prison To Receive Inmates Next Week",
+      "url": "https://newsfirst.lk/2026/09/12/sri-lanka-hold-their-nerve-to-reach-asia-cup-final",
+      "headline": "Sri Lanka Hold Their Nerve to Reach Asia Cup Final",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/12/public-service-commission-resolves-teachers%e2%80%99-efficiency-bar-issues",
+      "headline": "PSC Resolves Teachers’ Efficiency Bar Issues",
       "reason": "max-posts-per-run-reached",
-      "score": 68
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/12/40-of-colombo-housing-complexes-over-40-years-old",
+      "headline": "40% Of Colombo Housing Complexes Over 40 Years Old",
+      "reason": "max-posts-per-run-reached",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/09/11/piyankara-jayaratne-corruption-case-to-resume-october-12",
       "headline": "Piyankara Jayaratne Corruption Case to Resume",
       "reason": "max-posts-per-run-reached",
-      "score": 67
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
