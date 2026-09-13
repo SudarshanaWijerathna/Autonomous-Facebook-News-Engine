@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/30/met-dept-issues-red-alert-for-strong-winds-and-rough-seas",
-    "contentHash": "2f126ba7aefaa71effcbd18de05449ef367f7d6766bd6b694bb4becf39272d6d",
-    "headline": "Met. Dept. Issues Red Alert",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-30T15:09:37.644Z",
-    "fbPostId": "1278802861974766_122106303351402039",
-    "category": "Breaking",
-    "score": 88,
-    "addedAt": "2026-07-30T15:10:29.351Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/30/mepa-reports-surge-in-plastic-debris-washing-ashore-linked-to-sunken-msc-elsa-3",
-    "contentHash": "ea62926cb88ff02bbbf583d27cf0b11991bcc9ce905a8ad7445d7b1cf32332c3",
-    "headline": "MEPA Reports Surge in Plastic Debris",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-30T15:09:37.644Z",
-    "fbPostId": "1278802861974766_122106303453402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-07-30T15:10:39.800Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/30/uninterrupted-water-supply-guaranteed-for-three-months-even-without-rain-says-housing-minister",
     "contentHash": "193f0d6d4cb5ef81f58c25558aa71be6f35a058d6ab87e7af224c0be0cc84d56",
     "headline": "Uninterrupted Water Supply Guaranteed for 3 Months",
@@ -1989,6 +1965,30 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-09-13T14:31:51.640Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
+    "contentHash": "f2950fbf18b9e26e39e5b61706883d5d527833e8b80fd688fae97437057700d5",
+    "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-13T16:49:47.005Z",
+    "fbPostId": "1278802861974766_122117608113402039",
+    "category": "Sri Lanka",
+    "score": 68,
+    "addedAt": "2026-09-13T16:50:40.974Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/13/five-arrested-with-drugs-in-four-raids-in-mount-lavinia",
+    "contentHash": "46a122fc810808d78b5097e1daa4be76983dbc64fc105da80a0dad853ef65367",
+    "headline": "05 Arrested with Drugs in Four Raids in Mt.Lavinia",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-13T16:49:47.005Z",
+    "fbPostId": "1278802861974766_122117608329402039",
+    "category": "Sri Lanka",
+    "score": 68,
+    "addedAt": "2026-09-13T16:51:29.625Z",
     "isShadow": false
   }
 ]

@@ -1,13 +1,13 @@
 {
-  "runId": "be1a440a",
-  "startedAt": "2026-09-13T14:30:17.621Z",
-  "finishedAt": "2026-09-13T14:31:51.642Z",
+  "runId": "de13ae85",
+  "startedAt": "2026-09-13T16:49:18.816Z",
+  "finishedAt": "2026-09-13T16:51:29.626Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 9,
+  "afterDedup": 8,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,38 +20,37 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/13/colombokandy-road-section-declared-high-risk-landslide-area",
+      "headline": "Col–Kandy Rd Section Prone To High-Risk Landslides",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
       "headline": "Suspect Arrested with Illegal Firearms",
       "reason": "url-duplicate-within-batch"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/navy-nabs-65-individuals-over-illegal-fishing-practices",
-      "headline": "Navy Nabs 65 Over Illegal Fishing Practices",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/five-arrested-with-drugs-in-four-raids-in-mount-lavinia",
-      "headline": "05 Arrested with Drugs in Four Raids in Mt.Lavinia",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
-      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/13/department-of-motor-traffic-to-expedite-public-services",
+      "headline": "DMT To Expedite Public Services",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/13/one-dead-102-rescued-from-stricken-ferry-off-indonesia-s-java",
+      "headline": "Over 100 Rescued From Stricken Indonesian Ferry",
+      "reason": "max-posts-per-run-reached",
+      "score": 48
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/iran-uae-hold-bilateral-talks-on-brics-sidelines",
       "headline": "Iran, UAE Hold Bilateral Talks On BRICS Sidelines",
-      "reason": "score-below-threshold (45 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 45
     }
   ],
