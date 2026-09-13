@@ -1,14 +1,19 @@
 {
-  "runId": "de13ae85",
-  "startedAt": "2026-09-13T16:49:18.816Z",
-  "finishedAt": "2026-09-13T16:51:29.626Z",
+  "runId": "31e95ec9",
+  "startedAt": "2026-09-13T18:16:30.783Z",
+  "finishedAt": "2026-09-13T18:17:58.523Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 8,
+  "afterDedup": 7,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
+      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,37 +25,43 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/colombokandy-road-section-declared-high-risk-landslide-area",
-      "headline": "Col–Kandy Rd Section Prone To High-Risk Landslides",
+      "url": "https://newsfirst.lk/2026/09/13/five-arrested-with-drugs-in-four-raids-in-mount-lavinia",
+      "headline": "05 Arrested with Drugs in Four Raids in Mt.Lavinia",
       "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
       "headline": "Suspect Arrested with Illegal Firearms",
-      "reason": "url-duplicate-within-batch"
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/13/navy-nabs-65-individuals-over-illegal-fishing-practices",
+      "headline": "Navy Nabs 65 Over Illegal Fishing Practices",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/department-of-motor-traffic-to-expedite-public-services",
       "headline": "DMT To Expedite Public Services",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/one-dead-102-rescued-from-stricken-ferry-off-indonesia-s-java",
       "headline": "Over 100 Rescued From Stricken Indonesian Ferry",
-      "reason": "max-posts-per-run-reached",
-      "score": 48
+      "reason": "score-below-threshold (52 < 65)",
+      "score": 52
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/iran-uae-hold-bilateral-talks-on-brics-sidelines",
       "headline": "Iran, UAE Hold Bilateral Talks On BRICS Sidelines",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (45 < 65)",
       "score": 45
     }
   ],

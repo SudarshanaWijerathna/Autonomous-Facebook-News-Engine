@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/30/uninterrupted-water-supply-guaranteed-for-three-months-even-without-rain-says-housing-minister",
-    "contentHash": "193f0d6d4cb5ef81f58c25558aa71be6f35a058d6ab87e7af224c0be0cc84d56",
-    "headline": "Uninterrupted Water Supply Guaranteed for 3 Months",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-30T16:57:55.647Z",
-    "fbPostId": "1278802861974766_122106326487402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-07-30T16:58:49.292Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/30/sri-lanka-warned-of-strong-el-ni%c3%b1o-threat",
     "contentHash": "0f8a6f9489a9d09b0dc6c59f2598b12c10e8f952092f21175d1ef44484215478",
     "headline": "Sri Lanka Warned of Strong El Niño Threat",
@@ -1989,6 +1977,18 @@
     "category": "Sri Lanka",
     "score": 68,
     "addedAt": "2026-09-13T16:51:29.625Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/13/sri-lanka-s-foreign-remittances-increase-by-19-8-cbsl",
+    "contentHash": "775cf59c387612353c1bc372640635ca67a248d1592ed5de8dfc8ac36f79a7b5",
+    "headline": "SL's Foreign Remittances Increase By 19.8% - CBSL",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-13T18:16:57.060Z",
+    "fbPostId": "1278802861974766_122117620017402039",
+    "category": "Business",
+    "score": 83,
+    "addedAt": "2026-09-13T18:17:58.522Z",
     "isShadow": false
   }
 ]
