@@ -1,13 +1,13 @@
 {
-  "runId": "53e6ecfb",
-  "startedAt": "2026-09-13T13:00:18.089Z",
-  "finishedAt": "2026-09-13T13:01:28.448Z",
+  "runId": "be1a440a",
+  "startedAt": "2026-09-13T14:30:17.621Z",
+  "finishedAt": "2026-09-13T14:31:51.642Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 9,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -25,20 +25,20 @@
       "reason": "url-duplicate-within-batch"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
-      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/sri-lanka-thailand-to-strengthen-cooperation-in-labour-and-tourism",
-      "headline": "Vijitha Herath to Undertake Visit to Thailand",
+      "url": "https://newsfirst.lk/2026/09/13/navy-nabs-65-individuals-over-illegal-fishing-practices",
+      "headline": "Navy Nabs 65 Over Illegal Fishing Practices",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/five-arrested-with-drugs-in-four-raids-in-mount-lavinia",
       "headline": "05 Arrested with Drugs in Four Raids in Mt.Lavinia",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
+      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
@@ -51,12 +51,6 @@
     {
       "url": "https://newsfirst.lk/2026/09/13/iran-uae-hold-bilateral-talks-on-brics-sidelines",
       "headline": "Iran, UAE Hold Bilateral Talks On BRICS Sidelines",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/one-dead-102-rescued-from-stricken-ferry-off-indonesia-s-java",
-      "headline": "Over 100 Rescued From Stricken Indonesian Ferry",
       "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }

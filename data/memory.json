@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/29/over-80-000-dengue-cases-reported-so-far-observes-gradual-reduction-in-cases",
-    "contentHash": "08a4d0bed149adb899248a857df3075e974f449288561271b8c992a301c050b1",
-    "headline": "Over 80,000 Dengue Cases Reported so far",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-29T16:48:12.488Z",
-    "fbPostId": "1278802861974766_122106056451402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-07-29T16:57:15.242Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/29/43-containers-worth-of-plastic-pellets-collected-from-msc-elsa-3-spill",
-    "contentHash": "b296c163ecbc06b1afe0c6f55d2ab086124875f7ccaeec82575cbbd1f15c8502",
-    "headline": "43 Containers Recovered From MSC Elsa 3 Spill",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-29T18:29:48.981Z",
-    "fbPostId": "1278802861974766_122106072801402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-07-29T18:30:46.983Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/07/29/cpc-signals-fuel-price-cut-amid-global-oil-decline",
-    "contentHash": "c8d43fcbf744a7d726c9ff1bfa3266f787871024875e45a57badc9f003ac365b",
-    "headline": "CPC Signals Fuel Price Cut Amid Global Oil Decline",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-30T03:49:29.202Z",
-    "fbPostId": "1278802861974766_122106167025402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-07-30T03:51:13.209Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/30/met-dept-issues-red-alert-for-strong-winds-and-rough-seas",
     "contentHash": "2f126ba7aefaa71effcbd18de05449ef367f7d6766bd6b694bb4becf39272d6d",
     "headline": "Met. Dept. Issues Red Alert",
@@ -2013,6 +1977,18 @@
     "category": "Sri Lanka",
     "score": 68,
     "addedAt": "2026-09-12T16:01:22.300Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/13/colombokandy-road-section-declared-high-risk-landslide-area",
+    "contentHash": "51d8d665ffe3f7f10ab97d7d6aee6e7b6b4f9da8e54781797768e90060f651cd",
+    "headline": "Col–Kandy Rd Section Prone To High-Risk Landslides",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-13T14:30:43.509Z",
+    "fbPostId": "1278802861974766_122117592429402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-09-13T14:31:51.640Z",
     "isShadow": false
   }
 ]
