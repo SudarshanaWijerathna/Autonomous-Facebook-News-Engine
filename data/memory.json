@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/07/30/sri-lanka-warned-of-strong-el-ni%c3%b1o-threat",
-    "contentHash": "0f8a6f9489a9d09b0dc6c59f2598b12c10e8f952092f21175d1ef44484215478",
-    "headline": "Sri Lanka Warned of Strong El Niño Threat",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-07-31T04:15:44.270Z",
-    "fbPostId": "1278802861974766_122106447591402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-07-31T04:16:34.337Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/07/31/three-associates-of-kanjipani-imran-arrested-in-malaysia",
     "contentHash": "de6eff7162f8e1573c38df184047c73ae4427208b6dcb7d6ca234ce8ace1a033",
     "headline": "Associates of Kanjipani Imran Arrested in Malaysia",
@@ -1989,6 +1977,30 @@
     "category": "Business",
     "score": 83,
     "addedAt": "2026-09-13T18:17:58.522Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/13/rumesh-tharanga-wins-world-ultimate-athletics-championship",
+    "contentHash": "5fb0ae4556357514ef060bd4e18e7d771eaf26d4f2792235941ec63326ddd0cd",
+    "headline": "Rumesh Wins World Ultimate Athletics Championship",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-14T05:32:53.767Z",
+    "fbPostId": "1278802861974766_122117697711402039",
+    "category": "Sports",
+    "score": 88,
+    "addedAt": "2026-09-14T05:33:46.109Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/14/india-claim-eighth-women%e2%80%99s-t20-asia-cup-title",
+    "contentHash": "b2651c2758c042769dddb812b7dfb04205ba3b46912b01f877c854d774bab5fb",
+    "headline": "India Claim Eighth Women’s T20 Asia Cup Title",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-14T05:32:53.767Z",
+    "fbPostId": "1278802861974766_122117698041402039",
+    "category": "Sports",
+    "score": 85,
+    "addedAt": "2026-09-14T05:34:30.652Z",
     "isShadow": false
   }
 ]

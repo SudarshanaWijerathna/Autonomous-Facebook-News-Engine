@@ -1,19 +1,14 @@
 {
-  "runId": "f4196098",
-  "startedAt": "2026-09-13T19:34:18.783Z",
-  "finishedAt": "2026-09-13T19:35:29.023Z",
+  "runId": "12e4be6c",
+  "startedAt": "2026-09-14T05:32:30.138Z",
+  "finishedAt": "2026-09-14T05:34:30.654Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 6,
+  "afterDedup": 9,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
-      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,55 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/five-arrested-with-drugs-in-four-raids-in-mount-lavinia",
-      "headline": "05 Arrested with Drugs in Four Raids in Mt.Lavinia",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/sri-lanka-s-foreign-remittances-increase-by-19-8-cbsl",
-      "headline": "SL's Foreign Remittances Increase By 19.8% - CBSL",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
-      "headline": "Suspect Arrested with Illegal Firearms",
+      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/13/%e2%80%98this-government-faces-no-further-threats%e2%80%99-president",
+      "headline": "‘This Government Faces No Further Threats’",
+      "reason": "max-posts-per-run-reached",
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/navy-nabs-65-individuals-over-illegal-fishing-practices",
       "headline": "Navy Nabs 65 Over Illegal Fishing Practices",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/businessman-arrested-at-bia-with-rs-6-68-mn-worth-of-kush",
-      "headline": "Businessman Arrested at BIA",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/13/department-of-motor-traffic-to-expedite-public-services",
       "headline": "DMT To Expedite Public Services",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/13/two-arrested-at-bia-with-illicit-stash-of-cigarettes",
+      "headline": "2 Arrested at BIA with Illicit Stash of Cigarettes",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/one-dead-102-rescued-from-stricken-ferry-off-indonesia-s-java",
-      "headline": "Over 100 Rescued From Stricken Indonesian Ferry",
-      "reason": "score-below-threshold (58 < 75)",
-      "score": 58
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/iran-uae-hold-bilateral-talks-on-brics-sidelines",
-      "headline": "Iran, UAE Hold Bilateral Talks On BRICS Sidelines",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
     }
   ],
   "errors": []
