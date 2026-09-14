@@ -1,7 +1,7 @@
 {
-  "runId": "d0d50f2f",
-  "startedAt": "2026-09-14T18:20:30.421Z",
-  "finishedAt": "2026-09-14T18:21:43.631Z",
+  "runId": "a49a8ec5",
+  "startedAt": "2026-09-14T19:53:54.713Z",
+  "finishedAt": "2026-09-14T19:55:06.622Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 8,
@@ -30,38 +30,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/14/sri-lanka-navy-raises-sunken-fast-attack-craft-after-dramatic-recovery-mission",
-      "headline": "Sunken War Vessel Brought Back to Surface",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/14/government-to-inject-rs-2-5-billion-more-for-paddy-purchases",
       "headline": "Govt.To Inject Rs.2.5 Bn More for Paddy Purchases",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/14/sri-lanka-navy-raises-sunken-fast-attack-craft-after-dramatic-recovery-mission",
+      "headline": "Sunken War Vessel Brought Back to Surface",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/14/two-zones-of-yala-national-park-temporarily-closed",
-      "headline": "Two Zones of Yala National Park Temporarily Closed",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/14/2026-local-government-week-begins-today-14",
-      "headline": "2026 Local Government Week Begins Today (14)",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/14/developing-nations-need-stronger-financial-safety-nets",
       "headline": "Developing Nations Need Stronger Safety Nets",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/14/two-zones-of-yala-national-park-temporarily-closed",
+      "headline": "Two Zones of Yala National Park Temporarily Closed",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/14/2026-local-government-week-begins-today-14",
+      "headline": "2026 Local Government Week Begins Today (14)",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
