@@ -1,7 +1,7 @@
 {
-  "runId": "a49a8ec5",
-  "startedAt": "2026-09-14T19:53:54.713Z",
-  "finishedAt": "2026-09-14T19:55:06.622Z",
+  "runId": "52d60c71",
+  "startedAt": "2026-09-14T20:58:54.598Z",
+  "finishedAt": "2026-09-14T21:00:04.265Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 8,
@@ -30,28 +30,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/14/government-to-inject-rs-2-5-billion-more-for-paddy-purchases",
-      "headline": "Govt.To Inject Rs.2.5 Bn More for Paddy Purchases",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/14/sri-lanka-navy-raises-sunken-fast-attack-craft-after-dramatic-recovery-mission",
       "headline": "Sunken War Vessel Brought Back to Surface",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/14/developing-nations-need-stronger-financial-safety-nets",
-      "headline": "Developing Nations Need Stronger Safety Nets",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/09/14/two-zones-of-yala-national-park-temporarily-closed",
       "headline": "Two Zones of Yala National Park Temporarily Closed",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -62,6 +50,18 @@
     {
       "url": "https://newsfirst.lk/2026/09/14/2026-local-government-week-begins-today-14",
       "headline": "2026 Local Government Week Begins Today (14)",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/14/developing-nations-need-stronger-financial-safety-nets",
+      "headline": "Developing Nations Need Stronger Safety Nets",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/14/singapore-takes-bold-step-to-defend-multicultural-society",
+      "headline": "Singapore To Defend Multicultural Society",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
