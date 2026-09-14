@@ -1,10 +1,10 @@
 {
-  "runId": "12e4be6c",
-  "startedAt": "2026-09-14T05:32:30.138Z",
-  "finishedAt": "2026-09-14T05:34:30.654Z",
+  "runId": "0d515a3a",
+  "startedAt": "2026-09-14T14:36:47.711Z",
+  "finishedAt": "2026-09-14T14:38:53.542Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 9,
+  "afterDedup": 10,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,31 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
-      "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/%e2%80%98this-government-faces-no-further-threats%e2%80%99-president",
-      "headline": "‘This Government Faces No Further Threats’",
+      "url": "https://newsfirst.lk/2026/09/14/sri-lanka-navy-raises-sunken-fast-attack-craft-after-dramatic-recovery-mission",
+      "headline": "Sunken War Vessel Brought Back to Surface",
       "reason": "max-posts-per-run-reached",
-      "score": 82
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/navy-nabs-65-individuals-over-illegal-fishing-practices",
-      "headline": "Navy Nabs 65 Over Illegal Fishing Practices",
+      "url": "https://newsfirst.lk/2026/09/14/government-to-inject-rs-2-5-billion-more-for-paddy-purchases",
+      "headline": "Govt.To Inject Rs.2.5 Bn More for Paddy Purchases",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/14/two-zones-of-yala-national-park-temporarily-closed",
+      "headline": "Two Zones of Yala National Park Temporarily Closed",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/13/department-of-motor-traffic-to-expedite-public-services",
-      "headline": "DMT To Expedite Public Services",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/13/two-arrested-at-bia-with-illicit-stash-of-cigarettes",
-      "headline": "2 Arrested at BIA with Illicit Stash of Cigarettes",
+      "url": "https://newsfirst.lk/2026/09/14/developing-nations-need-stronger-financial-safety-nets",
+      "headline": "Developing Nations Need Stronger Safety Nets",
       "reason": "max-posts-per-run-reached",
       "score": 62
     }
