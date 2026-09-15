@@ -1,13 +1,13 @@
 {
-  "runId": "f5a50147",
-  "startedAt": "2026-09-15T17:28:07.865Z",
-  "finishedAt": "2026-09-15T17:30:12.759Z",
+  "runId": "c3941efa",
+  "startedAt": "2026-09-15T20:18:45.136Z",
+  "finishedAt": "2026-09-15T20:20:33.469Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 8,
+  "afterDedup": 6,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/15/ex-air-force-chief-at-fcid-over-mig-deal",
@@ -25,6 +25,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/15/terror-probe-launched-into-complaint-over-anuradhapura-slpp-rally",
+      "headline": "Probe into Complaint Over Anuradhapura SLPP Rally",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/15/sri-lanka-to-provide-new-javelin-set-for-world-no-1-rumesh-tharanga",
+      "headline": "Sri Lanka to Provide New Javelin Set For Rumesh",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/15/deshabandu-senior-cops-violated-rights-of-shani-ravi",
       "headline": "Deshabandu, Seniors Violated Rights of Shani, Ravi",
       "reason": "exact-duplicate-in-memory"
@@ -32,25 +42,37 @@
     {
       "url": "https://newsfirst.lk/2026/09/15/stf-arrests-associate-of-organized-crime-figure-kalubowila-avishka-with-over-rs-25-million-worth-of-drugs",
       "headline": "STF Arrests Associate of Organized Crime Figure",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (72 < 75)",
       "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/15/china-to-assist-sri-lanka-with-smart-agriculture-tech-says-ministry",
-      "headline": "China to Assist Sri Lanka with Smart Agriculture",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/15/%e2%80%98no-country-can-govern-this-technology-alone%e2%80%99-un-rights-chief-on-ai",
       "headline": "UN Calls for Urgent AI Regulation",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/15/china-to-assist-sri-lanka-with-smart-agriculture-tech-says-ministry",
+      "headline": "China to Assist Sri Lanka with Smart Agriculture",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/15/ai-can-be-very-dangerous-musk-proposes-ai-giants-test-each-other%e2%80%99s-models",
+      "headline": "'AI Can Be Very Dangerous': Musk Warns",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/15/china-tightens-travel-rules-for-citizens-over-technology-security",
+      "headline": "China Tightens Travel Rules for Citizens",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
