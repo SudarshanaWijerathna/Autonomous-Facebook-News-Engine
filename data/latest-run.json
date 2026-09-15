@@ -1,14 +1,19 @@
 {
-  "runId": "7b5680b6",
-  "startedAt": "2026-09-15T15:07:48.796Z",
-  "finishedAt": "2026-09-15T15:12:04.880Z",
+  "runId": "f5a50147",
+  "startedAt": "2026-09-15T17:28:07.865Z",
+  "finishedAt": "2026-09-15T17:30:12.759Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 8,
   "scored": 6,
   "selected": 2,
   "published": 2,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/15/ex-air-force-chief-at-fcid-over-mig-deal",
+      "headline": "Ex-Air Force Chief At FCID Over MiG Deal",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,22 +25,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/15/sri-lanka-to-provide-new-javelin-set-for-world-no-1-rumesh-tharanga",
-      "headline": "Sri Lanka to Provide New Javelin Set For Rumesh",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/15/terror-probe-launched-into-complaint-over-anuradhapura-slpp-rally",
-      "headline": "Probe into Complaint Over Anuradhapura SLPP Rally",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/09/15/deshabandu-senior-cops-violated-rights-of-shani-ravi",
+      "headline": "Deshabandu, Seniors Violated Rights of Shani, Ravi",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/09/15/stf-arrests-associate-of-organized-crime-figure-kalubowila-avishka-with-over-rs-25-million-worth-of-drugs",
       "headline": "STF Arrests Associate of Organized Crime Figure",
       "reason": "max-posts-per-run-reached",
       "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/15/china-to-assist-sri-lanka-with-smart-agriculture-tech-says-ministry",
+      "headline": "China to Assist Sri Lanka with Smart Agriculture",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/15/%e2%80%98no-country-can-govern-this-technology-alone%e2%80%99-un-rights-chief-on-ai",
+      "headline": "UN Calls for Urgent AI Regulation",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
