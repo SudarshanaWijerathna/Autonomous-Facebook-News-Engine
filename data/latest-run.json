@@ -1,19 +1,14 @@
 {
-  "runId": "c3941efa",
-  "startedAt": "2026-09-15T20:18:45.136Z",
-  "finishedAt": "2026-09-15T20:20:33.469Z",
+  "runId": "f5e068bd",
+  "startedAt": "2026-09-16T12:59:01.654Z",
+  "finishedAt": "2026-09-16T13:02:06.914Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 6,
+  "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/09/15/ex-air-force-chief-at-fcid-over-mig-deal",
-      "headline": "Ex-Air Force Chief At FCID Over MiG Deal",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,53 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/15/terror-probe-launched-into-complaint-over-anuradhapura-slpp-rally",
-      "headline": "Probe into Complaint Over Anuradhapura SLPP Rally",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/16/ctid-to-investigate-archchuna%e2%80%99s-a-pura-comments",
+      "headline": "CTID To Investigate Archchuna’s A'pura Comments",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/09/15/sri-lanka-to-provide-new-javelin-set-for-world-no-1-rumesh-tharanga",
-      "headline": "Sri Lanka to Provide New Javelin Set For Rumesh",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/15/deshabandu-senior-cops-violated-rights-of-shani-ravi",
-      "headline": "Deshabandu, Seniors Violated Rights of Shani, Ravi",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/15/stf-arrests-associate-of-organized-crime-figure-kalubowila-avishka-with-over-rs-25-million-worth-of-drugs",
-      "headline": "STF Arrests Associate of Organized Crime Figure",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/15/%e2%80%98no-country-can-govern-this-technology-alone%e2%80%99-un-rights-chief-on-ai",
-      "headline": "UN Calls for Urgent AI Regulation",
+      "url": "https://newsfirst.lk/2026/09/16/former-mp-janaka-tissakuttiarachchi-summoned-to-illegal-assets-investigation-unit",
+      "headline": "Former MP Janaka Tissakuttiarachchi Summoned",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/15/china-to-assist-sri-lanka-with-smart-agriculture-tech-says-ministry",
-      "headline": "China to Assist Sri Lanka with Smart Agriculture",
+      "url": "https://newsfirst.lk/2026/09/16/mannar-to-get-state-of-the-art-emergency-hospital-facility-by-2028",
+      "headline": "Mannar to Get Upgraded Hospital Facility by 2028",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/09/16/navy-seizes-370-kg-of-fish-caught-using-explosives",
+      "headline": "Navy Seizes 370 Kg Of Fish Caught Using Explosives",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/09/15/ai-can-be-very-dangerous-musk-proposes-ai-giants-test-each-other%e2%80%99s-models",
-      "headline": "'AI Can Be Very Dangerous': Musk Warns",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/15/china-tightens-travel-rules-for-citizens-over-technology-security",
-      "headline": "China Tightens Travel Rules for Citizens",
+      "url": "https://newsfirst.lk/2026/09/16/india-treats-sri-lanka-like-family-says-high-commissioner",
+      "headline": "India Treats Sri Lanka Like Family, Says Envoy",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }

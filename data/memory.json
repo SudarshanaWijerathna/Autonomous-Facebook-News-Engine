@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/02/grade-5-scholarship-exam-tuition-ban-from-midnight-on-august-5",
-    "contentHash": "4985d519fbefb048750909561c2546f2e8fe56c58298794a052810d92b9a97eb",
-    "headline": "Grade 5 Scholarship Exam Tuition Ban from 5th Aug",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-02T09:50:21.416Z",
-    "fbPostId": "1278802861974766_122107119549402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-02T09:51:14.045Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/02/12-hour-water-cut-for-several-areas-in-kandy-today-02",
-    "contentHash": "a93496e52f72feb4693699c9bcc7d31b3613edd79a06d64cf68ea3b5e15dde44",
-    "headline": "12-Hr Water Cut for Kandy Today (02)",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-02T09:50:21.416Z",
-    "fbPostId": "1278802861974766_122107119645402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-08-02T09:51:21.976Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/02/unrest-at-mahara-prison-brought-under-control",
-    "contentHash": "4f5c34ca3c81ff5cc547b61d561a4941bcea76b8012b3eebce9752faed37c67b",
-    "headline": "Unrest at Mahara Prison Brought Under Control",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-02T11:40:09.830Z",
-    "fbPostId": "1278802861974766_122107144569402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-08-02T11:40:56.595Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/02/inflation-rises-but-sri-lanka-s-economic-recovery-remains-on-track",
     "contentHash": "942346dc3bcbc81f99ec9d35ec13167e691cd6ead041829b02df2ea96eee9b61",
     "headline": "Inflation Rises; SL's Economic Recovery on Track",
@@ -1965,6 +1929,18 @@
     "category": "Sri Lanka",
     "score": 73,
     "addedAt": "2026-09-15T17:30:12.758Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/16/turkish-airlines-promises-action-and-compensation-after-damage-to-world-champion%e2%80%99s-javelins",
+    "contentHash": "1855bbb83a28650d6f119fe21dcf0e4eb1258104c1160de9ca2b5919d2f89664",
+    "headline": "Turkish Airlines Promises Action and Compensation",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-16T12:59:27.238Z",
+    "fbPostId": "1278802861974766_122118200583402039",
+    "category": "Sports",
+    "score": 76,
+    "addedAt": "2026-09-16T13:02:06.912Z",
     "isShadow": false
   }
 ]
