@@ -1,13 +1,13 @@
 {
-  "runId": "ad68130e",
-  "startedAt": "2026-09-16T17:27:35.876Z",
-  "finishedAt": "2026-09-16T17:29:52.443Z",
+  "runId": "5f6c9268",
+  "startedAt": "2026-09-16T18:59:36.727Z",
+  "finishedAt": "2026-09-16T19:01:01.154Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 8,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,27 +20,43 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/16/namal-remanded-until-september-23-in-money-laundering-case",
+      "headline": "Namal Remanded in Money Laundering Case",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/16/ctid-to-investigate-archchuna%e2%80%99s-a-pura-comments",
+      "headline": "CTID To Investigate Archchuna’s A'pura Comments",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/16/assets-worth-lkr-35-million-belonging-to-drug-trafficker-bathala-heen-mahaththaya-frozen",
       "headline": "Assets Belonging to Drug Trafficker Frozen",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/16/mannar-to-get-state-of-the-art-emergency-hospital-facility-by-2028",
+      "headline": "Mannar to Get Upgraded Hospital Facility by 2028",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/16/navy-seizes-370-kg-of-fish-caught-using-explosives",
       "headline": "Navy Seizes 370 Kg Of Fish Caught Using Explosives",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/16/india-treats-sri-lanka-like-family-says-high-commissioner",
       "headline": "India Treats Sri Lanka Like Family, Says Envoy",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
