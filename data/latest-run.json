@@ -1,14 +1,19 @@
 {
-  "runId": "5f6c9268",
-  "startedAt": "2026-09-16T18:59:36.727Z",
-  "finishedAt": "2026-09-16T19:01:01.154Z",
+  "runId": "0fd9380f",
+  "startedAt": "2026-09-16T20:15:58.499Z",
+  "finishedAt": "2026-09-16T20:17:22.789Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 8,
+  "afterDedup": 7,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/16/shiranthi-rajapaksa-leaves-country-as-long-stalled-sriliya-investigation-is-revived",
+      "headline": "Long-Stalled Sriliya Investigation Revived",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -30,16 +35,22 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/16/assets-worth-lkr-35-million-belonging-to-drug-trafficker-bathala-heen-mahaththaya-frozen",
-      "headline": "Assets Belonging to Drug Trafficker Frozen",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/16/rs-2-4-bn-jica-funded-cardiac-centre-for-trincomalee",
+      "headline": "Rs. 2.4 Bn JICA-Funded Cardiac Centre For Trinco",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/09/16/mannar-to-get-state-of-the-art-emergency-hospital-facility-by-2028",
       "headline": "Mannar to Get Upgraded Hospital Facility by 2028",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/16/assets-worth-lkr-35-million-belonging-to-drug-trafficker-bathala-heen-mahaththaya-frozen",
+      "headline": "Assets Belonging to Drug Trafficker Frozen",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/16/navy-seizes-370-kg-of-fish-caught-using-explosives",
