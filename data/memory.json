@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/02/inflation-rises-but-sri-lanka-s-economic-recovery-remains-on-track",
-    "contentHash": "942346dc3bcbc81f99ec9d35ec13167e691cd6ead041829b02df2ea96eee9b61",
-    "headline": "Inflation Rises; SL's Economic Recovery on Track",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-02T14:27:38.429Z",
-    "fbPostId": "1278802861974766_122107180359402039",
-    "category": "Business",
-    "score": 77,
-    "addedAt": "2026-08-02T14:29:06.292Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/03/flood-alert-rapid-rise-in-mahaweli-kelani-river-water-levels",
     "contentHash": "7c87bc38a36edcf56689eb6e0cdc9247a6e1245deddf6918284c0aca4ca712fc",
     "headline": "Rapid Rise in Mahaweli, Kelani River Water Levels",
@@ -1941,6 +1929,30 @@
     "category": "Sports",
     "score": 76,
     "addedAt": "2026-09-16T13:02:06.912Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/16/namal-remanded-until-september-23-in-money-laundering-case",
+    "contentHash": "8ca5ee18227448cb665cd80a02b43f44da4778419b0bf44a05a784d519797158",
+    "headline": "Namal Remanded in Money Laundering Case",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-16T17:28:05.519Z",
+    "fbPostId": "1278802861974766_122118247035402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-09-16T17:29:13.244Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/16/ctid-to-investigate-archchuna%e2%80%99s-a-pura-comments",
+    "contentHash": "4b96bde42674c22a00a8f0c971ad9b34f576ba5d496e3af17cf86ac07a57a339",
+    "headline": "CTID To Investigate Archchuna’s A'pura Comments",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-16T17:28:05.520Z",
+    "fbPostId": "1278802861974766_122118247173402039",
+    "category": "Sri Lanka",
+    "score": 72,
+    "addedAt": "2026-09-16T17:29:52.441Z",
     "isShadow": false
   }
 ]
