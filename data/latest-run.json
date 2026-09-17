@@ -1,19 +1,14 @@
 {
-  "runId": "0fd9380f",
-  "startedAt": "2026-09-16T20:15:58.499Z",
-  "finishedAt": "2026-09-16T20:17:22.789Z",
+  "runId": "a734ebc7",
+  "startedAt": "2026-09-17T10:16:01.974Z",
+  "finishedAt": "2026-09-17T10:17:56.521Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 7,
+  "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/09/16/shiranthi-rajapaksa-leaves-country-as-long-stalled-sriliya-investigation-is-revived",
-      "headline": "Long-Stalled Sriliya Investigation Revived",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,50 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/16/namal-remanded-until-september-23-in-money-laundering-case",
-      "headline": "Namal Remanded in Money Laundering Case",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/17/fatal-mattakkuliya-accident-death-toll-rises",
+      "headline": "Fatal Mattakkuliya Accident Death Toll Rises",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/16/ctid-to-investigate-archchuna%e2%80%99s-a-pura-comments",
-      "headline": "CTID To Investigate Archchuna’s A'pura Comments",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/17/new-emergency-response-units-to-be-established-within-two-weeks",
+      "headline": "New Emergency Response Units To Be Established",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/16/rs-2-4-bn-jica-funded-cardiac-centre-for-trincomalee",
-      "headline": "Rs. 2.4 Bn JICA-Funded Cardiac Centre For Trinco",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/09/17/driver-in-fatal-mattakkuliya-crash-tested-positive-for-cannabis",
+      "headline": "Driver in Mattakkuliya Crash Used Drugs",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/16/mannar-to-get-state-of-the-art-emergency-hospital-facility-by-2028",
-      "headline": "Mannar to Get Upgraded Hospital Facility by 2028",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/16/digital-summit-asia-sri-lanka-2026-to-bring-asia%e2%80%99s-digital-and-creative-minds-to-colombo",
+      "headline": "DMASL Brings Asia’s Digital Minds Together",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/16/assets-worth-lkr-35-million-belonging-to-drug-trafficker-bathala-heen-mahaththaya-frozen",
-      "headline": "Assets Belonging to Drug Trafficker Frozen",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/16/navy-seizes-370-kg-of-fish-caught-using-explosives",
-      "headline": "Navy Seizes 370 Kg Of Fish Caught Using Explosives",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/16/india-treats-sri-lanka-like-family-says-high-commissioner",
-      "headline": "India Treats Sri Lanka Like Family, Says Envoy",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []

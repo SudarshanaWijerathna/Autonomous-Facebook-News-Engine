@@ -1966,5 +1966,29 @@
     "score": 81,
     "addedAt": "2026-09-16T19:01:01.153Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/17/ai-being-used-to-create-realistic-child-abuse-material-warns-police",
+    "contentHash": "6d7fbb1d27bc00f03e83f50320e45fe1ac0f1e6c5523798748dd46f2d271ba2f",
+    "headline": "AI Used to Create Realistic Child Abuse Material",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-17T10:16:17.900Z",
+    "fbPostId": "1278802861974766_122118378363402039",
+    "category": "AI & Tech",
+    "score": 85,
+    "addedAt": "2026-09-17T10:17:11.333Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/17/government-launches-housing-support-for-vulnerable-children",
+    "contentHash": "4efc1cc649ae9f17954bfbdb5b904fcfbba029c1fe49eb3b182b0f7eba53e9e7",
+    "headline": "Housing Support For Vulnerable Children",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-17T10:16:17.901Z",
+    "fbPostId": "1278802861974766_122118378735402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-09-17T10:17:56.520Z",
+    "isShadow": false
   }
 ]
