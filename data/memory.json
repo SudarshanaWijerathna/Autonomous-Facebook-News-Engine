@@ -1990,5 +1990,29 @@
     "score": 75,
     "addedAt": "2026-09-17T10:17:56.520Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/17/sri-lanka-customs-surpasses-rs-2-trillion-revenue-mark-in-2026",
+    "contentHash": "cec3a46c37c504f2acb85ec5e82523c8ea01c9c0da1e74e31baa5b068594a16b",
+    "headline": "SL Customs Surpasses Rs. 2 Trillion Revenue Mark",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-17T12:55:32.790Z",
+    "fbPostId": "1278802861974766_122118406863402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-09-17T13:00:47.316Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/17/dengue-cases-rise-to-98-249",
+    "contentHash": "5ce52968d1e3ee8e87d583d66109f947c4042b8cef85b07928b20e43f65b8e58",
+    "headline": "Dengue Cases Rise To 98,249",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-17T12:55:32.790Z",
+    "fbPostId": "1278802861974766_122118407085402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-17T13:01:31.797Z",
+    "isShadow": false
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "runId": "a734ebc7",
-  "startedAt": "2026-09-17T10:16:01.974Z",
-  "finishedAt": "2026-09-17T10:17:56.521Z",
+  "runId": "484e6243",
+  "startedAt": "2026-09-17T12:55:07.999Z",
+  "finishedAt": "2026-09-17T13:01:31.798Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 9,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,26 +20,31 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/17/fatal-mattakkuliya-accident-death-toll-rises",
-      "headline": "Fatal Mattakkuliya Accident Death Toll Rises",
+      "url": "https://newsfirst.lk/2026/09/17/ai-being-used-to-create-realistic-child-abuse-material-warns-police",
+      "headline": "AI Used to Create Realistic Child Abuse Material",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/17/24-7-assistance-for-police-clearance-certificate-applicants",
+      "headline": "24/7 Assistance for Police Clearance Certificate",
       "reason": "max-posts-per-run-reached",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/17/new-emergency-response-units-to-be-established-within-two-weeks",
-      "headline": "New Emergency Response Units To Be Established",
+      "url": "https://newsfirst.lk/2026/09/17/china-to-assist-introduction-of-ai-to-sri-lanka%e2%80%99s-judicial-system",
+      "headline": "China To Assist Intro of AI To SL Judicial System",
       "reason": "max-posts-per-run-reached",
-      "score": 74
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/17/corruption-case-against-wasantha-karannagoda-yoshitha-rajapaksa-called-for-pre-trial-conference",
+      "headline": "Karannagoda, Yoshitha To Face Pre-Trial Conference",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/09/17/driver-in-fatal-mattakkuliya-crash-tested-positive-for-cannabis",
       "headline": "Driver in Mattakkuliya Crash Used Drugs",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/16/digital-summit-asia-sri-lanka-2026-to-bring-asia%e2%80%99s-digital-and-creative-minds-to-colombo",
-      "headline": "DMASL Brings Asia’s Digital Minds Together",
       "reason": "max-posts-per-run-reached",
       "score": 68
     }
