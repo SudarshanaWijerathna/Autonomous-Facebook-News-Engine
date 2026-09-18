@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/04/conspiracy-behind-mahara-prison-rampage-govt-probes-possible-external-hand-in-violence",
-    "contentHash": "c5ab07de546b78641ad7b3becb25880115a131788736d86184b6a2dd4fe24555",
-    "headline": "Conspiracy Behind Mahara Prison Rampage?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-04T12:24:02.629Z",
-    "fbPostId": "1278802861974766_122107686615402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-04T12:26:38.066Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/04/cop-remanded-over-alleged-underworld-execution",
     "contentHash": "9922c73093ef6be5a730eaff3ca6b4853b1206512a3c0a3ee69ff7de722f9d90",
     "headline": "Cop Remanded Over Alleged Underworld Execution",
@@ -1965,6 +1953,30 @@
     "category": "Sri Lanka",
     "score": 84,
     "addedAt": "2026-09-18T09:59:18.912Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/18/grenade-attack-suspect-tied-to-separate-underworld-execution",
+    "contentHash": "f80872ce1f6aa3ad3be5e7a352ee3405602cb62dff92c43282feede33fdfc2df",
+    "headline": "Grenade suspect linked to underworld execution",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-18T16:56:26.183Z",
+    "fbPostId": "1278802861974766_122118658089402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-09-18T16:57:18.822Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/18/court-orders-probe-into-wimal%e2%80%99s-remarks-on-namal-rajapaksa-remand",
+    "contentHash": "bc9301d7803dcdc206a48e9f8c7780705beb381f577fe5d463342fb832370aad",
+    "headline": "Court Orders Probe Into Wimal’s Remarks on Namal",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-18T16:56:26.182Z",
+    "fbPostId": "1278802861974766_122118658329402039",
+    "category": "Sri Lanka",
+    "score": 74,
+    "addedAt": "2026-09-18T16:57:59.914Z",
     "isShadow": false
   }
 ]

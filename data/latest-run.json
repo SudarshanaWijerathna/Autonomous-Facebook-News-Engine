@@ -1,13 +1,13 @@
 {
-  "runId": "925b652c",
-  "startedAt": "2026-09-18T09:58:00.241Z",
-  "finishedAt": "2026-09-18T09:59:18.913Z",
+  "runId": "4c126c1c",
+  "startedAt": "2026-09-18T16:56:00.958Z",
+  "finishedAt": "2026-09-18T16:57:59.915Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 9,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,33 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/18/maha-season-water-supply-dates-to-be-finalized-today",
-      "headline": "Maha Season Water Supply Dates to Be Finalized",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/18/namal-s-remand-extended-in-rs-100-mn-bribe-case-linked-to-airbus-scandal",
+      "headline": "Namal's Remand Extended In Rs. 100 Mn Bribe Case",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/18/police-deploy-two-teams-to-probe-dematagoda-shooting",
+      "headline": "Police Deploy Two Teams To Probe Shooting",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/18/350-new-health-attendants-recruited-for-northern-province-hospitals",
-      "headline": "350 New Health Attendants Recruited",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/18/panadura-kudu-salindu-s-cash-collector-wife-arrested",
+      "headline": "Panadura Kudu Salindu's, Wife Arrested",
+      "reason": "max-posts-per-run-reached",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/18/sri-lanka-plans-salary-hike-for-prison-officers",
+      "headline": "Sri Lanka Plans Salary Hike for Prison Officers",
+      "reason": "max-posts-per-run-reached",
+      "score": 63
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/record-112-billion-mobilized-for-developing-nations",
-      "headline": "Record $112 Bn Mobilized for Developing Nations",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/undp-donates-forensic-equipment-to-government-analyst%e2%80%99s-department",
-      "headline": "UNDP Donates Forensic Equipment to Analyst’s Dept.",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
