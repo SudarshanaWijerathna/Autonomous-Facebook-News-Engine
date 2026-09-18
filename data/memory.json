@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/03/flood-alert-rapid-rise-in-mahaweli-kelani-river-water-levels",
-    "contentHash": "7c87bc38a36edcf56689eb6e0cdc9247a6e1245deddf6918284c0aca4ca712fc",
-    "headline": "Rapid Rise in Mahaweli, Kelani River Water Levels",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-03T13:23:31.448Z",
-    "fbPostId": "1278802861974766_122107420947402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-03T13:24:28.665Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/03/court-orders-harak-kata-s-transfer-to-high-security-prison",
-    "contentHash": "636d481bb76597b6347450dc0c8027c67e5078fbf595a063aef6a67a2e51925d",
-    "headline": "Court Orders Harak Kata's Transfer to Prison",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-03T13:23:31.448Z",
-    "fbPostId": "1278802861974766_122107421037402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-03T13:24:39.217Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/03/schools-shut-across-kandy-and-nuwara-eliya-tomorrow",
-    "contentHash": "b4411d8a3b544b59cfc46c690611f22ceb345e0144a30403d942023489b7eb42",
-    "headline": "Schools Shut Across Kandy, Nuwara Eliya Tomorrow",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-03T15:42:28.457Z",
-    "fbPostId": "1278802861974766_122107453017402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-08-03T15:43:19.749Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/03/defence-ministry-orders-immediate-disaster-preparedness",
-    "contentHash": "90db918eb5a93a4158f5b25d3dbd234d4cfa6e40f8c08b4023816b5866683404",
-    "headline": "Defence Ministry Orders Disaster Preparedness",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-04T03:57:07.178Z",
-    "fbPostId": "1278802861974766_122107591305402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-04T03:57:59.886Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/03/one-dead-families-evacuated-as-disaster-hits-nawalapitiya",
-    "contentHash": "ac5681087e43da2a636a93606bdacda74f7fcc833264ee7004efc1664ca67d65",
-    "headline": "Families Evacuated as Disaster Hits Nawalapitiya",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-04T03:57:07.179Z",
-    "fbPostId": "1278802861974766_122107591389402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-04T03:58:08.902Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/04/conspiracy-behind-mahara-prison-rampage-govt-probes-possible-external-hand-in-violence",
     "contentHash": "c5ab07de546b78641ad7b3becb25880115a131788736d86184b6a2dd4fe24555",
     "headline": "Conspiracy Behind Mahara Prison Rampage?",
@@ -2013,6 +1953,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-17T13:01:31.797Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/18/namal-s-remand-extended-in-rs-100-mn-bribe-case-linked-to-airbus-scandal",
+    "contentHash": "8ddd9d2e8eb48cd962e9062c936bc3b1520bd9d05e5ba194526410f8c57fed62",
+    "headline": "Namal's Remand Extended In Rs. 100 Mn Bribe Case",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-18T09:58:27.178Z",
+    "fbPostId": "1278802861974766_122118592089402039",
+    "category": "Sri Lanka",
+    "score": 84,
+    "addedAt": "2026-09-18T09:59:18.912Z",
     "isShadow": false
   }
 ]
