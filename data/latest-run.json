@@ -1,13 +1,13 @@
 {
-  "runId": "3ea62a6c",
-  "startedAt": "2026-09-18T19:46:45.370Z",
-  "finishedAt": "2026-09-18T19:47:55.848Z",
+  "runId": "a6297578",
+  "startedAt": "2026-09-19T16:13:19.930Z",
+  "finishedAt": "2026-09-19T16:15:55.646Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 7,
+  "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,54 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/18/court-orders-probe-into-wimal%e2%80%99s-remarks-on-namal-rajapaksa-remand",
-      "headline": "Court Orders Probe Into Wimal’s Remarks on Namal",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/19/sri-lankan-national-sentenced-to-5-years-in-saudi-arabia-foreign-ministry-closely-monitoring-case",
+      "headline": "Sri Lankan National Sentenced In Saudi Arabia",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/09/18/namal-s-remand-extended-in-rs-100-mn-bribe-case-linked-to-airbus-scandal",
-      "headline": "Namal's Remand Extended In Rs. 100 Mn Bribe Case",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/19/supreme-court-dismisses-40-police-promotion-petitions",
+      "headline": "SC Dismisses 40 Police Promotion Petitions",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/09/18/grenade-attack-suspect-tied-to-separate-underworld-execution",
-      "headline": "Grenade suspect linked to underworld execution",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/panadura-kudu-salindu-s-cash-collector-wife-arrested",
-      "headline": "Panadura Kudu Salindu's, Wife Arrested",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/19/37-year-old-man-killed-in-anguruwatota-brother-arrested",
+      "headline": "37-Year-Old Man Killed In Anguruwatota",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/police-deploy-two-teams-to-probe-dematagoda-shooting",
-      "headline": "Police Deploy Two Teams To Probe Shooting",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/sri-lanka-plans-salary-hike-for-prison-officers",
-      "headline": "Sri Lanka Plans Salary Hike for Prison Officers",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/suspect-arrested-with-foreign-made-firearm-in-weligama",
-      "headline": "Suspect Arrested With Foreign-Made Firearm",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/18/you-can%e2%80%99t-rate-hike-a-chokepoint-iran-speaker",
-      "headline": "You Can’t Rate Hike a Chokepoint : Iran Speaker",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
