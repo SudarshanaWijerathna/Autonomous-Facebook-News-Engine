@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/05/vikram-misri-meets-president-akd-usd-350-mn-indian-credit-facility-to-support-sri-lanka",
-    "contentHash": "868b377e563bd53290c4181156d7c0bca98f9dd24f14d9d9251b998508d28f0e",
-    "headline": "Vikram Misri Meets President AKD",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-06T05:51:20.423Z",
-    "fbPostId": "1278802861974766_122108111625402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-08-06T05:52:13.374Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/06/ird-surpasses-revenue-targets-government-eyes-tax-relief",
     "contentHash": "c521c8ee9b3e469116ea2e67b3143b2960620ec48feebc9ec15391defa91f76f",
     "headline": "IRD Surpasses Revenue Targets | Tax Relief Pending",
@@ -1965,6 +1953,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-20T05:32:54.056Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/19/22a-supreme-court-determination-to-be-presented-in-parliament-on-sept-22",
+    "contentHash": "3d1ebd00202fed7b9f1c9ac9b8548f3430de477745f1650e0511e8e5bdbf37a4",
+    "headline": "22A Supreme Court Determination To Be Presented",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-20T08:22:37.568Z",
+    "fbPostId": "1278802861974766_122119042077402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-20T08:23:27.282Z",
     "isShadow": false
   }
 ]
