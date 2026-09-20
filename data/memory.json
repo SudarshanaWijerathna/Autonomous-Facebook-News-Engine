@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/05/ex-education-minister-akila-viraj-arrested-by-ciaboc",
-    "contentHash": "72557bb5143af3c6bfdf919ce80bd93a6d66f57505a0ec1e3a40a01c8b85f65e",
-    "headline": "Ex-Education Minister Akila Viraj Arrested",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-06T03:57:14.833Z",
-    "fbPostId": "1278802861974766_122108094597402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-08-06T03:58:09.623Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/05/supreme-court-rejects-bid-to-postpone-a-l-examination",
-    "contentHash": "e3bf5b3395aa248527cfb43aa56bf5ecf58be7de46c8fc8f4bce105dcd497ace",
-    "headline": "Supreme Court Rejects Bid to Postpone A/L Exam",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-06T03:57:14.832Z",
-    "fbPostId": "1278802861974766_122108094819402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-06T03:58:18.317Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/05/vikram-misri-meets-president-akd-usd-350-mn-indian-credit-facility-to-support-sri-lanka",
     "contentHash": "868b377e563bd53290c4181156d7c0bca98f9dd24f14d9d9251b998508d28f0e",
     "headline": "Vikram Misri Meets President AKD",
@@ -1965,6 +1941,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-09-19T16:15:55.645Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/19/interpol-blue-notice-sought-for-basil-rajapaksa",
+    "contentHash": "0b21ad362954aac7c9658743aca258e16959b76e21540170ddbf5caf08094a0d",
+    "headline": "Interpol Blue Notice Sought For Basil Rajapaksa",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-20T05:31:02.697Z",
+    "fbPostId": "1278802861974766_122119013523402039",
+    "category": "Sri Lanka",
+    "score": 84,
+    "addedAt": "2026-09-20T05:32:09.943Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/19/new-whatsapp-number-introduced-for-motor-traffic-complaints",
+    "contentHash": "6edaff2de0d82b6f79dc6107f9a0e56878fd168ff717b0dfe61389e520351955",
+    "headline": "New Number Introduced for Motor Traffic Complaints",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-20T05:31:02.695Z",
+    "fbPostId": "1278802861974766_122119013721402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-20T05:32:54.056Z",
     "isShadow": false
   }
 ]

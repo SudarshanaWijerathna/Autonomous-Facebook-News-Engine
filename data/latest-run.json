@@ -1,7 +1,7 @@
 {
-  "runId": "a6297578",
-  "startedAt": "2026-09-19T16:13:19.930Z",
-  "finishedAt": "2026-09-19T16:15:55.646Z",
+  "runId": "14366221",
+  "startedAt": "2026-09-20T05:30:51.189Z",
+  "finishedAt": "2026-09-20T05:32:54.058Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
@@ -20,26 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/19/sri-lankan-national-sentenced-to-5-years-in-saudi-arabia-foreign-ministry-closely-monitoring-case",
-      "headline": "Sri Lankan National Sentenced In Saudi Arabia",
+      "url": "https://newsfirst.lk/2026/09/19/maha-oya-drowning-two-dead-two-missing",
+      "headline": "Maha Oya Drowning: Two Dead, Two Missing",
       "reason": "max-posts-per-run-reached",
-      "score": 73
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/09/19/supreme-court-dismisses-40-police-promotion-petitions",
       "headline": "SC Dismisses 40 Police Promotion Petitions",
       "reason": "max-posts-per-run-reached",
-      "score": 73
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/19/37-year-old-man-killed-in-anguruwatota-brother-arrested",
-      "headline": "37-Year-Old Man Killed In Anguruwatota",
+      "url": "https://newsfirst.lk/2026/09/19/legal-action-against-irrigation-department-over-tree-felling",
+      "headline": "Legal Action Against Irrigation Department",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/09/19/two-injured-in-shooting-at-kegalle-hotel-employee-arrested",
+      "headline": "Two Injured In Shooting At Kegalle Hotel",
       "reason": "max-posts-per-run-reached",
       "score": 62
     }
