@@ -1,7 +1,7 @@
 {
-  "runId": "700becf3",
-  "startedAt": "2026-09-21T16:31:29.787Z",
-  "finishedAt": "2026-09-21T16:32:59.819Z",
+  "runId": "e2378627",
+  "startedAt": "2026-09-21T18:28:05.066Z",
+  "finishedAt": "2026-09-21T18:29:20.082Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 8,
@@ -30,22 +30,22 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-amendment-received-by-speaker",
-      "headline": "SC Ruling on 22nd Amendment Received by Speaker",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/21/update-wimal-weerawansa-appears-in-court-after-arrest-order",
       "headline": "Weerawansa Appears in Court After Arrest Order",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
+      "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-amendment-received-by-speaker",
+      "headline": "SC Ruling on 22nd Amendment Received by Speaker",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/21/government-has-closed-the-leaks-that-drained-the-economy-says-eranga-gunasekara",
       "headline": "Govt.Has Closed the Leaks That Drained the Economy",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/09/21/china-confirms-xi-jinping-us-visit",
@@ -62,8 +62,8 @@
     {
       "url": "https://newsfirst.lk/2026/09/21/27-year-old-arrested-for-forging-fake-documents",
       "headline": "27-Year-Old Arrested For Forging Fake Documents",
-      "reason": "score-below-threshold (58 < 65)",
-      "score": 58
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     }
   ],
   "errors": []
