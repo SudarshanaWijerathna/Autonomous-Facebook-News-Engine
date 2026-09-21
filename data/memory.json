@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/06/ird-surpasses-revenue-targets-government-eyes-tax-relief",
-    "contentHash": "c521c8ee9b3e469116ea2e67b3143b2960620ec48feebc9ec15391defa91f76f",
-    "headline": "IRD Surpasses Revenue Targets | Tax Relief Pending",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-06T12:24:32.317Z",
-    "fbPostId": "1278802861974766_122108189985402039",
-    "category": "Business",
-    "score": 82,
-    "addedAt": "2026-08-06T12:25:25.640Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/06/no-restrictions-politicians-asset-declarations-to-stay-public",
-    "contentHash": "f29e1648e83c75fc66e09c5dbbc38d9003d69de97484a937be9aff6e400a878f",
-    "headline": "Politicians' Asset Declarations to Stay Public",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-07T06:45:23.601Z",
-    "fbPostId": "1278802861974766_122108397543402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-07T06:46:18.272Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/06/%e2%80%9ci%e2%80%99ll-bring-sri-lanka-an-olympic-gold%e2%80%9d-world-no-1-throws-down-new-challenge",
-    "contentHash": "c6144b8fed6ac6d303bc2711ca7208d611afd6ab884171f7133ae0ba1e194f92",
-    "headline": "World No.1 Rumesh Sets Sights on Olympic Glory",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-07T06:45:23.600Z",
-    "fbPostId": "1278802861974766_122108397603402039",
-    "category": "Sports",
-    "score": 84,
-    "addedAt": "2026-08-07T06:46:26.478Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/06/threat-to-igp-is-a-threat-to-the-rule-of-law",
-    "contentHash": "55dc74bb5e10685563c7c6452907d562cc9e0681ef023fa034c3ca97a1507e8d",
-    "headline": "Threat to IGP Is a Threat to the Rule of Law",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-07T08:49:28.075Z",
-    "fbPostId": "1278802861974766_122108418693402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-07T08:50:23.858Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/07/back-to-back-prison-incidents-rock-sri-lanka-magazine-kuruwita-under-tight-security",
     "contentHash": "dc5524045361d026256a7ea68e9ebf2ff4e1de9c1ae4c06a07f736354858df04",
     "headline": "Back-to-Back Prison Incidents Rock Sri Lanka",
@@ -1965,6 +1917,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-20T08:23:27.282Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-constitutional-amendment-expected-today-21",
+    "contentHash": "0e77563f33c97ba5b3b4742510895e28ffbe527275ff5c8ac4beb787e5ebdf38",
+    "headline": "SC Ruling on 22nd Amendment Expected Today",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-21T10:58:03.255Z",
+    "fbPostId": "1278802861974766_122119319847402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-21T10:58:58.201Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/21/court-orders-wimal-weerawansa-s-arrest-over-un-compound-protest",
+    "contentHash": "07e9af756562a2edb9a707cd8711763baf9baaccc7988176db637f9e5bd3a6a1",
+    "headline": "Court Orders Wimal Weerawansa's Arrest",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-21T10:58:03.254Z",
+    "fbPostId": "1278802861974766_122119320123402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-21T10:59:41.521Z",
     "isShadow": false
   }
 ]

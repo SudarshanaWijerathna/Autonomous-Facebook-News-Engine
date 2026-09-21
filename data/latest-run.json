@@ -1,13 +1,13 @@
 {
-  "runId": "48b2d636",
-  "startedAt": "2026-09-20T19:33:49.871Z",
-  "finishedAt": "2026-09-20T19:34:59.533Z",
+  "runId": "23ebebfd",
+  "startedAt": "2026-09-21T10:57:30.483Z",
+  "finishedAt": "2026-09-21T10:59:41.523Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,39 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/20/extreme-weather-landslide-red-alert-issued-in-kandy-nuwara-eliya",
-      "headline": "Landslide Red Alert Issued in Kandy, Nuwara Eliya",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/09/21/zonal-education-directors-to-decide-on-school-closures-in-the-central-province-due-to-heavy-rains",
+      "headline": "Zonal Directors to Decide on School Closures",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/20/mahaweli-river-water-levels-rise-minor-flood-warning-issued",
-      "headline": "Water Levels of Mahaweli River, Rise",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-amendment-received-by-speaker",
+      "headline": "SC Ruling on 22nd Amendment Received by Speaker",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/20/thai-trio-arrested-with-over-7kg-of-drugs-at-bia",
-      "headline": "Thai Trio Arrested with Over 7kg of Drugs at BIA",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/09/21/body-of-missing-15-y-o-washed-ashore-on-ethagama-beach",
+      "headline": "Body of Missing 15 Y/O Washed Ashore In Ethagama",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/20/law-must-apply-equally-to-all-says-justice-minister-harshana-nanayakkara",
-      "headline": "Law Must Apply Equally To All: Says Minister",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/20/houthis-claim-ballistic-missile-attack-on-saudi-capital",
-      "headline": "Houthis Claim Missile Attack On Saudi Capital",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
