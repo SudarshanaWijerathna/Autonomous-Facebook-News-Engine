@@ -1,13 +1,13 @@
 {
-  "runId": "23ebebfd",
-  "startedAt": "2026-09-21T10:57:30.483Z",
-  "finishedAt": "2026-09-21T10:59:41.523Z",
+  "runId": "aa97fa80",
+  "startedAt": "2026-09-21T14:43:51.048Z",
+  "finishedAt": "2026-09-21T14:47:00.594Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 9,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,27 +20,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/zonal-education-directors-to-decide-on-school-closures-in-the-central-province-due-to-heavy-rains",
-      "headline": "Zonal Directors to Decide on School Closures",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/09/21/court-orders-wimal-weerawansa-s-arrest-over-un-compound-protest",
+      "headline": "Court Orders Wimal Weerawansa's Arrest",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/21/update-wimal-weerawansa-appears-in-court-after-arrest-order",
+      "headline": "Weerawansa Appears in Court After Arrest Order",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-amendment-received-by-speaker",
       "headline": "SC Ruling on 22nd Amendment Received by Speaker",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/body-of-missing-15-y-o-washed-ashore-on-ethagama-beach",
-      "headline": "Body of Missing 15 Y/O Washed Ashore In Ethagama",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/21/government-has-closed-the-leaks-that-drained-the-economy-says-eranga-gunasekara",
+      "headline": "Govt.Has Closed the Leaks That Drained the Economy",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/21/china-confirms-xi-jinping-us-visit",
+      "headline": "China Confirms Xi Jinping US Visit",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
