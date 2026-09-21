@@ -1,7 +1,7 @@
 {
-  "runId": "597dd33a",
-  "startedAt": "2026-09-21T20:04:30.527Z",
-  "finishedAt": "2026-09-21T20:06:06.230Z",
+  "runId": "923f2384",
+  "startedAt": "2026-09-21T21:08:57.900Z",
+  "finishedAt": "2026-09-21T21:10:04.047Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 8,
@@ -42,10 +42,10 @@
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/government-has-closed-the-leaks-that-drained-the-economy-says-eranga-gunasekara",
-      "headline": "Govt.Has Closed the Leaks That Drained the Economy",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/21/wimal-cites-vehicle-breakdown-after-failing-to-appear-in-court",
+      "headline": "Wimal Cites Vehicle Breakdown for Court Absence",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/09/21/china-confirms-xi-jinping-us-visit",
@@ -60,10 +60,10 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/wimal-cites-vehicle-breakdown-after-failing-to-appear-in-court",
-      "headline": "Wimal Cites Vehicle Breakdown for Court Absence",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/21/27-year-old-arrested-for-forging-fake-documents",
+      "headline": "27-Year-Old Arrested For Forging Fake Documents",
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
     }
   ],
   "errors": []
