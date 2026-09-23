@@ -1,13 +1,13 @@
 {
-  "runId": "78b82063",
-  "startedAt": "2026-09-23T10:12:01.684Z",
-  "finishedAt": "2026-09-23T10:14:06.847Z",
+  "runId": "a34cf5fb",
+  "startedAt": "2026-09-23T13:11:02.284Z",
+  "finishedAt": "2026-09-23T13:13:56.210Z",
   "shadowMode": false,
   "discovered": 12,
   "afterDedup": 9,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,44 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/23/update-up-to-260-years-in-prison-for-easter-sunday-attack-convicts",
-      "headline": "Up to 260 Yrs in Prison for Easter Attack Convicts",
+      "url": "https://newsfirst.lk/2026/09/23/man-arrested-over-illegal-transfer-of-rs-24-8-bn-worth-of-usd",
+      "headline": "Man Arrested Over Illegal Transfer of Rs. 24.8 Bn",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/23/new-online-appointment-system-for-driving-licence-medical-exams-from-tomorrow",
-      "headline": "New Online System for Driving Licence Medical",
-      "reason": "max-posts-per-run-reached",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/09/23/cbsl-freezes-assets-of-six-companies-over-deposit-concerns",
+      "headline": "CBSL Freezes Assets of Six Companies",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/23/harak-kata-and-kehelbaddara-padme-clash-inside-prison",
+      "headline": "Harak Kata and Kehelbaddara Padme Clash",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/09/23/rs-17-2-billion-supplementary-estimate-for-electricity-bill-relief",
       "headline": "Supplementary Estimate For Electricity Bill",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/23/indiasri-lanka-step-up-joint-efforts-to-curb-cross-border-drug-trafficking",
-      "headline": "Efforts to Curb Cross-Border Drug Trafficking",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/23/new-chinese-envoy-calls-on-defence-secretary-reaffirms-bilateral-cooperation",
+      "headline": "New Chinese Envoy Calls on Defence Secretary",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/23/president-presents-appointment-letters-to-three-high-court-judges",
+      "headline": "Appointment Letters To Three High Court Judges",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
