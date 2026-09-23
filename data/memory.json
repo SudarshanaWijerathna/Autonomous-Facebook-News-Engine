@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/07/coordinated-prison-conspiracy-sri-lanka-probes-wave-of-unrest-across-prisons",
-    "contentHash": "aabcc93a674a6dee92ae15cee40ca97f542dc5d55a1023e18863eb7398d2a480",
-    "headline": "Sri Lanka Probes Coordinated Prison Disturbances",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-08T02:48:58.452Z",
-    "fbPostId": "1278802861974766_122108595399402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-08T02:51:54.137Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/07/22a-gazetted-supreme-court-judges-to-serve-until-67",
-    "contentHash": "316f49c9faaae4124b66206f4065a5fc47b98c71d096d0a879a6183f234c3b17",
-    "headline": "22A Gazetted: SC Judges to Serve Until 67",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-08T02:48:58.451Z",
-    "fbPostId": "1278802861974766_122108595585402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-08-08T02:52:06.093Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/08/suspects-linked-to-kudu-salindu-dubai-tharanga-arrested-in-horana",
-    "contentHash": "533527c2ec038834eb26eb39bc94dc82171d4030b33770c6d20e4f9e649cc749",
-    "headline": "Kudu Salindu, Dubai Tharanga Associates Arrested",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-09T04:19:38.892Z",
-    "fbPostId": "1278802861974766_122108883957402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-09T04:20:30.520Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/08/grade-5-scholarship-exam-to-be-held-tomorrow",
-    "contentHash": "b3cfc18fad4dee942ac399c7bcaa22835432765249b1d1d6e2889cb6b617448e",
-    "headline": "Grade 5 Scholarship Exam To Be Held Tomorrow",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-09T04:19:38.891Z",
-    "fbPostId": "1278802861974766_122108884143402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-08-09T04:20:37.620Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/08/dengue-cases-exceed-89-000-death-toll-reaches-64",
     "contentHash": "62ea881e2122de633cd4a6bb2b3c6c09f6331b3fdfde54f51dc26f206c715dcf",
     "headline": "Dengue Cases Exceed 89,000; Death Toll Reaches 64",
@@ -1941,6 +1893,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-21T14:47:00.592Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/22/who-was-found-guilty-and-who-was-acquitted-in-easter-sunday-case",
+    "contentHash": "f490a8bc8be8801d2bd280150e2dfe6dd4e7a918b85df3e280effb8e54184b8e",
+    "headline": "Who Was Found Guilty and Who Was Acquitted?",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-23T05:21:33.259Z",
+    "fbPostId": "1278802861974766_122119771809402039",
+    "category": "Sri Lanka",
+    "score": 92,
+    "addedAt": "2026-09-23T05:22:44.107Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/23/update-up-to-260-years-in-prison-for-easter-sunday-attack-convicts",
+    "contentHash": "2342234823b612cdb3125a4fda9c7ff4d43a5db55f92533e40b45f17a23063bd",
+    "headline": "Up to 260 Yrs in Prison for Easter Attack Convicts",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-23T05:21:33.259Z",
+    "fbPostId": "1278802861974766_122119772001402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-09-23T05:23:26.886Z",
     "isShadow": false
   }
 ]

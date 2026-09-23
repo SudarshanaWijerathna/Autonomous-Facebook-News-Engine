@@ -1,13 +1,13 @@
 {
-  "runId": "923f2384",
-  "startedAt": "2026-09-21T21:08:57.900Z",
-  "finishedAt": "2026-09-21T21:10:04.047Z",
+  "runId": "772b6da6",
+  "startedAt": "2026-09-23T05:21:04.695Z",
+  "finishedAt": "2026-09-23T05:23:26.888Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 8,
+  "afterDedup": 10,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,50 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/low-pressure-system-in-bay-of-bengal-expected-to-develop-further",
-      "headline": "Low-Pressure System in Bay of Bengal to Develop",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/09/22/president-to-personally-appeal-to-saudi-king-for-anojan-sivarasa%e2%80%99s-clemency",
+      "headline": "President to Personally Appeal to Saudi King",
+      "reason": "max-posts-per-run-reached",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/court-orders-wimal-weerawansa-s-arrest-over-un-compound-protest",
-      "headline": "Court Orders Wimal Weerawansa's Arrest",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/21/update-wimal-weerawansa-appears-in-court-after-arrest-order",
-      "headline": "Weerawansa Appears in Court After Arrest Order",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-amendment-received-by-speaker",
-      "headline": "SC Ruling on 22nd Amendment Received by Speaker",
-      "reason": "score-below-threshold (74 < 75)",
+      "url": "https://newsfirst.lk/2026/09/22/investigators-yet-to-receive-device-passwords-from-suresh-salley",
+      "headline": "Investigators Yet to Receive Salley's Passwords",
+      "reason": "max-posts-per-run-reached",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/21/wimal-cites-vehicle-breakdown-after-failing-to-appear-in-court",
-      "headline": "Wimal Cites Vehicle Breakdown for Court Absence",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/21/china-confirms-xi-jinping-us-visit",
-      "headline": "China Confirms Xi Jinping US Visit",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/22/sri-lanka-and-indonesia-to-sign-5-year-bilateral-pact",
+      "headline": "SL and Indonesia To Sign 5-Year Bilateral Pact",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/21/27-year-old-arrested-for-forging-fake-documents",
-      "headline": "27-Year-Old Arrested For Forging Fake Documents",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
     }
   ],
   "errors": []
