@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/08/dengue-cases-exceed-89-000-death-toll-reaches-64",
-    "contentHash": "62ea881e2122de633cd4a6bb2b3c6c09f6331b3fdfde54f51dc26f206c715dcf",
-    "headline": "Dengue Cases Exceed 89,000; Death Toll Reaches 64",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-09T06:07:34.086Z",
-    "fbPostId": "1278802861974766_122108900529402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-09T06:08:30.140Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/09/sri-lanka-cert-warns-of-social-media-extortion-scams",
-    "contentHash": "551745a3dff100c363878faf169989b4a5a3464ece55b844ff3b90c01b9a93b8",
-    "headline": "CERT Warns of Social Media Extortion Scams",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-09T06:07:34.085Z",
-    "fbPostId": "1278802861974766_122108900613402039",
-    "category": "AI & Tech",
-    "score": 76,
-    "addedAt": "2026-08-09T06:08:54.018Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/09/world-indigenous-peoples%e2%80%99-day-new-regulations-introduced-to-safeguard-indigenous-rights",
     "contentHash": "f25095a43ebe6e7661a9d62f33a182dc16d73948fc4cfe57a5bbdf176bbc18cc",
     "headline": "New Rules To Protect Indigenous Rights",
@@ -1917,6 +1893,30 @@
     "category": "Sri Lanka",
     "score": 88,
     "addedAt": "2026-09-23T05:23:26.886Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/23/man-arrested-over-illegal-transfer-of-rs-24-8-bn-worth-of-usd",
+    "contentHash": "f1655e058be8c3275e62223d56ca421e3c375f5e9f25bd2ebe63ae9513485a70",
+    "headline": "Man Arrested Over Illegal Transfer of Rs. 24.8 Bn",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-23T10:12:27.819Z",
+    "fbPostId": "1278802861974766_122119830243402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-23T10:13:23.331Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/23/imf-calls-for-tax-reforms-stable-inflation-target-and-anti-corruption-safeguards",
+    "contentHash": "9253ec0a44cbde5ad05800f88131a5a4a21148486e60fd9b6943d600005d3aae",
+    "headline": "IMF Calls for Tax Reforms, Stable Inflation Target",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-23T10:12:27.818Z",
+    "fbPostId": "1278802861974766_122119830651402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-09-23T10:14:06.846Z",
     "isShadow": false
   }
 ]

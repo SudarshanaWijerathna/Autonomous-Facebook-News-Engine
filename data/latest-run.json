@@ -1,10 +1,10 @@
 {
-  "runId": "772b6da6",
-  "startedAt": "2026-09-23T05:21:04.695Z",
-  "finishedAt": "2026-09-23T05:23:26.888Z",
+  "runId": "78b82063",
+  "startedAt": "2026-09-23T10:12:01.684Z",
+  "finishedAt": "2026-09-23T10:14:06.847Z",
   "shadowMode": false,
   "discovered": 12,
-  "afterDedup": 10,
+  "afterDedup": 9,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,22 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/22/president-to-personally-appeal-to-saudi-king-for-anojan-sivarasa%e2%80%99s-clemency",
-      "headline": "President to Personally Appeal to Saudi King",
-      "reason": "max-posts-per-run-reached",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/09/23/update-up-to-260-years-in-prison-for-easter-sunday-attack-convicts",
+      "headline": "Up to 260 Yrs in Prison for Easter Attack Convicts",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/22/investigators-yet-to-receive-device-passwords-from-suresh-salley",
-      "headline": "Investigators Yet to Receive Salley's Passwords",
+      "url": "https://newsfirst.lk/2026/09/23/new-online-appointment-system-for-driving-licence-medical-exams-from-tomorrow",
+      "headline": "New Online System for Driving Licence Medical",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/23/rs-17-2-billion-supplementary-estimate-for-electricity-bill-relief",
+      "headline": "Supplementary Estimate For Electricity Bill",
       "reason": "max-posts-per-run-reached",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/22/sri-lanka-and-indonesia-to-sign-5-year-bilateral-pact",
-      "headline": "SL and Indonesia To Sign 5-Year Bilateral Pact",
+      "url": "https://newsfirst.lk/2026/09/23/indiasri-lanka-step-up-joint-efforts-to-curb-cross-border-drug-trafficking",
+      "headline": "Efforts to Curb Cross-Border Drug Trafficking",
       "reason": "max-posts-per-run-reached",
-      "score": 73
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
