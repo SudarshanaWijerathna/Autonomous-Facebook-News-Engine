@@ -1,13 +1,13 @@
 {
-  "runId": "96c3c7d8",
-  "startedAt": "2026-09-23T17:41:48.481Z",
-  "finishedAt": "2026-09-23T17:44:31.100Z",
+  "runId": "8288e5ad",
+  "startedAt": "2026-09-24T13:03:41.914Z",
+  "finishedAt": "2026-09-24T13:06:50.131Z",
   "shadowMode": false,
-  "discovered": 12,
-  "afterDedup": 9,
-  "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "discovered": 32,
+  "afterDedup": 30,
+  "scored": 3,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,46 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/23/imf-calls-for-tax-reforms-stable-inflation-target-and-anti-corruption-safeguards",
-      "headline": "IMF Calls for Tax Reforms, Stable Inflation Target",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/23/harak-kata-and-kehelbaddara-padme-clash-inside-prison",
-      "headline": "Harak Kata and Kehelbaddara Padme Clash",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/23/can-sri-lankans-expect-tax-relief-imf-responds",
-      "headline": "Can Sri Lankans Expect Tax Relief? IMF Responds",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/23/easter-sunday-convict-claims-%e2%80%98real-culprits-are-still-free%e2%80%99-after-200-year-sentence",
-      "headline": "Abu Thariq Says He Is Ready to Give Evidence",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 84
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/23/drug-shipment-routed-through-courier-service-detected",
-      "headline": "Drug Shipment Routed Through Courier Detected",
+      "url": "https://newsfirst.lk/2026/09/24/sri-lanka-to-seek-international-support-to-prepare-for-potential-droughts",
+      "headline": "SL to Seek Int Support for Potential Droughts",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/23/president-presents-appointment-letters-to-three-high-court-judges",
-      "headline": "Appointment Letters To Three High Court Judges",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/09/24/slmc%e2%80%99s-habeeb-lebbe-rifan-sworn-in-as-mp",
+      "headline": "SLMC’s Habeeb Lebbe Rifan Sworn In as MP",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/09/24/weather-warning-slow-down-switch-on-lights-keep-distance",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/24/judge-blocks-trump-s-white-house-media-ban-orders-access-to-be-restored",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
