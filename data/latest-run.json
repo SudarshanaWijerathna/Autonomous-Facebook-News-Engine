@@ -1,13 +1,13 @@
 {
-  "runId": "8288e5ad",
-  "startedAt": "2026-09-24T13:03:41.914Z",
-  "finishedAt": "2026-09-24T13:06:50.131Z",
+  "runId": "290d7f42",
+  "startedAt": "2026-09-25T15:22:20.579Z",
+  "finishedAt": "2026-09-25T15:24:37.180Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
-  "scored": 3,
-  "selected": 1,
-  "published": 1,
+  "scored": 6,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,33 +20,29 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/24/sri-lanka-to-seek-international-support-to-prepare-for-potential-droughts",
-      "headline": "SL to Seek Int Support for Potential Droughts",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/25/new-forest-reserves-to-be-gazetted-in-six-districts",
+      "headline": "Forest Reserves to Be Gazetted in Six Districts",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/24/slmc%e2%80%99s-habeeb-lebbe-rifan-sworn-in-as-mp",
-      "headline": "SLMC’s Habeeb Lebbe Rifan Sworn In as MP",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/09/25/two-killed-in-separate-wild-elephant-attacks",
+      "headline": "Two Killed in Separate Wild Elephant Attacks",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/25/teen-and-22-year-old-arrested-in-connection-with-ambalangoda-shooting-attempt",
+      "headline": "2 Arrested for Ambalangoda Shooting Attempt",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/25/sri-lanka-navy-rescues-25-indonesian-fishermen-after-trawler-capsizes",
+      "headline": "Sri Lanka Rescues 25 Indonesian Fishermen",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/24/weather-warning-slow-down-switch-on-lights-keep-distance",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/24/judge-blocks-trump-s-white-house-media-ban-orders-access-to-be-restored",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
