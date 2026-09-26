@@ -1,13 +1,13 @@
 {
-  "runId": "871afcf7",
-  "startedAt": "2026-09-26T05:40:10.333Z",
-  "finishedAt": "2026-09-26T05:42:18.373Z",
+  "runId": "bde1b100",
+  "startedAt": "2026-09-26T08:23:37.493Z",
+  "finishedAt": "2026-09-26T08:24:50.935Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -25,27 +25,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/26/heavy-rains-affect-over-2-800-people-across-15-districts",
+      "headline": "Heavy Rains Affect Over 2,800 People",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/26/seven-injured-in-gas-cylinder-explosion-at-polonnaruwa-kidney-hospital",
+      "headline": "Seven Injured in Gas Cylinder Explosion",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/26/sri-lanka-to-gazette-20-new-forest-reserves",
       "headline": "Sri Lanka To Gazette 20 New Forest Reserves",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/26/slbfe-makes-training-mandatory-for-first-time-workers-to-japan-romania",
-      "headline": "SLBFE Makes Pre-Departure Training Mandatory",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/09/26/two-suspects-held-in-rs-300-mn-drug-bust",
+      "headline": "Two Suspects Held In Rs. 300 Mn Drug Bust",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/09/25/alleged-bribe-to-influence-suspended-prison-sentence-leads-to-remand",
       "headline": "Remand Over Alleged Prison Sentence Bribe",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
