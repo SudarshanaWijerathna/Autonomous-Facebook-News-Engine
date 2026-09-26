@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/11/dengue-cases-surge-past-90-000-in-sri-lanka",
-    "contentHash": "a6291fa7b68f92f7fbc712a3e688d58df86c65fef5ba51f05c618b2faed956d2",
-    "headline": "Dengue Cases Surge Past 90,000 In Sri Lanka",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-12T03:17:43.374Z",
-    "fbPostId": "1278802861974766_122109605937402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-08-12T03:18:39.761Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/11/cabinet-approves-release-of-30-000-mt-of-paddy-through-sathosa",
     "contentHash": "977bff7073800fd0b1b5ad2a5683569ea6bbeb9b41bb4f962a9cc0bde7b5b20e",
     "headline": "30,000 MT of Paddy Released Through Sathosa",
@@ -1881,6 +1869,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-09-25T20:35:55.599Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/25/22nd-constitutional-amendment-passes-parliament-with-overwhelming-majority",
+    "contentHash": "908fafcda5332e86e15c8c276b72e6020344ad67c8c17b7d076fc5961e9d6ac1",
+    "headline": "22nd Amendment Secures 158 Votes in Parliament",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-26T05:40:42.710Z",
+    "fbPostId": "1278802861974766_122120508129402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-09-26T05:41:35.012Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/25/22a-clears-final-vote-158-mps-vote-in-favor",
+    "contentHash": "4c4f123fb4e83db59bfa1a79dd0239e406547dce38ab082b4ce0711868d90518",
+    "headline": "22A Passed After 158 MPs Vote In Favour",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-26T05:40:42.709Z",
+    "fbPostId": "1278802861974766_122120508561402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-09-26T05:42:18.371Z",
     "isShadow": false
   }
 ]
