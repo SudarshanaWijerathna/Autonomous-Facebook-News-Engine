@@ -1,13 +1,13 @@
 {
-  "runId": "b670e103",
-  "startedAt": "2026-09-26T14:36:22.441Z",
-  "finishedAt": "2026-09-26T14:37:37.865Z",
+  "runId": "5395f43d",
+  "startedAt": "2026-09-26T18:39:46.987Z",
+  "finishedAt": "2026-09-26T18:41:12.363Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -32,28 +32,22 @@
       "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/09/26/slbfe-makes-training-mandatory-for-first-time-workers-to-japan-romania",
-      "headline": "SLBFE Makes Pre-Departure Training Mandatory",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
       "url": "https://newsfirst.lk/2026/09/26/sri-lanka-to-gazette-20-new-forest-reserves",
       "headline": "Sri Lanka To Gazette 20 New Forest Reserves",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/09/26/foreign-minister-vijitha-herath-to-lead-sri-lanka-delegation-to-81st-session-of-the-un-general-assembly",
       "headline": "Vijitha Herath to Lead Sri Lanka at UNGA",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/25/alleged-bribe-to-influence-suspended-prison-sentence-leads-to-remand",
-      "headline": "Remand Over Alleged Prison Sentence Bribe",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/26/slbfe-makes-training-mandatory-for-first-time-workers-to-japan-romania",
+      "headline": "SLBFE Makes Pre-Departure Training Mandatory",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     }
   ],
   "errors": []
