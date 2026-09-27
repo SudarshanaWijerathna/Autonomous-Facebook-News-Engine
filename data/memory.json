@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/12/fake-chassis-number-mystery-why-was-yoshitha-called-to-cid",
-    "contentHash": "a98cfce8be7222a525030637b798c8dbf40a4fb91f40fe9f79ec7351356d1677",
-    "headline": "Illegal Vehicle Probe Led to Yoshitha Statement",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-13T04:52:21.405Z",
-    "fbPostId": "1278802861974766_122110062135402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-13T04:53:13.030Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/12/mother-of-detained-crime-figure-bako-saman-killed-in-targeted-attack",
-    "contentHash": "37a33c1f664f3d1f6a258abcfc62e2492857a4f64a34b53a6b490391d94a7245",
-    "headline": "Mother of Detained Crime Figure Bako Saman Killed",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-13T04:52:21.404Z",
-    "fbPostId": "1278802861974766_122110062255402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-13T04:53:23.547Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/13/cpc-seeks-investors-as-natural-gas-confirmed-in-mannar-basin",
-    "contentHash": "7a047b94910fade5f3123369926f48325c40cffb6623f4ebf9dff89122e8355c",
-    "headline": "CPC Seeks Investors for Mannar Basin",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-13T09:05:33.039Z",
-    "fbPostId": "1278802861974766_122110107021402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-08-13T09:06:34.315Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/13/no-power-cuts-as-sri-lanka-secures-coal-and-boosts-hydropower",
-    "contentHash": "7ee9c26b5729856a69b19939893fbf355f0830e206466b94bcad53b493ae17df",
-    "headline": "No Power Cuts as SL Secures Coal,Boosts Hydropower",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-13T09:05:33.039Z",
-    "fbPostId": "1278802861974766_122110107165402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-13T09:06:45.961Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/13/more-than-1-600-killed-in-traffic-accidents-this-year-hundreds-of-motorcyclists-losing-their-lives",
     "contentHash": "6c21e165636fe755df4371ac3a09135f4420e25bdd0529c3aad5000b94d65999",
     "headline": "More Than 1,600 Killed in Traffic Accidents",
@@ -1869,6 +1821,30 @@
     "category": "Sports",
     "score": 85,
     "addedAt": "2026-09-26T18:41:12.361Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/27/7-647-child-abuse-complaints-reported-this-year",
+    "contentHash": "fcdb625196d13f327fc58f978695a9939624eea403ca85bb2e47859dc2c67e89",
+    "headline": "7,647 Child Abuse Complaints Reported This Year",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-27T13:27:05.548Z",
+    "fbPostId": "1278802861974766_122120837433402039",
+    "category": "Sri Lanka",
+    "score": 84,
+    "addedAt": "2026-09-27T13:29:47.118Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/27/1-513-mw-of-solar-power-added-to-national-grid",
+    "contentHash": "de2b20f943e0f260a24a067cfc1cb347da33bae08228f75b5de0527073998461",
+    "headline": "1,513 MW of Solar Power Added to National Grid",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-27T13:27:05.548Z",
+    "fbPostId": "1278802861974766_122120837625402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-09-27T13:30:33.626Z",
     "isShadow": false
   }
 ]
