@@ -1,11 +1,11 @@
 {
-  "runId": "477bd85a",
-  "startedAt": "2026-09-28T16:18:53.251Z",
-  "finishedAt": "2026-09-28T16:20:16.273Z",
+  "runId": "fdf333c4",
+  "startedAt": "2026-09-28T19:59:03.828Z",
+  "finishedAt": "2026-09-28T20:02:02.586Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
-  "scored": 0,
+  "scored": 4,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -18,6 +18,30 @@
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/28/supreme-court-dismisses-contempt-petitions-against-shani-abeysekara-and-others",
+      "headline": "Supreme Court Dismisses Contempt Petitions",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/28/bia-to-add-36-new-check-in-counters-under-expansion-plan",
+      "headline": "BIA to Add 36 New Check-In Counters",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/28/court-fixes-date-for-case-against-yoshitha-s-rs-59-million-money-laundering-case",
+      "headline": "Court Fixes Date For Case Against Yoshitha Case",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": [
@@ -28,26 +52,6 @@
     },
     {
       "url": "https://newsfirst.lk/2026/09/28/metro-bus-expands-with-five-new-routes-from-tomorrow",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/bia-to-add-36-new-check-in-counters-under-expansion-plan",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/court-fixes-date-for-case-against-yoshitha-s-rs-59-million-money-laundering-case",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/too-many-crashes-too-many-funerals-sri-lanka-launches-demerit-points-pilot-project",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
