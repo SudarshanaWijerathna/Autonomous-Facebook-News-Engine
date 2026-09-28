@@ -1,13 +1,13 @@
 {
-  "runId": "1f8a3a5e",
-  "startedAt": "2026-09-28T09:28:39.292Z",
-  "finishedAt": "2026-09-28T09:30:35.599Z",
+  "runId": "53e1a80f",
+  "startedAt": "2026-09-28T11:52:34.228Z",
+  "finishedAt": "2026-09-28T12:07:22.980Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -22,26 +22,32 @@
     {
       "url": "https://newsfirst.lk/2026/09/28/3-495-people-affected-by-heavy-rains-across-15-districts",
       "headline": "3,495 People Affected by Heavy Rains",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/chinese-team-to-assist-probe-into-polonnaruwa-nephrology-hospital-explosion",
-      "headline": "Chinese Team to Assist Probe at Nephrology Unit",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/metro-bus-expands-with-five-new-routes-from-tomorrow",
-      "headline": "Metro Bus Expands with Five New Routes from Tomo",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/09/28/bia-to-add-36-new-check-in-counters-under-expansion-plan",
       "headline": "BIA to Add 36 New Check-In Counters",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/28/suspect-arrested-with-ice-in-grandpass",
+      "headline": "Suspect Arrested with Ice in Grandpass",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/28/court-fixes-date-for-case-against-yoshitha-s-rs-59-million-money-laundering-case",
+      "headline": "Court Fixes Date For Case Against Yoshitha Case",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
