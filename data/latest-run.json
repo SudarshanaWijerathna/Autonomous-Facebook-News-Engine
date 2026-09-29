@@ -1,13 +1,13 @@
 {
-  "runId": "fe4ec68e",
-  "startedAt": "2026-09-28T22:34:49.105Z",
-  "finishedAt": "2026-09-28T22:37:04.826Z",
+  "runId": "78fa0b51",
+  "startedAt": "2026-09-29T11:28:46.885Z",
+  "finishedAt": "2026-09-29T11:29:59.636Z",
   "shadowMode": false,
-  "discovered": 12,
-  "afterDedup": 10,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,39 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/28/too-many-crashes-too-many-funerals-sri-lanka-launches-demerit-points-pilot-project",
-      "headline": "Sri Lanka Launches Demerit Points Pilot Project",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/09/29/victim-s-testimony-could-reveal-motive-behind-rathgama-shooting",
+      "headline": "Victim's Words May Reveal Rathgama Shooting Motive",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/28/bia-to-add-36-new-check-in-counters-under-expansion-plan",
-      "headline": "BIA to Add 36 New Check-In Counters",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/09/29/can-sri-lanka-build-its-own-ai-revolution-slt-chairman-thinks-so",
+      "headline": "Can Sri Lanka Build Its Own AI Revolution?",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/09/28/1-650-new-grama-niladhari-appointments-to-be-granted-in-october",
-      "headline": "1,650 New GN Appointments to be Granted in October",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/09/29/woman-injured-in-baddegama-shooting-succumbed-to-injuries",
+      "headline": "Baddegama shooting victim succumbs to injuries",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/28/metro-bus-expands-with-five-new-routes-from-tomorrow",
-      "headline": "Metro Bus Expands with Five New Routes from Tomo",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/court-fixes-date-for-case-against-yoshitha-s-rs-59-million-money-laundering-case",
-      "headline": "Court Fixes Date For Case Against Yoshitha Case",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/28/sri-lanka%e2%80%99s-most-unbelievable-the-voice-teens-journey-ends-in-victory",
-      "headline": "Only One Chair Turned. Now He Holds the Crown",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],

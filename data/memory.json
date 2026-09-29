@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/01/ffsl-president-jaswar-umar-unanimously-elected-as-the-vice-president-of-the-saff",
-    "contentHash": "aa03197048d03b31f277856d063ffafc97bf5e89841732f26f7c705c44c6ab22",
-    "headline": "FFSL President Jaswar Umar elected as SAFF VP",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-14T16:13:20.083Z",
-    "fbPostId": "1278802861974766_122110450995402039",
-    "category": "Sports",
-    "score": 65,
-    "addedAt": "2026-08-14T16:14:08.895Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/14/strongest-el-ni%c3%b1o-in-75-years-sri-lanka-faces-climate-uncertainty-ahead",
-    "contentHash": "4512724aa1985997f495ca02c2f89b3636102e82a50aff8eb1e7c68fc1f1653b",
-    "headline": "The Most Powerful El Niño Since 1900?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-15T02:07:33.623Z",
-    "fbPostId": "1278802861974766_122110551651402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-15T02:08:50.773Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/14/four-districts-face-acute-drinking-water-shortages",
-    "contentHash": "058c8c79a53c245e4d1b97f615454d8bb8edc269a3cccc8e23bf0d26623ca630",
-    "headline": "Four Districts Face Acute Drinking Water Shortages",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-15T05:50:56.078Z",
-    "fbPostId": "1278802861974766_122110580997402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-15T05:51:46.613Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/14/sri-lanka-extends-50-vehicle-import-duty-surcharge-until-end-of-2026",
-    "contentHash": "5e97315ecf0b1ec30949b66e4fa834a769b6750f728fb26f46cd665e9503affd",
-    "headline": "SL Extends 50% Vehicle Import Duty Surcharge",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-15T08:18:57.929Z",
-    "fbPostId": "1278802861974766_122110602693402039",
-    "category": "Business",
-    "score": 75,
-    "addedAt": "2026-08-15T08:19:46.407Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/15/no-tsunami-threat-to-sri-lanka-following-7-7-magnitude-indonesia-earthquake",
     "contentHash": "1d295a4da268d46f9b703d73115c33087a97e0149f0877a1f1c12365e41964a3",
     "headline": "No Tsunami Threat to SL After Indonesia Earthquake",
@@ -1845,6 +1797,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-09-28T12:07:22.979Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/29/colombo%e2%80%99s-bus-priority-lane-system-returns",
+    "contentHash": "ac4baae13cdc635e11623938df796aaa9a0b63c715c3539e718e8637dd079185",
+    "headline": "Colombo’s Bus Priority Lane System Returns",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-29T11:28:57.379Z",
+    "fbPostId": "1278802861974766_122121337581402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-09-29T11:29:53.954Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/29/metro-buses-now-running-on-more-colombo-corridors",
+    "contentHash": "28023df11dd5648d64096af432fac673d01e2c6c86c8cb4e0b27ef2f7f6b3657",
+    "headline": "Metro Buses Now Running on More Colombo Corridors",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-29T11:28:57.378Z",
+    "fbPostId": "1278802861974766_122121337665402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-09-29T11:29:59.635Z",
     "isShadow": false
   }
 ]
