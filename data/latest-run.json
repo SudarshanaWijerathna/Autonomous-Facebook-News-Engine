@@ -1,14 +1,19 @@
 {
-  "runId": "31f27801",
-  "startedAt": "2026-09-29T16:34:19.706Z",
-  "finishedAt": "2026-09-29T16:35:49.785Z",
+  "runId": "7400ae66",
+  "startedAt": "2026-09-29T21:27:34.078Z",
+  "finishedAt": "2026-09-29T21:28:24.199Z",
   "shadowMode": false,
-  "discovered": 32,
-  "afterDedup": 30,
+  "discovered": 12,
+  "afterDedup": 8,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/09/29/man-charged-after-fake-ai-crocodile-image-triggers-emergency-response-in-singapore",
+      "headline": "Singapore Charges Man Over Viral AI Crocodile Hoax",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,10 +25,15 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/09/29/sri-lanka-asia-s-best-cultural-and-nature-destination",
+      "headline": "Here's Asia's Best Cultural & Nature Destination",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/29/gotabaya-appears-in-court-over-lalith-kugan-disappearance-case",
       "headline": "Gotabaya Appears in Court Over Lalith-Kugan Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 84
     },
     {
       "url": "https://newsfirst.lk/2026/09/29/china-steps-in-to-rebuild-14-bridges-destroyed-by-cyclone-ditwah",
@@ -32,15 +42,27 @@
       "score": 84
     },
     {
+      "url": "https://newsfirst.lk/2026/09/29/court-issues-warrant-for-gnanasara-thero-s-arrest",
+      "headline": "Court Issues Warrant for Gnanasara Thero's Arrest",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/29/ciaboc-arrests-former-commissioner-of-land-settlement",
       "headline": "CIABOC Arrests Ex Commissioner of Land Settlement",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
+      "url": "https://newsfirst.lk/2026/09/29/court-acquits-gammanpila-in-misappropriation-case",
+      "headline": "Court Acquits Gammanpila In Misappropriation Case",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/29/gota-gives-virtual-testimony-in-long-running-lalith-kugan-disappearance-case",
       "headline": "Gota Gives Virtual Testimony in Lalith-Kugan Case",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (74 < 75)",
       "score": 74
     }
   ],
