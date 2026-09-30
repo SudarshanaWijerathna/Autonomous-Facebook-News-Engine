@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/15/shiran-basik-brought-back-to-sri-lanka-as-multiple-investigations-continue",
-    "contentHash": "702438a5e44d109ee276703da790fd151d32164686502143119be84a53ba9fe4",
-    "headline": "Shiran Basik Brought Back to Sri Lanka",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-16T02:14:38.107Z",
-    "fbPostId": "1278802861974766_122110781163402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-08-16T02:15:27.547Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/15/shiran-basik-to-be-detained-and-questioned-for-72-hours",
-    "contentHash": "affea638c5d44f650bc4634848cef27b6c03b6ce2bf50e9e6260fe64575de044",
-    "headline": "Shiran Basik To Face 72-Hour Detention",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-16T02:14:38.107Z",
-    "fbPostId": "1278802861974766_122110781487402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-08-16T02:15:35.599Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/15/11-rescued-one-missing-in-navy-boat-accident",
-    "contentHash": "d7bcb22b84e388e561fc2a6833b27aea570f998a67bddf5a2a5a6c63f0fbc981",
-    "headline": "11 Rescued, One Missing In Navy Boat Accident",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-16T05:54:02.533Z",
-    "fbPostId": "1278802861974766_122110830945402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-08-16T05:54:53.288Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/16/10-of-bus-drivers-and-conductors-test-positive-for-drug-use",
     "contentHash": "5a7b2d736cc4891ae5b7f906fca4ca86e770cc262af08050884f2886dc689548",
     "headline": "10% Bus Drivers & Conductors Positive for Drugs",
@@ -1833,6 +1797,30 @@
     "category": "AI & Tech",
     "score": 68,
     "addedAt": "2026-09-29T16:35:49.784Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/30/income-tax-payment-deadline-for-2025-26-ends-today",
+    "contentHash": "7b9a9891a45bff9fa1c2738d9d798b49e6586e5dfc944a4292f07af79bb9ab69",
+    "headline": "Income Tax Payment Deadline For 2025/26 Ends Today",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-30T09:25:22.662Z",
+    "fbPostId": "1278802861974766_122121576063402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-30T09:26:18.360Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/30/what-happens-after-march-2027-imf-outlines-sri-lanka%e2%80%99s-next-steps",
+    "contentHash": "70a791a4dfe23a851787b8af57c08a99a340ff1c9feffb56b40ea2ff7429769f",
+    "headline": "What Happens After March 2027? IMF Outlines Steps",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-30T09:25:22.661Z",
+    "fbPostId": "1278802861974766_122121576141402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-09-30T09:26:23.149Z",
     "isShadow": false
   }
 ]
