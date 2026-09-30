@@ -1822,5 +1822,29 @@
     "score": 85,
     "addedAt": "2026-09-30T09:26:23.149Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/30/gnanasara-thero-fails-to-appear-court-issues-warrant",
+    "contentHash": "05ae8643b6a1b672e2933df075fcd23b57056ebffbc283f999c7bbca242acd43",
+    "headline": "Court Issues Warrant for Gnanasara Thero",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-30T20:11:08.244Z",
+    "fbPostId": "1278802861974766_122121694737402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-09-30T20:12:05.105Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/30/case-against-ranil-wickremesinghe-and-former-presidential-secretary-recalled-for-november-11",
+    "contentHash": "fb12893828ce01ebcd1647e92e8915e406b349ed228d593fdb830ab6d4bdd413",
+    "headline": "Case Against Ranil Wickremesinghe Recalled",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-09-30T20:11:08.244Z",
+    "fbPostId": "1278802861974766_122121694833402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-09-30T20:12:12.132Z",
+    "isShadow": false
   }
 ]

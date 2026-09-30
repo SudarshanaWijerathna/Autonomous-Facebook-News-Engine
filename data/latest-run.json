@@ -1,7 +1,7 @@
 {
-  "runId": "44620263",
-  "startedAt": "2026-09-30T09:25:10.544Z",
-  "finishedAt": "2026-09-30T09:26:23.150Z",
+  "runId": "ef00c8e9",
+  "startedAt": "2026-09-30T20:10:40.159Z",
+  "finishedAt": "2026-09-30T20:12:12.133Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -23,17 +23,17 @@
       "url": "https://newsfirst.lk/2026/09/30/court-rejects-dilith-s-petition-over-contempt-finding",
       "headline": "Court Rejects Dilith's Petition",
       "reason": "max-posts-per-run-reached",
-      "score": 76
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/30/vijitha-herath-meets-iranian-foreign-minister-in-new-york",
-      "headline": "Vijitha Herath Meets Iranian Foreign Minister",
+      "url": "https://newsfirst.lk/2026/09/30/bail-posted-for-ex-srilankan-ceo-s-wife-forfeited",
+      "headline": "Bail Posted for Ex-SriLankan CEO's Wife Forfeited",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/30/fourth-suspect-arrested-in-baddegama-shooting-investigation",
-      "headline": "Fourth Suspect Arrested In Baddegama Shooting",
+      "url": "https://newsfirst.lk/2026/09/30/china-reaffirms-support-for-sri-lanka%e2%80%99s-health-sector",
+      "headline": "China Reaffirms Support for SL's Health Sector",
       "reason": "max-posts-per-run-reached",
       "score": 62
     },
