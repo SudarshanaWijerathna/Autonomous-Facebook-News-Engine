@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/17/now-is-the-time-to-invest-in-sri-lanka-cbsl-governor",
-    "contentHash": "761f336d7bb7f86c287a2bf343842822c3f09d4da4680834b4637b83a73c9a21",
-    "headline": "'Now Is the Time to Invest in Sri Lanka' - CBSL",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-17T10:55:10.631Z",
-    "fbPostId": "1278802861974766_122111121369402039",
-    "category": "Business",
-    "score": 75,
-    "addedAt": "2026-08-17T10:56:01.549Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/17/us-1-bn-fraud-four-private-bank-officials-remanded",
     "contentHash": "1e50d822bd85fd6ae28e6560a3e8012d5849ae253452112cf794c27c38870bd2",
     "headline": "US$1 Bn Fraud? 4 Private Bank Officials Remanded",
@@ -1821,6 +1809,18 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-10-01T06:40:50.960Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/01/rumesh-tharanga-arrives-in-sri-lanka-after-historic-asian-games-gold",
+    "contentHash": "6aa641b458251e4463e67430cb5fd9d3246f4734d76de825d8d0596fdbedf75c",
+    "headline": "Rumesh Tharanga Arrives in Sri Lanka",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-01T21:53:07.311Z",
+    "fbPostId": "1278802861974766_122122039167402039",
+    "category": "Sports",
+    "score": 85,
+    "addedAt": "2026-10-01T21:54:00.371Z",
     "isShadow": false
   }
 ]
