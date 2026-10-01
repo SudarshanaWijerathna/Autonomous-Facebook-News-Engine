@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/16/10-of-bus-drivers-and-conductors-test-positive-for-drug-use",
-    "contentHash": "5a7b2d736cc4891ae5b7f906fca4ca86e770cc262af08050884f2886dc689548",
-    "headline": "10% Bus Drivers & Conductors Positive for Drugs",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-17T02:12:38.685Z",
-    "fbPostId": "1278802861974766_122111018673402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-17T02:13:31.109Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/16/legal-action-against-14-officials-over-aswesuma-fund-fraud",
-    "contentHash": "827b9473e7b9534ac31898aa58eb47f557f01fda8aff1fd299bcf8987eba97ac",
-    "headline": "14 Officials Face Aswesuma Fraud Action",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-17T02:12:38.684Z",
-    "fbPostId": "1278802861974766_122111018877402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-08-17T02:14:13.896Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/16/kanjipani-imran-to-be-brought-back-to-sri-lanka-soon",
-    "contentHash": "83e333406426aa1c0ebf37e45b91c23365405c75b59255f22b9c8cdd9658a4d5",
-    "headline": "Kanjipani Imran To Be Brought Back To SL soon",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-17T05:59:42.800Z",
-    "fbPostId": "1278802861974766_122111058279402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-08-17T06:00:34.074Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/17/now-is-the-time-to-invest-in-sri-lanka-cbsl-governor",
     "contentHash": "761f336d7bb7f86c287a2bf343842822c3f09d4da4680834b4637b83a73c9a21",
     "headline": "'Now Is the Time to Invest in Sri Lanka' - CBSL",
@@ -1845,6 +1809,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-09-30T20:12:12.132Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/09/30/namal-secures-bail-but-remains-in-remand-over-airbus-bribery-case",
+    "contentHash": "e99074f9d4af01fcfb431fa6b99141f8c4dcf31588c04da62f1d3ca51b7675df",
+    "headline": "Namal Secures Bail, But Remains in Remand",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-01T06:39:51.184Z",
+    "fbPostId": "1278802861974766_122121866793402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-01T06:40:50.960Z",
     "isShadow": false
   }
 ]
