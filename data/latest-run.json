@@ -1,19 +1,14 @@
 {
-  "runId": "4ba6a766",
-  "startedAt": "2026-10-02T11:14:09.168Z",
-  "finishedAt": "2026-10-02T11:15:31.592Z",
+  "runId": "549e4032",
+  "startedAt": "2026-10-02T14:21:21.347Z",
+  "finishedAt": "2026-10-02T14:23:18.127Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/10/02/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
-      "headline": "Bus Fares to Remain Unchanged Despite Price Hike",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,34 +20,50 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/10/02/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
+      "headline": "Bus Fares to Remain Unchanged Despite Price Hike",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/02/train-operations-resume-on-up-country-line-after-11-months",
+      "headline": "Train Operations Resume on Up Country Line",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/01/government-does-not-interfere-in-judicial-proceedings-says-minister",
       "headline": "Minister: Govt Not Interfering in Judicial Cases",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/01/two-arrested-after-179-empty-artillery-shells-found-hidden-in-container",
-      "headline": "Two Arrested with 179 Hidden Shells",
+      "url": "https://newsfirst.lk/2026/10/02/three-police-units-investigate-ahungalla-shooting",
+      "headline": "Three Police Units Investigate Ahungalla Shooting",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/02/coastal-line-train-delays-due-to-broken-rail-track",
-      "headline": "Coastal Line Train Delays Due to Broken Rail Track",
+      "url": "https://newsfirst.lk/2026/10/02/17-506-drug-related-analyst-reports-issued-in-two-months",
+      "headline": "17,506 Drug-Related Analyst Reports Issued",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/01/man-arrested-in-wellampitiya-with-over-rs-20-million-worth-of-ice-and-heroin",
-      "headline": "Man Arrested in Wellampitiya with Ice and Heroin",
+      "url": "https://newsfirst.lk/2026/10/02/digital-summit-asia-2026-enters-final-day-in-colombo",
+      "headline": "Digital Summit Asia 2026 Enters Final Day",
       "reason": "score-below-threshold (67 < 75)",
       "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/10/02/inmate-transfers-to-bogambara-prison-begin",
       "headline": "Inmate Transfers to Bogambara Prison Begin",
-      "reason": "score-below-threshold (63 < 75)",
-      "score": 63
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
