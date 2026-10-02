@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/17/us-1-bn-fraud-four-private-bank-officials-remanded",
-    "contentHash": "1e50d822bd85fd6ae28e6560a3e8012d5849ae253452112cf794c27c38870bd2",
-    "headline": "US$1 Bn Fraud? 4 Private Bank Officials Remanded",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-18T05:54:57.051Z",
-    "fbPostId": "1278802861974766_122111294019402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-08-18T05:55:52.110Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/17/major-el-ni%c3%b1o-impact-on-sri-lanka-in-coming-months",
-    "contentHash": "3d4640e2bb2d6419588bc7a232235858119d33593613ff58879cfc0c5f92192a",
-    "headline": "Major El Niño Impact on Sri Lanka in Coming Months",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-18T05:54:57.051Z",
-    "fbPostId": "1278802861974766_122111294289402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-18T05:56:38.056Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/18/tourism-development-authority-chairman-buddhika-hewawasam-resigns",
     "contentHash": "b676278529f8959f0af2af87282b33e13525377af1f9c1dcd707624215d66fbf",
     "headline": "Tourism Authority Chairman Resigns",
@@ -1821,6 +1797,30 @@
     "category": "Sports",
     "score": 85,
     "addedAt": "2026-10-01T21:54:00.371Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/01/jvp-general-secretary-tilvin-silva-meets-indian-external-affairs-minister-jaishankar",
+    "contentHash": "9028e3cd37ea60c16475aa855e6b788e9debdfe4365c72c9ce17b9a145d6b279",
+    "headline": "JVP General Sec Tilvin Silva Meets S.Jaishankar",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-02T09:28:55.689Z",
+    "fbPostId": "1278802861974766_122122194933402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-02T09:29:50.801Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/02/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
+    "contentHash": "62b9468598f7262fc29fbb8e3542f717b9a0a5c67fca4980cd52cad61422d354",
+    "headline": "Bus Fares to Remain Unchanged Despite Price Hike",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-02T09:28:55.688Z",
+    "fbPostId": "1278802861974766_122122195035402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-10-02T09:29:56.543Z",
     "isShadow": false
   }
 ]
