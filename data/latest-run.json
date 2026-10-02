@@ -1,14 +1,19 @@
 {
-  "runId": "3dddbe0c",
-  "startedAt": "2026-10-02T09:28:25.811Z",
-  "finishedAt": "2026-10-02T09:29:56.544Z",
+  "runId": "4ba6a766",
+  "startedAt": "2026-10-02T11:14:09.168Z",
+  "finishedAt": "2026-10-02T11:15:31.592Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/10/02/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
+      "headline": "Bus Fares to Remain Unchanged Despite Price Hike",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,28 +25,34 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/01/two-arrested-after-179-empty-artillery-shells-found-hidden-in-container",
-      "headline": "Two Arrested with 179 Hidden Shells",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/10/01/government-does-not-interfere-in-judicial-proceedings-says-minister",
+      "headline": "Minister: Govt Not Interfering in Judicial Cases",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/02/new-aviation-fuel-pipeline-to-katunayake-begins-today",
-      "headline": "New Aviation Fuel Pipeline to Katunayake Begins",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/10/01/two-arrested-after-179-empty-artillery-shells-found-hidden-in-container",
+      "headline": "Two Arrested with 179 Hidden Shells",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/02/coastal-line-train-delays-due-to-broken-rail-track",
+      "headline": "Coastal Line Train Delays Due to Broken Rail Track",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/10/01/man-arrested-in-wellampitiya-with-over-rs-20-million-worth-of-ice-and-heroin",
       "headline": "Man Arrested in Wellampitiya with Ice and Heroin",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (67 < 75)",
       "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/10/02/inmate-transfers-to-bogambara-prison-begin",
       "headline": "Inmate Transfers to Bogambara Prison Begin",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "reason": "score-below-threshold (63 < 75)",
+      "score": 63
     }
   ],
   "errors": []

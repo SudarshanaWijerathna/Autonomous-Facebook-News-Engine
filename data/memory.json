@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/18/tourism-development-authority-chairman-buddhika-hewawasam-resigns",
-    "contentHash": "b676278529f8959f0af2af87282b33e13525377af1f9c1dcd707624215d66fbf",
-    "headline": "Tourism Authority Chairman Resigns",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-18T10:54:05.059Z",
-    "fbPostId": "1278802861974766_122111354121402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-18T10:57:01.199Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/18/pasindu-replaces-injured-chandimal-in-india-test",
     "contentHash": "52c8a49eeb0fc609a5b96c48edd846ac41600abb951944e0b13df69ccbdfa7ba",
     "headline": "Pasindu Replaces Injured Chandimal in India Test",
@@ -1821,6 +1809,18 @@
     "category": "Sri Lanka",
     "score": 82,
     "addedAt": "2026-10-02T09:29:56.543Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/02/train-operations-resume-on-up-country-line-after-11-months",
+    "contentHash": "5a04212d29b88b4a58cd61ac1d91cd573bbe3ff1215f493e33787db4ce690840",
+    "headline": "Train Operations Resume on Up Country Line",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-02T11:14:34.935Z",
+    "fbPostId": "1278802861974766_122122229613402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-10-02T11:15:31.590Z",
     "isShadow": false
   }
 ]
