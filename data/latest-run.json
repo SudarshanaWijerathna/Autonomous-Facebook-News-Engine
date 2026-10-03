@@ -1,13 +1,13 @@
 {
-  "runId": "29e2147b",
-  "startedAt": "2026-10-02T20:01:43.958Z",
-  "finishedAt": "2026-10-02T20:02:52.406Z",
+  "runId": "a08f79e0",
+  "startedAt": "2026-10-03T10:31:13.546Z",
+  "finishedAt": "2026-10-03T10:32:37.068Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,50 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/02/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
-      "headline": "Bus Fares to Remain Unchanged Despite Price Hike",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/02/train-operations-resume-on-up-country-line-after-11-months",
-      "headline": "Train Operations Resume on Up Country Line",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/01/government-does-not-interfere-in-judicial-proceedings-says-minister",
-      "headline": "Minister: Govt Not Interfering in Judicial Cases",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/10/02/sallay%e2%80%99s-medical-board-and-national-hospital-director-summoned-to-court",
+      "headline": "Sallay’s Medical Board Summoned to Court",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/10/02/muthurajawela-fuel-storage-expansion-projects-launched",
       "headline": "Muthurajawela Fuel Storage Projects Launched",
-      "reason": "score-below-threshold (72 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/02/three-police-units-investigate-ahungalla-shooting",
-      "headline": "Three Police Units Investigate Ahungalla Shooting",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/10/02/police-freeze-rs-44-5-million-property-in-money-laundering-probe",
+      "headline": "Police Freeze Rs. 44.5 Million Property",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/02/coastal-line-train-delays-due-to-broken-rail-track",
-      "headline": "Coastal Line Train Delays Due to Broken Rail Track",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/10/02/minuwangoda-court-registrar-remanded-in-bribery-case",
+      "headline": "Minuwangoda Court Registrar Remanded",
+      "reason": "max-posts-per-run-reached",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/02/digital-summit-asia-2026-enters-final-day-in-colombo",
-      "headline": "Digital Summit Asia 2026 Enters Final Day",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/02/17-506-drug-related-analyst-reports-issued-in-two-months",
-      "headline": "17,506 Drug-Related Analyst Reports Issued",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
     }
   ],
   "errors": []

@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/18/pasindu-replaces-injured-chandimal-in-india-test",
-    "contentHash": "52c8a49eeb0fc609a5b96c48edd846ac41600abb951944e0b13df69ccbdfa7ba",
-    "headline": "Pasindu Replaces Injured Chandimal in India Test",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-18T13:40:28.970Z",
-    "fbPostId": "1278802861974766_122111419743402039",
-    "category": "Sports",
-    "score": 76,
-    "addedAt": "2026-08-18T13:41:22.277Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/18/keheliya-released-on-strict-bail-conditions-ciaboc-pursues-two-investigations",
-    "contentHash": "a8910a509ddc49f32d52412d19b8454f3d69034b4d39a1c437a29a5665be793e",
-    "headline": "Keheliya Released on Strict Bail Conditions",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-19T03:48:47.182Z",
-    "fbPostId": "1278802861974766_122111591409402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-19T03:49:43.761Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/18/new-bill-to-protect-state-from-terrorism-gets-cabinet-green-light",
-    "contentHash": "066b7e99e32536820957fe099aae3bc0672da654b6f0b49b2fa32550e283fa6d",
-    "headline": "New Bill to Protect State from Terrorism",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-19T03:48:47.182Z",
-    "fbPostId": "1278802861974766_122111591679402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-19T03:50:27.836Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/19/i-had-no-role-in-the-easter-attacks-naufar-moulavi-tells-court",
     "contentHash": "b488e88bc302edfb5765f1104d6011ceff01d0459767d18cdaac624dd1ab6614",
     "headline": "'I Had No Role in the Easter Attacks' - Naufar",
@@ -1821,6 +1785,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-10-02T11:15:31.590Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/03/school-meal-programme-reaches-1-5-million-children",
+    "contentHash": "ac250c6ed8e1a31370b3c5386d8bd08d8421674f337c22270cbf447df06a05a5",
+    "headline": "School Meal Programme Reaches 1.5 Million Children",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-03T10:31:41.571Z",
+    "fbPostId": "1278802861974766_122122559973402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-10-03T10:32:31.713Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/03/kalutara-ndf-candidate-arrested-over-rs-1-2m-job-fraud",
+    "contentHash": "345b9369782fbe9c69694ba85defafa0f09d67d71cc03fed9362f6e58c36f64f",
+    "headline": "Kalutara NDF Candidate Arrested Over Rs. 1.2M Job",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-03T10:31:41.571Z",
+    "fbPostId": "1278802861974766_122122560051402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-10-03T10:32:37.066Z",
     "isShadow": false
   }
 ]
