@@ -1,7 +1,7 @@
 {
-  "runId": "8d39aa74",
-  "startedAt": "2026-10-03T18:45:40.460Z",
-  "finishedAt": "2026-10-03T18:46:53.921Z",
+  "runId": "7c285a81",
+  "startedAt": "2026-10-03T20:00:43.996Z",
+  "finishedAt": "2026-10-03T20:01:57.452Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -38,7 +38,7 @@
       "url": "https://newsfirst.lk/2026/10/03/sri-lankan-team-heads-to-saudi-arabia-over-anojan%e2%80%99s-death-sentence",
       "headline": "Sri Lankan Team Heads to Saudi Over Anojan Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/10/03/187-56-acres-in-kankesanthurai-handed-over-for-civilian-use",
@@ -50,23 +50,23 @@
       "url": "https://newsfirst.lk/2026/10/03/severe-lightning-advisory-issued-for-several-areas",
       "headline": "Severe Lightning Advisory Issued For Several Areas",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/03/ugc-seeks-proposals-to-end-university-enrollment-delays",
-      "headline": "UGC Seeks Proposals To End Enrollment Delays",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/03/sirasa-tv-celebrates-children%e2%80%99s-day-at-viharamahadevi-park",
-      "headline": "Sirasa TV Celebrates Children’s Day",
-      "reason": "score-below-threshold (58 < 75)",
-      "score": 58
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/10/03/no-facility-to-book-metro-buses-for-private-use",
       "headline": "No Facility to Book Metro Buses for Private Use",
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/03/sirasa-tv-celebrates-children%e2%80%99s-day-at-viharamahadevi-park",
+      "headline": "Sirasa TV Celebrates Children’s Day",
       "reason": "score-below-threshold (52 < 75)",
       "score": 52
     }
