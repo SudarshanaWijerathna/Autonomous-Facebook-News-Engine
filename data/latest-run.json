@@ -1,24 +1,14 @@
 {
-  "runId": "7c285a81",
-  "startedAt": "2026-10-03T20:00:43.996Z",
-  "finishedAt": "2026-10-03T20:01:57.452Z",
+  "runId": "511ac78b",
+  "startedAt": "2026-10-04T09:27:10.805Z",
+  "finishedAt": "2026-10-04T09:28:34.882Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 27,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/10/03/kalutara-ndf-candidate-arrested-over-rs-1-2m-job-fraud",
-      "headline": "Kalutara NDF Candidate Arrested Over Rs. 1.2M Job",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/03/school-meal-programme-reaches-1-5-million-children",
-      "headline": "School Meal Programme Reaches 1.5 Million Children",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -30,45 +20,34 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/03/over-2-339-kg-of-heroin-seized-in-2026",
-      "headline": "Over 2,339 Kg of Heroin Seized in 2026",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/10/04/police-raid-in-kosgoda-targets-podi-patty-group",
+      "headline": "Police Raid in Kosgoda Targets Podi Patty Group",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/10/03/sri-lankan-team-heads-to-saudi-arabia-over-anojan%e2%80%99s-death-sentence",
-      "headline": "Sri Lankan Team Heads to Saudi Over Anojan Case",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/10/03/constitutional-council-approves-two-court-of-appeal-appointments",
+      "headline": "Two Court Of Appeal Appointments",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/03/187-56-acres-in-kankesanthurai-handed-over-for-civilian-use",
-      "headline": "187 Acres in Kankesanthurai Handed to Civilians",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "url": "https://newsfirst.lk/2026/10/04/two-suspects-detained-for-shooting-at-police-officers-in-kosgoda",
+      "headline": "Two Suspects Detained For Kosgoda Shooting",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/03/severe-lightning-advisory-issued-for-several-areas",
-      "headline": "Severe Lightning Advisory Issued For Several Areas",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "url": "https://newsfirst.lk/2026/10/03/rs-22-5-million-worth-of-ice-seized-in-kirindiwela",
+      "headline": "Rs. 22.5 Million Worth Of Ice Seized",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/03/no-facility-to-book-metro-buses-for-private-use",
-      "headline": "No Facility to Book Metro Buses for Private Use",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/03/sirasa-tv-celebrates-children%e2%80%99s-day-at-viharamahadevi-park",
-      "headline": "Sirasa TV Celebrates Children’s Day",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
     }
   ],
   "errors": []
