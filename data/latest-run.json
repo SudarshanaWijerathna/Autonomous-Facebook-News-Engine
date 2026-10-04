@@ -1,7 +1,7 @@
 {
-  "runId": "511ac78b",
-  "startedAt": "2026-10-04T09:27:10.805Z",
-  "finishedAt": "2026-10-04T09:28:34.882Z",
+  "runId": "704626c9",
+  "startedAt": "2026-10-04T13:35:38.141Z",
+  "finishedAt": "2026-10-04T13:36:49.124Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -20,28 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/04/police-raid-in-kosgoda-targets-podi-patty-group",
-      "headline": "Police Raid in Kosgoda Targets Podi Patty Group",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/03/constitutional-council-approves-two-court-of-appeal-appointments",
-      "headline": "Two Court Of Appeal Appointments",
+      "url": "https://newsfirst.lk/2026/10/04/human-rights-commission-calls-for-special-police-unit-for-elderly",
+      "headline": "HRCSL Calls for Special Police Unit for Elderly",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/04/illegal-consignment-of-gold-jewellery-seized-at-bia",
+      "headline": "Illegal Consignment of Gold Jewellery Seized",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/04/shooting-in-ahungalla-74-year-old-man-injured",
+      "headline": "Shooting in Ahungalla: 74-Year-Old Man Injured",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/10/04/two-suspects-detained-for-shooting-at-police-officers-in-kosgoda",
       "headline": "Two Suspects Detained For Kosgoda Shooting",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/03/rs-22-5-million-worth-of-ice-seized-in-kirindiwela",
-      "headline": "Rs. 22.5 Million Worth Of Ice Seized",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
