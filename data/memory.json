@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/20/sri-lanka-on-alert-as-%e2%80%98very-strong%e2%80%99-el-ni%c3%b1o-threatens-water-farming-and-daily-life",
-    "contentHash": "5947684c343a703502681257ef648b075870fb6656785da92bf9021d4c76a4fe",
-    "headline": "SL on Alert as Strong El Niño Threatens Water",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-21T02:16:51.789Z",
-    "fbPostId": "1278802861974766_122112135735402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-21T02:17:43.688Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/20/can-harak-kata-be-detained-without-charges",
-    "contentHash": "d8b5aa68a5a2bc3bdd599668cf3e9fb07850978e5766b35ca24cd1b757fd996e",
-    "headline": "Can Harak Kata Be Detained Without Charges?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-21T02:16:51.790Z",
-    "fbPostId": "1278802861974766_122112136107402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-21T02:18:25.970Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/21/daily-dengue-cases-drop-by-80-amid-intensified-control-measures",
-    "contentHash": "929de55427497d366de20fcd81b24c5126ab44ff7454b31a4f9e70968905f243",
-    "headline": "Daily Dengue Cases Drop By 80%",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-21T08:30:37.713Z",
-    "fbPostId": "1278802861974766_122112210159402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-21T08:31:32.704Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/21/sri-lanka-s-rumesh-tharanga-to-compete-in-lausanne-diamond-league-tonight",
     "contentHash": "563ab2c6ac06495380805bc313d99bf5cebbd68088f06b12a7072b29e0ff96bd",
     "headline": "Rumesh Tharanga To Compete In Diamond League",
@@ -1785,6 +1749,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-04T15:28:37.247Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/05/imf-staff-the-sri-lankan-authorities-reached-staff-level-agreement-on-economic-policies-to-conclude-the-seventh-review",
+    "contentHash": "dcbd8654d65134739a1a4c72285c72b8b71bb00f260eddc9a162ebb73a5be46e",
+    "headline": "IMF & Sri Lanka Reach Staff-Level Agreement on EFF",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-05T10:07:44.961Z",
+    "fbPostId": "1278802861974766_122123080143402039",
+    "category": "Business",
+    "score": 90,
+    "addedAt": "2026-10-05T10:08:39.242Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/05/gnanasara-thera-s-six-year-prison-sentence-reinstated",
+    "contentHash": "75af16455c35d29be974f877ac6b2e8e43c88221b171b68764d90e88b8215fbc",
+    "headline": "Gnanasara Thera's 6-Yr Prison Sentence Reinstated",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-05T10:07:44.960Z",
+    "fbPostId": "1278802861974766_122123080323402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-10-05T10:08:44.417Z",
     "isShadow": false
   }
 ]
