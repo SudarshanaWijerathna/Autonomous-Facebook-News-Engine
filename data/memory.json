@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/21/sri-lanka-s-rumesh-tharanga-to-compete-in-lausanne-diamond-league-tonight",
-    "contentHash": "563ab2c6ac06495380805bc313d99bf5cebbd68088f06b12a7072b29e0ff96bd",
-    "headline": "Rumesh Tharanga To Compete In Diamond League",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-21T17:52:29.200Z",
-    "fbPostId": "1278802861974766_122112349077402039",
-    "category": "Sports",
-    "score": 76,
-    "addedAt": "2026-08-21T17:53:20.738Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/21/namal-rajapaksa-summoned-by-police-financial-crimes-division",
     "contentHash": "b89ae46afb50f047a52e7f9a1a3adc34b658a0c40adabf6327afb7f3a7ab2a83",
     "headline": "Namal Rajapaksa Summoned By FCID",
@@ -1773,6 +1761,18 @@
     "category": "Sri Lanka",
     "score": 88,
     "addedAt": "2026-10-05T10:08:44.417Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/05/parliament-to-debate-anti-corruption-bill-as-supreme-court-flags-key-clauses",
+    "contentHash": "85599e5a9e6ff1527c1020b5a3ea9795b9019550d91a04e57a8caf54f5c0d95e",
+    "headline": "Parliament to Debate Anti-Corruption Bill",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-05T19:21:11.698Z",
+    "fbPostId": "1278802861974766_122123171835402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-10-05T19:22:05.825Z",
     "isShadow": false
   }
 ]
