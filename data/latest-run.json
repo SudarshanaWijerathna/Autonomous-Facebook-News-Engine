@@ -1,43 +1,47 @@
 {
-  "runId": "ba2ffdea",
-  "startedAt": "2026-10-05T21:02:38.584Z",
-  "finishedAt": "2026-10-05T21:08:00.386Z",
+  "runId": "f6931819",
+  "startedAt": "2026-10-06T12:09:23.861Z",
+  "finishedAt": "2026-10-06T12:10:39.049Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/492469/germany-at-risk-of-violent-conflict-with-russia",
-      "headline": "Germany at risk of violent conflict with Russia",
-      "reason": "score-below-threshold (58 < 75)",
-      "score": 58
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/492454/india-us-trade-talks-hit-a-plateau-over-tariffs",
-      "headline": "India-US trade talks hit a plateau over tariffs",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/492451/yemen-begins-offensive-to-retake-houthi-held-areas",
-      "headline": "Yemen begins offensive to retake Houthi-held areas",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "url": "https://newsfirst.lk/2026/10/06/sri-lanka%e2%80%99s-financial-literacy-rises-from-35-to-58-pm",
+      "headline": "SL's Financial Literacy Rises From 35% To 58%- PM",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 76
     },
     {
-      "url": "https://hirunews.lk/english/492448/turkey-faces-scrutiny-over-methane-mega-leaks",
-      "headline": "Turkey faces scrutiny over methane mega-leaks",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "url": "https://newsfirst.lk/2026/10/06/fuel-firms-ordered-to-maintain-minimum-stocks",
+      "headline": "Fuel Firms Ordered to Maintain Minimum Stocks",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://hirunews.lk/english/492452/french-schools-stay-shut-ahead-of-student-protests",
-      "headline": "French schools stay shut ahead of student protests",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/10/06/indian-nationals-arrested-over-online-gambling-in-thalawathugoda",
+      "headline": "Indian Nationals Arrested Over Online Gambling",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []

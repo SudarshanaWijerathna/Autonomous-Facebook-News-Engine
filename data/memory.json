@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/21/namal-rajapaksa-summoned-by-police-financial-crimes-division",
-    "contentHash": "b89ae46afb50f047a52e7f9a1a3adc34b658a0c40adabf6327afb7f3a7ab2a83",
-    "headline": "Namal Rajapaksa Summoned By FCID",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-22T02:07:58.279Z",
-    "fbPostId": "1278802861974766_122112462549402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-22T02:08:50.785Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/21/dr-nanda-malini%e2%80%99s-remains-placed-for-public-tribute",
-    "contentHash": "d6ad305076db94ff1c9965bac1b60c52d08deb615005d5f7fe8e7daf8b20969d",
-    "headline": "Nanda Malini’s Remains Placed for Public Tribute",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-22T02:07:58.278Z",
-    "fbPostId": "1278802861974766_122112462825402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-22T02:09:32.637Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/22/dr-nanda-malini%e2%80%99s-last-rites-to-be-held-at-borella-cemetery-today",
-    "contentHash": "0a42f0f9f87c6ea0eb29b7eedf8c3002cef5375907a1a14b887923ab4ee4e58f",
-    "headline": "Dr. Nanda Malini’s Last Rites to Be Held Today",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-22T10:47:27.660Z",
-    "fbPostId": "1278802861974766_122112558267402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-22T10:48:21.593Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/22/rumesh-tharanga-wins-lausanne-diamond-league-javelin-title",
-    "contentHash": "10450ef9f3894c716ac78a2822fe52ec6ab7741ba3ceffa40b8c6db55307a861",
-    "headline": "Rumesh Tharanga Wins Lausanne Diamond League",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-22T10:47:27.661Z",
-    "fbPostId": "1278802861974766_122112558519402039",
-    "category": "Sports",
-    "score": 84,
-    "addedAt": "2026-08-22T10:49:05.969Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/22/president-expresses-condolences-over-dr-nanda-malini%e2%80%99s-passing",
     "contentHash": "ba9940da3b3c2038704ced384296548d8a6eb617e3d25166409ec0593428c0fa",
     "headline": "AKD Expresses Condolences Nanda Malini",
@@ -1785,6 +1737,30 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-10-05T21:08:00.385Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/06/world-bank-projects-4-4-gdp-growth-for-sri-lanka-exceeding-earlier-projections",
+    "contentHash": "3350f08d3bfbdc36dc57f996764149bdd367f3c0ec262f22034d9a2e5e184617",
+    "headline": "World Bank Projects 4.4% GDP Growth for Sri Lanka",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-06T12:09:38.995Z",
+    "fbPostId": "1278802861974766_122123341377402039",
+    "category": "Business",
+    "score": 84,
+    "addedAt": "2026-10-06T12:10:34.319Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/06/court-extends-namal-rajapaksa%e2%80%99s-remand-until-october-16",
+    "contentHash": "3e47988da67975d5e9d4dc8273ea59b198cd0d4b4555a02b4244c1c916307762",
+    "headline": "Court Extends Namal Rajapaksa’s Remand",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-06T12:09:38.995Z",
+    "fbPostId": "1278802861974766_122123341461402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-06T12:10:39.048Z",
     "isShadow": false
   }
 ]
