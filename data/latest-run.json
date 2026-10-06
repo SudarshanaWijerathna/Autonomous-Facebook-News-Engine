@@ -1,13 +1,13 @@
 {
-  "runId": "f6931819",
-  "startedAt": "2026-10-06T12:09:23.861Z",
-  "finishedAt": "2026-10-06T12:10:39.049Z",
+  "runId": "6998c015",
+  "startedAt": "2026-10-06T16:52:29.745Z",
+  "finishedAt": "2026-10-06T16:54:22.317Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,27 +20,43 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/06/sri-lanka%e2%80%99s-financial-literacy-rises-from-35-to-58-pm",
-      "headline": "SL's Financial Literacy Rises From 35% To 58%- PM",
+      "url": "https://newsfirst.lk/2026/10/06/court-extends-namal-rajapaksa%e2%80%99s-remand-until-october-16",
+      "headline": "Court Extends Namal Rajapaksa’s Remand",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/06/world-bank-projects-4-4-gdp-growth-for-sri-lanka-exceeding-earlier-projections",
+      "headline": "World Bank Projects 4.4% GDP Growth for Sri Lanka",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/06/world-bank-sees-strong-growth-for-sri-lanka-despite-risks-ahead",
+      "headline": "Sri Lanka’s Economy Back to Pre-Crisis Levels",
       "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 76
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/06/ag-tells-court-suresh-salley-can-be-discharged-returned-to-cid-custody",
+      "headline": "AG Tells Court Suresh Salley Can Be Discharged",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/06/cabinet-approves-fertilizer-subsidy-of-rs-30-000-for-maha-season",
+      "headline": "Fertilizer Subsidy of Rs.30,000 for Maha Season",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/10/06/fuel-firms-ordered-to-maintain-minimum-stocks",
       "headline": "Fuel Firms Ordered to Maintain Minimum Stocks",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/06/indian-nationals-arrested-over-online-gambling-in-thalawathugoda",
-      "headline": "Indian Nationals Arrested Over Online Gambling",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
