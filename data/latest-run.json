@@ -1,7 +1,7 @@
 {
-  "runId": "880dd1dc",
-  "startedAt": "2026-10-06T18:45:44.621Z",
-  "finishedAt": "2026-10-06T18:46:55.739Z",
+  "runId": "294742d5",
+  "startedAt": "2026-10-06T21:45:11.856Z",
+  "finishedAt": "2026-10-06T21:46:25.046Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -41,26 +41,26 @@
       "score": 85
     },
     {
+      "url": "https://newsfirst.lk/2026/10/06/cabinet-approves-fertilizer-subsidy-of-rs-30-000-for-maha-season",
+      "headline": "Fertilizer Subsidy of Rs.30,000 for Maha Season",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/06/ag-tells-court-suresh-salley-can-be-discharged-returned-to-cid-custody",
+      "headline": "AG Tells Court Suresh Salley Can Be Discharged",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/06/fuel-firms-ordered-to-maintain-minimum-stocks",
       "headline": "Fuel Firms Ordered to Maintain Minimum Stocks",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/10/06/ag-tells-court-suresh-salley-can-be-discharged-returned-to-cid-custody",
-      "headline": "AG Tells Court Suresh Salley Can Be Discharged",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
       "url": "https://newsfirst.lk/2026/10/06/president-appoints-two-new-court-of-appeal-judges",
       "headline": "President Appoints Two New Court of Appeal Judges",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/06/colombo-glows-pink-for-a-cause-that-could-save-thousands-of-lives",
-      "headline": "Pink October Begins at Colombo Municipal Council",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
     },
