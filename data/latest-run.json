@@ -1,19 +1,14 @@
 {
-  "runId": "294742d5",
-  "startedAt": "2026-10-06T21:45:11.856Z",
-  "finishedAt": "2026-10-06T21:46:25.046Z",
+  "runId": "64ed919d",
+  "startedAt": "2026-10-07T06:39:35.731Z",
+  "finishedAt": "2026-10-07T06:40:46.636Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 27,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/10/06/rumesh-tharanga-makes-history-as-first-sri-lankan-nominated-for-world-athlete-of-the-year",
-      "headline": "Historic World Athlete Nomination for Rumesh",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,50 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/06/court-extends-namal-rajapaksa%e2%80%99s-remand-until-october-16",
-      "headline": "Court Extends Namal Rajapaksa’s Remand",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/492783/shiranthi-rajapaksa-arrested-and-taken-to-bribery-commission",
+      "headline": "Shiranthi Rajapaksa arrested and taken to Bribery Commission",
+      "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=0.83)"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/06/world-bank-projects-4-4-gdp-growth-for-sri-lanka-exceeding-earlier-projections",
-      "headline": "World Bank Projects 4.4% GDP Growth for Sri Lanka",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/10/07/gota-defended-it-world-bank-calls-it-a-bad-decision",
+      "headline": "Gota Defended It. WB Calls It a Bad Decision",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/10/06/world-bank-sees-strong-growth-for-sri-lanka-despite-risks-ahead",
-      "headline": "Sri Lanka’s Economy Back to Pre-Crisis Levels",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/10/06/ag-questions-salley-s-inability-to-recall-mobile-phone-password",
+      "headline": "AG Questions Salley's Inability to Recall Password",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/06/cabinet-approves-fertilizer-subsidy-of-rs-30-000-for-maha-season",
-      "headline": "Fertilizer Subsidy of Rs.30,000 for Maha Season",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/06/ag-tells-court-suresh-salley-can-be-discharged-returned-to-cid-custody",
-      "headline": "AG Tells Court Suresh Salley Can Be Discharged",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/06/fuel-firms-ordered-to-maintain-minimum-stocks",
-      "headline": "Fuel Firms Ordered to Maintain Minimum Stocks",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/06/president-appoints-two-new-court-of-appeal-judges",
-      "headline": "President Appoints Two New Court of Appeal Judges",
-      "reason": "score-below-threshold (65 < 75)",
+      "url": "https://newsfirst.lk/2026/10/06/colombo-glows-pink-for-a-cause-that-could-save-thousands-of-lives",
+      "headline": "Pink October Begins at Colombo Municipal Council",
+      "reason": "max-posts-per-run-reached",
       "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/07/us-forces-face-curfew-alcohol-ban-in-japan-s-okinawa",
+      "headline": "US Forces Face Curfew, Alcohol Ban in Okinawa",
+      "reason": "max-posts-per-run-reached",
+      "score": 42
     }
   ],
   "errors": []
