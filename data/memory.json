@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/05/ai-could-transform-developing-economies-in-just-10-years",
-    "contentHash": "0ccd6f6c1458fa550331d085ec7c3a51678fe962c1fb695448e607c914d1c7e8",
-    "headline": "AI Could Transform Developing Economies",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-23T15:44:51.825Z",
-    "fbPostId": "1278802861974766_122112990603402039",
-    "category": "AI & Tech",
-    "score": 67,
-    "addedAt": "2026-08-23T15:45:44.037Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/22/dengue-cases-in-sri-lanka-surpass-93-000",
     "contentHash": "e98263bbbce45997fd8bd60339c4300b99e1180f58b1c45d8c2300166ca47016",
     "headline": "Dengue Cases In Sri Lanka Surpass 93,000",
@@ -1773,6 +1761,18 @@
     "category": "Sri Lanka",
     "score": 88,
     "addedAt": "2026-10-07T11:56:44.703Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/07/imf-chief-warns-global-energy-crisis-far-from-over",
+    "contentHash": "682759b441b663e15e91fbeb08d19b44b8c155136ec12b000310cbf7b649f6d0",
+    "headline": "IMF Chief Warns Global Energy Crisis Far From Over",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-07T17:29:09.029Z",
+    "fbPostId": "1278802861974766_122123669409402039",
+    "category": "World",
+    "score": 72,
+    "addedAt": "2026-10-07T17:30:43.577Z",
     "isShadow": false
   }
 ]
