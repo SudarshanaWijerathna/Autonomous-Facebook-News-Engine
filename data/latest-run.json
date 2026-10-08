@@ -1,13 +1,13 @@
 {
-  "runId": "05d372ae",
-  "startedAt": "2026-10-08T20:44:53.859Z",
-  "finishedAt": "2026-10-08T20:46:35.055Z",
+  "runId": "b84c90fe",
+  "startedAt": "2026-10-08T22:13:49.814Z",
+  "finishedAt": "2026-10-08T22:14:58.593Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 27,
+  "afterDedup": 26,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://hirunews.lk/english/493040/un-weather-body-says-el-nio-set-to-intensify-and-last-until-february-2027",
@@ -17,6 +17,11 @@
     {
       "url": "https://hirunews.lk/english/493035/us-proposes-70000-fee-for-international-student-work-training",
       "headline": "US proposes $70,000 fee for international student work training",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/08/kusal-mendis-appointed-sri-lanka-test-captain-as-dhananjaya-de-silva-steps-down",
+      "headline": "Kusal Mendis Appointed Sri Lanka Test Captain",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -43,14 +48,20 @@
     {
       "url": "https://newsfirst.lk/2026/10/08/anti-corruption-amendment-bill-up-for-debate-today",
       "headline": "Anti-Corruption Amendment Bill Up For Debate Today",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/08/court-rejects-preliminary-objections-trial-begins-against-shasheendra-rajapaksa-over-rs-8-85m-compensation-case",
+      "headline": "Trial Begins Against Shasheendra Rajapaksa",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/10/08/committee-appointed-to-amend-laws-on-imprisonment-of-buddhist-monks-says-president",
       "headline": "Committee Appointed to Amend Laws on Imprisonment",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/10/08/father-of-notorious-drug-kingpin-shiran-basik-remanded-over-rs-30m-money-laundering-case",
