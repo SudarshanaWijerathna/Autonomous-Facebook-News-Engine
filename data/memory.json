@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/24/vehicle-imports-drive-sri-lanka%e2%80%99s-revenue-surge-as-government-collects-rs-2-95-trillion-in-six-months",
-    "contentHash": "2d37ecb4d7ecf0c4057b97f27d4679ee1675bca7d0569a1e3cf17a60dc455d95",
-    "headline": "Vehicle Imports Drive SL's Revenue Surge",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-24T16:03:16.909Z",
-    "fbPostId": "1278802861974766_122113288587402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-08-24T16:04:13.506Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/24/pm-calls-for-healthier-school-nutrition-programme-beyond-free-meals",
     "contentHash": "21867de97547f3e4297241593db9ff4346a3406982925a894d79ad1bc6d7464a",
     "headline": "PM Calls for Healthier School Nutrition Programme",
@@ -1761,6 +1749,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-08T10:11:54.229Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://hirunews.lk/english/493035/us-proposes-70000-fee-for-international-student-work-training",
+    "contentHash": "e5c3f967d73745ea63b9c909b530e0f1d30b263faf989d3b5a764d4cd012371e",
+    "headline": "US proposes $70,000 fee for international student work training",
+    "sourceId": "hiru-news-en",
+    "publishedAt": "2026-10-08T17:27:47.460Z",
+    "fbPostId": "1278802861974766_122124062493402039",
+    "category": "World",
+    "score": 75,
+    "addedAt": "2026-10-08T17:30:12.347Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://hirunews.lk/english/493040/un-weather-body-says-el-nio-set-to-intensify-and-last-until-february-2027",
+    "contentHash": "411d396cf4bc8d09a4b9cb05d86438ab6586ec765925ede94057b61058aaf2fc",
+    "headline": "UN weather body says El Niño set to intensify and last until February 2027",
+    "sourceId": "hiru-news-en",
+    "publishedAt": "2026-10-08T17:27:47.460Z",
+    "fbPostId": "1278802861974766_122124062577402039",
+    "category": "World",
+    "score": 73,
+    "addedAt": "2026-10-08T17:30:18.610Z",
     "isShadow": false
   }
 ]

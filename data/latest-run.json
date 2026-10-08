@@ -1,43 +1,38 @@
 {
-  "runId": "a968782e",
-  "startedAt": "2026-10-08T10:10:28.166Z",
-  "finishedAt": "2026-10-08T10:11:54.231Z",
+  "runId": "5f290f4d",
+  "startedAt": "2026-10-08T17:27:41.735Z",
+  "finishedAt": "2026-10-08T17:30:18.612Z",
   "shadowMode": false,
-  "discovered": 32,
-  "afterDedup": 31,
-  "scored": 6,
+  "discovered": 20,
+  "afterDedup": 20,
+  "scored": 5,
   "selected": 2,
   "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
-      "headline": "South Asia Emerges As Rare Coral Recovery Success",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/08/1-540-new-grama-niladhari-officers-to-be-appointed",
-      "headline": "1,540 New GN Officers To Be Appointed",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/08/interim-report-to-be-prepared-on-election-laws",
-      "headline": "Interim Report To Be Prepared On Election Laws",
+      "url": "https://hirunews.lk/english/493062/margaret-hamilton-whose-software-helped-land-apollo-11-on-the-moon-dies-at-90",
+      "headline": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
       "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/08/veteran-indian-actor-nana-patekar-dies-at-75-of-cardiac-arrest",
-      "headline": "Veteran Indian Actor Nana Patekar Dies At 75",
+      "url": "https://hirunews.lk/english/493047/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield",
+      "headline": "Dutch firm uses AI to help drone systems 'talk' on Ukraine's battlefield",
       "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://hirunews.lk/english/493050/canadian-poet-and-writer-anne-carson-wins-2026-nobel-prize-in-literature",
+      "headline": "Canadian poet and writer Anne Carson wins 2026 Nobel Prize in Literature",
       "reason": "max-posts-per-run-reached",
-      "score": 62
+      "score": 45
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://hirunews.lk/english/493033/one-dead-two-injured-in-polands-second-school-attack-in-two-days",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
