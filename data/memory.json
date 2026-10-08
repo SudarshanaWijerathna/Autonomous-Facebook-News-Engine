@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/22/dengue-cases-in-sri-lanka-surpass-93-000",
-    "contentHash": "e98263bbbce45997fd8bd60339c4300b99e1180f58b1c45d8c2300166ca47016",
-    "headline": "Dengue Cases In Sri Lanka Surpass 93,000",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-24T02:15:44.953Z",
-    "fbPostId": "1278802861974766_122113131081402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-24T02:16:41.073Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/23/special-audit-flags-unlimited-fuel-allocations-to-parliament-officials",
-    "contentHash": "0b53e00a2d0174c2430c52d14d1b576790c29e187133de2502a6e0e3876c5f22",
-    "headline": "Audit Flags Unlimited Fuel for Parliament Staff",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-24T02:15:44.953Z",
-    "fbPostId": "1278802861974766_122113131243402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-24T02:17:21.710Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/23/roadworthiness-tests-to-replace-emission-tests-from-2028",
-    "contentHash": "5aaeec59d697f20bae76dbe2ff5c459804bf13779012ca0bada0955599c75654",
-    "headline": "Roadworthiness Tests To Replace Emission Tests",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-24T03:56:07.193Z",
-    "fbPostId": "1278802861974766_122113149447402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-08-24T03:59:14.098Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/24/vehicle-imports-drive-sri-lanka%e2%80%99s-revenue-surge-as-government-collects-rs-2-95-trillion-in-six-months",
     "contentHash": "2d37ecb4d7ecf0c4057b97f27d4679ee1675bca7d0569a1e3cf17a60dc455d95",
     "headline": "Vehicle Imports Drive SL's Revenue Surge",
@@ -1773,6 +1737,30 @@
     "category": "World",
     "score": 72,
     "addedAt": "2026-10-07T17:30:43.577Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/08/shiranthi-rajapaksa-transferred-to-welikada-prison-women%e2%80%99s-section",
+    "contentHash": "429452c0135c95fbc6a99317a684e14b52d706874e1b8363db6e1f94208d5601",
+    "headline": "Shiranthi Transferred To Welikada Women's Section",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-08T10:10:56.559Z",
+    "fbPostId": "1278802861974766_122123925399402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-10-08T10:11:49.526Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/08/public-urged-to-avoid-selling-vehicles-on-open-transfer-documents",
+    "contentHash": "c29dd28c3738436d1d63d5dcff6e0f46c71fbb5b3d19195c7cf164451f792ae6",
+    "headline": "Public Urged To Not Sell Vehicles On Open Document",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-08T10:10:56.559Z",
+    "fbPostId": "1278802861974766_122123925477402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-08T10:11:54.229Z",
     "isShadow": false
   }
 ]
