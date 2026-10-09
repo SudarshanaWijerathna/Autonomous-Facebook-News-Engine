@@ -1,7 +1,7 @@
 {
-  "runId": "ec6f5e0c",
-  "startedAt": "2026-10-09T06:54:12.539Z",
-  "finishedAt": "2026-10-09T06:55:34.901Z",
+  "runId": "be055188",
+  "startedAt": "2026-10-09T14:50:30.844Z",
+  "finishedAt": "2026-10-09T14:51:48.747Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 31,
@@ -15,28 +15,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/08/father-of-notorious-drug-kingpin-shiran-basik-remanded-over-rs-30m-money-laundering-case",
-      "headline": "Father of Drug Kingpin Shiran Basik Remanded",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/08/55-new-hostels-approved-to-address-university-hostel-shortage",
-      "headline": "New Hostels Approved To Address Hostel Shortages",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/08/suspect-arrested-in-ja-ela-with-nearly-5kg-of-ice-and-heroin",
-      "headline": "Suspect Arrested in Ja-Ela with Ice and Heroin",
+      "url": "https://newsfirst.lk/2026/10/09/restaurant-owner-killed-in-shooting-in-kalutara",
+      "headline": "Restaurant Owner Killed in Shooting in Kalutara",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/shiranthi-rajapaksa-to-undergo-eye-examination-today",
-      "headline": "Shiranthi Rajapaksa to Undergo Eye Examination",
+      "url": "https://newsfirst.lk/2026/10/09/sri-lanka-postal-service-to-be-digitized-by-2027",
+      "headline": "Sri Lanka Postal Service to Be Digitized by 2027",
       "reason": "max-posts-per-run-reached",
-      "score": 48
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/09/14-arrested-for-illegal-gem-mining-in-bagawantalawa-maskeliya",
+      "headline": "14 Arrested for Illegal Gem Mining",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/09/sri-lanka-s-iconic-galle-face-hotel-wins-double-international-honour",
+      "headline": "Galle Face Hotel Wins Double International Honour",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
     }
   ],
   "errors": []

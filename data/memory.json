@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/24/2027-a-l-o-l-and-grade-5-scholarship-exam-dates-announced",
-    "contentHash": "7ed98d1a7af56754c3f30e324ffb617ebec038e65057cf1d3311b6a99d042f97",
-    "headline": "2027 A/L, O/L, Scholarship Exam Dates Announced",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-25T08:33:14.299Z",
-    "fbPostId": "1278802861974766_122113449975402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-25T08:34:07.315Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/24/sri-lanka-at-climate-crossroads-record-heat-dry-weather-and-water-shortages",
-    "contentHash": "be4b9112573c0c9f77cb46c8fd65991df424aef98a88d249793541bf85cfec4e",
-    "headline": "Could 2027 Bring Sri Lanka's Hottest Year Ever?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-25T08:33:14.300Z",
-    "fbPostId": "1278802861974766_122113450233402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-08-25T08:34:50.664Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/25/colombo-water-scare-ends-with-all-clear-questions-remain-over-mystery-blue-substance",
     "contentHash": "67dc5eb8f17b3af054e54c251ec079b2613b79f3a903752e41e3cc908e5a952c",
     "headline": "Colombo Water Scare Ends With All-Clear",
@@ -1809,6 +1785,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-09T06:55:34.900Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/09/opposition-submits-no-confidence-motion-against-speaker-dr-jagath-wickramaratne",
+    "contentHash": "a3475e396ff096bd46e204dc851d8697bb67ec0716a37c0852705017b9005ee2",
+    "headline": "Opposition Files Motion Against Speaker",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-09T14:50:51.335Z",
+    "fbPostId": "1278802861974766_122124335211402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-09T14:51:43.687Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/09/south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
+    "contentHash": "23526e489bc8c15a56caaeb873fb2dab3bdabd4ddd47c375a74bfd730a1d0d80",
+    "headline": "Navanethem Navi Pillay Wins 2026 Nobel Peace Prize",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-09T14:50:51.335Z",
+    "fbPostId": "1278802861974766_122124335295402039",
+    "category": "World",
+    "score": 81,
+    "addedAt": "2026-10-09T14:51:48.746Z",
     "isShadow": false
   }
 ]
