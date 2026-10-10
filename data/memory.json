@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/25/colombo-water-scare-ends-with-all-clear-questions-remain-over-mystery-blue-substance",
-    "contentHash": "67dc5eb8f17b3af054e54c251ec079b2613b79f3a903752e41e3cc908e5a952c",
-    "headline": "Colombo Water Scare Ends With All-Clear",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-26T02:17:55.201Z",
-    "fbPostId": "1278802861974766_122113604967402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-26T02:18:47.533Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/25/9-bus-drivers-conductors-arrested-for-drug-use",
-    "contentHash": "ad50b5150f2d777177ed31a387ff8728ff51ea7ca662d4d656c4644061bd36d8",
-    "headline": "9 Bus Drivers, Conductors Arrested For Drug Use",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-26T02:17:55.202Z",
-    "fbPostId": "1278802861974766_122113605159402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-08-26T02:19:30.559Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/25/prison-officers-phone-numbers-found-on-kehelbaddara-padme-s-mobile",
     "contentHash": "ac953dadcb51121d193d145ca70120b2a7307571bcd9f82aeeca8289abfb1286",
     "headline": "CID Reveals Shocking Phone Contents in Court",
@@ -1809,6 +1785,30 @@
     "category": "World",
     "score": 81,
     "addedAt": "2026-10-09T14:51:48.746Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/09/technical-fault-in-ct-simulator-leaves-1-500-patients-waiting-at-maharagama-apeksha-hospital",
+    "contentHash": "49889fc990356528e459560e9b41214e2bc6341c5bf6b93454930cec2ba6d3d2",
+    "headline": "CT Simulator Fault Hits 1,500 Apeksha Patients",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-10T06:30:32.835Z",
+    "fbPostId": "1278802861974766_122124640347402039",
+    "category": "Sri Lanka",
+    "score": 83,
+    "addedAt": "2026-10-10T06:31:24.285Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+    "contentHash": "8558085760d243d1ab0c0125a8709c1315497f7390cc27f3105a6d4811de3134",
+    "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-10T06:30:32.835Z",
+    "fbPostId": "1278802861974766_122124640443402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-10T06:31:28.851Z",
     "isShadow": false
   }
 ]

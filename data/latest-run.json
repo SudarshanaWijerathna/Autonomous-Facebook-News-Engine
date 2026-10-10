@@ -1,17 +1,17 @@
 {
-  "runId": "a57db90b",
-  "startedAt": "2026-10-09T21:47:15.646Z",
-  "finishedAt": "2026-10-09T21:48:27.332Z",
+  "runId": "057927fc",
+  "startedAt": "2026-10-10T06:30:15.459Z",
+  "finishedAt": "2026-10-10T06:31:28.853Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/10/09/south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
-      "headline": "Navanethem Navi Pillay Wins 2026 Nobel Peace Prize",
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -20,44 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
-      "headline": "South Asia Emerges As Rare Coral Recovery Success",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/10/09/gotabaya-rajapaksa-files-appeal-petition-in-supreme-court-over-easter-sunday-attacks-probe",
+      "headline": "Gotabaya Files Appeal Petition in Supreme Court",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/former-colombo-chief-magistrate-thilina-gamage-dismissed",
-      "headline": "Former Colombo Chief Magistrate Dismissed",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://newsfirst.lk/2026/10/09/police-warn-of-strict-action-over-deliberate-metro-bus-damage",
+      "headline": "Strict Action Over Deliberate Metro Bus Damage",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/shiranthi-rajapaksa-transferred-to-general-ward-at-welikada-prison",
-      "headline": "Shiranthi Rajapaksa Transferred to General Ward",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/09/restaurant-owner-killed-in-shooting-in-kalutara",
-      "headline": "Restaurant Owner Killed in Shooting in Kalutara",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/09/14-arrested-for-illegal-gem-mining-in-bagawantalawa-maskeliya",
-      "headline": "14 Arrested for Illegal Gem Mining",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/10/09/fox-resorts-is-south-asia-s-leading-hospitality-development-company-at-sata-2026",
+      "headline": "Fox Resorts Wins Big at SATA 2026",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/sri-lanka-s-iconic-galle-face-hotel-wins-double-international-honour",
-      "headline": "Galle Face Hotel Wins Double International Honour",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
