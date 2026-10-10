@@ -1,13 +1,13 @@
 {
-  "runId": "057927fc",
-  "startedAt": "2026-10-10T06:30:15.459Z",
-  "finishedAt": "2026-10-10T06:31:28.853Z",
+  "runId": "4a62a92f",
+  "startedAt": "2026-10-10T14:07:31.815Z",
+  "finishedAt": "2026-10-10T14:08:47.765Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -15,32 +15,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/opposition-submits-no-confidence-motion-against-speaker-dr-jagath-wickramaratne",
-      "headline": "Opposition Files Motion Against Speaker",
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/gotabaya-rajapaksa-files-appeal-petition-in-supreme-court-over-easter-sunday-attacks-probe",
-      "headline": "Gotabaya Files Appeal Petition in Supreme Court",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/10/10/vehicles-emitting-excessive-smoke-to-face-new-restrictions",
+      "headline": "New Restrictions on Smoke-Emitting Vehicles",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/police-warn-of-strict-action-over-deliberate-metro-bus-damage",
-      "headline": "Strict Action Over Deliberate Metro Bus Damage",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/10/10/anoj%e2%80%8ban-sivarasa%e2%80%99s-death-sentence-appeal-to-be-filed-today-in-saudi-arabia",
+      "headline": "Anoj​an's Death Sentence Appeal to Be Filed Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/09/fox-resorts-is-south-asia-s-leading-hospitality-development-company-at-sata-2026",
-      "headline": "Fox Resorts Wins Big at SATA 2026",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/10/srilankan-airlines-suspends-riyadh-flights-until-october-18",
+      "headline": "SriLankan Airlines Suspends Riyadh Flights",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/10/09/ajith-nivard-cabraal-withdraws-greek-bond-case-petition",
+      "headline": "Ajith Nivard Cabraal Withdraws Greek Bond Case",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/10/coal-procurement-commission-seeks-two-month-extension",
+      "headline": "Coal Commission Seeks Two-Month Extension",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],

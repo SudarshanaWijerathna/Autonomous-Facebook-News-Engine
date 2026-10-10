@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/25/prison-officers-phone-numbers-found-on-kehelbaddara-padme-s-mobile",
-    "contentHash": "ac953dadcb51121d193d145ca70120b2a7307571bcd9f82aeeca8289abfb1286",
-    "headline": "CID Reveals Shocking Phone Contents in Court",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-26T08:34:25.458Z",
-    "fbPostId": "1278802861974766_122113646787402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-08-26T08:35:27.179Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/27/digital-predators-exposed-slcert-cracks-down-on-exploitative-social-media-groups",
     "contentHash": "61713a12718607e552a21b30f964cfbc4fa1c8c12494867a0064fa77bcc71a2c",
     "headline": "SLCERT Cracks Down on Exploitative Social Media",
@@ -1809,6 +1797,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-10T06:31:28.851Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/10/six-lives-lost-in-road-accidents-within-24-hours",
+    "contentHash": "df5ee038c898f94fda7496fea6efa8d5ada433d5f5b30d741abdd3941fa1c30a",
+    "headline": "Six Lives Lost in Road Accidents Within 24 Hours",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-10T14:07:52.696Z",
+    "fbPostId": "1278802861974766_122124809709402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-10-10T14:08:47.764Z",
     "isShadow": false
   }
 ]
