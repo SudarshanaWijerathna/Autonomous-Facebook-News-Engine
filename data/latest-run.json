@@ -1,10 +1,10 @@
 {
-  "runId": "74c5f7c6",
-  "startedAt": "2026-10-10T19:24:37.592Z",
-  "finishedAt": "2026-10-10T19:25:47.121Z",
+  "runId": "1dcc7a3d",
+  "startedAt": "2026-10-10T20:36:24.108Z",
+  "finishedAt": "2026-10-10T20:37:33.796Z",
   "shadowMode": false,
-  "discovered": 12,
-  "afterDedup": 8,
+  "discovered": 32,
+  "afterDedup": 28,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -30,22 +30,22 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/10/anoj%e2%80%8ban-sivarasa%e2%80%99s-death-sentence-appeal-to-be-filed-today-in-saudi-arabia",
-      "headline": "Anoj​an's Death Sentence Appeal to Be Filed Today",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
       "url": "https://newsfirst.lk/2026/10/10/vehicles-emitting-excessive-smoke-to-face-new-restrictions",
       "headline": "New Restrictions on Smoke-Emitting Vehicles",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
+      "url": "https://newsfirst.lk/2026/10/10/anoj%e2%80%8ban-sivarasa%e2%80%99s-death-sentence-appeal-to-be-filed-today-in-saudi-arabia",
+      "headline": "Anoj​an's Death Sentence Appeal to Be Filed Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/09/ajith-nivard-cabraal-withdraws-greek-bond-case-petition",
       "headline": "Ajith Nivard Cabraal Withdraws Greek Bond Case",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/10/10/montana-governor-holds-talks-to-expand-trade-and-defence-ties-with-sri-lanka",
@@ -54,14 +54,14 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/10/10/coal-procurement-commission-seeks-two-month-extension",
+      "headline": "Coal Commission Seeks Two-Month Extension",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/10/coal-procurement-commission-seeks-two-month-extension",
-      "headline": "Coal Commission Seeks Two-Month Extension",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
