@@ -1834,5 +1834,29 @@
     "score": 75,
     "addedAt": "2026-10-11T06:37:16.144Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/11/police-to-repatriate-%e2%80%98ran-malli%e2%80%99-to-sri-lanka",
+    "contentHash": "7166112970bc743f9ed378bc3f2eb2634ad4e8a18ecb2bdbaa98271ba7c6a3ff",
+    "headline": "Police To Repatriate ‘Ran Malli’ to Sri Lanka",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-11T09:46:00.331Z",
+    "fbPostId": "1278802861974766_122125258161402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-10-11T09:46:53.449Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/11/sri-lankan-delegation-to-attend-imf-world-bank-annual-meetings-in-bangkok",
+    "contentHash": "0fae9e6581fa7b4bf763abd6be974cce8517e7374aa832e2d8967011526df0a2",
+    "headline": "SL Delegation To Attend IMF, WB Annual Meetings",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-11T09:46:00.332Z",
+    "fbPostId": "1278802861974766_122125258221402039",
+    "category": "Business",
+    "score": 75,
+    "addedAt": "2026-10-11T09:46:57.628Z",
+    "isShadow": false
   }
 ]
