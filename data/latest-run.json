@@ -1,10 +1,10 @@
 {
-  "runId": "c3982dab",
-  "startedAt": "2026-10-11T11:31:17.033Z",
-  "finishedAt": "2026-10-11T11:33:02.861Z",
+  "runId": "26bea635",
+  "startedAt": "2026-10-11T14:31:40.410Z",
+  "finishedAt": "2026-10-11T14:32:48.445Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 29,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -25,9 +25,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/sri-lankan-delegation-to-attend-imf-world-bank-annual-meetings-in-bangkok",
-      "headline": "SL Delegation To Attend IMF, WB Annual Meetings",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/10/11/mp-chamara-sampath-to-appear-before-ciaboc-tomorrow",
+      "headline": "MP Chamara Sampath to Appear Before CIABOC",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/10/11/government-to-seek-ag%e2%80%99s-advice-on-private-fuel-supply-agreements",
@@ -36,20 +37,14 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/over-25-daily-complaints-over-fraudulent-use-of-vehicle-registration-certificates",
-      "headline": "Surge of Complaints Over Use of Vehicle Reg. Certs",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/11/shooting-in-nagoda-injured-wife-of-kalutara-restaurant-owner-succumbed-to-injuries",
-      "headline": "Shooting in Nagoda: Wife Succumbed To Injuries",
+      "url": "https://newsfirst.lk/2026/10/11/drug-prevention-model-villages-planned-across-all-divisional-secretariat-divisions",
+      "headline": "Drug Prevention Model Villages In DS Divisions",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/drug-prevention-model-villages-planned-across-all-divisional-secretariat-divisions",
-      "headline": "Drug Prevention Model Villages In DS Divisions",
+      "url": "https://newsfirst.lk/2026/10/11/shooting-in-nagoda-injured-wife-of-kalutara-restaurant-owner-succumbed-to-injuries",
+      "headline": "Shooting in Nagoda: Wife Succumbed To Injuries",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -60,10 +55,10 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/mrs-tourism-world-2026-winner-nimesha-premachandra-meets-foreign-minister-pledges-support-to-elevate-sri-lanka%e2%80%99s-global-tourism-profile",
-      "headline": "Mrs. Tourism World Winner Meets Foreign Minister",
-      "reason": "score-below-threshold (58 < 75)",
-      "score": 58
+      "url": "https://newsfirst.lk/2026/10/11/prison-guard-arrested-with-cannabis-at-angunakolapelessa-prison",
+      "headline": "Prison Guard Arrested With Cannabis",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
