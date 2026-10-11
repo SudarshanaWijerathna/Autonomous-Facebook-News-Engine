@@ -1,13 +1,13 @@
 {
-  "runId": "26bea635",
-  "startedAt": "2026-10-11T14:31:40.410Z",
-  "finishedAt": "2026-10-11T14:32:48.445Z",
+  "runId": "5238f170",
+  "startedAt": "2026-10-11T17:53:51.976Z",
+  "finishedAt": "2026-10-11T17:54:53.558Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,44 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/police-to-repatriate-%e2%80%98ran-malli%e2%80%99-to-sri-lanka",
-      "headline": "Police To Repatriate ‘Ran Malli’ to Sri Lanka",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/11/mp-chamara-sampath-to-appear-before-ciaboc-tomorrow",
-      "headline": "MP Chamara Sampath to Appear Before CIABOC",
-      "reason": "score-below-threshold (73 < 75)",
+      "url": "https://newsfirst.lk/2026/10/11/over-25-daily-complaints-over-fraudulent-use-of-vehicle-registration-certificates",
+      "headline": "Surge of Complaints Over Use of Vehicle Reg. Certs",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/10/11/government-to-seek-ag%e2%80%99s-advice-on-private-fuel-supply-agreements",
       "headline": "Govt. to Seek AG’s Advice on Pvt Fuel Agreements",
-      "reason": "score-below-threshold (72 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/drug-prevention-model-villages-planned-across-all-divisional-secretariat-divisions",
-      "headline": "Drug Prevention Model Villages In DS Divisions",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/11/shooting-in-nagoda-injured-wife-of-kalutara-restaurant-owner-succumbed-to-injuries",
-      "headline": "Shooting in Nagoda: Wife Succumbed To Injuries",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/11/mp-chamara-sampath-to-appear-before-ciaboc-tomorrow",
+      "headline": "MP Chamara Sampath to Appear Before CIABOC",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/10/11/prison-guard-arrested-with-cannabis-at-angunakolapelessa-prison",
       "headline": "Prison Guard Arrested With Cannabis",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/11/mrs-tourism-world-2026-winner-nimesha-premachandra-meets-foreign-minister-pledges-support-to-elevate-sri-lanka%e2%80%99s-global-tourism-profile",
+      "headline": "Mrs. Tourism World Winner Meets Foreign Minister",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     }
   ],
