@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/28/email-address-to-report-exploitative-social-media-groups-dir-cid-police-gov-lk",
-    "contentHash": "368dc623a90289b39b26d9bb6e26087c8d04a1fbfb998c31b53aac72e4e04a57",
-    "headline": "Email To Report Exploitative Social Media Groups",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-28T12:21:28.330Z",
-    "fbPostId": "1278802861974766_122114112015402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-28T12:23:53.114Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/29/reservoir-water-levels-drop-to-34-7-amid-dry-spell",
     "contentHash": "5782e16b2b739ef84df3e52751ba6404f869546e743201cb1169773171214440",
     "headline": "Reservoir Water Levels Drop to 34.7%",
@@ -1833,6 +1821,30 @@
     "category": "Sri Lanka",
     "score": 81,
     "addedAt": "2026-10-12T06:42:59.386Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/12/shiranthi-rajapaksa%e2%80%99s-anticipatory-bail-bid-rejected-by-court",
+    "contentHash": "addd12f0ea45646f5adea5d0a0bf0b7229ad452af4c8c453141b70e166407ee7",
+    "headline": "Shiranthi’s Anticipatory Bail Bid Rejected",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-12T13:23:45.839Z",
+    "fbPostId": "1278802861974766_122125650543402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-12T13:24:41.047Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/12/sri-lanka%e2%80%99s-financial-system-holds-firm-amid-global-turmoil-cbsl-warns-of-rising-household-debt-risks",
+    "contentHash": "2ad0753217a4511ad8d8e7013267ec90bc24cd82cfc0c8f2ec35ff16ad74a567",
+    "headline": "Sri Lanka’s Financial System Holds Firm Amid Risks",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-12T13:23:45.839Z",
+    "fbPostId": "1278802861974766_122125651119402039",
+    "category": "Business",
+    "score": 75,
+    "addedAt": "2026-10-12T13:24:46.900Z",
     "isShadow": false
   }
 ]

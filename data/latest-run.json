@@ -1,7 +1,7 @@
 {
-  "runId": "eb0bcef4",
-  "startedAt": "2026-10-12T06:41:49.336Z",
-  "finishedAt": "2026-10-12T06:42:59.387Z",
+  "runId": "9bd16c70",
+  "startedAt": "2026-10-12T13:23:20.353Z",
+  "finishedAt": "2026-10-12T13:24:46.901Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
@@ -20,31 +20,31 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/493638/china-sanctions-paraguay-belize-ministers-over-taiwan-ties",
-      "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
-      "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/10/12/former-president-mahinda-rajapaksa-hospitalised-says-slpp-spokesperson",
+      "headline": "Former President Mahinda Rajapaksa Hospitalised",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/12/imf-world-bank-annual-meetings-begin-in-bangkok",
-      "headline": "IMF, World Bank Annual Meetings Begin in Bangkok",
+      "url": "https://newsfirst.lk/2026/10/12/weather-alert-brace-for-heavy-rains-from-oct-13",
+      "headline": "WEATHER ALERT: Brace For Heavy Rains From Oct. 13",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/12/mp-chamara-sampath-arrested-by-ciaboc",
+      "headline": "MP Chamara Sampath Arrested by CIABOC",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 84
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/12/chamara-sampath-dasanayake-appears-before-bribery-commission",
+      "headline": "Chamara Sampath Appears Before CIABOC",
       "reason": "max-posts-per-run-reached",
-      "score": 76
+      "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/10/12/sri-lanka%e2%80%99s-financial-system-holds-firm-amid-global-turmoil-cbsl-warns-of-rising-household-debt-risks",
-      "headline": "Sri Lanka’s Financial System Holds Firm Amid Risks",
-      "reason": "max-posts-per-run-reached",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/12/sri-lankans-in-nepal-urged-to-exercise-extreme-caution-amid-floods",
-      "headline": "Sri Lankans in Nepal to Exercise Extreme Caution",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/11/109-migrants-dead-more-than-116-missing-after-ship-capsizes-off-djibouti",
-      "headline": "109 Dead, 116 Missing in Djibouti Shipwreck",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "max-posts-per-run-reached",
       "score": 62
     }
