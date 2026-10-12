@@ -1,13 +1,13 @@
 {
-  "runId": "52db0635",
-  "startedAt": "2026-10-11T21:00:15.928Z",
-  "finishedAt": "2026-10-11T21:01:15.281Z",
+  "runId": "eb0bcef4",
+  "startedAt": "2026-10-12T06:41:49.336Z",
+  "finishedAt": "2026-10-12T06:42:59.387Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,44 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/government-to-recruit-23-000-teachers-in-2026-says-prime-minister",
-      "headline": "Government to Recruit 23,000 Teachers In 2026",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/493638/china-sanctions-paraguay-belize-ministers-over-taiwan-ties",
+      "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+      "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/government-to-seek-ag%e2%80%99s-advice-on-private-fuel-supply-agreements",
-      "headline": "Govt. to Seek AG’s Advice on Pvt Fuel Agreements",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/10/12/imf-world-bank-annual-meetings-begin-in-bangkok",
+      "headline": "IMF, World Bank Annual Meetings Begin in Bangkok",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/sri-lanka-retains-tier-2-ranking-in-2026-u-s-human-trafficking-report",
-      "headline": "Sri Lanka Retains Tier 2 in U.S Trafficking Report",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://newsfirst.lk/2026/10/12/sri-lanka%e2%80%99s-financial-system-holds-firm-amid-global-turmoil-cbsl-warns-of-rising-household-debt-risks",
+      "headline": "Sri Lanka’s Financial System Holds Firm Amid Risks",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/mp-chamara-sampath-to-appear-before-ciaboc-tomorrow",
-      "headline": "MP Chamara Sampath to Appear Before CIABOC",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/10/12/sri-lankans-in-nepal-urged-to-exercise-extreme-caution-amid-floods",
+      "headline": "Sri Lankans in Nepal to Exercise Extreme Caution",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/11/over-25-daily-complaints-over-fraudulent-use-of-vehicle-registration-certificates",
-      "headline": "Surge of Complaints Over Use of Vehicle Reg. Certs",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/11/prison-guard-arrested-with-cannabis-at-angunakolapelessa-prison",
-      "headline": "Prison Guard Arrested With Cannabis",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/11/mrs-tourism-world-2026-winner-nimesha-premachandra-meets-foreign-minister-pledges-support-to-elevate-sri-lanka%e2%80%99s-global-tourism-profile",
-      "headline": "Mrs. Tourism World Winner Meets Foreign Minister",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/10/11/109-migrants-dead-more-than-116-missing-after-ship-capsizes-off-djibouti",
+      "headline": "109 Dead, 116 Missing in Djibouti Shipwreck",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
