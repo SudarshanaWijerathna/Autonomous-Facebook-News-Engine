@@ -1,7 +1,7 @@
 {
-  "runId": "098b4fca",
-  "startedAt": "2026-10-13T20:45:25.079Z",
-  "finishedAt": "2026-10-13T20:46:20.408Z",
+  "runId": "d59e4c74",
+  "startedAt": "2026-10-13T21:53:34.505Z",
+  "finishedAt": "2026-10-13T21:54:40.029Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -23,13 +23,7 @@
       "url": "https://newsfirst.lk/2026/10/13/namal-rajapaksa-brought-to-court-over-rs-100m-airbus-bribery-case",
       "headline": "Namal Court Appearance over Airbus Bribe Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/no-exceptional-grounds-for-bail-court-keeps-shiranthi-rajapaksa-in-custody",
-      "headline": "'No Exceptional Grounds for Bail'",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/10/13/namal-remanded-again-attorney-general-signals-next-step-in-airbus-scandal-case",
@@ -50,10 +44,16 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/school-bag-fund-misuse-case-against-chamara-sampath-moves-forward",
-      "headline": "School Bag Fund Misuse Case Against Chamara",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/10/13/rohitha-bogollagama-corruption-case-fixed-for-october",
+      "headline": "Rohitha Bogollagama Corruption Case Fixed for Oct",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
