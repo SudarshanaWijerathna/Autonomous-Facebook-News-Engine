@@ -1,13 +1,13 @@
 {
-  "runId": "a3073750",
-  "startedAt": "2026-10-13T10:15:19.034Z",
-  "finishedAt": "2026-10-13T10:17:34.749Z",
+  "runId": "50cffa8e",
+  "startedAt": "2026-10-13T15:27:24.565Z",
+  "finishedAt": "2026-10-13T15:33:44.900Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
-  "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "scored": 4,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,29 +20,40 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/imf-hails-sri-lanka-s-digital-revolution-driven-by-govpay-and-lankaqr",
-      "headline": "Sri Lanka's GovPay Success Wins IMF Recognition",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/10/13/namal-rajapaksa-brought-to-court-over-rs-100m-airbus-bribery-case",
+      "headline": "Namal Court Appearance over Airbus Bribe Case",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/13/no-exceptional-grounds-for-bail-court-keeps-shiranthi-rajapaksa-in-custody",
+      "headline": "'No Exceptional Grounds for Bail'",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/13/shiranthi-rajapaksa-further-remanded",
+      "headline": "Shiranthi Rajapaksa Further Remanded",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/namal-rajapaksa%e2%80%99s-rs-70m-krrish-case-called-today",
-      "headline": "Namal Rajapaksa’s Rs. 70M Krrish Case Called Today",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/ambalangoda-fisherman-arrested-with-ice-and-kush",
-      "headline": "Ambalangoda Fisherman Arrested with Ice and Kush",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/special-security-for-remanded-mp-chamara-sampath-dassanayake",
-      "headline": "Special Security for Remanded MP Chamara Sampath",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/13/imf-warns-global-economy-s-resilience-is-reaching-its-limit",
+      "headline": "Global Economy's Resilience Is Reaching Its Limit",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/10/13/teen-son-of-slain-underworld-figure-meegasare-kajja-arrested-with-firearm",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/13/namal-remanded-again-attorney-general-signals-next-step-in-airbus-scandal-case",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
