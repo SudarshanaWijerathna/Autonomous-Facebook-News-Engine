@@ -1846,5 +1846,29 @@
     "score": 75,
     "addedAt": "2026-10-12T13:24:46.900Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/12/mahinda-kahandagama-remanded-until-october-26",
+    "contentHash": "bad9bf3dddfe50a70a42e192cda320fb9cb292423f094d510a6b86238c2549b1",
+    "headline": "Mahinda Kahandagama Remanded Until October 26",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-13T07:12:04.992Z",
+    "fbPostId": "1278802861974766_122125929195402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-13T07:12:58.410Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/12/chamara-sampath-dassanayake-remanded",
+    "contentHash": "ee1804db2e6cc253d03a53708d7e807b57a8e9685b34a592e1139fcafe66b797",
+    "headline": "Chamara Sampath Dassanayake Remanded",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-13T07:12:04.991Z",
+    "fbPostId": "1278802861974766_122125929237402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-13T07:13:02.143Z",
+    "isShadow": false
   }
 ]
