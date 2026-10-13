@@ -1,7 +1,7 @@
 {
-  "runId": "51403cca",
-  "startedAt": "2026-10-13T07:11:38.131Z",
-  "finishedAt": "2026-10-13T07:13:02.145Z",
+  "runId": "a3073750",
+  "startedAt": "2026-10-13T10:15:19.034Z",
+  "finishedAt": "2026-10-13T10:17:34.749Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -20,26 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/10/13/imf-hails-sri-lanka-s-digital-revolution-driven-by-govpay-and-lankaqr",
+      "headline": "Sri Lanka's GovPay Success Wins IMF Recognition",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/13/namal-rajapaksa%e2%80%99s-rs-70m-krrish-case-called-today",
       "headline": "Namal Rajapaksa’s Rs. 70M Krrish Case Called Today",
       "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/12/shiranthi-rajapaksa-admitted-to-national-hospital-cardiology-unit",
-      "headline": "Shiranthi Rajapaksa Admitted to National Hospital",
-      "reason": "max-posts-per-run-reached",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/12/malwathu-mahanayake-pushes-back-on-sjb-claims",
-      "headline": "Malwathu Mahanayake Pushes Back on SJB Claims",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/10/13/ambalangoda-fisherman-arrested-with-ice-and-kush",
       "headline": "Ambalangoda Fisherman Arrested with Ice and Kush",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/13/special-security-for-remanded-mp-chamara-sampath-dassanayake",
+      "headline": "Special Security for Remanded MP Chamara Sampath",
       "reason": "max-posts-per-run-reached",
       "score": 62
     }
