@@ -1,59 +1,50 @@
 {
-  "runId": "50cffa8e",
-  "startedAt": "2026-10-13T15:27:24.565Z",
-  "finishedAt": "2026-10-13T15:33:44.900Z",
+  "runId": "d7576e1b",
+  "startedAt": "2026-10-13T17:41:12.338Z",
+  "finishedAt": "2026-10-13T17:46:03.616Z",
   "shadowMode": false,
-  "discovered": 32,
-  "afterDedup": 30,
-  "scored": 4,
+  "discovered": 20,
+  "afterDedup": 20,
+  "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
-      "headline": "South Asia Emerges As Rare Coral Recovery Success",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/493924/ai-models-may-soon-self-replicate-without-access-to-data-centers-anthropic-warns",
+      "headline": "AI models may soon self-replicate without access to data centers, Anthropic warns",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/493883/etihad-cancels-flights-to-riyadh-dammam-and-jeddah",
+      "headline": "Etihad cancels flights to Riyadh, Dammam, and Jeddah",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/namal-rajapaksa-brought-to-court-over-rs-100m-airbus-bribery-case",
-      "headline": "Namal Court Appearance over Airbus Bribe Case",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://hirunews.lk/english/493990/fire-breaks-out-at-mattress-showroom-in-panadura-following-lightning-strike",
+      "headline": "Fire breaks out at mattress showroom in Panadura following lightning strike",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/no-exceptional-grounds-for-bail-court-keeps-shiranthi-rajapaksa-in-custody",
-      "headline": "'No Exceptional Grounds for Bail'",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "url": "https://hirunews.lk/english/493885/trump-says-us-may-have-gone-too-far-in-targeting-irans-leadership",
+      "headline": "Trump says US may have gone ‘too far’ in targeting Iran’s leadership",
+      "reason": "score-below-threshold (58 < 75)",
+      "score": 58
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/shiranthi-rajapaksa-further-remanded",
-      "headline": "Shiranthi Rajapaksa Further Remanded",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "url": "https://hirunews.lk/english/493908/nasas-perseverance-rover-breaks-record-for-off-planet-driving-on-mars",
+      "headline": "NASA's Perseverance rover breaks record for off-planet driving on Mars",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/imf-warns-global-economy-s-resilience-is-reaching-its-limit",
-      "headline": "Global Economy's Resilience Is Reaching Its Limit",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://hirunews.lk/english/493887/houthis-claim-to-have-shot-down-saudi-drone-over-northern-yemen",
+      "headline": "Houthis claim to have shot down Saudi drone over northern Yemen",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/10/13/teen-son-of-slain-underworld-figure-meegasare-kajja-arrested-with-firearm",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/namal-remanded-again-attorney-general-signals-next-step-in-airbus-scandal-case",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
