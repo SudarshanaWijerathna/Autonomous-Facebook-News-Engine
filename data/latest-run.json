@@ -1,7 +1,7 @@
 {
-  "runId": "26167fd0",
-  "startedAt": "2026-10-14T05:34:54.953Z",
-  "finishedAt": "2026-10-14T05:36:25.230Z",
+  "runId": "4fa40c66",
+  "startedAt": "2026-10-14T10:26:11.369Z",
+  "finishedAt": "2026-10-14T10:27:48.891Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -20,20 +20,20 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/rohitha-bogollagama-corruption-case-fixed-for-october",
-      "headline": "Rohitha Bogollagama Corruption Case Fixed for Oct",
+      "url": "https://newsfirst.lk/2026/10/14/cid-completes-probe-in-namal-s-money-laundering-case",
+      "headline": "CID completes Namal's money laundering probe",
       "reason": "max-posts-per-run-reached",
-      "score": 72
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/14/sri-lanka-seeks-stronger-central-asia-ties-at-cica-summit-in-baku",
+      "headline": "Sri Lanka Seeks Stronger Central Asia Ties at CICA",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/10/14/police-warn-of-legal-action-over-false-social-media-posts",
       "headline": "Police Warn Against Fake Social Media Posts",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/pillayan-further-remanded-in-multiple-murder-case",
-      "headline": "Pillayan Further Remanded in Multiple Murder Case",
       "reason": "max-posts-per-run-reached",
       "score": 65
     },
