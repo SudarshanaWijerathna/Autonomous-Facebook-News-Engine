@@ -1,13 +1,13 @@
 {
-  "runId": "d59e4c74",
-  "startedAt": "2026-10-13T21:53:34.505Z",
-  "finishedAt": "2026-10-13T21:54:40.029Z",
+  "runId": "26167fd0",
+  "startedAt": "2026-10-14T05:34:54.953Z",
+  "finishedAt": "2026-10-14T05:36:25.230Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,39 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/namal-rajapaksa-brought-to-court-over-rs-100m-airbus-bribery-case",
-      "headline": "Namal Court Appearance over Airbus Bribe Case",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/namal-remanded-again-attorney-general-signals-next-step-in-airbus-scandal-case",
-      "headline": "Namal Remanded Again In Airbus Scandal",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 84
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/shiranthi-rajapaksa-further-remanded",
-      "headline": "Shiranthi Rajapaksa Further Remanded",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/13/teen-son-of-slain-underworld-figure-meegasare-kajja-arrested-with-firearm",
-      "headline": "Teen Son of Slain Underworld Figure Arrested",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/10/13/rohitha-bogollagama-corruption-case-fixed-for-october",
+      "headline": "Rohitha Bogollagama Corruption Case Fixed for Oct",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/13/rohitha-bogollagama-corruption-case-fixed-for-october",
-      "headline": "Rohitha Bogollagama Corruption Case Fixed for Oct",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/10/14/police-warn-of-legal-action-over-false-social-media-posts",
+      "headline": "Police Warn Against Fake Social Media Posts",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/13/pillayan-further-remanded-in-multiple-murder-case",
+      "headline": "Pillayan Further Remanded in Multiple Murder Case",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],

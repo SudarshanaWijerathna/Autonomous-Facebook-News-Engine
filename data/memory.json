@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/29/reservoir-water-levels-drop-to-34-7-amid-dry-spell",
-    "contentHash": "5782e16b2b739ef84df3e52751ba6404f869546e743201cb1169773171214440",
-    "headline": "Reservoir Water Levels Drop to 34.7%",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-29T13:30:54.041Z",
-    "fbPostId": "1278802861974766_122114338371402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-29T13:31:57.674Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/29/sri-lanka-beat-kazakhstan-497-in-the-asia-rugby-men-s-sevens-series-2026",
-    "contentHash": "6437f9c2982871694019f53d3ef0a703b5ea583a20fb2156f420fa1cf7b3f50d",
-    "headline": "Sri Lanka Beat Kazakhstan",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-29T13:30:54.040Z",
-    "fbPostId": "1278802861974766_122114338563402039",
-    "category": "Sports",
-    "score": 76,
-    "addedAt": "2026-08-29T13:32:36.049Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/29/three-murders-reported-in-tangalle-anuradhapura-and-galle",
-    "contentHash": "235d325d950e741477ec6548b9c617d2ce97df02be19ede2ab58c3d965674607",
-    "headline": "Three Murders Reported",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-29T15:09:20.375Z",
-    "fbPostId": "1278802861974766_122114357919402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-29T15:11:36.437Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/29/rs-80-billion-allocated-to-introduce-electric-trains-in-sl",
-    "contentHash": "d0e7037271390fff68a8dd98119c302589c717683ecb64feaf264f6a1a14058d",
-    "headline": "Rs. 80 Bn Allocated To Introduce Electric Trains",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-29T16:58:13.225Z",
-    "fbPostId": "1278802861974766_122114381031402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-08-29T16:59:10.851Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/29/iranian-fuel-tankers-anchored-outside-sri-lanka-s-exclusive-economic-zone-says-foreign-ministry",
     "contentHash": "aacc6714b6e4da90bfcad8b4b6b147facc348060fdb17b85840f0fc4661638cf",
     "headline": "Iranian Fuel Tankers Anchored Outside SL's EEZ",
@@ -1893,6 +1845,30 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-10-13T10:17:34.747Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/13/maharaja-media-network-joins-senter-music-festival-as-strategic-partner-ahead-of-dj-snake%e2%80%99s-sri-lanka-debut",
+    "contentHash": "4b4c2df689a47f8b28d43dcd534609dae0abc2117401b5f5f22bbb82594438a9",
+    "headline": "DJ Snake to Make Sri Lanka Debut This Month",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-14T05:35:22.826Z",
+    "fbPostId": "1278802861974766_122126090097402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-14T05:36:20.944Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/13/court-remands-chinese-national-accused-of-extorting-port-city-investors",
+    "contentHash": "d5b320fc237e6eec7c8d5cad8c13badcca33d171d22a58162af147f6a078a782",
+    "headline": "Suspected Chinese Crime Figure Remanded",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-14T05:35:22.826Z",
+    "fbPostId": "1278802861974766_122126090145402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-14T05:36:25.228Z",
     "isShadow": false
   }
 ]
