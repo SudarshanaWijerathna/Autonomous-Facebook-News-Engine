@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/31/over-531-000-drug-suspects-arrested-since-current-government-took-office",
-    "contentHash": "4bbad800ad0817d45aba028bbb0128a68e4de91d1050378c27a54cd21fd78ca3",
-    "headline": "531,000+ Drug-Suspects Arrested During Current Gov",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-31T09:27:32.759Z",
-    "fbPostId": "1278802861974766_122114734299402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-08-31T09:28:37.643Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/31/no-more-governance-chaos-new-constitution-aims-to-reshape-sri-lanka-cricket",
-    "contentHash": "50296a28ed190f36582a35acddebdbbc5cbf0d882f33175423646900a0602ccd",
-    "headline": "New Constitution Aims to Reshape Sri Lanka Cricket",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-31T09:27:32.754Z",
-    "fbPostId": "1278802861974766_122114734479402039",
-    "category": "Sports",
-    "score": 78,
-    "addedAt": "2026-08-31T09:29:18.053Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/31/sri-lanka-among-countries-of-concern-as-powerful-el-ni%c3%b1o-strengthens",
-    "contentHash": "c4e95545cd39b7314f5d64466245cd480b1b924e6caf79299ff04fd22145feb2",
-    "headline": "Experts Are Watching Sri Lanka as El Niño Builds",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-31T11:44:56.452Z",
-    "fbPostId": "1278802861974766_122114754603402039",
-    "category": "Sri Lanka",
-    "score": 83,
-    "addedAt": "2026-08-31T11:45:52.738Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/31/30-petitions-filed-against-and-in-support-of-22nd-amendment",
-    "contentHash": "b9fe1bd3b9aafdbb9cb132f20ca49de7b3d6b0bb68319ab96d70d2b879c71366",
-    "headline": "30 Petitions Filed Against and in Support of 22A",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-31T11:44:56.453Z",
-    "fbPostId": "1278802861974766_122114754969402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-08-31T11:46:35.061Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/31/sri-lanka-exports-cross-us-10-bn-mark-in-first-seven-months-of-2026",
     "contentHash": "04b3abb022f6792ec31ddeabc87afbf1c67f61b79f38d374cf6a3eba06cdc90f",
     "headline": "Exports Smash US$10 Billion Milestone in 2026",
@@ -1857,6 +1809,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-15T05:23:48.013Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/15/sri-lanka-s-debt-crisis-nears-end-as-99-of-restructuring-is-finalized",
+    "contentHash": "7df61b791e41d6cbc5ca58724365e77d340fe9901ed4375f1f3aab1a5e9397a4",
+    "headline": "Sri Lanka Moves Closer to Full Debt Resolution",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-15T12:59:43.741Z",
+    "fbPostId": "1278802861974766_122126411139402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-10-15T13:01:18.183Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/15/120-kg-of-heroin-sat-phones-and-starlink-unit-found-on-weligama-beach",
+    "contentHash": "7a778ecc0ce053b546389f708752331ddddc08ded987b9d9923369ea21618570",
+    "headline": "120 Kg of Heroin Found on Weligama Beach",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-15T12:59:43.741Z",
+    "fbPostId": "1278802861974766_122126411247402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-10-15T13:01:24.162Z",
     "isShadow": false
   }
 ]

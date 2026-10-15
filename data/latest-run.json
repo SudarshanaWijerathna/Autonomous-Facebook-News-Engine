@@ -1,13 +1,13 @@
 {
-  "runId": "cc75b97c",
-  "startedAt": "2026-10-15T05:22:40.686Z",
-  "finishedAt": "2026-10-15T05:23:48.014Z",
+  "runId": "74e76fcc",
+  "startedAt": "2026-10-15T12:59:15.326Z",
+  "finishedAt": "2026-10-15T13:01:24.163Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,33 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-joins-global-pledge-to-keep-sea-routes-free-and-open",
-      "headline": "SL Joins Global Pledge to Keep Sea Routes Free",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-tops-asia-s-beach-rankings-with-arugam-bay-at-no-1",
+      "headline": "Arugam Bay Crowned Asia's Best Beach",
+      "reason": "max-posts-per-run-reached",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/10/14/sri-lanka-s-hard-lessons-could-help-other-asian-economies",
-      "headline": "Sri Lanka's Lessons Could Help Other Economies",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-sees-increase-in-influenza-infections",
+      "headline": "Sri Lanka Sees Increase in Influenza Infections",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/10/14/prison-reform-proposals-handed-over-to-president-s-office",
-      "headline": "Prison Reform Proposals Handed Over to Prez Office",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-eyes-new-energy-deal-with-azerbaijan",
+      "headline": "Sri Lanka Eyes New Energy Deal With Azerbaijan",
+      "reason": "max-posts-per-run-reached",
+      "score": 67
     },
     {
-      "url": "https://newsfirst.lk/2026/10/14/scammer-using-ul-brand-arrested",
-      "headline": "Scammer Using UL Brand Arrested",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/15/medical-report-on-shiranthi-rajapaksa%e2%80%99s-health-due-today-15",
-      "headline": "Medical Report on Shiranthi Rajapaksa Due Today",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/10/15/opposition-led-march-disrupts-traffic-in-orugodawatta",
+      "headline": "Opposition-Led March Disrupts Traffic In Colombo",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
