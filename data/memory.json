@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/29/ravi-karunanayake-fails-to-appear-before-ciaboc-for-fourth-time",
-    "contentHash": "e1dd571aa8bfd469fd7dcc4cf827f4bbb355bcb16b5f21ed67460ba763f4842f",
-    "headline": "Ravi Karunanayake Fails To Appear Before CIABOC",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-30T10:36:03.080Z",
-    "fbPostId": "1278802861974766_122114518785402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-08-30T10:38:10.804Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/30/sri-lanka-begin-asia-cup-title-defence-with-nine-wicket-win",
-    "contentHash": "c12e837179e31b8497673e981254ab968a0ba5376d35765574666fd7a79f23d9",
-    "headline": "Sri Lanka Start Asia Cup Defence With Win",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-30T14:55:08.834Z",
-    "fbPostId": "1278802861974766_122114585403402039",
-    "category": "Sports",
-    "score": 81,
-    "addedAt": "2026-08-30T14:57:27.056Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/08/31/over-531-000-drug-suspects-arrested-since-current-government-took-office",
     "contentHash": "4bbad800ad0817d45aba028bbb0128a68e4de91d1050378c27a54cd21fd78ca3",
     "headline": "531,000+ Drug-Suspects Arrested During Current Gov",
@@ -1869,6 +1845,18 @@
     "category": "Business",
     "score": 81,
     "addedAt": "2026-10-14T10:27:48.890Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/14/president-assures-support-to-anojan-after-saudi-court-drops-death-sentence",
+    "contentHash": "e515f257431c4e93faec2b5e11501f0325ce862bc7e02fa30bb87523745f77b7",
+    "headline": "President Assures Support To Anojan",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-15T05:22:52.159Z",
+    "fbPostId": "1278802861974766_122126273043402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-15T05:23:48.013Z",
     "isShadow": false
   }
 ]
