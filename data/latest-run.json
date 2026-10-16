@@ -1,13 +1,13 @@
 {
-  "runId": "26af9b71",
-  "startedAt": "2026-10-16T12:54:56.406Z",
-  "finishedAt": "2026-10-16T12:56:42.660Z",
+  "runId": "37ecc278",
+  "startedAt": "2026-10-16T14:56:21.851Z",
+  "finishedAt": "2026-10-16T14:58:50.380Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,27 +20,49 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/10/16/us-announces-17-million-investment-to-modernize-colombo-port",
+      "headline": "USD 17 Mn to Modernize Colombo Port",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/shiranthi-rajapaksa-released-on-bail",
+      "headline": "Shiranthi Rajapaksa Released on Bail",
+      "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=1.00)"
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/16/court-defers-namal-rajapaksa-bail-decision-extends-remand",
       "headline": "Court Defers Namal Rajapaksa Bail Decision",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/yoshitha-received-over-rs-5-mn-in-salary-and-allowances",
-      "headline": "Yoshitha Got Over Rs. 5 Mn in Salary, Allowances",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/10/16/national-hospital-informs-court-shiranthi-rajapaksa-requires-bypass-surgery",
+      "headline": "Shiranthi Rajapaksa Needs Bypass Surgery",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/10/16/srilankan-airlines-extends-riyadh-and-dammam-flight-suspension-until-october-24",
+      "headline": "SriLankan Halts Saudi Flights Until October 24",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/more-than-1-600-new-court-clerks-to-be-recruited",
+      "headline": "More Than 1,600 New Court Clerks to Be Recruited",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
+      "headline": "Gnanasara Release Protest Relocates To VMD Park",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/10/16/warner-music-india-makes-big-move-into-south-indian-music-industry",
       "headline": "Warner Music India Makes Big Move Into South India",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (48 < 75)",
       "score": 48
     }
   ],
