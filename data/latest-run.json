@@ -1,13 +1,13 @@
 {
-  "runId": "f187e15e",
-  "startedAt": "2026-10-15T19:17:14.705Z",
-  "finishedAt": "2026-10-15T19:18:37.801Z",
+  "runId": "dcb48419",
+  "startedAt": "2026-10-16T05:14:32.717Z",
+  "finishedAt": "2026-10-16T05:15:51.964Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,50 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-s-debt-crisis-nears-end-as-99-of-restructuring-is-finalized",
-      "headline": "Sri Lanka Moves Closer to Full Debt Resolution",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/15/120-kg-of-heroin-sat-phones-and-starlink-unit-found-on-weligama-beach",
-      "headline": "120 Kg of Heroin Found on Weligama Beach",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-tops-asia-s-beach-rankings-with-arugam-bay-at-no-1",
-      "headline": "Arugam Bay Crowned Asia's Best Beach",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-sees-increase-in-influenza-infections",
-      "headline": "Sri Lanka Sees Increase in Influenza Infections",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/10/15/medical-board-report-on-shiranthi-rajapaksa-submitted",
+      "headline": "Medical Board Report on Shiranthi Submitted",
+      "reason": "max-posts-per-run-reached",
       "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/dengue-cases-rise-amid-rainy-weather",
+      "headline": "Dengue Cases Rise Amid Rainy Weather",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/10/15/thai-nationals-arrested-at-bia-with-nearly-5kg-of-hashish",
       "headline": "Thai Nationals Arrested at BIA With Hashish",
-      "reason": "score-below-threshold (68 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/15/sri-lanka-eyes-new-energy-deal-with-azerbaijan",
-      "headline": "Sri Lanka Eyes New Energy Deal With Azerbaijan",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/15/opposition-led-march-disrupts-traffic-in-orugodawatta",
-      "headline": "Opposition-Led March Disrupts Traffic In Colombo",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/15/heavy-traffic-reported-across-colombo",
+      "headline": "Heavy Traffic Reported Across Colombo",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
   "errors": []

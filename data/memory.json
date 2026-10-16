@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/08/31/sri-lanka-exports-cross-us-10-bn-mark-in-first-seven-months-of-2026",
-    "contentHash": "04b3abb022f6792ec31ddeabc87afbf1c67f61b79f38d374cf6a3eba06cdc90f",
-    "headline": "Exports Smash US$10 Billion Milestone in 2026",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-08-31T17:40:10.833Z",
-    "fbPostId": "1278802861974766_122114821431402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-08-31T17:41:03.415Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/01/nearly-30-000-houses-in-landslide-prone-areas-require-relocation-nbro",
     "contentHash": "8317c019d1ce84b1b9a2fce158033f7d250b8fe19d8289b34b59cb4845cea13c",
     "headline": "NBRO: 30,000 houses need relocation",
@@ -1833,6 +1821,30 @@
     "category": "Sri Lanka",
     "score": 88,
     "addedAt": "2026-10-15T13:01:24.162Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/15/heavy-rain-warnings-issued-for-multiple-provinces-in-sri-lanka",
+    "contentHash": "7cd8553f5ebe690999b26ab351d6dde7877ff28cb7ecfe7d464cd8abc3f887e7",
+    "headline": "Heavy Rain Warnings Issued for Multiple Provinces",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-16T05:14:49.718Z",
+    "fbPostId": "1278802861974766_122126622411402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-16T05:15:47.174Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/15/weather-warning-floods-and-landslides-could-increase-in-coming-months",
+    "contentHash": "146046a986e0b862589f4a5e715d6d995ec4d4b6f52156a76ab036d3ba02c22e",
+    "headline": "Floods, Landslides Could Increase in Coming Months",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-16T05:14:49.718Z",
+    "fbPostId": "1278802861974766_122126622495402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-10-16T05:15:51.962Z",
     "isShadow": false
   }
 ]
