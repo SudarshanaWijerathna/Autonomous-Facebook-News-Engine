@@ -1,11 +1,11 @@
 {
-  "runId": "37ecc278",
-  "startedAt": "2026-10-16T14:56:21.851Z",
-  "finishedAt": "2026-10-16T14:58:50.380Z",
+  "runId": "a5291e4e",
+  "startedAt": "2026-10-16T17:09:25.484Z",
+  "finishedAt": "2026-10-16T17:12:32.839Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
-  "scored": 6,
+  "scored": 4,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -30,22 +30,16 @@
       "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/court-defers-namal-rajapaksa-bail-decision-extends-remand",
-      "headline": "Court Defers Namal Rajapaksa Bail Decision",
+      "url": "https://newsfirst.lk/2026/10/16/suresh-salley-produced-before-trial-at-bar",
+      "headline": "Suresh Salley Produced Before Trial-at-Bar",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/gotabaya-requests-foreign-travel-ban-be-removed",
+      "headline": "Gotabaya Requests Foreign Travel Ban Be Removed",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/16/national-hospital-informs-court-shiranthi-rajapaksa-requires-bypass-surgery",
-      "headline": "Shiranthi Rajapaksa Needs Bypass Surgery",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/16/srilankan-airlines-extends-riyadh-and-dammam-flight-suspension-until-october-24",
-      "headline": "SriLankan Halts Saudi Flights Until October 24",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/10/16/more-than-1-600-new-court-clerks-to-be-recruited",
@@ -56,15 +50,20 @@
     {
       "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
       "headline": "Gnanasara Release Protest Relocates To VMD Park",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/16/warner-music-india-makes-big-move-into-south-indian-music-industry",
-      "headline": "Warner Music India Makes Big Move Into South India",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/10/16/srilankan-airlines-extends-riyadh-and-dammam-flight-suspension-until-october-24",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
