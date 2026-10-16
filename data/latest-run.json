@@ -1,7 +1,7 @@
 {
-  "runId": "7f353c49",
-  "startedAt": "2026-10-16T18:52:36.070Z",
-  "finishedAt": "2026-10-16T18:54:23.714Z",
+  "runId": "9aa32853",
+  "startedAt": "2026-10-16T19:59:32.503Z",
+  "finishedAt": "2026-10-16T20:01:11.821Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -39,7 +39,7 @@
       "url": "https://newsfirst.lk/2026/10/16/gotabaya-requests-foreign-travel-ban-be-removed",
       "headline": "Gotabaya Requests Foreign Travel Ban Be Removed",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
