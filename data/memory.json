@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/01/nearly-30-000-houses-in-landslide-prone-areas-require-relocation-nbro",
-    "contentHash": "8317c019d1ce84b1b9a2fce158033f7d250b8fe19d8289b34b59cb4845cea13c",
-    "headline": "NBRO: 30,000 houses need relocation",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-01T10:20:06.785Z",
-    "fbPostId": "1278802861974766_122114977353402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-09-01T10:21:00.551Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/01/president-calls-for-transparent-investor-friendly-mineral-sector-reforms",
-    "contentHash": "70fd8cfec8080a39c2dd9a9584e8dfb5ee90258b27a62066db42fc7005512619",
-    "headline": "AKD Eyes Mineral Export Boom Under New Policy",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-01T10:20:06.785Z",
-    "fbPostId": "1278802861974766_122114977635402039",
-    "category": "Business",
-    "score": 76,
-    "addedAt": "2026-09-01T10:21:43.258Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/01/ex-minister-piyankara-jayaratne-convicted-sentenced-to-seven-years",
     "contentHash": "3fd751e923d12a3152f69250cc14ded6b7f0ee5649e3807c33df7e1398e9991c",
     "headline": "Ex-Minister Piyankara Jayaratne Convicted",
@@ -1845,6 +1821,30 @@
     "category": "Sri Lanka",
     "score": 81,
     "addedAt": "2026-10-16T05:15:51.962Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/16/court-blocks-54-individuals-includng-monks-from-remaining-at-presidential-secretariat-premises",
+    "contentHash": "524ce103eb7e7b355659216114f42bb32ac25fcd609570efd5ebf6d901c802c2",
+    "headline": "Court Isues Order Restricting Access to Prez. Sec.",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-16T12:55:10.929Z",
+    "fbPostId": "1278802861974766_122126676081402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-16T12:56:37.522Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/16/us-announces-17-million-investment-to-modernize-colombo-port",
+    "contentHash": "56fc5932a0740ffff5ae9e0cd2445ab023c155e1e719fc7aff550050b23ff524",
+    "headline": "USD 17 Mn to Modernize Colombo Port",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-16T12:55:10.929Z",
+    "fbPostId": "1278802861974766_122126676123402039",
+    "category": "Business",
+    "score": 84,
+    "addedAt": "2026-10-16T12:56:42.659Z",
     "isShadow": false
   }
 ]
