@@ -1,11 +1,11 @@
 {
-  "runId": "a5291e4e",
-  "startedAt": "2026-10-16T17:09:25.484Z",
-  "finishedAt": "2026-10-16T17:12:32.839Z",
+  "runId": "7f353c49",
+  "startedAt": "2026-10-16T18:52:36.070Z",
+  "finishedAt": "2026-10-16T18:54:23.714Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
-  "scored": 4,
+  "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -33,7 +33,7 @@
       "url": "https://newsfirst.lk/2026/10/16/suresh-salley-produced-before-trial-at-bar",
       "headline": "Suresh Salley Produced Before Trial-at-Bar",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/10/16/gotabaya-requests-foreign-travel-ban-be-removed",
@@ -42,28 +42,29 @@
       "score": 76
     },
     {
+      "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
+      "headline": "Gnanasara Release Protest Relocates To VMD Park",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/srilankan-airlines-extends-riyadh-and-dammam-flight-suspension-until-october-24",
+      "headline": "SriLankan Halts Saudi Flights Until October 24",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/16/more-than-1-600-new-court-clerks-to-be-recruited",
       "headline": "More Than 1,600 New Court Clerks to Be Recruited",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
-      "headline": "Gnanasara Release Protest Relocates To VMD Park",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/10/16/srilankan-airlines-extends-riyadh-and-dammam-flight-suspension-until-october-24",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
