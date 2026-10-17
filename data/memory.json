@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/01/ex-minister-piyankara-jayaratne-convicted-sentenced-to-seven-years",
-    "contentHash": "3fd751e923d12a3152f69250cc14ded6b7f0ee5649e3807c33df7e1398e9991c",
-    "headline": "Ex-Minister Piyankara Jayaratne Convicted",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-01T15:00:42.629Z",
-    "fbPostId": "1278802861974766_122115044037402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-09-01T15:02:58.769Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/02/88-068-people-affected-as-dry-weather-ravages-6-districts-monaragala-worst-hit",
     "contentHash": "3b1731648e8e11c08b8c6abd00335e4056cc3656f9af0e1636048e59bf1c8a46",
     "headline": "88,068 Affected By Dry Weather In 6 Districts",
@@ -1845,6 +1833,30 @@
     "category": "Business",
     "score": 84,
     "addedAt": "2026-10-16T12:56:42.659Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/16/suresh-salley-produced-before-trial-at-bar",
+    "contentHash": "f603893860dab3a56df1c8a9ea80c702cfa56ab90c5ccaeae71ee4ac68a59353",
+    "headline": "Suresh Salley Produced Before Trial-at-Bar",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-17T05:10:25.614Z",
+    "fbPostId": "1278802861974766_122126860911402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-17T05:11:21.806Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/16/shiranthi-rajapaksa-needs-heart-surgery-gets-bail",
+    "contentHash": "e10c010575467d02f4ad706581609d1b02b19716f15bb0016f070c321a2ca820",
+    "headline": "Shiranthi Rajapaksa Needs Heart Surgery; Gets Bail",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-17T05:10:25.612Z",
+    "fbPostId": "1278802861974766_122126860989402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-17T05:11:26.279Z",
     "isShadow": false
   }
 ]
