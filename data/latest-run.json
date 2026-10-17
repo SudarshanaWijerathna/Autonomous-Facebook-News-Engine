@@ -1,14 +1,19 @@
 {
-  "runId": "01326944",
-  "startedAt": "2026-10-17T05:09:54.600Z",
-  "finishedAt": "2026-10-17T05:11:26.280Z",
+  "runId": "167c170c",
+  "startedAt": "2026-10-17T07:35:24.442Z",
+  "finishedAt": "2026-10-17T07:36:41.371Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/10/16/shiranthi-rajapaksa-needs-heart-surgery-gets-bail",
+      "headline": "Shiranthi Rajapaksa Needs Heart Surgery; Gets Bail",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,27 +30,33 @@
       "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/gotabaya-requests-foreign-travel-ban-be-removed",
-      "headline": "Gotabaya Requests Foreign Travel Ban Be Removed",
-      "reason": "max-posts-per-run-reached",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/16/national-hospital-informs-court-shiranthi-rajapaksa-requires-bypass-surgery",
-      "headline": "Shiranthi Rajapaksa Needs Bypass Surgery",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
       "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
       "headline": "Gnanasara Release Protest Relocates To VMD Park",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/17/12-injured-as-bus-overturns-along-puttalam-anuradhapura-main-road",
+      "headline": "12 Injured as Bus Overturns in Puttalam",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/10/16/kiriella-defends-comments-as-media-demands-clarification",
       "headline": "Kiriella Defends Remarks Amid Media Pressure",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/16/mahanayake-theros-briefed-on-prison-guidelines-for-clergy",
+      "headline": "Mahanayake Theros Briefed on Prison Guidelines",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
