@@ -1,19 +1,14 @@
 {
-  "runId": "167c170c",
-  "startedAt": "2026-10-17T07:35:24.442Z",
-  "finishedAt": "2026-10-17T07:36:41.371Z",
+  "runId": "7f408bbb",
+  "startedAt": "2026-10-17T11:54:11.722Z",
+  "finishedAt": "2026-10-17T11:55:17.425Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/10/16/shiranthi-rajapaksa-needs-heart-surgery-gets-bail",
-      "headline": "Shiranthi Rajapaksa Needs Heart Surgery; Gets Bail",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,27 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/shiranthi-rajapaksa-released-on-bail",
-      "headline": "Shiranthi Rajapaksa Released on Bail",
-      "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=1.00)"
+      "url": "https://newsfirst.lk/2026/10/16/shiranthi-rajapaksa-needs-heart-surgery-gets-bail",
+      "headline": "Shiranthi Rajapaksa Needs Heart Surgery; Gets Bail",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/gnanasara-release-protest-relocates-after-court-intervention",
-      "headline": "Gnanasara Release Protest Relocates To VMD Park",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/10/16/gotabaya-requests-foreign-travel-ban-be-removed",
+      "headline": "Gotabaya Requests Foreign Travel Ban Be Removed",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
     },
     {
-      "url": "https://newsfirst.lk/2026/10/17/12-injured-as-bus-overturns-along-puttalam-anuradhapura-main-road",
-      "headline": "12 Injured as Bus Overturns in Puttalam",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/10/17/rs-50-000-assistance-for-spectacles-for-children-with-visual-impairments",
+      "headline": "Rs. 50,000 Assistance for Spectacles for Children",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/kiriella-defends-comments-as-media-demands-clarification",
-      "headline": "Kiriella Defends Remarks Amid Media Pressure",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/16/sri-lanka-mourns-the-loss-of-beloved-tusker-kawantissa",
+      "headline": "Sri Lanka Mourns the Loss of Tusker Kawantissa",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -54,8 +49,14 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/mahanayake-theros-briefed-on-prison-guidelines-for-clergy",
-      "headline": "Mahanayake Theros Briefed on Prison Guidelines",
+      "url": "https://newsfirst.lk/2026/10/16/kiriella-defends-comments-as-media-demands-clarification",
+      "headline": "Kiriella Defends Remarks Amid Media Pressure",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/17/80g-of-cocaine-recovered-from-jamaican-woman",
+      "headline": "80g of Cocaine Recovered From Jamaican Woman",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
