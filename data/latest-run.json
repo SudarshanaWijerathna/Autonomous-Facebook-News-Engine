@@ -1,13 +1,13 @@
 {
-  "runId": "142c30c7",
-  "startedAt": "2026-10-17T17:53:19.831Z",
-  "finishedAt": "2026-10-17T17:54:27.737Z",
+  "runId": "b412d3fb",
+  "startedAt": "2026-10-18T09:46:42.547Z",
+  "finishedAt": "2026-10-18T09:47:53.762Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,44 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/17/power-supply-disrupted-in-several-areas-across-the-island",
-      "headline": "Power Supply Disrupted in Several Areas",
-      "reason": "batch-cross-source-duplicate-of-news-first-en (sim=0.83)"
+      "url": "https://newsfirst.lk/2026/10/17/thousands-flock-to-colombo-protesting-against-conspirators-protecting-criminals",
+      "headline": "Thousands Protest against Criminal Protection",
+      "reason": "max-posts-per-run-reached",
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/10/16/sri-lanka-mourns-the-loss-of-beloved-tusker-kawantissa",
-      "headline": "Sri Lanka Mourns the Loss of Tusker Kawantissa",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/10/18/litro-to-distribute-180-000-lp-gas-cylinders-over-two-days",
+      "headline": "Litro to Distribute 180,000 Gas Cylinders",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/17/rs-50-000-assistance-for-spectacles-for-children-with-visual-impairments",
-      "headline": "Rs. 50,000 Assistance for Spectacles for Children",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/17/list-of-buddhist-monks-in-prison-forwarded-to-com-general-of-buddhist-affairs",
-      "headline": "List of Imprisoned Monks Sent to Buddhist Affairs",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/17/expert-panel-from-peradeniya-university-to-determine-kawantissa%e2%80%99s-cause-of-death",
-      "headline": "Expert Panel to Find Kawantissa’s Cause of Death",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/17/12-injured-as-bus-overturns-along-puttalam-anuradhapura-main-road",
-      "headline": "12 Injured as Bus Overturns in Puttalam",
-      "reason": "score-below-threshold (62 < 65)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/18/police-deny-assault-on-balangoda-kassapa-thero",
+      "headline": "Police Deny Assault on Balangoda Kassapa Thero",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
