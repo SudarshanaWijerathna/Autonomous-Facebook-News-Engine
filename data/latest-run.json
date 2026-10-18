@@ -1,7 +1,7 @@
 {
-  "runId": "bba58dc5",
-  "startedAt": "2026-10-18T18:13:20.914Z",
-  "finishedAt": "2026-10-18T18:14:19.017Z",
+  "runId": "879349d7",
+  "startedAt": "2026-10-18T19:29:36.330Z",
+  "finishedAt": "2026-10-18T19:30:37.663Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -30,40 +30,40 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/18/sri-lankan-woman-farmer-named-among-fao-100-woman-heroes",
-      "headline": "Manel Jayasinghe Among FAO’s 100 Women",
+      "url": "https://newsfirst.lk/2026/10/18/president-stresses-on-the-importance-of-cracking-down-on-drugs-and-armed-criminal-gangs",
+      "headline": "President Calls for Crackdown on Drugs and Gangs",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/10/18/litro-to-distribute-180-000-lp-gas-cylinders-over-two-days",
-      "headline": "Litro to Distribute 180,000 Gas Cylinders",
+      "url": "https://newsfirst.lk/2026/10/18/sri-lankan-woman-farmer-named-among-fao-100-woman-heroes",
+      "headline": "Manel Jayasinghe Among FAO’s 100 Women",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
+      "url": "https://newsfirst.lk/2026/10/18/a-special-military-team-deployed-in-search-of-agbo-the-tusker",
+      "headline": "Special Military Team Deployed in Search of 'Agbo'",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/18/impartial-transparent-investigation-to-be-conducted-into-tusker-kavanthissa%e2%80%99s-death",
       "headline": "Impartial Probe into Tusker Kavanthissa’s Death",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/10/18/police-deny-assault-on-balangoda-kassapa-thero",
       "headline": "Police Deny Assault on Balangoda Kassapa Thero",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/18/france%e2%80%99s-unrest-who-was-protesting-and-who-was-behind-the-violence",
-      "headline": "France’s Unrest: Who Was Protesting?",
-      "reason": "score-below-threshold (48 < 65)",
-      "score": 48
     }
   ],
   "errors": []
