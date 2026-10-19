@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-arrested-by-bribery-commission",
-    "contentHash": "7d977210738f38f73e80c27cca4b94a1cd65cc252b300dfd5f07fffc7565e522",
-    "headline": "Namal Rajapaksa Arrested By Bribery Commission",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-04T19:42:48.184Z",
-    "fbPostId": "1278802861974766_122115792273402039",
-    "category": "Breaking",
-    "score": 94,
-    "addedAt": "2026-09-04T19:44:13.703Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-remanded-following-ciaboc-arrest",
     "contentHash": "ab04e2b423e3902e49a2e8e108f0a543ee475b6a06e0f954ba48e9d5efdbe9c2",
     "headline": "Namal Rajapaksa Remanded",
@@ -1797,6 +1785,18 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-10-19T11:05:03.544Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/19/sri-lanka-unveils-new-colombo-port-mega-project-after-280-million-deal-ends",
+    "contentHash": "29ff34c063f18e4411a8f1d57e81b8b8358ee51f56430471c4469d56e48b08e1",
+    "headline": "Sri Lanka Unveils New Colombo Port Mega Project",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-19T21:37:08.488Z",
+    "fbPostId": "1278802861974766_122127515025402039",
+    "category": "Business",
+    "score": 82,
+    "addedAt": "2026-10-19T21:38:05.748Z",
     "isShadow": false
   }
 ]
