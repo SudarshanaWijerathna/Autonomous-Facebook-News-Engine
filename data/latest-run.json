@@ -1,22 +1,17 @@
 {
-  "runId": "912eae83",
-  "startedAt": "2026-10-19T08:35:09.775Z",
-  "finishedAt": "2026-10-19T08:36:15.149Z",
+  "runId": "20ea7a0a",
+  "startedAt": "2026-10-19T11:03:43.905Z",
+  "finishedAt": "2026-10-19T11:05:03.545Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 31,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/18/nso-to-manage-power-supply-following-power-outage",
-      "headline": "NSO to Manage Power Supply Following Power Outage",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -26,28 +21,22 @@
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/10/18/a-special-military-team-deployed-in-search-of-agbo-the-tusker",
-      "headline": "Special Military Team Deployed in Search of 'Agbo'",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/19/skills-development-officer-suspected-of-shooting-kavantissa",
-      "headline": "Skills Officer Suspected in Kavantissa Shooting",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/10/19/army-deploys-30-member-team-to-locate-tusker-agbo",
+      "headline": "Army Deploys 30-Member Team To Locate Tusker 'Agbo",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/10/19/inmates-held-in-prisons-drop-by-6-000",
       "headline": "Inmates Held In Prisons Drop by 6,000",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/19/%e2%80%9cthose-who-destroyed-must-pay%e2%80%9d-macron-promises-accountability",
-      "headline": "“Those Who Destroyed Must Pay”: Macron",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/19/sri-lanka-and-romania-to-discuss-worker-welfare",
+      "headline": "Sri Lanka and Romania to Discuss Worker Welfare",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",

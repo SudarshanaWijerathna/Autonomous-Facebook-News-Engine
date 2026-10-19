@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/04/rs-3-billion-allocated-for-el-ni%c3%b1o-crop-damage-compensation",
-    "contentHash": "785d1108fdfb15919acd5df506eec525ca5cff206a979f84dd7fbc1611de17eb",
-    "headline": "Rs. 3 Billion Allocated For El Niño Crop Damage",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-04T07:51:17.318Z",
-    "fbPostId": "1278802861974766_122115662811402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-09-04T07:52:29.775Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/04/cpc-announces-reduction-in-furnace-oil-naphtha-prices",
-    "contentHash": "8c14fb0cd3bff7714b451c133a9fd4598a8e5098a36bf5705ecf36099178a304",
-    "headline": "CPC Cuts Furnace Oil, Naphtha Prices",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-04T07:51:17.318Z",
-    "fbPostId": "1278802861974766_122115663069402039",
-    "category": "Business",
-    "score": 76,
-    "addedAt": "2026-09-04T07:53:12.614Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/04/namal-rajapaksa-arrested-by-bribery-commission",
     "contentHash": "7d977210738f38f73e80c27cca4b94a1cd65cc252b300dfd5f07fffc7565e522",
     "headline": "Namal Rajapaksa Arrested By Bribery Commission",
@@ -1809,6 +1785,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-10-19T05:28:42.395Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/19/five-more-arrests-over-killing-of-sri-lanka-s-iconic-elephant-kavantissa",
+    "contentHash": "a767b05348fceb36eaffd39000644f774101728e0b6096b0e61d15ceaae4d9ce",
+    "headline": "Five More Arrests Over Killing Kavantissa",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-19T11:04:12.065Z",
+    "fbPostId": "1278802861974766_122127427695402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-10-19T11:05:03.544Z",
     "isShadow": false
   }
 ]
