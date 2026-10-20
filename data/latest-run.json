@@ -1,49 +1,59 @@
 {
-  "runId": "eaebbfac",
-  "startedAt": "2026-10-20T19:26:24.779Z",
-  "finishedAt": "2026-10-20T19:29:03.874Z",
+  "runId": "bd583073",
+  "startedAt": "2026-10-20T20:43:29.497Z",
+  "finishedAt": "2026-10-20T20:44:42.298Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/495281/kirindiwela-cinema-owner-remanded-over-discovery-of-firearms-grenades-and-ammunition",
-      "headline": "Kirindiwela cinema owner remanded over discovery of firearms, grenades and ammunition",
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/20/customs-surpasses-2026-target-with-record-revenue",
+      "headline": "Customs Surpasses 2026 Target with Record Revenue",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/20/close-associate-of-welle-saranga-arrested-while-allegedly-preparing-to-kill-businessman",
+      "headline": "Close Associate of 'Welle Saranga' Arrested",
       "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
     {
-      "url": "https://hirunews.lk/english/495282/both-spill-gates-of-ambewela-reservoir-opened-amid-heavy-rainfall",
-      "headline": "Both spill gates of Ambewela Reservoir opened amid heavy rainfall",
+      "url": "https://newsfirst.lk/2026/10/20/mrs-coordinating-secretary-goes-to-court-today",
+      "headline": "MRs Coordinating Secretary Goes To Court Today",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://hirunews.lk/english/495189/kenya-cult-leader-who-told-parents-to-starve-children-guilty-of-191-murders",
-      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "url": "https://newsfirst.lk/2026/10/20/wildlife-department-conducts-independent-probe-into-kavantissa%e2%80%99s-treatment",
+      "headline": "Independent Probe into Kavantissa’s Treatment",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/20/pathhewaheta-pradeshiya-sabha-operations-suspended-over-administrative-failures",
+      "headline": "Pathhewaheta Pradeshiya Sabha Operations Suspended",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://hirunews.lk/english/495219/exiled-critic-of-rwandan-president-found-beheaded-in-uganda",
-      "headline": "Exiled critic of Rwandan president found beheaded in Uganda",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
-    },
-    {
-      "url": "https://hirunews.lk/english/495190/seoul-vows-resolute-punishment-after-north-korea-threatens-new-border-measures",
-      "headline": "Seoul vows 'resolute punishment' after North Korea threatens new border measures",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/495224/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
-      "headline": "Trump warns Kansans that US will 'burn' like France if Democrats win",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/10/20/court-grants-bail-to-sanjaya-samarasinghe-imposes-foreign-travel-ban",
+      "headline": "Court Grants Bail to Sanjaya Samarasinghe",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
