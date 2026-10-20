@@ -1,7 +1,7 @@
 {
-  "runId": "e238be77",
-  "startedAt": "2026-10-20T17:45:53.435Z",
-  "finishedAt": "2026-10-20T17:49:25.285Z",
+  "runId": "eaebbfac",
+  "startedAt": "2026-10-20T19:26:24.779Z",
+  "finishedAt": "2026-10-20T19:29:03.874Z",
   "shadowMode": false,
   "discovered": 20,
   "afterDedup": 20,
@@ -10,38 +10,38 @@
   "published": 0,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/495210/india-widens-cancer-drug-price-caps-lowering-prices-of-137-medicines",
-      "headline": "India widens cancer drug price caps, lowering prices of 137 medicines",
+      "url": "https://hirunews.lk/english/495281/kirindiwela-cinema-owner-remanded-over-discovery-of-firearms-grenades-and-ammunition",
+      "headline": "Kirindiwela cinema owner remanded over discovery of firearms, grenades and ammunition",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://hirunews.lk/english/495282/both-spill-gates-of-ambewela-reservoir-opened-amid-heavy-rainfall",
+      "headline": "Both spill gates of Ambewela Reservoir opened amid heavy rainfall",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://hirunews.lk/english/495189/kenya-cult-leader-who-told-parents-to-starve-children-guilty-of-191-murders",
+      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://hirunews.lk/english/495224/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
-      "headline": "Trump warns Kansans that US will 'burn' like France if Democrats win",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/495198/south-korean-religious-leader-sentenced-to-33-years-in-prison-for-sexually-abusing-followers",
-      "headline": "South Korean religious leader sentenced to 33 years in prison for sexually abusing followers",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
       "url": "https://hirunews.lk/english/495219/exiled-critic-of-rwandan-president-found-beheaded-in-uganda",
       "headline": "Exiled critic of Rwandan president found beheaded in Uganda",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
     },
     {
-      "url": "https://hirunews.lk/english/495215/seventh-day-of-violent-clashes-between-albanian-protesters-and-police",
-      "headline": "Seventh day of violent clashes between Albanian protesters and police",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://hirunews.lk/english/495190/seoul-vows-resolute-punishment-after-north-korea-threatens-new-border-measures",
+      "headline": "Seoul vows 'resolute punishment' after North Korea threatens new border measures",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     },
     {
-      "url": "https://hirunews.lk/english/495200/north-korea-considering-deploying-loudspeaker-broadcasts-and-more-tactical-weapons-along-border",
-      "headline": "North Korea considering deploying loudspeaker broadcasts and more ‘tactical weapons’ along border",
+      "url": "https://hirunews.lk/english/495224/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
+      "headline": "Trump warns Kansans that US will 'burn' like France if Democrats win",
       "reason": "score-below-threshold (45 < 75)",
       "score": 45
     }
