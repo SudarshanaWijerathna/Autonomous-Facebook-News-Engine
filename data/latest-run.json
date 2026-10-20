@@ -1,59 +1,49 @@
 {
-  "runId": "f2b63a85",
-  "startedAt": "2026-10-20T13:10:34.717Z",
-  "finishedAt": "2026-10-20T13:12:03.256Z",
+  "runId": "e238be77",
+  "startedAt": "2026-10-20T17:45:53.435Z",
+  "finishedAt": "2026-10-20T17:49:25.285Z",
   "shadowMode": false,
-  "discovered": 32,
-  "afterDedup": 30,
+  "discovered": 20,
+  "afterDedup": 20,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
-      "headline": "South Asia Emerges As Rare Coral Recovery Success",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/three-urea-fertilizer-shipments-expected-in-sri-lanka-this-month-for-maha-season",
-      "headline": "Three Urea Fertilizer Shipments Expected in SL",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/pathhewaheta-pradeshiya-sabha-operations-suspended-over-administrative-failures",
-      "headline": "Pathhewaheta Pradeshiya Sabha Operations Suspended",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/wildlife-department-conducts-independent-probe-into-kavantissa%e2%80%99s-treatment",
-      "headline": "Independent Probe into Kavantissa’s Treatment",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/mrs-coordinating-secretary-goes-to-court-today",
-      "headline": "MRs Coordinating Secretary Goes To Court Today",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://hirunews.lk/english/495210/india-widens-cancer-drug-price-caps-lowering-prices-of-137-medicines",
+      "headline": "India widens cancer drug price caps, lowering prices of 137 medicines",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/20/court-grants-bail-to-sanjaya-samarasinghe-imposes-foreign-travel-ban",
-      "headline": "Court Grants Bail to Sanjaya Samarasinghe",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://hirunews.lk/english/495224/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
+      "headline": "Trump warns Kansans that US will 'burn' like France if Democrats win",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
+    },
+    {
+      "url": "https://hirunews.lk/english/495198/south-korean-religious-leader-sentenced-to-33-years-in-prison-for-sexually-abusing-followers",
+      "headline": "South Korean religious leader sentenced to 33 years in prison for sexually abusing followers",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
+    },
+    {
+      "url": "https://hirunews.lk/english/495219/exiled-critic-of-rwandan-president-found-beheaded-in-uganda",
+      "headline": "Exiled critic of Rwandan president found beheaded in Uganda",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://hirunews.lk/english/495215/seventh-day-of-violent-clashes-between-albanian-protesters-and-police",
+      "headline": "Seventh day of violent clashes between Albanian protesters and police",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
+    },
+    {
+      "url": "https://hirunews.lk/english/495200/north-korea-considering-deploying-loudspeaker-broadcasts-and-more-tactical-weapons-along-border",
+      "headline": "North Korea considering deploying loudspeaker broadcasts and more ‘tactical weapons’ along border",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
