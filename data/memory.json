@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/05/namal-moved-to-colombo-remand-prison",
-    "contentHash": "7973e59c1530f8f03ce93e785a1914c6aaac0c5e492c0de0ac6eacc400a6fbc2",
-    "headline": "Namal Moved To Colombo Remand Prison",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-05T13:29:42.145Z",
-    "fbPostId": "1278802861974766_122115960909402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-05T13:31:03.312Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/06/rumesh-tharanga-makes-history-as-sri-lanka%e2%80%99s-first-diamond-league-champion",
-    "contentHash": "9e8be02efe5e1503d2994b18b144191e18b5c99683bfd41e702899fe5b51bdd5",
-    "headline": "Rumesh Becomes SL's First Diamond League Champion",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-06T05:15:38.859Z",
-    "fbPostId": "1278802861974766_122116091709402039",
-    "category": "Sports",
-    "score": 90,
-    "addedAt": "2026-09-06T05:16:31.674Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/05/mahinda-rajapaksa-visits-namal-in-prison",
-    "contentHash": "6bf1a59ead7e0cde66f86b8072a32cb6444e697f0470e8217fdc3bce11a2a1b9",
-    "headline": "Mahinda Rajapaksa Visits Namal in Prison",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-06T05:15:38.860Z",
-    "fbPostId": "1278802861974766_122116091805402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-06T05:17:12.405Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/06/a-l-examination-evaluation-commences-results-expected-before-year-end",
-    "contentHash": "60a5b3f51b0d1efe73da012d5491ba00270db8235d7b6fe07339a8085379d5b5",
-    "headline": "A/L Examination Evaluation Commences",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-06T11:52:13.882Z",
-    "fbPostId": "1278802861974766_122116166331402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-06T11:53:10.028Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/06/train-services-between-peradeniya-and-colombo-fort-to-resume-next-month",
     "contentHash": "8f4e0a8d4f89e3a3291c682114c95cdc32d6a25395ab371287181fb1de926238",
     "headline": "Colombo–Peradeniya Train Services To Resume Soon",
@@ -1809,6 +1761,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-10-20T10:18:14.438Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/21/norochcholai-to-add-300-mw-to-grid-today-as-power-cuts-continue",
+    "contentHash": "5cf1fb26a72525d6861bb2f18c124191a3c5cb4e03d59c9a7dae19fd0e1cc3bb",
+    "headline": "Norochcholai to Add 300 MW to Grid Today",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-21T13:20:33.022Z",
+    "fbPostId": "1278802861974766_122128105749402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-21T13:21:34.577Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/21/supreme-court-issues-open-warrant-premalal-jayasekara",
+    "contentHash": "d72fbe31ffcedab35b4064ca56693d7ff1f45d9e75df3bce6c1b6d76c20a53a6",
+    "headline": "SC Issues Open Warrant Premalal Jayasekara",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-21T13:20:33.020Z",
+    "fbPostId": "1278802861974766_122128105827402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-21T13:21:39.335Z",
     "isShadow": false
   }
 ]

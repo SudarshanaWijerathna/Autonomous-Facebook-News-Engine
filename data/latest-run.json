@@ -1,49 +1,47 @@
 {
-  "runId": "ec912881",
-  "startedAt": "2026-10-21T05:29:07.142Z",
-  "finishedAt": "2026-10-21T05:30:18.308Z",
+  "runId": "1c3b928d",
+  "startedAt": "2026-10-21T13:20:16.726Z",
+  "finishedAt": "2026-10-21T13:21:39.337Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/495350/woman-arrested-for-attempting-to-smuggle-ice-into-badulla-prison-hidden-in-shorts",
-      "headline": "Woman arrested for attempting to smuggle Ice into Badulla prison hidden in shorts",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/495351/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters",
-      "headline": "UN experts call on India to stop using ‘excessive force’ against protesters",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/21/wheat-flour-prices-rise-by-rs-13-bread-prices-may-follow",
+      "headline": "Wheat Flour Prices Rise by Rs. 13/-",
+      "reason": "max-posts-per-run-reached",
+      "score": 82
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/21/moratuwa-businessman-killed-in-suspected-gang-related-shooting",
+      "headline": "Businessman Killed in Gang-Related Shooting",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/21/three-member-committee-appointed-to-probe-kavantissa%e2%80%99s-treatment-and-death",
+      "headline": "Committee Appointed to Probe Kavantissa’s Death",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/495348/nigeria-confirms-first-ebola-case-amid-concerns-about-continental-spread",
-      "headline": "Nigeria confirms first Ebola case amid concerns about continental spread",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/495333/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections",
-      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/495349/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police",
-      "headline": "Portugal cost-of-living protesters pour back into camps cleared by police",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/495332/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
-      "headline": "EU revises Arctic strategy as pressure from Russia, US grows",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
     }
   ],
   "errors": []
