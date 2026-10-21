@@ -1,10 +1,10 @@
 {
-  "runId": "1c3b928d",
-  "startedAt": "2026-10-21T13:20:16.726Z",
-  "finishedAt": "2026-10-21T13:21:39.337Z",
+  "runId": "4ea9893c",
+  "startedAt": "2026-10-21T17:54:06.020Z",
+  "finishedAt": "2026-10-21T17:55:24.704Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,26 +20,31 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/21/wheat-flour-prices-rise-by-rs-13-bread-prices-may-follow",
-      "headline": "Wheat Flour Prices Rise by Rs. 13/-",
-      "reason": "max-posts-per-run-reached",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/10/21/supreme-court-issues-open-warrant-premalal-jayasekara",
+      "headline": "SC Issues Open Warrant Premalal Jayasekara",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/21/moratuwa-businessman-killed-in-suspected-gang-related-shooting",
-      "headline": "Businessman Killed in Gang-Related Shooting",
+      "url": "https://newsfirst.lk/2026/10/21/gota-s-ex-personal-aide-sugeeshwara-remanded",
+      "headline": "Gota's Ex-Personal Aide Sugeeshwara Remanded",
       "reason": "max-posts-per-run-reached",
-      "score": 72
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/21/three-member-committee-appointed-to-probe-kavantissa%e2%80%99s-treatment-and-death",
-      "headline": "Committee Appointed to Probe Kavantissa’s Death",
+      "url": "https://newsfirst.lk/2026/10/21/barren-island-or-strategic-asset-sri-lanka-still-has-a-katchatheevu-question",
+      "headline": "Sri Lanka Still Has a Katchatheevu Question",
       "reason": "max-posts-per-run-reached",
-      "score": 65
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/10/21/imf-acting-like-a-loan-shark-claims-sjb-mp",
+      "headline": "IMF Acting Like a Loan Shark, Claims SJB MP",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/21/foreign-made-firearm-and-24-live-rounds-found-buried-in-ragama-cemetery",
+      "headline": "Foreign Firearm and 24 Live Rounds Found Buried",
       "reason": "max-posts-per-run-reached",
       "score": 62
     }

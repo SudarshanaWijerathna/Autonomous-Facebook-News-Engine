@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/06/train-services-between-peradeniya-and-colombo-fort-to-resume-next-month",
-    "contentHash": "8f4e0a8d4f89e3a3291c682114c95cdc32d6a25395ab371287181fb1de926238",
-    "headline": "Colombo–Peradeniya Train Services To Resume Soon",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-06T13:44:26.458Z",
-    "fbPostId": "1278802861974766_122116193889402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-06T13:46:53.403Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/06/india-s-defence-minister-to-undertake-a-three-day-visit-to-sri-lanka",
     "contentHash": "66a327b9aa03b5648f4c6b2977d57869c997c39414916eb43384c201b404b1d0",
     "headline": "Indian Defence Minister to Undertake a 3 Day Visit",
@@ -1785,6 +1773,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-10-21T13:21:39.335Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/21/court-rejects-gotabaya-rajapaksa%e2%80%99s-travel-request-over-date-discrepancy",
+    "contentHash": "7838b0ec92128fb37003984eddb5030c66525200230da8005046efea566f835d",
+    "headline": "Court Rejects Gotabaya Rajapaksa’s Travel Request",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-21T17:54:21.446Z",
+    "fbPostId": "1278802861974766_122128143255402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-21T17:55:19.987Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/21/wheat-flour-prices-rise-by-rs-13-bread-prices-may-follow",
+    "contentHash": "8b32464367f606941e01cc173c4f01d86e2494f6c96a5bf36ac0cd8b8724c0f6",
+    "headline": "Wheat Flour Prices Rise by Rs. 13/-",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-21T17:54:21.447Z",
+    "fbPostId": "1278802861974766_122128143327402039",
+    "category": "Business",
+    "score": 81,
+    "addedAt": "2026-10-21T17:55:24.703Z",
     "isShadow": false
   }
 ]
