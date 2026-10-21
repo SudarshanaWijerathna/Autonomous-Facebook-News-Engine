@@ -1,59 +1,49 @@
 {
-  "runId": "bd583073",
-  "startedAt": "2026-10-20T20:43:29.497Z",
-  "finishedAt": "2026-10-20T20:44:42.298Z",
+  "runId": "ec912881",
+  "startedAt": "2026-10-21T05:29:07.142Z",
+  "finishedAt": "2026-10-21T05:30:18.308Z",
   "shadowMode": false,
-  "discovered": 32,
-  "afterDedup": 30,
+  "discovered": 20,
+  "afterDedup": 20,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
-      "headline": "South Asia Emerges As Rare Coral Recovery Success",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/customs-surpasses-2026-target-with-record-revenue",
-      "headline": "Customs Surpasses 2026 Target with Record Revenue",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/close-associate-of-welle-saranga-arrested-while-allegedly-preparing-to-kill-businessman",
-      "headline": "Close Associate of 'Welle Saranga' Arrested",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/mrs-coordinating-secretary-goes-to-court-today",
-      "headline": "MRs Coordinating Secretary Goes To Court Today",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/20/wildlife-department-conducts-independent-probe-into-kavantissa%e2%80%99s-treatment",
-      "headline": "Independent Probe into Kavantissa’s Treatment",
+      "url": "https://hirunews.lk/english/495350/woman-arrested-for-attempting-to-smuggle-ice-into-badulla-prison-hidden-in-shorts",
+      "headline": "Woman arrested for attempting to smuggle Ice into Badulla prison hidden in shorts",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/20/pathhewaheta-pradeshiya-sabha-operations-suspended-over-administrative-failures",
-      "headline": "Pathhewaheta Pradeshiya Sabha Operations Suspended",
+      "url": "https://hirunews.lk/english/495351/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters",
+      "headline": "UN experts call on India to stop using ‘excessive force’ against protesters",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/20/court-grants-bail-to-sanjaya-samarasinghe-imposes-foreign-travel-ban",
-      "headline": "Court Grants Bail to Sanjaya Samarasinghe",
+      "url": "https://hirunews.lk/english/495348/nigeria-confirms-first-ebola-case-amid-concerns-about-continental-spread",
+      "headline": "Nigeria confirms first Ebola case amid concerns about continental spread",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
+    },
+    {
+      "url": "https://hirunews.lk/english/495333/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections",
+      "headline": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://hirunews.lk/english/495349/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police",
+      "headline": "Portugal cost-of-living protesters pour back into camps cleared by police",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
+    },
+    {
+      "url": "https://hirunews.lk/english/495332/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows",
+      "headline": "EU revises Arctic strategy as pressure from Russia, US grows",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     }
   ],
   "errors": []
