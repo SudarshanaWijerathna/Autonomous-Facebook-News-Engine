@@ -1,13 +1,13 @@
 {
-  "runId": "25452eb9",
-  "startedAt": "2026-10-22T15:25:23.639Z",
-  "finishedAt": "2026-10-22T15:30:36.717Z",
+  "runId": "911fbc57",
+  "startedAt": "2026-10-22T17:50:42.539Z",
+  "finishedAt": "2026-10-22T17:52:23.940Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,28 +20,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/22/drug-bust-in-grandpass-suspect-arrested-with-ice-and-heroin",
-      "headline": "Drug Bust In Grandpass",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/22/websites-taken-down-worldwide-as-critical-cyber-security-update-issued",
+      "headline": "Websites Taken Down:Critical Cyber-Security Update",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/10/22/four-boats-seized-and-11-apprehended-with-beedi-leaves-in-the-sea-off-udappuwa-puttalam",
       "headline": "11 Apprehended With Beedi Leaves in Udappuwa",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/10/22/sri-lankans-applaud-traffic-cop-who-helped-waiting-dog-cross-the-street",
       "headline": "Colombo Traffic Cop's Kindness Goes Viral",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/22/microsoft-uncovers-ai-driven-global-cyber-attack-on-connectwise-by-chinese-linked-hackers",
+      "headline": "Microsoft Uncovers AI-Driven Global Cyber Attack",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/22/reporter-bystander-rescue-man-from-sinking-car-in-floodwater-near-brisbane",
+      "headline": "Reporter & Bystander Rescue Man From Sinking Car",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
