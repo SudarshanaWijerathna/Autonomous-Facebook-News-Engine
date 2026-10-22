@@ -1810,5 +1810,29 @@
     "score": 78,
     "addedAt": "2026-10-22T05:34:39.380Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/22/websites-taken-down-worldwide-as-critical-cyber-security-update-issued",
+    "contentHash": "cafbc8ee789691183cf26263baff25cb7bfee1374df4c7e86597a3662dc5fc94",
+    "headline": "Websites Taken Down:Critical Cyber-Security Update",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-22T15:25:37.951Z",
+    "fbPostId": "1278802861974766_122128384677402039",
+    "category": "AI & Tech",
+    "score": 85,
+    "addedAt": "2026-10-22T15:30:31.371Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/22/weather-warning-issued-as-torrential-rain-targets-western-province",
+    "contentHash": "b6596d9d1f971c3cf4b6337bbff43289a4fba9b6087dc924c209531981567f5f",
+    "headline": "Torrential Rain Targets Western Province",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-22T15:25:37.951Z",
+    "fbPostId": "1278802861974766_122128384749402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-22T15:30:36.716Z",
+    "isShadow": false
   }
 ]
