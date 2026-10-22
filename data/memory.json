@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/07/rajnath-singh-s-sri-lanka-visit-to-focus-on-defence-maritime-security",
-    "contentHash": "e2b2c0f3d6b3832e5ae89d07f351afcacb06a8ec39fc9dc19b1902d31a1969fe",
-    "headline": "Defence In Focus During Rajnath Singh's Visit",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-07T19:18:58.922Z",
-    "fbPostId": "1278802861974766_122116451619402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-07T19:19:50.156Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/07/unhrc-report-makes-note-of-mahinda-and-ranil",
     "contentHash": "c5324d8ebc539695d6194a4bb59313e52529f3d95a319355c7abd41f894a6baf",
     "headline": "UNHRC Report Makes Note Of Mahinda And Ranil",
@@ -1845,6 +1833,18 @@
     "category": "Breaking",
     "score": 85,
     "addedAt": "2026-10-22T17:52:23.938Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/22/reserves-surge-from-crisis-era-us-1-8-bn-to-us-6-9-bn",
+    "contentHash": "b76bd3dc4a6878af134951043760a8a2735f7b417004dbcf3adab0b073f5b3f9",
+    "headline": "Reserves Surge from Crisis-Era",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-22T19:19:49.074Z",
+    "fbPostId": "1278802861974766_122128415565402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-10-22T19:21:12.605Z",
     "isShadow": false
   }
 ]
