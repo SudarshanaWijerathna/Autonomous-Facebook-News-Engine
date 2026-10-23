@@ -1,43 +1,59 @@
 {
-  "runId": "bb90a983",
-  "startedAt": "2026-10-23T10:22:26.696Z",
-  "finishedAt": "2026-10-23T10:23:46.756Z",
+  "runId": "93e4abeb",
+  "startedAt": "2026-10-23T12:59:09.062Z",
+  "finishedAt": "2026-10-23T13:00:12.216Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/495817/pope-leo-cancels-assisi-trip-to-recover-from-surgery",
-      "headline": "Pope Leo cancels Assisi trip to recover from surgery",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/495806/all-14-indian-nationals-safe-after-yacht-incident-off-yemen",
-      "headline": "All 14 Indian nationals safe after yacht incident off Yemen",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/495788/frances-macron-tightens-curbs-on-protests-blaming-hard-left-for-unrest",
-      "headline": "France's Macron tightens curbs on protests, blaming hard left for unrest",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/10/23/namal-remanded-again-in-krrish-case-as-bail-bid-fails",
+      "headline": "Namal Remanded Again in Krrish Case",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://hirunews.lk/english/495786/indonesia-seizes-1-16-tons-of-ketamine",
-      "headline": "Indonesia seizes 1.16 tons of ketamine",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/10/23/power-cut-losses-won%e2%80%99t-be-passed-to-consumers",
+      "headline": "Power Cut Losses Won’t Be Passed to Consumers",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://hirunews.lk/english/495783/amber-warning-in-place-as-storm-austen-hits-parts-of-uk",
-      "headline": "Amber warning in place as Storm Austen hits parts of UK",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/10/23/grades-2-and-6-next-in-sri-lanka%e2%80%99s-education-revolution",
+      "headline": "Gr. 2, 6 Next in Sri Lanka’s Education Revolution",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/23/crime-bosses-abroad-can-run-but-they-can%e2%80%99t-hide-minister-warns",
+      "headline": "Crime Bosses Abroad Can Run, But They Can’t Hide",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/23/chamara-sampath-remanded-again-in-bribery-case",
+      "headline": "Chamara Sampath Remanded Again in Bribery Case",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
