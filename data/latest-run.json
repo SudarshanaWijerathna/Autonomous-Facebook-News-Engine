@@ -1,7 +1,7 @@
 {
-  "runId": "2528833c",
-  "startedAt": "2026-10-23T19:24:37.346Z",
-  "finishedAt": "2026-10-23T19:25:45.319Z",
+  "runId": "0878439f",
+  "startedAt": "2026-10-23T20:31:44.111Z",
+  "finishedAt": "2026-10-23T20:32:56.531Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -23,17 +23,17 @@
       "url": "https://newsfirst.lk/2026/10/23/flood-risk-persists-in-kalu-ganga-and-deduru-oya-as-heavy-rains-continue",
       "headline": "Flood Risk Persists in Kalu Ganga and Deduru Oya",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/23/namal-remanded-again-in-krrish-case-as-bail-bid-fails",
+      "headline": "Namal Remanded Again in Krrish Case",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 83
     },
     {
       "url": "https://newsfirst.lk/2026/10/23/power-cut-losses-won%e2%80%99t-be-passed-to-consumers",
       "headline": "Power Cut Losses Won’t Be Passed to Consumers",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/23/grades-2-and-6-next-in-sri-lanka%e2%80%99s-education-revolution",
-      "headline": "Gr. 2, 6 Next in Sri Lanka’s Education Revolution",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
