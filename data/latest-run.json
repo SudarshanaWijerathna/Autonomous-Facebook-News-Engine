@@ -1,13 +1,13 @@
 {
-  "runId": "4567fb08",
-  "startedAt": "2026-10-22T19:19:34.728Z",
-  "finishedAt": "2026-10-22T19:21:12.607Z",
+  "runId": "b9d0c820",
+  "startedAt": "2026-10-23T05:31:37.722Z",
+  "finishedAt": "2026-10-23T05:33:09.111Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,43 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/22/heavy-rains-lash-several-provinces-spill-gates-of-deduru-oya-opened-and-flood-warning-issued-in-several-areas-amid-heavy-showers",
-      "headline": "Spill Gates of Deduru Oya Opened",
+      "url": "https://newsfirst.lk/2026/10/22/reserves-surge-from-crisis-era-us-1-8-bn-to-us-6-9-bn",
+      "headline": "Reserves Surge from Crisis-Era",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/22/websites-taken-down-worldwide-as-critical-cyber-security-update-issued",
-      "headline": "Websites Taken Down:Critical Cyber-Security Update",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/22/heavy-rains-flood-colombo-roads-major-traffic-chaos-reported",
-      "headline": "Heavy Rains Flood Colombo Roads, Traffic Reported",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/10/23/thundershowers-expected-in-several-areas-as-new-low-pressure-system-forms-in-bay-of-bengal",
+      "headline": "Thundershowers Expected in Several Areas",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/22/norochcholai-power-plant%e2%80%99s-second-power-generating-unit-reconnected-to-national-grid",
-      "headline": "Norochcholai Power Plant 2nd Power Unit Connected",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/10/22/who-was-ranil%e2%80%99s-economic-adviser-bimal-responds-to-harsha",
+      "headline": "Who Was Ranil’s Economic Adviser?",
+      "reason": "max-posts-per-run-reached",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/10/22/sri-lankans-applaud-traffic-cop-who-helped-waiting-dog-cross-the-street",
-      "headline": "Colombo Traffic Cop's Kindness Goes Viral",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/10/22/drug-bust-in-grandpass-suspect-arrested-with-ice-and-heroin",
+      "headline": "Drug Bust In Grandpass",
+      "reason": "max-posts-per-run-reached",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/22/four-boats-seized-and-11-apprehended-with-beedi-leaves-in-the-sea-off-udappuwa-puttalam",
-      "headline": "11 Apprehended With Beedi Leaves in Udappuwa",
-      "reason": "score-below-threshold (63 < 75)",
-      "score": 63
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/22/microsoft-uncovers-ai-driven-global-cyber-attack-on-connectwise-by-chinese-linked-hackers",
-      "headline": "Microsoft Uncovers AI-Driven Global Cyber Attack",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],

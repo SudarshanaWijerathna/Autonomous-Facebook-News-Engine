@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/07/unhrc-report-makes-note-of-mahinda-and-ranil",
-    "contentHash": "c5324d8ebc539695d6194a4bb59313e52529f3d95a319355c7abd41f894a6baf",
-    "headline": "UNHRC Report Makes Note Of Mahinda And Ranil",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-08T05:25:36.537Z",
-    "fbPostId": "1278802861974766_122116526979402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-08T05:26:29.161Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/08/indian-defence-minister-rajnath-singh-arrives-in-sri-lanka-today-8",
-    "contentHash": "f0a717c8d11c531dceeb970beaec6810219230545f6b2806eae5c892a6ddc29c",
-    "headline": "Indian Defence Minister Arrives in SL",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-08T05:25:36.536Z",
-    "fbPostId": "1278802861974766_122116527261402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-08T05:27:15.483Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/09/whatsapp-based-emergency-service-for-hearing-impaired-community",
     "contentHash": "f411b952940a359b73de36df7eb0a97099801ac0afdedeb36047032798995b67",
     "headline": "WhatsApp-Based Service for Hearing-Impaired",
@@ -1845,6 +1821,30 @@
     "category": "Business",
     "score": 85,
     "addedAt": "2026-10-22T19:21:12.605Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/22/norochcholai-power-plant%e2%80%99s-second-power-generating-unit-reconnected-to-national-grid",
+    "contentHash": "894203d890d692f390cbef68cc9f022ae0bd6a754d1ca588f8b9285ac0503c1c",
+    "headline": "Norochcholai Power Plant 2nd Power Unit Connected",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-23T05:32:09.310Z",
+    "fbPostId": "1278802861974766_122128481679402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-10-23T05:33:04.691Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/22/heavy-rains-flood-colombo-roads-major-traffic-chaos-reported",
+    "contentHash": "651c1e63d95f7ce78269a3c7b38c869011456953b541fff3e0ba9431859ceb01",
+    "headline": "Heavy Rains Flood Colombo Roads, Traffic Reported",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-23T05:32:09.309Z",
+    "fbPostId": "1278802861974766_122128481763402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-10-23T05:33:09.109Z",
     "isShadow": false
   }
 ]
