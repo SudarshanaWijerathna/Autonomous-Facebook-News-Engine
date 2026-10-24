@@ -1,49 +1,69 @@
 {
-  "runId": "ca1872ef",
-  "startedAt": "2026-10-24T16:25:41.016Z",
-  "finishedAt": "2026-10-24T16:27:16.156Z",
+  "runId": "d51b64ca",
+  "startedAt": "2026-10-24T18:16:12.279Z",
+  "finishedAt": "2026-10-24T18:17:42.646Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 28,
   "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/496049/around-1200-palestinians-are-displaced-in-hebron-as-israel-begins-military-operation",
-      "headline": "Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation",
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/low-pressure-system-in-bay-of-bengal-likely-to-develop-into-depression-today-met-department-warns",
+      "headline": "Low-Pressure System to Develop into Depression",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/23/government-eyes-closure-and-merger-of-institutions-in-state-sector-reform",
+      "headline": "Government Eyes Closure and Merger of Institutions",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/education-degree-holders-to-be-recruited-to-provincial-schools",
+      "headline": "Education Graduates to Join Provincial Schools",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/train-services-between-rambukkana-peradeniya-and-gampola-suspended-for-two-days",
+      "headline": "Train Services Suspended at 03 Up-Country Stations",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/%e2%80%9cnamal-issues-statament-marking-50-days-in-prison",
+      "headline": "Namal issues statament marking 50 Days in Prison",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/farmers-to-receive-compensation-for-crop-damage-after-early-planting-amid-el-ni%c3%b1o-risks",
+      "headline": "Farmers Compensated for Crop Damage Amid El Niño",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/suspected-narcotics-found-on-thalalla-beach-in-matara",
+      "headline": "Suspected Narcotics Found on Thalalla Beach",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/496039/minister-highlights-investment-opportunities-in-sri-lanka-at-london-business-forum",
-      "headline": "Minister highlights investment opportunities in Sri Lanka at London Business Forum",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/496040/ukraine-says-starlink-connection-now-stable-after-network-limits",
-      "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496059/irans-pezeshkian-blames-us-for-interim-deal-failure-urges-new-try",
-      "headline": "Iran's Pezeshkian blames US for interim deal failure, urges new try",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496058/trump-says-he-may-move-white-house-press-corps",
-      "headline": "Trump says he may move White House press corps",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496045/five-italian-activists-held-in-west-bank-have-been-repatriated",
-      "headline": "Five Italian activists held in West Bank have been repatriated",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
   "errors": []
