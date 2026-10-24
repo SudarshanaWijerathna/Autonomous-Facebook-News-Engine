@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/09/whatsapp-based-emergency-service-for-hearing-impaired-community",
-    "contentHash": "f411b952940a359b73de36df7eb0a97099801ac0afdedeb36047032798995b67",
-    "headline": "WhatsApp-Based Service for Hearing-Impaired",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-09T09:59:11.361Z",
-    "fbPostId": "1278802861974766_122116789563402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-09-09T10:00:16.728Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/09/sri-lanka-calls-for-review-of-country-specific-un-human-rights-mandates",
-    "contentHash": "9f2d6c29cdb95d7c1a797df9cc15378e47e6346aca684c536e58f1ebc31997a1",
-    "headline": "Country-Specific UN Mandates Must Have Clear Exits",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-09T09:59:11.365Z",
-    "fbPostId": "1278802861974766_122116789689402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-09T10:00:58.999Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/09/sri-lanka-india-ink-three-mous-on-defence",
     "contentHash": "f6f9fb1a6d685ab80791a69f3f39b7a9843aa21e2e1a6893aa96b4c1514b5ed5",
     "headline": "Sri Lanka, India Ink Three MoUs On Defence",
@@ -1893,6 +1869,18 @@
     "category": "Sri Lanka",
     "score": 81,
     "addedAt": "2026-10-24T09:44:39.876Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://hirunews.lk/english/496018/the-hidden-40-per-barrel-cost-driving-oil-prices-higher",
+    "contentHash": "e7a5e2becfb8affc6323c40698ca234d4cd27e170fa8da1b705dcb88ece0d3b3",
+    "headline": "The hidden $40-per-barrel cost driving oil prices higher",
+    "sourceId": "hiru-news-en",
+    "publishedAt": "2026-10-24T12:22:33.850Z",
+    "fbPostId": "1278802861974766_122128698243402039",
+    "category": "Business",
+    "score": 76,
+    "addedAt": "2026-10-24T12:23:59.590Z",
     "isShadow": false
   }
 ]
