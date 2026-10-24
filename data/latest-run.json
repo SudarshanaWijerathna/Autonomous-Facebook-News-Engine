@@ -1,7 +1,7 @@
 {
-  "runId": "d51b64ca",
-  "startedAt": "2026-10-24T18:16:12.279Z",
-  "finishedAt": "2026-10-24T18:17:42.646Z",
+  "runId": "42aa59c8",
+  "startedAt": "2026-10-24T19:35:13.233Z",
+  "finishedAt": "2026-10-24T19:36:19.222Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -32,12 +32,18 @@
     {
       "url": "https://newsfirst.lk/2026/10/24/education-degree-holders-to-be-recruited-to-provincial-schools",
       "headline": "Education Graduates to Join Provincial Schools",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/10/24/train-services-between-rambukkana-peradeniya-and-gampola-suspended-for-two-days",
       "headline": "Train Services Suspended at 03 Up-Country Stations",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/farmers-to-receive-compensation-for-crop-damage-after-early-planting-amid-el-ni%c3%b1o-risks",
+      "headline": "Farmers Compensated for Crop Damage Amid El Niño",
       "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
@@ -48,16 +54,10 @@
       "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/10/24/farmers-to-receive-compensation-for-crop-damage-after-early-planting-amid-el-ni%c3%b1o-risks",
-      "headline": "Farmers Compensated for Crop Damage Amid El Niño",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
       "url": "https://newsfirst.lk/2026/10/24/suspected-narcotics-found-on-thalalla-beach-in-matara",
       "headline": "Suspected Narcotics Found on Thalalla Beach",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
