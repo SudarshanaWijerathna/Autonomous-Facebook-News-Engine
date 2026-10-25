@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/10/sc-overturns-presidential-pardon-for-gnanasara-thero",
-    "contentHash": "46aec014b949608dae09f81f39bbb835cd5304f35469475f256a2784c333629a",
-    "headline": "SC Overturns Presidential Pardon for Gnanasara",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-10T12:34:10.086Z",
-    "fbPostId": "1278802861974766_122117016495402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-10T12:35:36.979Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/10/ex-air-force-commander-questioned-over-missing-millions-in-mig-deal",
     "contentHash": "f418e6f6f27eeca15197fc18ed7f9d7c5c0df06208573f67c5c2af58a19fcd1a",
     "headline": "Ex-Air Force Commander Questioned Over MiG Deal",
@@ -1869,6 +1857,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-25T10:00:52.855Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/25/sri-lanka-welcomes-over-1-8m-tourists-as-revenue-hits-2-24-billion-through-september",
+    "contentHash": "c08f0eae808c75973db9995afc07cb95cda513e9e5a228b11a937d4aedef4052",
+    "headline": "SL Tourism Hits 1.8M Arrivals, $2.24B Revenue",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-25T18:30:55.904Z",
+    "fbPostId": "1278802861974766_122129144301402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-10-25T18:31:55.963Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/25/sri-lanka%e2%80%99s-tavi-samaraweera-wins-fifth-world-youth-gold-medal-of-2026-in-italy",
+    "contentHash": "cee502f5d3b04fd1d05354ee125d43c3bf278cc05a5b06429f027c044a68750f",
+    "headline": "Sri Lanka’s Samaraweera Wins 5th 2026 Youth Gold",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-25T18:30:55.904Z",
+    "fbPostId": "1278802861974766_122129144385402039",
+    "category": "Sports",
+    "score": 85,
+    "addedAt": "2026-10-25T18:32:01.499Z",
     "isShadow": false
   }
 ]
