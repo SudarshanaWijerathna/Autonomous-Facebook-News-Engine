@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/09/sri-lanka-india-ink-three-mous-on-defence",
-    "contentHash": "f6f9fb1a6d685ab80791a69f3f39b7a9843aa21e2e1a6893aa96b4c1514b5ed5",
-    "headline": "Sri Lanka, India Ink Three MoUs On Defence",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-09T14:42:37.341Z",
-    "fbPostId": "1278802861974766_122116833669402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-09T14:45:30.976Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/09/arjuna-mahendran-absent-as-bond-scam-case-is-taken-up-again",
-    "contentHash": "0b853e55f42ba85c1e9dbc36387ae75160b71fc5e7e94636359ba18f229b5313",
-    "headline": "Arjuna Mahendran Absent as Bond Scam Case is Taken",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-10T05:25:19.851Z",
-    "fbPostId": "1278802861974766_122116956603402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-09-10T05:26:25.905Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/09/us-1-57-million-loss-in-lakvijaya-coal-deal",
-    "contentHash": "14f4c5f6794a28ee476d99ff43b758a1ccd96929b8b2b490f6332a3d63532178",
-    "headline": "US $ 1.57 Million Loss in Lakvijaya Coal Deal",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-10T05:25:19.849Z",
-    "fbPostId": "1278802861974766_122116956735402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-10T05:27:07.524Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/09/srilankan-airlines-names-vipul-misra-as-new-ceo",
-    "contentHash": "9a19db6941612527bc20eb7ab9a1bd1d6099d5e6275362c077e567c332ad0758",
-    "headline": "SriLankan Airlines Names Vipul Misra as New CEO",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-10T07:57:00.691Z",
-    "fbPostId": "1278802861974766_122116974771402039",
-    "category": "Business",
-    "score": 75,
-    "addedAt": "2026-09-10T07:57:54.456Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/10/sc-overturns-presidential-pardon-for-gnanasara-thero",
     "contentHash": "46aec014b949608dae09f81f39bbb835cd5304f35469475f256a2784c333629a",
     "headline": "SC Overturns Presidential Pardon for Gnanasara",
@@ -1881,6 +1833,30 @@
     "category": "Business",
     "score": 76,
     "addedAt": "2026-10-24T12:23:59.590Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/24/over-475kg-of-ice-and-heroin-seized-off-matara-coast",
+    "contentHash": "7364dc936ecfe4795427794cd2c3b62565d83756081b5549be5d7bde7d6bfccc",
+    "headline": "Over 475kg of ICE and Heroin Seized",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-25T08:11:51.069Z",
+    "fbPostId": "1278802861974766_122129013645402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-25T08:12:44.541Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/25/over-10-000-people-affected-by-adverse-weather-conditions",
+    "contentHash": "9df7e4450588f09c1e234237400f8ebe4340809bf3aed7f13448fd949d0a7cdd",
+    "headline": "Over 10,000 People Affected By Adverse Weather",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-25T08:11:51.068Z",
+    "fbPostId": "1278802861974766_122129013723402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-25T08:12:49.148Z",
     "isShadow": false
   }
 ]
