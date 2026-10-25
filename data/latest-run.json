@@ -1,14 +1,19 @@
 {
-  "runId": "0c2a49d7",
-  "startedAt": "2026-10-25T08:11:21.383Z",
-  "finishedAt": "2026-10-25T08:12:49.149Z",
+  "runId": "d51d3b4b",
+  "startedAt": "2026-10-25T09:59:28.007Z",
+  "finishedAt": "2026-10-25T10:00:52.856Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/10/25/over-10-000-people-affected-by-adverse-weather-conditions",
+      "headline": "Over 10,000 People Affected By Adverse Weather",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,28 +25,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/25/suspect-arrested-over-rs-11-8-bn-drug-haul-in-matara",
-      "headline": "Suspect Arrested Over Rs. 11.8 Bn Drug Haul",
-      "reason": "max-posts-per-run-reached",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/24/%e2%80%9cnamal-issues-statament-marking-50-days-in-prison",
-      "headline": "Namal issues statament marking 50 Days in Prison",
-      "reason": "max-posts-per-run-reached",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/24/education-degree-holders-to-be-recruited-to-provincial-schools",
-      "headline": "Education Graduates to Join Provincial Schools",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/10/24/over-475kg-of-ice-and-heroin-seized-off-matara-coast",
+      "headline": "Over 475kg of ICE and Heroin Seized",
+      "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/10/24/sri-lanka-to-formulate-national-policy-to-prevent-drowning",
       "headline": "Sri Lanka to Develop National Anti-Drowning Policy",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/25/joint-operation-underway-to-treat-sick-elephant-in-ampara",
+      "headline": "Joint Operation Underway to Treat Sick Elephant",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/24/education-degree-holders-to-be-recruited-to-provincial-schools",
+      "headline": "Education Graduates to Join Provincial Schools",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/25/government-issues-circular-to-address-php-security-vulnerabilities-in-state-websites",
+      "headline": "Government Issues Circular on PHP Security Flaws",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
