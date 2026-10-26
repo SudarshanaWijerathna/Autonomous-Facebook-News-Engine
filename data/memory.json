@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/11/two-children-killed-in-dehiwala-grenade-attack",
-    "contentHash": "02d545022bab656cfde35d83a5810ff2fcbe05aa229b1eb127b6d27242e212fd",
-    "headline": "Two Children Killed in Dehiwala Grenade Attack",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-11T12:29:22.037Z",
-    "fbPostId": "1278802861974766_122117216469402039",
-    "category": "Breaking",
-    "score": 93,
-    "addedAt": "2026-09-11T12:34:15.173Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/11/former-president-gotabaya-rajapaksa-at-fcid-over-mig-probe",
-    "contentHash": "81c3d95b9aca7da0b731b44eec9b924dcd52ae7f16fd8bcc156f860a9c70c0f0",
-    "headline": "Former President Gotabaya Rajapaksa at FCID",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-11T14:32:16.554Z",
-    "fbPostId": "1278802861974766_122117233101402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-11T14:34:18.497Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/12/sri-lanka-hold-their-nerve-to-reach-asia-cup-final",
     "contentHash": "55d5a910cc563f0b6e4bff6d7600d08267260005370506f8366cc67847138f60",
     "headline": "Sri Lanka Hold Their Nerve to Reach Asia Cup Final",
@@ -1881,6 +1857,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-26T11:24:04.609Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/26/all-schools-across-sri-lanka-closed-tomorrow-amid-heavy-rains",
+    "contentHash": "bb47d0e713ea460d2f548a27fc6b0f24e9ce1dc1829ecef96adccbdaa8dc8222",
+    "headline": "Schools Across the Country Closed Tomorrow",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-26T16:51:03.090Z",
+    "fbPostId": "1278802861974766_122129454207402039",
+    "category": "Breaking",
+    "score": 93,
+    "addedAt": "2026-10-26T16:53:42.343Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/26/cyclone-arnab-gains-strength-fishermen-told-to-stay-away",
+    "contentHash": "c49746f57a29a0de2e12cc273b06e3716bcf120192b2410c789ea30cf99fc9f1",
+    "headline": "Cyclone Arnab Gains Strength",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-26T16:51:03.091Z",
+    "fbPostId": "1278802861974766_122129454297402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-10-26T16:53:46.837Z",
     "isShadow": false
   }
 ]
