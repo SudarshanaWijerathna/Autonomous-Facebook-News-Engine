@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/10/ex-air-force-commander-questioned-over-missing-millions-in-mig-deal",
-    "contentHash": "f418e6f6f27eeca15197fc18ed7f9d7c5c0df06208573f67c5c2af58a19fcd1a",
-    "headline": "Ex-Air Force Commander Questioned Over MiG Deal",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-11T05:23:05.547Z",
-    "fbPostId": "1278802861974766_122117160189402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-11T05:24:32.474Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/10/indian-defence-minister-rajnath-singh-concludes-landmark-sri-lanka-tour",
-    "contentHash": "47ab03a39f81a589250ecdb2dc4f6055a98411c5cef3b54c73db9475fe5b1a45",
-    "headline": "Rajnath Singh Concludes Landmark Sri Lanka Tour",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-11T05:23:05.547Z",
-    "fbPostId": "1278802861974766_122117160327402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-11T05:25:16.063Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/11/two-children-killed-in-dehiwala-grenade-attack",
     "contentHash": "02d545022bab656cfde35d83a5810ff2fcbe05aa229b1eb127b6d27242e212fd",
     "headline": "Two Children Killed in Dehiwala Grenade Attack",
@@ -1881,6 +1857,30 @@
     "category": "Sports",
     "score": 85,
     "addedAt": "2026-10-25T18:32:01.499Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/26/deep-depression-formed-in-bay-of-bengal-rainfall-above-100mm-forecast-across-several-areas",
+    "contentHash": "40206a08ff1034728341dd0f2897de7e0004ae5a0946bf49c4858fd4d1f0b036",
+    "headline": "Deep Depression Formed in Bay of Bengal",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-26T11:22:58.297Z",
+    "fbPostId": "1278802861974766_122129351259402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-10-26T11:23:59.033Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/26/suspect-in-kalutara-double-murder-shot-while-fleeing-arrest",
+    "contentHash": "04028d2fd9b0b01dd53720bcdc30cdbb62221958db1bc697f9afc328b0c7a795",
+    "headline": "Suspect in Kalutara Double Murder Arrested",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-26T11:22:58.295Z",
+    "fbPostId": "1278802861974766_122129352285402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-10-26T11:24:04.609Z",
     "isShadow": false
   }
 ]
