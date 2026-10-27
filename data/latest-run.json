@@ -1,58 +1,49 @@
 {
-  "runId": "255a8f75",
-  "startedAt": "2026-10-27T18:32:41.613Z",
-  "finishedAt": "2026-10-27T18:33:57.613Z",
+  "runId": "799721b7",
+  "startedAt": "2026-10-27T20:09:21.989Z",
+  "finishedAt": "2026-10-27T20:10:29.769Z",
   "shadowMode": false,
-  "discovered": 32,
-  "afterDedup": 29,
+  "discovered": 20,
+  "afterDedup": 20,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
-      "headline": "South Asia Emerges As Rare Coral Recovery Success",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/496606/melania-trump-brokered-ceasefire-takes-effect-in-ukraine",
+      "headline": "Melania Trump-brokered ceasefire takes effect in Ukraine",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/496604/beijing-steps-up-middle-east-diplomacy-amid-conflict",
+      "headline": "Beijing steps up Middle East diplomacy amid conflict",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/27/sri-lanka%e2%80%99s-bowlers-bundle-pakistan-out-for-110",
-      "headline": "Sri Lanka’s Bowlers Bundle Pakistan Out For 110",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/496528/un-inquiry-says-israel-kept-committing-genocide-in-gaza-after-truce",
+      "headline": "UN inquiry says Israel kept committing genocide in Gaza after truce",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/27/open-warrant-issued-for-basil-rajapaksa-over-brown%e2%80%99s-hill-land-case",
-      "headline": "Open Warrant Issued for Basil Rajapaksa",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "url": "https://hirunews.lk/english/496527/netanyahu-touts-trump-endorsement-on-eve-of-vote-suggests-they-may-restart-war-on-iran",
+      "headline": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/10/27/schools-to-reopen-tomorrow-o-l-practical-exams-postponed-in-flood-hit-areas",
-      "headline": "Schools to Reopen Tomorrow (28)",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "url": "https://hirunews.lk/english/496515/africa-food-security-under-threat-due-to-iran-war-trade-officials-warn",
+      "headline": "Africa food security under threat due to Iran war, trade officials warn",
+      "reason": "score-below-threshold (48 < 75)",
+      "score": 48
     },
     {
-      "url": "https://newsfirst.lk/2026/10/27/why-does-america-say-port-of-colombo-matters-to-millions",
-      "headline": "Why Does US Say Colombo Port Matters to Millions?",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/27/smarter-colombo-port-could-mean-faster-trade-and-lower-costs",
-      "headline": "Smarter Colombo Port Could Mean Faster Trade",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/27/millions-in-compensation-for-negombo-prison-clash-victims",
-      "headline": "Millions in Compensation for Negombo Prison Clash",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "url": "https://hirunews.lk/english/496529/maxxing-selected-as-dictionary-com-word-of-the-year",
+      "headline": "'Maxxing' selected as Dictionary.com word of the year",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": []
