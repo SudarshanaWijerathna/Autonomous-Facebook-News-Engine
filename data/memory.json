@@ -1882,5 +1882,29 @@
     "score": 88,
     "addedAt": "2026-10-26T16:53:46.837Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/27/red-notice-suspect-in-triple-murder-case-brought-back-to-sri-lanka",
+    "contentHash": "9142e7f3467653374591fab94ccd762b205c398b04ef608d37641bb72dad2e69",
+    "headline": "'Achini' Brought Back to SL Over Triple Murder",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-27T05:47:09.979Z",
+    "fbPostId": "1278802861974766_122129651637402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-10-27T05:48:05.678Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/26/sri-lanka-earns-us-13-6-bn-in-exports-in-just-nine-months",
+    "contentHash": "dbef4f8280ce33e7838d610a72c47ecfc43b08d1092f93ecf6ed25a1218b7fa5",
+    "headline": "Sri Lanka Earns US$13.6 Bn in Exports in 9 Months",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-27T05:47:09.980Z",
+    "fbPostId": "1278802861974766_122129651721402039",
+    "category": "Business",
+    "score": 78,
+    "addedAt": "2026-10-27T05:48:11.028Z",
+    "isShadow": false
   }
 ]
