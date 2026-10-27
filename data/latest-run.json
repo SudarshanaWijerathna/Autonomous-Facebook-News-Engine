@@ -1,10 +1,10 @@
 {
-  "runId": "b68bd342",
-  "startedAt": "2026-10-27T13:50:17.583Z",
-  "finishedAt": "2026-10-27T13:51:44.089Z",
+  "runId": "255a8f75",
+  "startedAt": "2026-10-27T18:32:41.613Z",
+  "finishedAt": "2026-10-27T18:33:57.613Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
   "selected": 1,
   "published": 1,
@@ -20,34 +20,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/10/27/sri-lanka%e2%80%99s-bowlers-bundle-pakistan-out-for-110",
+      "headline": "Sri Lanka’s Bowlers Bundle Pakistan Out For 110",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/27/open-warrant-issued-for-basil-rajapaksa-over-brown%e2%80%99s-hill-land-case",
+      "headline": "Open Warrant Issued for Basil Rajapaksa",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/27/schools-to-reopen-tomorrow-o-l-practical-exams-postponed-in-flood-hit-areas",
+      "headline": "Schools to Reopen Tomorrow (28)",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 88
+    },
+    {
       "url": "https://newsfirst.lk/2026/10/27/why-does-america-say-port-of-colombo-matters-to-millions",
       "headline": "Why Does US Say Colombo Port Matters to Millions?",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/10/27/sri-lanka-determined-to-stay-off-global-financial-watchlists-says-pm",
-      "headline": "Sri Lanka Determined to Stay Off Watchlists",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/10/27/smarter-colombo-port-could-mean-faster-trade-and-lower-costs",
+      "headline": "Smarter Colombo Port Could Mean Faster Trade",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/10/27/new-date-for-sabaragamuwa-students-who-missed-o-l-aesthetic-practicals",
-      "headline": "New Date for Missed Sabaragamuwa O/L Practicals",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/27/sri-lanka-to-host-world-buddhist-sangha-council%e2%80%99s-60th-anniversary-from-november-28",
-      "headline": "Sri Lanka to Host World Buddhist Sangha Council",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/27/lula-thanks-akd-for-warm-wishes-on-election-victory",
-      "headline": "Lula Thanks AKD for Warm Wishes on Election Win",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/10/27/millions-in-compensation-for-negombo-prison-clash-victims",
+      "headline": "Millions in Compensation for Negombo Prison Clash",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     }
   ],
   "errors": []

@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/12/no-sudden-fuel-price-hike-this-month-cpc",
-    "contentHash": "81ab24403356d9a129b77c3a274a9a4e5bee6b2148e0bb563e926e6d95cca024",
-    "headline": "No Sudden Fuel Price Hike This Month: CPC",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-12T15:59:45.478Z",
-    "fbPostId": "1278802861974766_122117432739402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-12T16:00:40.122Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/12/human-corpse-found-floating-in-kelani-river",
-    "contentHash": "219307253955735ab9ba3f7d0bdf8c89ca4c416df5fec0259466798c9b259712",
-    "headline": "Human Corpse Found Floating In Kelani River",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-12T15:59:45.470Z",
-    "fbPostId": "1278802861974766_122117432925402039",
-    "category": "Sri Lanka",
-    "score": 68,
-    "addedAt": "2026-09-12T16:01:22.300Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/13/colombokandy-road-section-declared-high-risk-landslide-area",
     "contentHash": "51d8d665ffe3f7f10ab97d7d6aee6e7b6b4f9da8e54781797768e90060f651cd",
     "headline": "Col–Kandy Rd Section Prone To High-Risk Landslides",
@@ -1917,6 +1893,18 @@
     "category": "Sports",
     "score": 85,
     "addedAt": "2026-10-27T13:51:44.088Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/27/madushanka-wrecks-pakistan-kamindu-finishes-the-job",
+    "contentHash": "a7409e0bbea3686e2b93d81d297cbdf22347022410db38410418f1ef484e1959",
+    "headline": "Sri Lanka Crush Pakistan By 8 Wickets",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-27T18:32:58.029Z",
+    "fbPostId": "1278802861974766_122129754429402039",
+    "category": "Sports",
+    "score": 84,
+    "addedAt": "2026-10-27T18:33:57.612Z",
     "isShadow": false
   }
 ]
