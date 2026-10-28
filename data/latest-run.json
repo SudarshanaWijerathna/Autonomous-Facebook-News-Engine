@@ -1,49 +1,53 @@
 {
-  "runId": "03791997",
-  "startedAt": "2026-10-28T09:23:50.538Z",
-  "finishedAt": "2026-10-28T09:25:02.849Z",
+  "runId": "d8dba85c",
+  "startedAt": "2026-10-28T14:44:15.204Z",
+  "finishedAt": "2026-10-28T14:46:38.929Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/496742/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate",
-      "headline": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/28/namal-to-remain-in-custody-until-november-19",
+      "headline": "Namal To Remain In Custody Until November 19",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/28/ec-deliberates-legislative-amendments-and-mechanisms-for-overseas-voting",
+      "headline": "Amendments and Mechanisms for Overseas Voting",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/28/search-underway-after-fishermen-vanish-at-sea",
+      "headline": "Search Underway After Fishermen Vanish at Sea",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/28/one-dead-three-injured-in-fatal-monaragala-crash",
+      "headline": "One Dead, Three Injured in Fatal Monaragala Crash",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://hirunews.lk/english/496776/hackers-target-us-fec-system-disrupting-campaign-finance-disclosures-days-before-midterms",
-      "headline": "Hackers target US FEC system, disrupting campaign finance disclosures days before midterms",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496774/serial-killer-ted-bundy-is-linked-to-another-utah-teenagers-1974-murder-through-dna-testing",
-      "headline": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through DNA testing",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496761/first-inmates-arrive-at-costa-rica-mega-prison",
-      "headline": "First inmates arrive at Costa Rica mega-prison",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496745/flydubai-crew-honoured-by-uae-president-for-bravery",
-      "headline": "Flydubai crew honoured by UAE President for bravery",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496744/dutch-zookeeper-dies-after-being-mauled-by-leopard",
-      "headline": "Dutch zookeeper dies after being mauled by leopard",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/10/28/lights-beats-battle-sirasa-dancing-star-returns-bigger-than-ever",
+      "headline": "Lights, Beats, Battle! Sirasa Dancing Star Returns",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []

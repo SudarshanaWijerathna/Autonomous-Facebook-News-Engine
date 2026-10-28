@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/13/colombokandy-road-section-declared-high-risk-landslide-area",
-    "contentHash": "51d8d665ffe3f7f10ab97d7d6aee6e7b6b4f9da8e54781797768e90060f651cd",
-    "headline": "Col–Kandy Rd Section Prone To High-Risk Landslides",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-13T14:30:43.509Z",
-    "fbPostId": "1278802861974766_122117592429402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-09-13T14:31:51.640Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/13/suspect-arrested-in-kuliyapitiya-with-illegal-firearms",
     "contentHash": "f2950fbf18b9e26e39e5b61706883d5d527833e8b80fd688fae97437057700d5",
     "headline": "Suspect Arrested in Kuliyapitiya with Firearms",
@@ -1929,6 +1917,18 @@
     "category": "Sri Lanka",
     "score": 83,
     "addedAt": "2026-10-28T06:26:57.507Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/28/johnston-fernando-pleads-guilty-in-tax-evasion-case",
+    "contentHash": "6b47d898170ed209f463e5dad15f21d4e52b6dc490af49376dcd985b8e5c049f",
+    "headline": "Johnston Fernando Pleads Guilty in Tax Evasion",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-28T14:44:30.317Z",
+    "fbPostId": "1278802861974766_122129998311402039",
+    "category": "Sri Lanka",
+    "score": 88,
+    "addedAt": "2026-10-28T14:46:38.927Z",
     "isShadow": false
   }
 ]
