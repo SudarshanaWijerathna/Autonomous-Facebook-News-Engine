@@ -1,49 +1,47 @@
 {
-  "runId": "799721b7",
-  "startedAt": "2026-10-27T20:09:21.989Z",
-  "finishedAt": "2026-10-27T20:10:29.769Z",
+  "runId": "b2df92d1",
+  "startedAt": "2026-10-28T06:25:20.166Z",
+  "finishedAt": "2026-10-28T06:26:57.508Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/496606/melania-trump-brokered-ceasefire-takes-effect-in-ukraine",
-      "headline": "Melania Trump-brokered ceasefire takes effect in Ukraine",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/28/cannabis-and-hashish-worth-rs-157-million-seized-at-peliyagoda",
+      "headline": "Cannabis and Hashish Worth Rs. 157 Million Seized",
+      "reason": "max-posts-per-run-reached",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/27/smarter-colombo-port-could-mean-faster-trade-and-lower-costs",
+      "headline": "Smarter Colombo Port Could Mean Faster Trade",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/27/ports-of-tomorrow-will-compete-on-intelligence-slpa-chairman",
+      "headline": "'Ports of Tomorrow Will Compete on Intelligence'",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/496604/beijing-steps-up-middle-east-diplomacy-amid-conflict",
-      "headline": "Beijing steps up Middle East diplomacy amid conflict",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/496528/un-inquiry-says-israel-kept-committing-genocide-in-gaza-after-truce",
-      "headline": "UN inquiry says Israel kept committing genocide in Gaza after truce",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/496527/netanyahu-touts-trump-endorsement-on-eve-of-vote-suggests-they-may-restart-war-on-iran",
-      "headline": "Netanyahu touts Trump endorsement on eve of vote, suggests they may restart war on Iran",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/496515/africa-food-security-under-threat-due-to-iran-war-trade-officials-warn",
-      "headline": "Africa food security under threat due to Iran war, trade officials warn",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
-    },
-    {
-      "url": "https://hirunews.lk/english/496529/maxxing-selected-as-dictionary-com-word-of-the-year",
-      "headline": "'Maxxing' selected as Dictionary.com word of the year",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
   "errors": []
