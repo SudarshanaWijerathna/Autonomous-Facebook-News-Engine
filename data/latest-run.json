@@ -1,7 +1,7 @@
 {
-  "runId": "3b1918fd",
-  "startedAt": "2026-10-29T18:47:21.469Z",
-  "finishedAt": "2026-10-29T18:48:47.426Z",
+  "runId": "e58ae382",
+  "startedAt": "2026-10-29T21:53:24.320Z",
+  "finishedAt": "2026-10-29T21:54:20.301Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -36,14 +36,14 @@
       "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/10/29/bank-accounts-of-wijeyadasa-s-son-suspended",
-      "headline": "Bank Accounts of Wijeyadasa's Son Suspended",
+      "url": "https://newsfirst.lk/2026/10/29/mosquito-breeding-on-the-rise-as-rainy-weather-persists",
+      "headline": "Mosquito Breeding on the Rise as Rain Persists",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/29/mosquito-breeding-on-the-rise-as-rainy-weather-persists",
-      "headline": "Mosquito Breeding on the Rise as Rain Persists",
+      "url": "https://newsfirst.lk/2026/10/29/bank-accounts-of-wijeyadasa-s-son-suspended",
+      "headline": "Bank Accounts of Wijeyadasa's Son Suspended",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
@@ -62,8 +62,8 @@
     {
       "url": "https://newsfirst.lk/2026/10/29/%e2%80%9cfrom-sri-lanka-to-the-world%e2%80%9d-dj-snake-could-open-doors-for-global-stars",
       "headline": "DJ Snake Could Open Doors for Global Stars",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
