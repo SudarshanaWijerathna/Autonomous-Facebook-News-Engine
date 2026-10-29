@@ -1,19 +1,14 @@
 {
-  "runId": "1e8801c8",
-  "startedAt": "2026-10-28T16:44:05.754Z",
-  "finishedAt": "2026-10-28T16:47:04.951Z",
+  "runId": "3a334579",
+  "startedAt": "2026-10-29T06:35:45.318Z",
+  "finishedAt": "2026-10-29T06:37:07.637Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/10/28/johnston-fernando-pleads-guilty-in-tax-evasion-case",
-      "headline": "Johnston Fernando Pleads Guilty in Tax Evasion",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,39 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/28/namal-to-remain-in-custody-until-november-19",
-      "headline": "Namal To Remain In Custody Until November 19",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/28/ec-deliberates-legislative-amendments-and-mechanisms-for-overseas-voting",
-      "headline": "Amendments and Mechanisms for Overseas Voting",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/10/28/yoshitha-corruption-trial-set-to-begin-on-november-23",
+      "headline": "Yoshitha Corruption Trial Set to Begin",
+      "reason": "max-posts-per-run-reached",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/10/28/search-underway-after-fishermen-vanish-at-sea",
-      "headline": "Search Underway After Fishermen Vanish at Sea",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/10/28/bird-strike-forces-srilankan-airlines-london-flight-to-abort-take-off",
+      "headline": "Bird Strike Grounds SriLankan Flight",
+      "reason": "max-posts-per-run-reached",
       "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/28/one-dead-three-injured-in-fatal-monaragala-crash",
-      "headline": "One Dead, Three Injured in Fatal Monaragala Crash",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/10/28/lights-beats-battle-sirasa-dancing-star-returns-bigger-than-ever",
       "headline": "Lights, Beats, Battle! Sirasa Dancing Star Returns",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
