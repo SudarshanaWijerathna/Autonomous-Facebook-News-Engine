@@ -1,7 +1,7 @@
 {
-  "runId": "43915c82",
-  "startedAt": "2026-10-30T19:58:46.926Z",
-  "finishedAt": "2026-10-30T19:59:45.363Z",
+  "runId": "3fef9b75",
+  "startedAt": "2026-10-30T21:37:27.312Z",
+  "finishedAt": "2026-10-30T21:38:25.458Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -38,23 +38,23 @@
       "url": "https://newsfirst.lk/2026/10/30/nbro-warns-of-deteriorating-air-quality-in-multiple-districts",
       "headline": "NBRO Warns of Deteriorating Air Quality",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/10/30/three-officers-suspended-following-death-of-suspect-at-kobeigane-police-station",
       "headline": "3 Officers Suspended Over Kobeigane Police Death",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/30/bread-and-bakery-product-prices-increased-by-rs-5",
-      "headline": "Bread and Bakery Product Prices Increased by Rs. 5",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/10/29/harak-kata-seeks-court-order-for-medical-treatment",
       "headline": "'Harak Kata' Seeks Medical Treatment Court Order",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/30/garage-owner-hospitalised-following-alleged-assault-by-uc-chairman",
+      "headline": "Garage Owner Hospitalised After Alleged Assault",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
