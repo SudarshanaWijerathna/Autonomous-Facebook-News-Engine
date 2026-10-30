@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/15/deshabandu-senior-cops-violated-rights-of-shani-ravi",
-    "contentHash": "8cd92e49a32dc896ed575c2ca01b86362e55112980ff63d25ac0726e2d50b8b2",
-    "headline": "Deshabandu, Seniors Violated Rights of Shani, Ravi",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-15T15:08:18.441Z",
-    "fbPostId": "1278802861974766_122118013851402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-15T15:11:22.829Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/15/ex-air-force-chief-at-fcid-over-mig-deal",
-    "contentHash": "01a1c94cb8eb6a7581ee2155835d580371d338e3968ebf4f519729064bbaffd7",
-    "headline": "Ex-Air Force Chief At FCID Over MiG Deal",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-15T15:08:18.439Z",
-    "fbPostId": "1278802861974766_122118014055402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-15T15:12:04.878Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/15/sri-lanka-to-provide-new-javelin-set-for-world-no-1-rumesh-tharanga",
     "contentHash": "9a9942268e70089efb6e058ab58b7d2bb3bb02eaa77e6f398058209d7390dcfa",
     "headline": "Sri Lanka to Provide New Javelin Set For Rumesh",
@@ -1905,6 +1881,30 @@
     "category": "Sri Lanka",
     "score": 81,
     "addedAt": "2026-10-30T14:45:21.776Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/29/third-suspect-arrested-over-soysapura-restaurant-owner%e2%80%99s-murder",
+    "contentHash": "0138e7d350c38516e08031dee02dad7ecc71eff208a2868e49f7c9d9ce04c927",
+    "headline": "3rd Suspect Arrested Over Soysapura Murder",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-30T16:45:29.877Z",
+    "fbPostId": "1278802861974766_122130591687402039",
+    "category": "Sri Lanka",
+    "score": 68,
+    "addedAt": "2026-10-30T16:46:39.726Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/29/president-directs-sports-ministry-to-develop-plans-to-produce-international-level-athletes-and-build-a-healthier-nation",
+    "contentHash": "40681a043548914da035acfc800927c4a081f3f931e6fc5aad7c32557ec07af5",
+    "headline": "President Directs Sports Ministry to Develop Plans",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-30T16:45:29.876Z",
+    "fbPostId": "1278802861974766_122130591777402039",
+    "category": "Sports",
+    "score": 65,
+    "addedAt": "2026-10-30T16:46:44.422Z",
     "isShadow": false
   }
 ]
