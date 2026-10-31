@@ -1,19 +1,14 @@
 {
-  "runId": "3fef9b75",
-  "startedAt": "2026-10-30T21:37:27.312Z",
-  "finishedAt": "2026-10-30T21:38:25.458Z",
+  "runId": "b595ef2f",
+  "startedAt": "2026-10-31T06:25:21.725Z",
+  "finishedAt": "2026-10-31T06:26:43.032Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 27,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/10/30/tin-requirement-for-all-financial-transactions-comes-into-effect-november-2",
-      "headline": "TIN Requirement for All Financial Transactions",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,49 +20,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/29/president-directs-sports-ministry-to-develop-plans-to-produce-international-level-athletes-and-build-a-healthier-nation",
-      "headline": "President Directs Sports Ministry to Develop Plans",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/29/third-suspect-arrested-over-soysapura-restaurant-owner%e2%80%99s-murder",
-      "headline": "3rd Suspect Arrested Over Soysapura Murder",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/30/nbro-warns-of-deteriorating-air-quality-in-multiple-districts",
-      "headline": "NBRO Warns of Deteriorating Air Quality",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
       "url": "https://newsfirst.lk/2026/10/30/three-officers-suspended-following-death-of-suspect-at-kobeigane-police-station",
       "headline": "3 Officers Suspended Over Kobeigane Police Death",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/29/harak-kata-seeks-court-order-for-medical-treatment",
-      "headline": "'Harak Kata' Seeks Medical Treatment Court Order",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/10/30/garage-owner-hospitalised-following-alleged-assault-by-uc-chairman",
-      "headline": "Garage Owner Hospitalised After Alleged Assault",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/10/30/three-arrested-in-wattala-heroin-raid",
       "headline": "Three Arrested in Wattala Heroin Raid",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/10/30/technical-and-expert-committee-meetings-begin-ahead-of-63rd-abu-general-assembly-in-colombo",
+      "headline": "ABU Technical and Expert Meetings Begin in Colombo",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
