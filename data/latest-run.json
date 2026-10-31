@@ -1,13 +1,13 @@
 {
-  "runId": "4b294c39",
-  "startedAt": "2026-10-31T09:22:47.184Z",
-  "finishedAt": "2026-10-31T09:23:49.929Z",
+  "runId": "6a22d16a",
+  "startedAt": "2026-10-31T14:07:46.251Z",
+  "finishedAt": "2026-10-31T14:09:12.203Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -30,12 +30,6 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/30/three-officers-suspended-following-death-of-suspect-at-kobeigane-police-station",
-      "headline": "3 Officers Suspended Over Kobeigane Police Death",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
-    },
-    {
       "url": "https://newsfirst.lk/2026/10/31/three-new-airlines-to-resume-flights-to-sri-lanka-for-european-winter-season",
       "headline": "Three New Airlines to Resume Flights to Sri Lanka",
       "reason": "score-below-threshold (74 < 75)",
@@ -50,14 +44,14 @@
     {
       "url": "https://newsfirst.lk/2026/10/30/three-arrested-in-wattala-heroin-raid",
       "headline": "Three Arrested in Wattala Heroin Raid",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/10/30/technical-and-expert-committee-meetings-begin-ahead-of-63rd-abu-general-assembly-in-colombo",
-      "headline": "ABU Technical and Expert Meetings Begin in Colombo",
-      "reason": "score-below-threshold (63 < 75)",
-      "score": 63
+      "url": "https://newsfirst.lk/2026/10/31/over-rs-59-million-financial-fraud-private-company-employee-arrested",
+      "headline": "Employee Arrested Over Rs. 59.6M Fraud",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",

@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/16/turkish-airlines-promises-action-and-compensation-after-damage-to-world-champion%e2%80%99s-javelins",
-    "contentHash": "1855bbb83a28650d6f119fe21dcf0e4eb1258104c1160de9ca2b5919d2f89664",
-    "headline": "Turkish Airlines Promises Action and Compensation",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-16T12:59:27.238Z",
-    "fbPostId": "1278802861974766_122118200583402039",
-    "category": "Sports",
-    "score": 76,
-    "addedAt": "2026-09-16T13:02:06.912Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/16/namal-remanded-until-september-23-in-money-laundering-case",
     "contentHash": "8ca5ee18227448cb665cd80a02b43f44da4778419b0bf44a05a784d519797158",
     "headline": "Namal Remanded in Money Laundering Case",
@@ -1905,6 +1893,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-10-31T06:26:43.030Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/10/30/ciaboc-files-revision-application-to-overturn-order-granting-bail-to-rakhitha-rajapaksa",
+    "contentHash": "d29f135bb90093e684b21df89ca05297b40de1c222f0f153de17ddc727d38842",
+    "headline": "CIABOC Seeks to Overturn Bail For Rakitha, Charith",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-10-31T14:08:14.960Z",
+    "fbPostId": "1278802861974766_122130760047402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-10-31T14:09:12.202Z",
     "isShadow": false
   }
 ]
