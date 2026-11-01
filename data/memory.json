@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/16/namal-remanded-until-september-23-in-money-laundering-case",
-    "contentHash": "8ca5ee18227448cb665cd80a02b43f44da4778419b0bf44a05a784d519797158",
-    "headline": "Namal Remanded in Money Laundering Case",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-16T17:28:05.519Z",
-    "fbPostId": "1278802861974766_122118247035402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-16T17:29:13.244Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/16/ctid-to-investigate-archchuna%e2%80%99s-a-pura-comments",
-    "contentHash": "4b96bde42674c22a00a8f0c971ad9b34f576ba5d496e3af17cf86ac07a57a339",
-    "headline": "CTID To Investigate Archchuna’s A'pura Comments",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-16T17:28:05.520Z",
-    "fbPostId": "1278802861974766_122118247173402039",
-    "category": "Sri Lanka",
-    "score": 72,
-    "addedAt": "2026-09-16T17:29:52.441Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/16/shiranthi-rajapaksa-leaves-country-as-long-stalled-sriliya-investigation-is-revived",
-    "contentHash": "f1f1d417d5c88b3f0096cb21bb777697ba05fc2b8c3150e1981c311f23a227cb",
-    "headline": "Long-Stalled Sriliya Investigation Revived",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-16T19:00:03.745Z",
-    "fbPostId": "1278802861974766_122118261081402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-09-16T19:01:01.153Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/17/ai-being-used-to-create-realistic-child-abuse-material-warns-police",
     "contentHash": "6d7fbb1d27bc00f03e83f50320e45fe1ac0f1e6c5523798748dd46f2d271ba2f",
     "headline": "AI Used to Create Realistic Child Abuse Material",
@@ -1917,6 +1881,30 @@
     "category": "Business",
     "score": 74,
     "addedAt": "2026-10-31T15:49:25.600Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/01/dengue-cases-rise-in-seven-provinces",
+    "contentHash": "8971a90e19e2e5cc274e9ec04baefeac3bccb4e161c3f32345ecc0a8a7bc0f83",
+    "headline": "Dengue Cases Rise in Seven Provinces",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-01T06:58:48.380Z",
+    "fbPostId": "1278802861974766_122130947697402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-11-01T06:59:41.886Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/01/depression-in-bay-of-bengal-expected-to-intensify-into-a-deep-depression",
+    "contentHash": "976da45982163702a7c13a9f435e4070d7b48c5e0c2c81eacbc9f0cc582053e6",
+    "headline": "Deep Depression Expected in the Bay of Bengal",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-01T06:58:48.380Z",
+    "fbPostId": "1278802861974766_122130947763402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-11-01T06:59:45.649Z",
     "isShadow": false
   }
 ]
