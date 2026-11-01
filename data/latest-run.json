@@ -1,7 +1,7 @@
 {
-  "runId": "5e4e2dcb",
-  "startedAt": "2026-11-01T18:15:14.286Z",
-  "finishedAt": "2026-11-01T18:16:20.206Z",
+  "runId": "92640c5d",
+  "startedAt": "2026-11-01T19:50:16.952Z",
+  "finishedAt": "2026-11-01T19:51:12.721Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -39,30 +39,30 @@
       "url": "https://newsfirst.lk/2026/11/01/cctv-cameras-to-be-installed-at-all-police-stations-across-the-island",
       "headline": "CCTV To Be Installed At All Police Stations",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/01/rs-3-95bn-project-to-renovate-bridges-damaged-by-cyclone-ditwah-begin-today-01",
+      "headline": "Project to Renovate Ditwah Damaged Bridges Begin",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/11/01/human-rights-commission-investigates-custodial-death-at-kobeigane-police-station",
       "headline": "HRCSL Investigates Custodial Death At Kobeigane",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 77
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/01/cyclone-murasu-moves-towards-india-fishing-communities-advised-to-exercise-caution",
-      "headline": "Cyclone Murasu Heads Towards India, Fishers Warned",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/11/01/63rd-abu-general-assembly-to-be-held-in-colombo-today-01",
       "headline": "63rd ABU General Assembly To Be Held Today (01)",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 65)",
+      "url": "https://newsfirst.lk/2026/11/01/four-fishermen-missing-in-kudawella-rescued",
+      "headline": "Four fishermen Missing in Kudawella Rescued",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
