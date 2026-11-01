@@ -1,7 +1,7 @@
 {
-  "runId": "92640c5d",
-  "startedAt": "2026-11-01T19:50:16.952Z",
-  "finishedAt": "2026-11-01T19:51:12.721Z",
+  "runId": "fd6cadb1",
+  "startedAt": "2026-11-01T21:16:34.849Z",
+  "finishedAt": "2026-11-01T21:17:40.737Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -30,16 +30,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/01/tin-number-mandatory-for-several-specified-transactions-from-today",
-      "headline": "TIN Number Mandatory for Several Transactions",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/01/cctv-cameras-to-be-installed-at-all-police-stations-across-the-island",
       "headline": "CCTV To Be Installed At All Police Stations",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/01/cyclone-murasu-moves-towards-india-fishing-communities-advised-to-exercise-caution",
+      "headline": "Cyclone Murasu Heads Towards India, Fishers Warned",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/11/01/rs-3-95bn-project-to-renovate-bridges-damaged-by-cyclone-ditwah-begin-today-01",
