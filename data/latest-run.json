@@ -1,13 +1,13 @@
 {
-  "runId": "19ac9a23",
-  "startedAt": "2026-11-01T11:56:49.079Z",
-  "finishedAt": "2026-11-01T11:58:02.098Z",
+  "runId": "5e4e2dcb",
+  "startedAt": "2026-11-01T18:15:14.286Z",
+  "finishedAt": "2026-11-01T18:16:20.206Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,38 +20,49 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/01/dengue-cases-rise-in-seven-provinces",
+      "headline": "Dengue Cases Rise in Seven Provinces",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/01/depression-in-bay-of-bengal-expected-to-intensify-into-a-deep-depression",
       "headline": "Deep Depression Expected in the Bay of Bengal",
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/01/tin-number-mandatory-for-several-specified-transactions-from-today",
+      "headline": "TIN Number Mandatory for Several Transactions",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/01/cctv-cameras-to-be-installed-at-all-police-stations-across-the-island",
+      "headline": "CCTV To Be Installed At All Police Stations",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/01/human-rights-commission-investigates-custodial-death-at-kobeigane-police-station",
       "headline": "HRCSL Investigates Custodial Death At Kobeigane",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 77
     },
     {
-      "url": "https://newsfirst.lk/2026/10/31/hostage-rescue-how-sri-lanka%e2%80%99s-air-force-saved-3-lives-in-africa",
-      "headline": "How Sri Lanka’s Air Force Saved 3 Lives in Africa",
+      "url": "https://newsfirst.lk/2026/11/01/cyclone-murasu-moves-towards-india-fishing-communities-advised-to-exercise-caution",
+      "headline": "Cyclone Murasu Heads Towards India, Fishers Warned",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/31/initial-investigation-report-submitted-on-nationwide-power-outage",
-      "headline": "Power Outage Probe Report Submitted",
+      "url": "https://newsfirst.lk/2026/11/01/63rd-abu-general-assembly-to-be-held-in-colombo-today-01",
+      "headline": "63rd ABU General Assembly To Be Held Today (01)",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/01/rs-3-95bn-project-to-renovate-bridges-damaged-by-cyclone-ditwah-begin-today-01",
-      "headline": "Project to Renovate Ditwah Damaged Bridges Begin",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     }
   ],
