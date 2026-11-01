@@ -1,13 +1,13 @@
 {
-  "runId": "2a3b3458",
-  "startedAt": "2026-11-01T06:58:24.154Z",
-  "finishedAt": "2026-11-01T06:59:45.650Z",
+  "runId": "19ac9a23",
+  "startedAt": "2026-11-01T11:56:49.079Z",
+  "finishedAt": "2026-11-01T11:58:02.098Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,27 +20,38 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/31/no-water-tariff-revision-until-next-january-says-minister-susil-ranasinghe",
-      "headline": "No Water Tariff Revision Until Next January 2027",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/11/01/depression-in-bay-of-bengal-expected-to-intensify-into-a-deep-depression",
+      "headline": "Deep Depression Expected in the Bay of Bengal",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/10/31/dj-snake-arrives-in-sri-lanka-as-senter-music-festival-builds-momentum-ahead-of-highly-anticipated-day-02",
-      "headline": "DJ Snake Lands in SL for Senter Music Festival",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/01/human-rights-commission-investigates-custodial-death-at-kobeigane-police-station",
+      "headline": "HRCSL Investigates Custodial Death At Kobeigane",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/10/31/deputy-finance-minister-holds-discussion-with-ifc-regional-vice-president",
-      "headline": "Deputy Finance Minister Meets IFC VP",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/10/31/hostage-rescue-how-sri-lanka%e2%80%99s-air-force-saved-3-lives-in-africa",
+      "headline": "How Sri Lanka’s Air Force Saved 3 Lives in Africa",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/10/31/over-rs-59-million-financial-fraud-private-company-employee-arrested",
-      "headline": "Employee Arrested Over Rs. 59.6M Fraud",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/10/31/initial-investigation-report-submitted-on-nationwide-power-outage",
+      "headline": "Power Outage Probe Report Submitted",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/01/rs-3-95bn-project-to-renovate-bridges-damaged-by-cyclone-ditwah-begin-today-01",
+      "headline": "Project to Renovate Ditwah Damaged Bridges Begin",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
