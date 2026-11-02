@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/18/grenade-attack-suspect-tied-to-separate-underworld-execution",
-    "contentHash": "f80872ce1f6aa3ad3be5e7a352ee3405602cb62dff92c43282feede33fdfc2df",
-    "headline": "Grenade suspect linked to underworld execution",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-18T16:56:26.183Z",
-    "fbPostId": "1278802861974766_122118658089402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-18T16:57:18.822Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/18/court-orders-probe-into-wimal%e2%80%99s-remarks-on-namal-rajapaksa-remand",
-    "contentHash": "bc9301d7803dcdc206a48e9f8c7780705beb381f577fe5d463342fb832370aad",
-    "headline": "Court Orders Probe Into Wimal’s Remarks on Namal",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-18T16:56:26.182Z",
-    "fbPostId": "1278802861974766_122118658329402039",
-    "category": "Sri Lanka",
-    "score": 74,
-    "addedAt": "2026-09-18T16:57:59.914Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/19/1-849-fatal-road-accidents-recorded-in-2026-712-accident-prone-locations-identified-says-igp",
     "contentHash": "0eedc675ab5c9381995eff5a3cd1dddf38bd59345bcd4cb5395109668b701564",
     "headline": "712 Accident-Prone Locations Identified, says IGP",
@@ -1893,6 +1869,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-02T13:45:01.213Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/02/heavy-showers-and-thundershowers-expected-in-several-areas-this-afternoon",
+    "contentHash": "cd98207e25add4ecb97e9b7302f66aae0ef93f875d9cf26d172d217c204e37ed",
+    "headline": "Heavy Showers and Thundershowers Expected",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-02T17:38:04.156Z",
+    "fbPostId": "1278802861974766_122131240821402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-02T17:42:06.596Z",
     "isShadow": false
   }
 ]
