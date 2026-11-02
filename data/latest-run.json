@@ -1,7 +1,7 @@
 {
-  "runId": "2c08ebfa",
-  "startedAt": "2026-11-02T22:07:58.744Z",
-  "finishedAt": "2026-11-02T22:08:58.227Z",
+  "runId": "9cb678ce",
+  "startedAt": "2026-11-02T23:09:48.452Z",
+  "finishedAt": "2026-11-02T23:11:02.665Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -44,14 +44,14 @@
     {
       "url": "https://newsfirst.lk/2026/11/02/no-essential-goods-shortage-during-festive-season-minister-wasantha-samarasinghe",
       "headline": "No Essential Goods Shortage During Festive Season",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/02/pm-harini-amarasuriya-arrives-in-antigua-for-chogm-2026",
       "headline": "PM Harini Amarasuriya Arrives in Antigua for CHOGM",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/02/chairman-of-kadugannawa-urban-council-arrested-over-alleged-assault",
