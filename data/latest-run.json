@@ -1,13 +1,13 @@
 {
-  "runId": "6973518d",
-  "startedAt": "2026-11-02T06:57:18.508Z",
-  "finishedAt": "2026-11-02T06:58:39.662Z",
+  "runId": "20b1ac2f",
+  "startedAt": "2026-11-02T13:43:40.443Z",
+  "finishedAt": "2026-11-02T13:45:01.214Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,34 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/01/rs-3-95bn-project-to-renovate-bridges-damaged-by-cyclone-ditwah-begin-today-01",
-      "headline": "Project to Renovate Ditwah Damaged Bridges Begin",
-      "reason": "score-below-threshold (73 < 75)",
+      "url": "https://newsfirst.lk/2026/11/02/sri-lanka-to-sign-mou-with-south-korea-on-vocational-training-and-student-exchange",
+      "headline": "Sri Lanka to Sign MoU with South Korea",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/02/department-of-motor-traffic-resumes-online-appointment-system",
+      "headline": "DMT Resumes Online Appointment System",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/02/no-essential-goods-shortage-during-festive-season-minister-wasantha-samarasinghe",
+      "headline": "No Essential Goods Shortage During Festive Season",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/02/pm-harini-amarasuriya-arrives-in-antigua-for-chogm-2026",
+      "headline": "PM Harini Amarasuriya Arrives in Antigua for CHOGM",
+      "reason": "max-posts-per-run-reached",
       "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/02/investigation-launched-into-inmate-shot-dead-while-attempting-escape-at-dumbara-prison",
-      "headline": "Investigation Launched into Inmate Shot Dead",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/01/cyclone-murasu-moves-towards-india-fishing-communities-advised-to-exercise-caution",
-      "headline": "Cyclone Murasu Heads Towards India, Fishers Warned",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/01/four-fishermen-missing-in-kudawella-rescued",
-      "headline": "Four fishermen Missing in Kudawella Rescued",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []

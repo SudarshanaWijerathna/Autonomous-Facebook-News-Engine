@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/18/namal-s-remand-extended-in-rs-100-mn-bribe-case-linked-to-airbus-scandal",
-    "contentHash": "8ddd9d2e8eb48cd962e9062c936bc3b1520bd9d05e5ba194526410f8c57fed62",
-    "headline": "Namal's Remand Extended In Rs. 100 Mn Bribe Case",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-18T09:58:27.178Z",
-    "fbPostId": "1278802861974766_122118592089402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-09-18T09:59:18.912Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/18/grenade-attack-suspect-tied-to-separate-underworld-execution",
     "contentHash": "f80872ce1f6aa3ad3be5e7a352ee3405602cb62dff92c43282feede33fdfc2df",
     "headline": "Grenade suspect linked to underworld execution",
@@ -1881,6 +1869,30 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-11-02T06:58:39.660Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/02/ceypetco-and-lanka-ioc-increase-fuel-prices",
+    "contentHash": "91ba0ed6f24cf9aeea64ab3662fa6b5c5416f7b4aa7ca55cb9de0e9ac07b051f",
+    "headline": "Ceypetco and Lanka IOC Increase Fuel Prices",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-02T13:44:02.096Z",
+    "fbPostId": "1278802861974766_122131215921402039",
+    "category": "Business",
+    "score": 88,
+    "addedAt": "2026-11-02T13:44:56.182Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/02/investigation-launched-into-inmate-shot-dead-while-attempting-escape-at-dumbara-prison",
+    "contentHash": "dfe5e478e6db7fc40539c6aad914a6a6e5650f6683137e73c9ed2185a7dab08a",
+    "headline": "Investigation Launched into Inmate Shot Dead",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-02T13:44:02.096Z",
+    "fbPostId": "1278802861974766_122131215999402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-02T13:45:01.213Z",
     "isShadow": false
   }
 ]
