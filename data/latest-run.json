@@ -1,14 +1,19 @@
 {
-  "runId": "c1a0db1d",
-  "startedAt": "2026-11-03T21:09:54.746Z",
-  "finishedAt": "2026-11-03T21:11:13.792Z",
+  "runId": "111c2e3e",
+  "startedAt": "2026-11-03T22:23:54.139Z",
+  "finishedAt": "2026-11-03T22:25:38.370Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 27,
   "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/11/03/cabinet-approves-contract-to-upgrade-kolonnawa-substation-for-100-mwh-battery-storage-system",
+      "headline": "Contract to Dev BESS in Kolonnawa Substation",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -30,16 +35,10 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/03/five-lives-lost-in-separate-road-tragedies-across-sri-lanka",
-      "headline": "Five Dead in Separate Sri Lanka Road Accidents",
-      "reason": "score-below-threshold (73 < 75)",
-      "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/03/21-foreigners-arrested-in-maradana-over-visa-violations",
-      "headline": "21 Foreigners Arrested Over Visa Violations",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/03/yoshitha-denies-charges-in-money-laundering-case",
+      "headline": "Yoshitha Denies Charges in Money Laundering Case",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/03/heroin-and-ice-seized-from-parcel-abandoned-near-pooneryn-vidyalaya",
@@ -52,6 +51,12 @@
       "headline": "Sampath Manamperi Case Verdict on Nov 13",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/03/21-foreigners-arrested-in-maradana-over-visa-violations",
+      "headline": "21 Foreigners Arrested Over Visa Violations",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
