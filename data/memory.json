@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/19/1-849-fatal-road-accidents-recorded-in-2026-712-accident-prone-locations-identified-says-igp",
-    "contentHash": "0eedc675ab5c9381995eff5a3cd1dddf38bd59345bcd4cb5395109668b701564",
-    "headline": "712 Accident-Prone Locations Identified, says IGP",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-19T16:13:46.747Z",
-    "fbPostId": "1278802861974766_122118891387402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-09-19T16:15:11.863Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/19/speaker-to-present-supreme-court-determination-on-22nd-amendment-to-parliament-next-week",
-    "contentHash": "2b540a8ecf895edd79c2cc259a89a85b4222fc07274a11a7e010e4e1650414d7",
-    "headline": "22A SC Determination to be Presented to Parliament",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-19T16:13:46.747Z",
-    "fbPostId": "1278802861974766_122118891573402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-19T16:15:55.645Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/19/interpol-blue-notice-sought-for-basil-rajapaksa",
     "contentHash": "0b21ad362954aac7c9658743aca258e16959b76e21540170ddbf5caf08094a0d",
     "headline": "Interpol Blue Notice Sought For Basil Rajapaksa",
@@ -1905,6 +1881,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-11-03T15:43:06.154Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/03/cabinet-approves-contract-to-upgrade-kolonnawa-substation-for-100-mwh-battery-storage-system",
+    "contentHash": "2164fa7be7d65c2d0e848f0d855bd54d56c70c77dbfbc339c179aa58e956756e",
+    "headline": "Contract to Dev BESS in Kolonnawa Substation",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-03T21:10:16.546Z",
+    "fbPostId": "1278802861974766_122131443561402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-03T21:11:13.791Z",
     "isShadow": false
   }
 ]
