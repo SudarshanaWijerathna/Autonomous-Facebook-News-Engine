@@ -1,14 +1,19 @@
 {
-  "runId": "713e38d2",
-  "startedAt": "2026-11-04T15:52:58.675Z",
-  "finishedAt": "2026-11-04T15:59:53.409Z",
+  "runId": "e7b162b0",
+  "startedAt": "2026-11-04T18:07:21.047Z",
+  "finishedAt": "2026-11-04T18:10:02.871Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/11/04/landslides-disrupt-nanu-oyabadulla-train-services",
+      "headline": "Landslides Disrupt Nanu Oya–Badulla Train Services",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,28 +25,45 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/04/final-report-on-coal-transactions-expected-next-month",
-      "headline": "Final Report on Coal Transactions Expected",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/04/katugastota-warehouse-fire-brought-under-control",
+      "headline": "Katugastota Warehouse Fire Brought Under Control",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/04/two-arrested-in-negombo-for-operating-illegal-pyramid-scheme",
-      "headline": "Two Arrested in Negombo for Illegal Pyramid Scheme",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/04/central-expressway-construction-of-section-from-kurunegala-to-dambulla-to-begin-in-december",
+      "headline": "Central Expressway Construction to Begin in Dec",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/04/government-considers-revising-laws-on-48cc-motorcycles",
       "headline": "Consideration to Revise Laws on 48cc Motorcycles",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/11/04/court-orders-immediate-arrests-over-unauthorized-sound-system-at-gnanasara-protest",
       "headline": "Court Orders Arrests Over Protest Loudspeakers",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/04/final-report-on-coal-transactions-expected-next-month",
+      "headline": "Final Report on Coal Transactions Expected",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/04/two-arrested-in-negombo-for-operating-illegal-pyramid-scheme",
+      "headline": "Two Arrested in Negombo for Illegal Pyramid Scheme",
+      "reason": "score-below-threshold (65 < 75)",
       "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
