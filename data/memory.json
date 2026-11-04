@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/19/interpol-blue-notice-sought-for-basil-rajapaksa",
-    "contentHash": "0b21ad362954aac7c9658743aca258e16959b76e21540170ddbf5caf08094a0d",
-    "headline": "Interpol Blue Notice Sought For Basil Rajapaksa",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-20T05:31:02.697Z",
-    "fbPostId": "1278802861974766_122119013523402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-09-20T05:32:09.943Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/19/new-whatsapp-number-introduced-for-motor-traffic-complaints",
-    "contentHash": "6edaff2de0d82b6f79dc6107f9a0e56878fd168ff717b0dfe61389e520351955",
-    "headline": "New Number Introduced for Motor Traffic Complaints",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-20T05:31:02.695Z",
-    "fbPostId": "1278802861974766_122119013721402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-20T05:32:54.056Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/19/22a-supreme-court-determination-to-be-presented-in-parliament-on-sept-22",
-    "contentHash": "3d1ebd00202fed7b9f1c9ac9b8548f3430de477745f1650e0511e8e5bdbf37a4",
-    "headline": "22A Supreme Court Determination To Be Presented",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-20T08:22:37.568Z",
-    "fbPostId": "1278802861974766_122119042077402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-20T08:23:27.282Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-constitutional-amendment-expected-today-21",
     "contentHash": "0e77563f33c97ba5b3b4742510895e28ffbe527275ff5c8ac4beb787e5ebdf38",
     "headline": "SC Ruling on 22nd Amendment Expected Today",
@@ -1905,6 +1869,30 @@
     "category": "Business",
     "score": 82,
     "addedAt": "2026-11-03T22:25:38.369Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/04/landslides-disrupt-nanu-oyabadulla-train-services",
+    "contentHash": "6e147a9d08fa498103b7e7fc67876dd802986734de169b5b42c71741c536bdef",
+    "headline": "Landslides Disrupt Nanu Oya–Badulla Train Services",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-04T15:53:13.309Z",
+    "fbPostId": "1278802861974766_122131586337402039",
+    "category": "Sri Lanka",
+    "score": 72,
+    "addedAt": "2026-11-04T15:59:48.304Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/04/katugastota-warehouse-fire-brought-under-control",
+    "contentHash": "18226fe065dce88da032440810cbf63a563d83371008740a2d32e84e721e07d8",
+    "headline": "Katugastota Warehouse Fire Brought Under Control",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-04T15:53:13.311Z",
+    "fbPostId": "1278802861974766_122131586421402039",
+    "category": "Sri Lanka",
+    "score": 68,
+    "addedAt": "2026-11-04T15:59:53.408Z",
     "isShadow": false
   }
 ]

@@ -1,49 +1,47 @@
 {
-  "runId": "3b2713a7",
-  "startedAt": "2026-11-04T07:03:24.975Z",
-  "finishedAt": "2026-11-04T07:04:26.745Z",
+  "runId": "713e38d2",
+  "startedAt": "2026-11-04T15:52:58.675Z",
+  "finishedAt": "2026-11-04T15:59:53.409Z",
   "shadowMode": false,
-  "discovered": 20,
-  "afterDedup": 20,
+  "discovered": 32,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
-      "url": "https://hirunews.lk/english/498261/democrat-gina-hinojosa-stuns-texas-governor-abbott-in-election-upset",
-      "headline": "Democrat Gina Hinojosa stuns Texas Governor Abbott in election upset",
-      "reason": "score-below-threshold (48 < 75)",
-      "score": 48
+      "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
+      "headline": "South Asia Emerges As Rare Coral Recovery Success",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/498229/georgias-keisha-lance-bottoms-becomes-first-black-woman-governor",
-      "headline": "Georgia's Keisha Lance Bottoms becomes first Black woman governor",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://hirunews.lk/english/498212/trump-says-he-will-move-to-israel-to-become-prime-minister-if-u-s-turns-on-him",
-      "headline": "Trump says he will move to Israel to become Prime Minister if U.S. turns on him",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/11/04/final-report-on-coal-transactions-expected-next-month",
+      "headline": "Final Report on Coal Transactions Expected",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://hirunews.lk/english/498265/trump-signals-veto-showdown-with-democrats-as-they-seek-control-of-congress",
-      "headline": "Trump signals veto showdown with Democrats as they seek control of Congress",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/11/04/two-arrested-in-negombo-for-operating-illegal-pyramid-scheme",
+      "headline": "Two Arrested in Negombo for Illegal Pyramid Scheme",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     },
     {
-      "url": "https://hirunews.lk/english/498260/trump-acknowledges-iran-role-in-democratic-sweep",
-      "headline": "Trump acknowledges Iran role in Democratic sweep",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/11/04/government-considers-revising-laws-on-48cc-motorcycles",
+      "headline": "Consideration to Revise Laws on 48cc Motorcycles",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
-      "url": "https://hirunews.lk/english/498256/james-talarico-becomes-first-democrat-to-win-texas-senate-seat-since-1988",
-      "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/11/04/court-orders-immediate-arrests-over-unauthorized-sound-system-at-gnanasara-protest",
+      "headline": "Court Orders Arrests Over Protest Loudspeakers",
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []
