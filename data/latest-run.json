@@ -1,19 +1,14 @@
 {
-  "runId": "781ab96a",
-  "startedAt": "2026-11-04T22:42:38.363Z",
-  "finishedAt": "2026-11-04T22:43:49.923Z",
+  "runId": "419ee59d",
+  "startedAt": "2026-11-05T10:28:23.822Z",
+  "finishedAt": "2026-11-05T10:30:36.383Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
-  "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "afterDedup": 30,
+  "scored": 4,
+  "selected": 1,
+  "published": 1,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/11/04/landslides-disrupt-nanu-oyabadulla-train-services",
-      "headline": "Landslides Disrupt Nanu Oya–Badulla Train Services",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,39 +20,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/04/katugastota-warehouse-fire-brought-under-control",
-      "headline": "Katugastota Warehouse Fire Brought Under Control",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/11/05/parliament-debate-rs-4-26bn-supplementary-estimate-for-air-force-drone-system",
+      "headline": "Parliament Debate Rs.4.26Bn Supplementary Estimate",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/11/04/central-expressway-construction-of-section-from-kurunegala-to-dambulla-to-begin-in-december",
-      "headline": "Central Expressway Construction to Begin in Dec",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/04/government-considers-revising-laws-on-48cc-motorcycles",
-      "headline": "Consideration to Revise Laws on 48cc Motorcycles",
+      "url": "https://newsfirst.lk/2026/11/05/two-arrested-over-illegal-pyramid-scheme-fraud-in-negombo",
+      "headline": "Two Arrested Over Illegal Pyramid Scheme",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/04/final-report-on-coal-transactions-expected-next-month",
-      "headline": "Final Report on Coal Transactions Expected",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/04/court-orders-immediate-arrests-over-unauthorized-sound-system-at-gnanasara-protest",
-      "headline": "Court Orders Arrests Over Protest Loudspeakers",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/04/two-arrested-in-negombo-for-operating-illegal-pyramid-scheme",
-      "headline": "Two Arrested in Negombo for Illegal Pyramid Scheme",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -66,5 +38,16 @@
       "score": 62
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/05/ice-and-heroin-worth-over-rs-3-bn-seized-from-fishing-vessel-brought-to-dikowita-harbour",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/05/rs-3-bn-drug-haul-proves-smugglers-can-no-longer-outsmart-sri-lanka-navy",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
