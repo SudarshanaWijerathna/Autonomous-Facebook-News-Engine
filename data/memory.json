@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/21/supreme-court-ruling-on-22nd-constitutional-amendment-expected-today-21",
-    "contentHash": "0e77563f33c97ba5b3b4742510895e28ffbe527275ff5c8ac4beb787e5ebdf38",
-    "headline": "SC Ruling on 22nd Amendment Expected Today",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-21T10:58:03.255Z",
-    "fbPostId": "1278802861974766_122119319847402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-21T10:58:58.201Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/21/court-orders-wimal-weerawansa-s-arrest-over-un-compound-protest",
-    "contentHash": "07e9af756562a2edb9a707cd8711763baf9baaccc7988176db637f9e5bd3a6a1",
-    "headline": "Court Orders Wimal Weerawansa's Arrest",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-21T10:58:03.254Z",
-    "fbPostId": "1278802861974766_122119320123402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-21T10:59:41.521Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/21/low-pressure-system-in-bay-of-bengal-expected-to-develop-further",
     "contentHash": "7c41b4565a3d97139a72de0923931d98909385b4b7c2345f50e521aae95ab17f",
     "headline": "Low-Pressure System in Bay of Bengal to Develop",
@@ -1905,6 +1881,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-11-05T10:30:36.382Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/05/sri-lanka-delays-mandatory-tin-certificate-rule-until-april-2027",
+    "contentHash": "f9143ea1559d450ef0d9bd2b3794a505de23044de76891062dbc0fdf99bf9eb0",
+    "headline": "Sri Lanka Delays Mandatory TIN Certificate Rule",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-05T13:24:59.693Z",
+    "fbPostId": "1278802861974766_122131743021402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-05T13:26:47.959Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/05/rs-3-bn-drug-haul-proves-smugglers-can-no-longer-outsmart-sri-lanka-navy",
+    "contentHash": "ffb1411710ce1dbfec37a3f9049f0331df7109d325b7f8a21cd1f2eff40a1270",
+    "headline": "Smugglers Can No Longer Outsmart Sri Lanka Navy",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-05T13:24:59.694Z",
+    "fbPostId": "1278802861974766_122131743129402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-11-05T13:26:54.077Z",
     "isShadow": false
   }
 ]
