@@ -1,14 +1,19 @@
 {
-  "runId": "b7e6d2df",
-  "startedAt": "2026-11-05T18:09:23.346Z",
-  "finishedAt": "2026-11-05T18:11:17.820Z",
+  "runId": "f77302f2",
+  "startedAt": "2026-11-05T21:30:06.496Z",
+  "finishedAt": "2026-11-05T21:32:05.503Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
-  "scored": 4,
-  "selected": 1,
-  "published": 1,
+  "afterDedup": 27,
+  "scored": 6,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/11/05/gsp-safe-for-now-eu-india-trade-deal-could-challenge-sri-lanka%e2%80%99s-export-edge",
+      "headline": "EU-India Trade Deal Could Challenge Export Edge",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/11/05/sri-lanka-delays-mandatory-tin-certificate-rule-until-april-2027",
       "headline": "Sri Lanka Delays Mandatory TIN Certificate Rule",
@@ -30,6 +35,24 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/05/sri-lanka-nearing-a-dangerous-crossroads-without-tough-crime-laws-warns-igp",
+      "headline": "Dangerous Crossroads Without Tough Crime Laws",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/05/net-metering-out-net-plus-in-government-explains-major-solar-power-shift",
+      "headline": "Government Explains Major Solar Power Shift",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/05/lung-cancer-remains-a-silent-killer-in-sri-lanka-as-cases-cross-2-100-in-a-year",
+      "headline": "Lung Cancer Remains a Silent Killer in Sri Lanka",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/05/anti-narcotics-programme-to-continue-until-the-drug-menance-is-eradicated-says-public-security-minister",
       "headline": "Anti-Drug Drive to Continue Until Eradication",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
@@ -38,26 +61,15 @@
     {
       "url": "https://newsfirst.lk/2026/11/05/relentless-fight-until-drugs-are-wiped-out-of-sri-lanka",
       "headline": "Relentless Fight Until Drugs Are Wiped Out of SL",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 74
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/05/sri-lanka-nearing-a-dangerous-crossroads-without-tough-crime-laws-warns-igp",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/05/court-freezes-rakitha-s-bank-accounts-vehicles",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
