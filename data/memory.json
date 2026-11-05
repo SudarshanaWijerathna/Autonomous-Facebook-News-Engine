@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/21/low-pressure-system-in-bay-of-bengal-expected-to-develop-further",
-    "contentHash": "7c41b4565a3d97139a72de0923931d98909385b4b7c2345f50e521aae95ab17f",
-    "headline": "Low-Pressure System in Bay of Bengal to Develop",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-21T14:44:16.193Z",
-    "fbPostId": "1278802861974766_122119358085402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-21T14:47:00.592Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/22/who-was-found-guilty-and-who-was-acquitted-in-easter-sunday-case",
     "contentHash": "f490a8bc8be8801d2bd280150e2dfe6dd4e7a918b85df3e280effb8e54184b8e",
     "headline": "Who Was Found Guilty and Who Was Acquitted?",
@@ -1905,6 +1893,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-11-05T13:26:54.077Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/05/gsp-safe-for-now-eu-india-trade-deal-could-challenge-sri-lanka%e2%80%99s-export-edge",
+    "contentHash": "0606d37ed89c58fa01ed4be22a4c5a73f7a6b19013392ca1a4ea9c07c5d0a12f",
+    "headline": "EU-India Trade Deal Could Challenge Export Edge",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-05T18:09:52.029Z",
+    "fbPostId": "1278802861974766_122131787361402039",
+    "category": "Business",
+    "score": 75,
+    "addedAt": "2026-11-05T18:11:17.819Z",
     "isShadow": false
   }
 ]

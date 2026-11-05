@@ -1,14 +1,19 @@
 {
-  "runId": "f94084f9",
-  "startedAt": "2026-11-05T13:24:45.051Z",
-  "finishedAt": "2026-11-05T13:26:54.079Z",
+  "runId": "b7e6d2df",
+  "startedAt": "2026-11-05T18:09:23.346Z",
+  "finishedAt": "2026-11-05T18:11:17.820Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
-  "scored": 3,
-  "selected": 2,
-  "published": 2,
+  "afterDedup": 28,
+  "scored": 4,
+  "selected": 1,
+  "published": 1,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/11/05/sri-lanka-delays-mandatory-tin-certificate-rule-until-april-2027",
+      "headline": "Sri Lanka Delays Mandatory TIN Certificate Rule",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,25 +25,37 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/05/gsp-safe-for-now-eu-india-trade-deal-could-challenge-sri-lanka%e2%80%99s-export-edge",
-      "headline": "EU-India Trade Deal Could Challenge Export Edge",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/05/rs-3-bn-drug-haul-proves-smugglers-can-no-longer-outsmart-sri-lanka-navy",
+      "headline": "Smugglers Can No Longer Outsmart Sri Lanka Navy",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/05/anti-narcotics-programme-to-continue-until-the-drug-menance-is-eradicated-says-public-security-minister",
+      "headline": "Anti-Drug Drive to Continue Until Eradication",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/05/relentless-fight-until-drugs-are-wiped-out-of-sri-lanka",
+      "headline": "Relentless Fight Until Drugs Are Wiped Out of SL",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     }
   ],
   "errors": [
     {
-      "url": "https://newsfirst.lk/2026/11/05/relentless-fight-until-drugs-are-wiped-out-of-sri-lanka",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/05/anti-narcotics-programme-to-continue-until-the-drug-menance-is-eradicated-says-public-security-minister",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/05/sri-lanka-nearing-a-dangerous-crossroads-without-tough-crime-laws-warns-igp",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/05/court-freezes-rakitha-s-bank-accounts-vehicles",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
