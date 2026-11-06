@@ -1942,5 +1942,29 @@
     "score": 75,
     "addedAt": "2026-11-06T10:31:38.020Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/06/red-notice-fugitive-kaivaru-muthu-arrested-at-bia-after-deportation",
+    "contentHash": "d1ea245c0ed27b64e07980815ccd6b39400f23e56cdccaa6d90b6f23b15924df",
+    "headline": "Red Notice Fugitive 'Kaivaru Muthu' Arrested",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-06T15:30:47.360Z",
+    "fbPostId": "1278802861974766_122131944975402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-11-06T15:31:49.219Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/06/540-polish-visitors-arrive-in-sri-lanka-in-a-single-day",
+    "contentHash": "1b7582911e27966d789fcb6389b693e683659291cb0886ac99689fc9760d663f",
+    "headline": "540 Polish Visitors Arrive in a Single Day",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-06T15:30:47.360Z",
+    "fbPostId": "1278802861974766_122131945083402039",
+    "category": "Business",
+    "score": 68,
+    "addedAt": "2026-11-06T15:31:55.395Z",
+    "isShadow": false
   }
 ]
