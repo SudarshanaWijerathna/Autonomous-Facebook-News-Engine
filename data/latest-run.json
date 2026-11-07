@@ -1,7 +1,7 @@
 {
-  "runId": "8f7fa250",
-  "startedAt": "2026-11-07T14:33:14.073Z",
-  "finishedAt": "2026-11-07T14:34:26.110Z",
+  "runId": "b265fd11",
+  "startedAt": "2026-11-07T16:33:10.081Z",
+  "finishedAt": "2026-11-07T16:34:27.962Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
@@ -28,25 +28,25 @@
       "url": "https://newsfirst.lk/2026/11/07/met-department-forecasts-heavy-rainfall-above-100mm-severe-lightning-advisory-for-22-districts",
       "headline": "Heavy Rainfall Above 100m Expected Today",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 88
     },
     {
-      "url": "https://newsfirst.lk/2026/11/07/pta-replacement-and-organised-crime-bills-won-t-be-rushed-through-parliament-president",
-      "headline": "PTA and Organised Crime Bills Need Broad Consensus",
+      "url": "https://newsfirst.lk/2026/11/07/over-100mm-of-rain-in-under-an-hour-triggers-flash-floods-in-colombo-met-chief-warns-of-intense-downpours-and-blocked-drains-worsening-flood-risks",
+      "headline": "Over 100mm of Rain Triggers Flash Flooding in CMB",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/07/over-8kg-of-narcotics-seized-in-thalawathugoda-raid-suspect-linked-to-overseas-drug-kingpin-arrested",
-      "headline": "Over 8kg of Drugs Seized in Thalawathugoda Raid",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 88
     },
     {
       "url": "https://newsfirst.lk/2026/11/07/parliamentary-committee-begins-prison-inspections-to-address-overcrowding",
       "headline": "Parliamentary Committee Begins Prison Inspections",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/07/kaiwaru-muthu%e2%80%99-questioned-under-72-hour-detention-order",
+      "headline": "Kaiwaru Mutthu Questioned Under Detention Order",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
