@@ -1,13 +1,13 @@
 {
-  "runId": "3ff213a6",
-  "startedAt": "2026-11-06T22:11:53.201Z",
-  "finishedAt": "2026-11-06T22:13:03.351Z",
+  "runId": "ce581aa1",
+  "startedAt": "2026-11-07T06:41:33.561Z",
+  "finishedAt": "2026-11-07T06:43:03.641Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,50 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/06/red-notice-fugitive-kaivaru-muthu-arrested-at-bia-after-deportation",
-      "headline": "Red Notice Fugitive 'Kaivaru Muthu' Arrested",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/11/07/special-meeting-convened-today-to-address-colombo-floods",
+      "headline": "Special Meeting Today to Address Colombo Floods",
+      "reason": "max-posts-per-run-reached",
+      "score": 77
     },
     {
-      "url": "https://newsfirst.lk/2026/11/06/540-polish-visitors-arrive-in-sri-lanka-in-a-single-day",
-      "headline": "540 Polish Visitors Arrive in a Single Day",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://newsfirst.lk/2026/11/06/cip-varuni-bogahawatta-and-four-others-remanded-until-november-20",
+      "headline": "CIP Varuni Bogahawatta and Four Others Remanded",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/06/9-million-vehicle-records-under-analysis-following-seizure",
+      "headline": "9 Million Vehicle Records Under Analysis",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/11/06/internal-power-struggle-could-cost-slfp-the-right-to-contest-elections",
       "headline": "Internal Struggle Could Cost SLFP Right Contest",
-      "reason": "score-below-threshold (73 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 73
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/06/fcid-arrests-suspect-over-illegal-pyramid-scheme",
-      "headline": "FCID Arrests Suspect Over Illegal Pyramid Scheme",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/06/pm-joins-high-level-commonwealth-talks-on-economy-and-climate",
-      "headline": "PM Joins High-Level Commonwealth Talks on Economy",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/06/speaker-rejects-sajith-premadasa%e2%80%99s-privilege-motion",
-      "headline": "Speaker Rejects Sajith’s Privilege Motion",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/06/ex-krrish-director-janaki-siriwardhana-remanded-again",
-      "headline": "Ex-Krrish Director Janaki Siriwardhana Remanded",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []

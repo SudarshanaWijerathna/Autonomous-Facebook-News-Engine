@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/22/who-was-found-guilty-and-who-was-acquitted-in-easter-sunday-case",
-    "contentHash": "f490a8bc8be8801d2bd280150e2dfe6dd4e7a918b85df3e280effb8e54184b8e",
-    "headline": "Who Was Found Guilty and Who Was Acquitted?",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-23T05:21:33.259Z",
-    "fbPostId": "1278802861974766_122119771809402039",
-    "category": "Sri Lanka",
-    "score": 92,
-    "addedAt": "2026-09-23T05:22:44.107Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/23/update-up-to-260-years-in-prison-for-easter-sunday-attack-convicts",
-    "contentHash": "2342234823b612cdb3125a4fda9c7ff4d43a5db55f92533e40b45f17a23063bd",
-    "headline": "Up to 260 Yrs in Prison for Easter Attack Convicts",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-23T05:21:33.259Z",
-    "fbPostId": "1278802861974766_122119772001402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-23T05:23:26.886Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/23/man-arrested-over-illegal-transfer-of-rs-24-8-bn-worth-of-usd",
     "contentHash": "f1655e058be8c3275e62223d56ca421e3c375f5e9f25bd2ebe63ae9513485a70",
     "headline": "Man Arrested Over Illegal Transfer of Rs. 24.8 Bn",
@@ -1965,6 +1941,30 @@
     "category": "Business",
     "score": 68,
     "addedAt": "2026-11-06T15:31:55.395Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/06/traffic-grinds-to-a-halt-after-floodwaters-inundate-colombo-streets",
+    "contentHash": "33373fa5caaecc56e4849960c91c29bac50562439373fe3e87451698d177575e",
+    "headline": "Floodwaters Inundate Colombo Streets",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-07T06:42:02.795Z",
+    "fbPostId": "1278802861974766_122132053899402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-07T06:42:58.431Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/06/adb-grants-sri-lanka-200-million-loan-facility",
+    "contentHash": "62949521f0e02a22d90b83e753ef2b8ee1a56dc1bd19e51c3f7f5be67b525389",
+    "headline": "ADB Grants Sri Lanka $200 Million Loan Facility",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-07T06:42:02.796Z",
+    "fbPostId": "1278802861974766_122132053959402039",
+    "category": "Business",
+    "score": 82,
+    "addedAt": "2026-11-07T06:43:03.639Z",
     "isShadow": false
   }
 ]
