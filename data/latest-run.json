@@ -1,17 +1,22 @@
 {
-  "runId": "79c2563d",
-  "startedAt": "2026-11-08T18:13:09.108Z",
-  "finishedAt": "2026-11-08T18:14:46.019Z",
+  "runId": "9034cca3",
+  "startedAt": "2026-11-08T19:50:24.572Z",
+  "finishedAt": "2026-11-08T19:51:33.275Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/11/08/32-chinese-nationals-arrested-in-panadura-over-suspected-online-financial-fraud",
       "headline": "32 Arrested in Panadura Financial Fraud Bust",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/08/sri-lanka-to-launch-first-ever-passenger-drone-service",
+      "headline": "Sri Lanka Unveils Passenger Drones",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -25,22 +30,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/08/fire-breaks-out-at-galle-fisheries-harbour-four-boats-sustain-damage",
-      "headline": "Fire Damages 4 Boats at Galle Harbour",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/08/heavy-rains-prompt-opening-of-reservoir-spill-gates",
+      "headline": "Heavy Rains Prompt Opening of Spill Gates",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/11/08/three-arrested-over-uppuvelli-three-wheeler-shooting",
       "headline": "3 Arrested Over Uppuvelli Three-Wheeler Shooting",
       "reason": "score-below-threshold (65 < 75)",
       "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/08/liquor-shops-in-several-areas-closed-today-for-deepawali",
-      "headline": "Liquor Shops In Several Areas Closed Today",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/11/08/pm-harini-extends-deepawali-greetings-calls-for-greater-harmony-among-communities",
@@ -51,6 +50,18 @@
     {
       "url": "https://newsfirst.lk/2026/11/08/president-extends-deepawali-greetings-calls-for-a-society-built-on-compassion-and-equality",
       "headline": "President Extends Deepawali Greetings",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/08/trump-offers-ufc-boss-dana-white-white-house-press-secretary-role",
+      "headline": "Trump Offers Dana White, White House Role",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
