@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/23/man-arrested-over-illegal-transfer-of-rs-24-8-bn-worth-of-usd",
-    "contentHash": "f1655e058be8c3275e62223d56ca421e3c375f5e9f25bd2ebe63ae9513485a70",
-    "headline": "Man Arrested Over Illegal Transfer of Rs. 24.8 Bn",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-23T10:12:27.819Z",
-    "fbPostId": "1278802861974766_122119830243402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-23T10:13:23.331Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/23/imf-calls-for-tax-reforms-stable-inflation-target-and-anti-corruption-safeguards",
-    "contentHash": "9253ec0a44cbde5ad05800f88131a5a4a21148486e60fd9b6943d600005d3aae",
-    "headline": "IMF Calls for Tax Reforms, Stable Inflation Target",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-23T10:12:27.818Z",
-    "fbPostId": "1278802861974766_122119830651402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-09-23T10:14:06.846Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/24/nilwala-and-gin-rivers-reach-minor-flood-levels",
     "contentHash": "9693a4d1c763ace58cf875452e1a437a7fa995949d0181211c36fdd3f9ed8869",
     "headline": "Nilwala and Gin Rivers Reach Minor Flood Levels",
@@ -1989,6 +1965,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-07T09:45:06.975Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/07/over-100mm-of-rain-in-under-an-hour-triggers-flash-floods-in-colombo-met-chief-warns-of-intense-downpours-and-blocked-drains-worsening-flood-risks",
+    "contentHash": "03dfdb1e75ad6e3e5ba97e182c6ad33c8e17a58b91f3bbc5d11ae349901842f6",
+    "headline": "Over 100mm of Rain Triggers Flash Flooding in CMB",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-08T06:48:16.120Z",
+    "fbPostId": "1278802861974766_122132251089402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-08T06:49:13.205Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/07/pta-replacement-and-organised-crime-bills-won-t-be-rushed-through-parliament-president",
+    "contentHash": "f9c9f82339872a83b27b7ccbc03bfe1560cc5f367240461a69cc91b336c1835e",
+    "headline": "PTA and Organised Crime Bills Need Broad Consensus",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-08T06:48:16.120Z",
+    "fbPostId": "1278802861974766_122132251197402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-11-08T06:49:17.717Z",
     "isShadow": false
   }
 ]
