@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/24/nilwala-and-gin-rivers-reach-minor-flood-levels",
-    "contentHash": "9693a4d1c763ace58cf875452e1a437a7fa995949d0181211c36fdd3f9ed8869",
-    "headline": "Nilwala and Gin Rivers Reach Minor Flood Levels",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-24T13:04:06.455Z",
-    "fbPostId": "1278802861974766_122120122173402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-09-24T13:06:50.130Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/25/sri-lanka-makes-tin-mandatory-for-bank-accounts-vehicle-registration-and-land-deals",
     "contentHash": "48875db770643bd63b1d5c12a8ef8154b24b4d58d4f8890ed7438184a3674ecd",
     "headline": "TIN MUST for Banks, Vehicle Registration & More",
@@ -2013,6 +2001,18 @@
     "category": "Sports",
     "score": 76,
     "addedAt": "2026-11-08T09:58:05.387Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/08/32-chinese-nationals-arrested-in-panadura-over-suspected-online-financial-fraud",
+    "contentHash": "bed5cb35ea8ab07f5b07c4f5e0825d2f8c5bbb20ad579ff1110f4fef95a21f1d",
+    "headline": "32 Arrested in Panadura Financial Fraud Bust",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-08T14:40:37.592Z",
+    "fbPostId": "1278802861974766_122132318715402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-11-08T14:41:32.923Z",
     "isShadow": false
   }
 ]

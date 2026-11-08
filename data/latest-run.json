@@ -1,13 +1,13 @@
 {
-  "runId": "fd279b3f",
-  "startedAt": "2026-11-08T09:56:40.200Z",
-  "finishedAt": "2026-11-08T09:58:05.389Z",
+  "runId": "48bf5da7",
+  "startedAt": "2026-11-08T14:40:07.301Z",
+  "finishedAt": "2026-11-08T14:41:32.924Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 30,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/07/pta-replacement-and-organised-crime-bills-won-t-be-rushed-through-parliament-president",
-      "headline": "PTA and Organised Crime Bills Need Broad Consensus",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/07/president-calls-for-digital-transformation-urges-shift-away-from-outdated-public-sector-systems",
-      "headline": "President Calls for Digital Transformation",
-      "reason": "max-posts-per-run-reached",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/07/four-missing-after-being-swept-away-while-bathing-in-deniyaya-stream",
-      "headline": "4 Missing After Being Swept Away In Deniyaya",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/08/three-arrested-over-uppuvelli-three-wheeler-shooting",
       "headline": "3 Arrested Over Uppuvelli Three-Wheeler Shooting",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/11/08/liquor-shops-in-several-areas-closed-today-for-deepawali",
       "headline": "Liquor Shops In Several Areas Closed Today",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/08/pm-harini-extends-deepawali-greetings-calls-for-greater-harmony-among-communities",
+      "headline": "PM Harini Extends Deepawali Greetings",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/08/president-extends-deepawali-greetings-calls-for-a-society-built-on-compassion-and-equality",
+      "headline": "President Extends Deepawali Greetings",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/08/fire-breaks-out-at-galle-fisheries-harbour-four-boats-sustain-damage",
+      "headline": "Fire Damages 4 Boats at Galle Harbour",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
