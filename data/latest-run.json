@@ -1,14 +1,19 @@
 {
-  "runId": "48bf5da7",
-  "startedAt": "2026-11-08T14:40:07.301Z",
-  "finishedAt": "2026-11-08T14:41:32.924Z",
+  "runId": "c8771dc2",
+  "startedAt": "2026-11-08T16:44:27.752Z",
+  "finishedAt": "2026-11-08T16:45:41.847Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/11/08/32-chinese-nationals-arrested-in-panadura-over-suspected-online-financial-fraud",
+      "headline": "32 Arrested in Panadura Financial Fraud Bust",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,16 +25,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/08/heavy-rains-prompt-opening-of-reservoir-spill-gates",
+      "headline": "Heavy Rains Prompt Opening of Spill Gates",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/08/three-arrested-over-uppuvelli-three-wheeler-shooting",
       "headline": "3 Arrested Over Uppuvelli Three-Wheeler Shooting",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/08/liquor-shops-in-several-areas-closed-today-for-deepawali",
-      "headline": "Liquor Shops In Several Areas Closed Today",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/11/08/pm-harini-extends-deepawali-greetings-calls-for-greater-harmony-among-communities",
@@ -44,8 +49,14 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/08/fire-breaks-out-at-galle-fisheries-harbour-four-boats-sustain-damage",
-      "headline": "Fire Damages 4 Boats at Galle Harbour",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/08/liquor-shops-in-several-areas-closed-today-for-deepawali",
+      "headline": "Liquor Shops In Several Areas Closed Today",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
