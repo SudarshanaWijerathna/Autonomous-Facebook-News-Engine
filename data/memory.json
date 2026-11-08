@@ -1990,5 +1990,29 @@
     "score": 75,
     "addedAt": "2026-11-08T06:49:17.717Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/07/paye-tax-relief-government-eyes-further-increase-in-tax-free-threshold",
+    "contentHash": "1cc89ae2cb1a9b8346f47407109718b3a690fe500da750e21564d5a162697d7b",
+    "headline": "PAYE Tax Relief Expected In Budget",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-08T09:57:06.697Z",
+    "fbPostId": "1278802861974766_122132277657402039",
+    "category": "Business",
+    "score": 81,
+    "addedAt": "2026-11-08T09:58:01.300Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/08/taavi-samaraweera-makes-history-with-sensational-double-gold-triumph",
+    "contentHash": "ea3b1f3b8549de2d9790fd3ffed5b081f7a5af2f797e85da232555a213e0bd58",
+    "headline": "Taavi Makes History with Double Gold Triumph",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-08T09:57:06.696Z",
+    "fbPostId": "1278802861974766_122132277741402039",
+    "category": "Sports",
+    "score": 76,
+    "addedAt": "2026-11-08T09:58:05.387Z",
+    "isShadow": false
   }
 ]
