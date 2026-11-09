@@ -1,17 +1,17 @@
 {
-  "runId": "813026a9",
-  "startedAt": "2026-11-09T11:01:35.199Z",
-  "finishedAt": "2026-11-09T11:03:05.892Z",
+  "runId": "a7613c57",
+  "startedAt": "2026-11-09T14:10:21.900Z",
+  "finishedAt": "2026-11-09T14:11:29.897Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
-      "url": "https://newsfirst.lk/2026/11/09/dengue-cases-surge-past-107-000-81-lives-lost-so-far-this-year",
-      "headline": "Dengue Cases Surge Past 107,000",
+      "url": "https://newsfirst.lk/2026/11/09/former-president-gotabaya-rajapaksa-summoned-to-ccib",
+      "headline": "Fmr. President Gotabaya Rajapaksa Summoned to CCIB",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -25,13 +25,13 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/08/32-chinese-nationals-arrested-in-panadura-over-suspected-online-financial-fraud",
-      "headline": "32 Arrested in Panadura Financial Fraud Bust",
+      "url": "https://newsfirst.lk/2026/11/09/dengue-cases-surge-past-107-000-81-lives-lost-so-far-this-year",
+      "headline": "Dengue Cases Surge Past 107,000",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/08/sri-lanka-to-launch-first-ever-passenger-drone-service",
-      "headline": "Sri Lanka Unveils Passenger Drones",
+      "url": "https://newsfirst.lk/2026/11/09/sixty-blocked-drains-identified-as-contributing-to-flash-floods-across-colombo",
+      "headline": "60 Blocked Drains Contribute to Floods in Col.",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -43,12 +43,18 @@
     {
       "url": "https://newsfirst.lk/2026/11/09/cmc-to-remove-unauthorized-constructions-causing-flash-floods-in-colombo",
       "headline": "CMC To Remove Unauthorized Constructions",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/08/three-bodies-recovered-after-four-swept-away-while-bathing-in-raja-ella-deniyaya",
-      "headline": "Three Bodies Recovered After Four Swept Away",
+      "url": "https://newsfirst.lk/2026/11/08/fire-breaks-out-at-galle-fisheries-harbour-four-boats-sustain-damage",
+      "headline": "Fire Damages 4 Boats at Galle Harbour",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/09/navy-rescues-three-sick-fishers-off-sri-lanka-s-east",
+      "headline": "Navy Rescues Three Sick Fishers Off SL' s East",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
@@ -59,8 +65,8 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/08/fire-breaks-out-at-galle-fisheries-harbour-four-boats-sustain-damage",
-      "headline": "Fire Damages 4 Boats at Galle Harbour",
+      "url": "https://newsfirst.lk/2026/11/09/nvidia-launches-probe-after-claims-jensen-huang-was-targeted-by-foreign-intelligence-operation",
+      "headline": "AI Giant NVIDIA Orders Investigation",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
