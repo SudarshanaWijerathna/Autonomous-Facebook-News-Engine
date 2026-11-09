@@ -2026,5 +2026,29 @@
     "score": 78,
     "addedAt": "2026-11-08T18:14:46.018Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/09/sixty-blocked-drains-identified-as-contributing-to-flash-floods-across-colombo",
+    "contentHash": "0ff36e0857d7f0703df1bf3cccbf2c4d13ba1ecc0966873c50bd7ad1bff46ee4",
+    "headline": "60 Blocked Drains Contribute to Floods in Col.",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-09T07:21:59.194Z",
+    "fbPostId": "1278802861974766_122132433027402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-09T07:22:51.756Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/09/dengue-cases-surge-past-107-000-81-lives-lost-so-far-this-year",
+    "contentHash": "b1ec7ede12684ad8eec5ec94b507c714b097f15a07f04fc6ccdcbfcad4bda267",
+    "headline": "Dengue Cases Surge Past 107,000",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-09T07:21:59.194Z",
+    "fbPostId": "1278802861974766_122132433105402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-11-09T07:22:56.413Z",
+    "isShadow": false
   }
 ]
