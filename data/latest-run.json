@@ -1,7 +1,7 @@
 {
-  "runId": "ef2725b0",
-  "startedAt": "2026-11-09T22:51:39.694Z",
-  "finishedAt": "2026-11-09T22:53:02.377Z",
+  "runId": "f5b4de07",
+  "startedAt": "2026-11-09T23:48:57.867Z",
+  "finishedAt": "2026-11-09T23:50:08.599Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -49,8 +49,8 @@
     {
       "url": "https://newsfirst.lk/2026/11/09/navy-rescues-three-sick-fishers-off-sri-lanka-s-east",
       "headline": "Navy Rescues Three Sick Fishers Off SL' s East",
-      "reason": "score-below-threshold (64 < 75)",
-      "score": 64
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/11/08/fire-breaks-out-at-galle-fisheries-harbour-four-boats-sustain-damage",
