@@ -1,7 +1,7 @@
 {
-  "runId": "f5b4de07",
-  "startedAt": "2026-11-09T23:48:57.867Z",
-  "finishedAt": "2026-11-09T23:50:08.599Z",
+  "runId": "ce97a7a5",
+  "startedAt": "2026-11-10T00:44:58.363Z",
+  "finishedAt": "2026-11-10T00:46:12.307Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -35,16 +35,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/09/navy-personnel-arrested-over-theft-of-t-56-assault-rifle",
-      "headline": "Navy Personnel Arrested Over Theft of T-56",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/09/cmc-to-remove-unauthorized-constructions-causing-flash-floods-in-colombo",
       "headline": "CMC To Remove Unauthorized Constructions",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/09/daham-prasad-remanded-until-nov-16-following-sacred-city-protest-clash",
+      "headline": "\"Daham Prasad\" Remanded Over Sacred City Clash",
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/11/09/navy-rescues-three-sick-fishers-off-sri-lanka-s-east",
