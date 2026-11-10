@@ -1,11 +1,11 @@
 {
-  "runId": "59631272",
-  "startedAt": "2026-11-10T20:11:54.563Z",
-  "finishedAt": "2026-11-10T20:13:18.467Z",
+  "runId": "0db58311",
+  "startedAt": "2026-11-10T21:21:48.398Z",
+  "finishedAt": "2026-11-10T21:23:06.237Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
-  "scored": 6,
+  "scored": 5,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -31,35 +31,35 @@
       "score": 85
     },
     {
+      "url": "https://newsfirst.lk/2026/11/10/pillayan-remanded-again-over-five-eastern-province-killing",
+      "headline": "Pillayan Remanded Over Five Eastern Murders",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/10/adb-unveils-300-million-water-lifeline-to-benefit-1-3-million-sri-lanka",
+      "headline": "ADB Unveils $300 Million Water Lifeline",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 82
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/10/sri-lanka-presented-a-much-improved-draft-of-psta-says-un-expert-group",
       "headline": "Sri Lanka Presented a Much-Improved Draft of PSTA",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/10/bribery-commission-concludes-money-laundering-probe-against-former-minister-c-b-rathnayake",
-      "headline": "Rathnayake Money Laundering Probe Concluded",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/10/weapons-cache-linked-to-%e2%80%98bus-lalith%e2%80%99-unearthed",
-      "headline": "Weapons Cache Linked to ‘Bus Lalith’ Unearthed",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/11/10/court-hears-fate-of-%e2%80%98gampaha-osmand%e2%80%99-as-pta-detention-challenged",
-      "headline": "Court Hears Fate of ‘Gampaha Osmand’",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/10/sampath-remanded-again-over-rs-8-4-mn-bribery-allegation",
-      "headline": "Sampath Remanded Again Over Rs. 8.4 Mn Bribe",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/10/bribery-commission-concludes-money-laundering-probe-against-former-minister-c-b-rathnayake",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
