@@ -1,65 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/25/sri-lanka-makes-tin-mandatory-for-bank-accounts-vehicle-registration-and-land-deals",
-    "contentHash": "48875db770643bd63b1d5c12a8ef8154b24b4d58d4f8890ed7438184a3674ecd",
-    "headline": "TIN MUST for Banks, Vehicle Registration & More",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-25T15:22:47.053Z",
-    "fbPostId": "1278802861974766_122120380467402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-25T15:23:54.177Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/25/former-lanka-mineral-sands-chairman-arrested-over-rs-34-4m-corruption-case",
-    "contentHash": "e6ee2725e0e2701934c77def0d9f8c05bc52d58d9305f3d0b3cb711c12c285f2",
-    "headline": "Former Lanka Mineral Sands Chairman Arrested",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-25T15:22:47.052Z",
-    "fbPostId": "1278802861974766_122120380707402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-25T15:24:37.178Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/25/sc-rejects-challenge-to-suresh-sallay%e2%80%99s-arrest-after-petitioner-seeks-withdrawal",
-    "contentHash": "68c9afe29bfcc833fb68d780f0a8bd8317a8edca4bd26e393159818e6f6eec84",
-    "headline": "SC Rejects Challenge to Suresh Sallay’s Arrest",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-25T20:34:50.746Z",
-    "fbPostId": "1278802861974766_122120430285402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-25T20:35:55.599Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/25/22nd-constitutional-amendment-passes-parliament-with-overwhelming-majority",
-    "contentHash": "908fafcda5332e86e15c8c276b72e6020344ad67c8c17b7d076fc5961e9d6ac1",
-    "headline": "22nd Amendment Secures 158 Votes in Parliament",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-26T05:40:42.710Z",
-    "fbPostId": "1278802861974766_122120508129402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-26T05:41:35.012Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/25/22a-clears-final-vote-158-mps-vote-in-favor",
-    "contentHash": "4c4f123fb4e83db59bfa1a79dd0239e406547dce38ab082b4ce0711868d90518",
-    "headline": "22A Passed After 158 MPs Vote In Favour",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-26T05:40:42.709Z",
-    "fbPostId": "1278802861974766_122120508561402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-09-26T05:42:18.371Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/26/susanthika%e2%80%99s-24-year-asian-games-record-broken",
     "contentHash": "9f1fc3fc07e8e3c5cd072546a26d3ee03b136992ced717e9dfdda8545ab5eb63",
     "headline": "Susanthika’s 24-Year Asian Games Record Broken",
@@ -2061,6 +2001,18 @@
     "category": "Sri Lanka",
     "score": 88,
     "addedAt": "2026-11-09T11:03:05.891Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/10/dengue-cases-surge-several-colombo-zones-at-high-risk",
+    "contentHash": "da44dc840d8aa3affde5afb00b42f985cc1ced3415b93cba1e7a37d764037317",
+    "headline": "Dengue Cases Surge,Several Colombo Zones At Risk",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-10T07:52:06.606Z",
+    "fbPostId": "1278802861974766_122132611689402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-11-10T07:53:23.956Z",
     "isShadow": false
   }
 ]
