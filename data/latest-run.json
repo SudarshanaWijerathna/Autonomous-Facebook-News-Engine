@@ -1,13 +1,13 @@
 {
-  "runId": "bcc5cc5d",
-  "startedAt": "2026-11-10T07:51:38.837Z",
-  "finishedAt": "2026-11-10T07:53:23.958Z",
+  "runId": "d8c1cc52",
+  "startedAt": "2026-11-10T10:51:01.730Z",
+  "finishedAt": "2026-11-10T10:52:44.503Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
-  "scored": 4,
-  "selected": 1,
-  "published": 1,
+  "scored": 6,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,34 +20,29 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/09/dronegate-nalin-bandara-defends-drone-imports-says-it-was-a-permit-issue",
-      "headline": "DroneGate | Nalin Bandara Defends Drone Imports",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/10/multi-bus-crash-leaves-over-20-injured-in-mihintale",
+      "headline": "Multi-Bus Crash Leaves Over 20 Injured in Rambewa",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/10/sri-lanka-seeks-japanese-support-for-second-doppler-radar-system",
-      "headline": "Japan's Support Sought for Second Doppler Radar",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/10/bribery-commission-concludes-money-laundering-probe-against-former-minister-c-b-rathnayake",
+      "headline": "Rathnayake Money Laundering Probe Concluded",
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/10/laboratory-tests-confirm-cause-of-buffalo-deaths-in-anuradhapura",
       "headline": "Tests Confirm Cause of Buffalo Deaths",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/10/sri-lanka-seeks-japanese-support-for-second-doppler-radar-system",
+      "headline": "Japan's Support Sought for Second Doppler Radar",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/10/heavy-rainfall-exceeding-100mm-expected-across-several-provinces",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
