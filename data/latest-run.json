@@ -1,7 +1,7 @@
 {
-  "runId": "e142d1ee",
-  "startedAt": "2026-11-11T19:59:35.436Z",
-  "finishedAt": "2026-11-11T20:01:03.277Z",
+  "runId": "d16be661",
+  "startedAt": "2026-11-11T22:05:19.128Z",
+  "finishedAt": "2026-11-11T22:06:31.489Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -20,22 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/11/triple-bus-crash-police-point-to-reckless-driving",
-      "headline": "Triple Bus Crash: Police Point to Reckless Driving",
+      "url": "https://newsfirst.lk/2026/11/11/akd-to-present-sri-lanka%e2%80%99s-81st-budget-tomorrow-12",
+      "headline": "AKD to Present Sri Lanka’s 81st Budget Tomorrow",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 84
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/11/fuel-price-puzzle-consumers-waiting-for-relief",
+      "headline": "Fuel Price Puzzle: Consumers Waiting for Relief",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/11/11/arrest-warrant-issued-for-balangoda-kassapa-thera",
       "headline": "Arrest Warrant Issued for Balangoda Kassapa Thera",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/11/11/hirunika-appeal-referred-to-three-judge-panel",
       "headline": "Hirunika Appeal Referred to Three-Judge Panel",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/11/11/nbro-begins-rockfall-mitigation-work-along-kadugannawa-road",
@@ -48,12 +54,6 @@
       "headline": "SL New Chair of BIMSTEC Health Minister Summit",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
     }
   ],
   "errors": []
