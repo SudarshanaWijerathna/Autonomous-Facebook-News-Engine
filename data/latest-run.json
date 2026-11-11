@@ -1,11 +1,11 @@
 {
-  "runId": "2ead864b",
-  "startedAt": "2026-11-11T12:52:33.990Z",
-  "finishedAt": "2026-11-11T12:53:53.616Z",
+  "runId": "c33b4119",
+  "startedAt": "2026-11-11T15:44:10.874Z",
+  "finishedAt": "2026-11-11T15:45:39.376Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
-  "scored": 6,
+  "scored": 3,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -20,41 +20,39 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/11/akd-to-present-sri-lanka%e2%80%99s-81st-budget-tomorrow-12",
-      "headline": "AKD to Present Sri Lanka’s 81st Budget Tomorrow",
+      "url": "https://newsfirst.lk/2026/11/11/one-wrong-click-one-costly-mistake-police-warn-of-rising-cybercrime-threat",
+      "headline": "Police Warn of Rising Cybercrime Threat",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/11/arrest-warrant-issued-for-balangoda-kassapa-thera",
+      "headline": "Arrest Warrant Issued for Balangoda Kassapa Thera",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/11/11/hirunika-appeal-referred-to-three-judge-panel",
       "headline": "Hirunika Appeal Referred to Three-Judge Panel",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 65
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/11/sri-lanka-elected-chair-of-bimstec-health-ministers%e2%80%99-summit",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
       "url": "https://newsfirst.lk/2026/11/11/nbro-begins-rockfall-mitigation-work-along-kadugannawa-road",
-      "headline": "NBRO Begins Rockfall Mitigation Work",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/11/sri-lanka-elected-chair-of-bimstec-health-ministers%e2%80%99-summit",
-      "headline": "SL New Chair of BIMSTEC Health Minister Summit",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/11/gunman-fires-at-house-in-midigama-matara-no-injuries-reported",
-      "headline": "Gunman Fires at House in Midigama, Matara",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     }
-  ],
-  "errors": []
+  ]
 }
