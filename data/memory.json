@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/27/7-647-child-abuse-complaints-reported-this-year",
-    "contentHash": "fcdb625196d13f327fc58f978695a9939624eea403ca85bb2e47859dc2c67e89",
-    "headline": "7,647 Child Abuse Complaints Reported This Year",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-27T13:27:05.548Z",
-    "fbPostId": "1278802861974766_122120837433402039",
-    "category": "Sri Lanka",
-    "score": 84,
-    "addedAt": "2026-09-27T13:29:47.118Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/27/1-513-mw-of-solar-power-added-to-national-grid",
-    "contentHash": "de2b20f943e0f260a24a067cfc1cb347da33bae08228f75b5de0527073998461",
-    "headline": "1,513 MW of Solar Power Added to National Grid",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-27T13:27:05.548Z",
-    "fbPostId": "1278802861974766_122120837625402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-09-27T13:30:33.626Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/28/new-law-to-tackle-organized-crime-and-cross-border-trafficking",
     "contentHash": "9b4eafcd1715025f7b2e539e1716e89273006754e312d07aa1479600db742711",
     "headline": "New Law to Tackle Organized Crime",
@@ -2061,6 +2037,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-11T10:29:49.137Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/11/court-freezes-use-of-12-vehicles-in-rs-5-bn-matara-co-op-fraud-probe",
+    "contentHash": "676075cc5209ec90e7b1e48eeb564f51250e335ab4792dac27252e7eb9c65680",
+    "headline": "Luxury Vehicle Trail Deepens in Massive Probe",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-12T07:50:14.095Z",
+    "fbPostId": "1278802861974766_122133070569402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-11-12T07:51:24.665Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/11/court-rules-elephants-are-public-property-in-kavantissa-shooting-case",
+    "contentHash": "f64fde3ad89370a83727a2fd7428c502ad7cb6029de12e53bcac3ead2fdf60a1",
+    "headline": "Elephants Are Public Property in Kavantissa Case",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-12T07:50:14.096Z",
+    "fbPostId": "1278802861974766_122133070731402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-12T07:51:29.748Z",
     "isShadow": false
   }
 ]
