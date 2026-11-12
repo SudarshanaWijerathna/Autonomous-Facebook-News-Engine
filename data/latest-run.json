@@ -1,7 +1,7 @@
 {
-  "runId": "9abe3a2e",
-  "startedAt": "2026-11-12T21:52:28.520Z",
-  "finishedAt": "2026-11-12T21:53:40.959Z",
+  "runId": "48a76e99",
+  "startedAt": "2026-11-12T22:46:52.809Z",
+  "finishedAt": "2026-11-12T22:48:03.638Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -42,22 +42,22 @@
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/12/dutch-embassy-warns-sri-lankans-against-fake-job-rackets-and-forged-immigration-letters",
-      "headline": "Dutch Embassy Warns Against Fake Job Rackets",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/11/12/government-bets-big-on-tea-rubber-and-coconuts",
+      "headline": "Government Bets Big on Tea, Rubber and Coconuts",
+      "reason": "category-cap-reached (Business: 1/1 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/12/sri-lanka-sets-sights-on-usd-600-mn-fisheries-export-target-by-2030",
-      "headline": "Sri Lanka Targets USD 600 Mn Fisheries Exports",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/12/dutch-embassy-warns-sri-lankans-against-fake-job-rackets-and-forged-immigration-letters",
+      "headline": "Dutch Embassy Warns Against Fake Job Rackets",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/12/further-hearing-in-money-laundering-case-against-yoshitha-rajapaksa-fixed-for-november-26",
       "headline": "Yoshitha's Money Laundering Case Hearing Fixed for",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
