@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/28/dengue-cases-cross-100-000-as-health-officials-sound-alarm",
-    "contentHash": "fc0dc0bb94c3527a6c6e0ffd3d751e5ed4a1ac0ed13c82db3be3f319e81b8186",
-    "headline": "Dengue Cases Cross 100,000",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-28T11:52:48.600Z",
-    "fbPostId": "1278802861974766_122121069801402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-28T12:07:22.979Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/29/colombo%e2%80%99s-bus-priority-lane-system-returns",
     "contentHash": "ac4baae13cdc635e11623938df796aaa9a0b63c715c3539e718e8637dd079185",
     "headline": "Colombo’s Bus Priority Lane System Returns",
@@ -2049,6 +2037,18 @@
     "category": "Sri Lanka",
     "score": 90,
     "addedAt": "2026-11-12T10:45:53.317Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/12/us-backed-plan-targets-ai-cloud-and-cyber-security",
+    "contentHash": "2e7218ff8a3df793f1f2e805ec5e5b3198466f63e05f7779a6e868d45666af16",
+    "headline": "US-Backed Plan Targets AI, Cloud and Cyber Safety",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-12T16:29:06.403Z",
+    "fbPostId": "1278802861974766_122133143007402039",
+    "category": "AI & Tech",
+    "score": 75,
+    "addedAt": "2026-11-12T16:32:15.100Z",
     "isShadow": false
   }
 ]
