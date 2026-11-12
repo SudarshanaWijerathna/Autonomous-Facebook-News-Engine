@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/28/new-law-to-tackle-organized-crime-and-cross-border-trafficking",
-    "contentHash": "9b4eafcd1715025f7b2e539e1716e89273006754e312d07aa1479600db742711",
-    "headline": "New Law to Tackle Organized Crime",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-28T09:28:53.693Z",
-    "fbPostId": "1278802861974766_122121043395402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-09-28T09:29:49.023Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/28/foreign-minister-vijitha-herath-to-address-un-general-assembly-today-28",
-    "contentHash": "ffae89ec9fea7d93a7bd3df47aae63368ba56d1af4c7658095c2976de692a8ba",
-    "headline": "Foreign Min Vijitha Herath to Address UNGA",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-28T09:28:53.693Z",
-    "fbPostId": "1278802861974766_122121043653402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-28T09:30:35.598Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/28/dengue-cases-cross-100-000-as-health-officials-sound-alarm",
     "contentHash": "fc0dc0bb94c3527a6c6e0ffd3d751e5ed4a1ac0ed13c82db3be3f319e81b8186",
     "headline": "Dengue Cases Cross 100,000",
@@ -2061,6 +2037,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-12T07:51:29.748Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/12/president-to-present-transformation-budget-today",
+    "contentHash": "b165801aeedb180bed4751e02483f1b7fe7c25dee81e2c5ca7108534ecf47213",
+    "headline": "President to Present 'Transformation Budget' Today",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-12T10:45:00.401Z",
+    "fbPostId": "1278802861974766_122133089925402039",
+    "category": "Sri Lanka",
+    "score": 90,
+    "addedAt": "2026-11-12T10:45:53.317Z",
     "isShadow": false
   }
 ]

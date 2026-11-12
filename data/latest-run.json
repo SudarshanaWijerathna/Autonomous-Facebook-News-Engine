@@ -1,13 +1,13 @@
 {
-  "runId": "3c011f87",
-  "startedAt": "2026-11-12T07:49:48.726Z",
-  "finishedAt": "2026-11-12T07:51:29.749Z",
+  "runId": "e51f47ae",
+  "startedAt": "2026-11-12T10:44:31.463Z",
+  "finishedAt": "2026-11-12T10:45:53.319Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
-  "scored": 5,
-  "selected": 2,
-  "published": 2,
+  "afterDedup": 28,
+  "scored": 6,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,29 +20,45 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/11/triple-bus-crash-police-point-to-reckless-driving",
-      "headline": "Triple Bus Crash: Police Point to Reckless Driving",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/11/court-freezes-use-of-12-vehicles-in-rs-5-bn-matara-co-op-fraud-probe",
+      "headline": "Luxury Vehicle Trail Deepens in Massive Probe",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/11/court-rules-elephants-are-public-property-in-kavantissa-shooting-case",
+      "headline": "Elephants Are Public Property in Kavantissa Case",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/12/%e2%80%98visit-visa-is-not-a-work-visa%e2%80%99-be-alert-when-seeking-jobs-overseas",
+      "headline": "‘Visit Visa Is Not a Work Visa’: Be Alert",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/12/foreign-ministry-warns-sri-lankans-against-seeking-overseas-employment-on-visit-visas",
+      "headline": "Foreign Ministry Warns Against Jobs on Visit Visas",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/11/2027-budget-is-about-changing-sri-lanka-says-deputy-minister",
+      "headline": "2027 Budget Is About Changing Sri Lanka",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/11/11/ranil-s-case-moved-to-december-as-ag%e2%80%99s-advice-sought",
       "headline": "Ranil's Case Moved To December",
-      "reason": "max-posts-per-run-reached",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/12/us-backed-plan-targets-ai-cloud-and-cyber-security",
+      "headline": "US-Backed Plan Targets AI, Cloud and Cyber Safety",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/11/one-wrong-click-one-costly-mistake-police-warn-of-rising-cybercrime-threat",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
