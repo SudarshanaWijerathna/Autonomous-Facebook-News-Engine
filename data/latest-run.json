@@ -1,14 +1,19 @@
 {
-  "runId": "a2427f50",
-  "startedAt": "2026-11-13T10:40:04.678Z",
-  "finishedAt": "2026-11-13T10:41:28.739Z",
+  "runId": "c8bbe3ca",
+  "startedAt": "2026-11-13T13:18:58.997Z",
+  "finishedAt": "2026-11-13T13:20:11.730Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
+    {
+      "url": "https://newsfirst.lk/2026/11/13/special-commodity-levy-on-several-essential-goods-revised-starting-today",
+      "headline": "Levy Revisions on Essential Goods Take Effect",
+      "reason": "exact-duplicate-in-memory"
+    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -20,15 +25,27 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/12/budget-pumps-billions-into-dairy-poultry-and-livestock",
-      "headline": "Budget Pumps Billions into Dairy and Livestock",
+      "url": "https://newsfirst.lk/2026/11/12/free-dual-citizenship-for-future-generations",
+      "headline": "Free Dual Citizenship for Future Generations",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/13/2027-budget-second-reading-debate-begins-today",
+      "headline": "2027 Budget Second Reading Debate Begins Today",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/11/12/hundreds-of-new-ambulances-to-replace-aging-fleet-across-sri-lanka",
       "headline": "Hundreds of New Ambulances to Replace Aging Fleet",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 81
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/13/balangoda-kassapa-thero-and-six-others-remanded-over-ruwanwelisaya-unrest",
+      "headline": "Balangoda Kassapa Thero and Six Others Remanded",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/11/13/trawler-seized-with-suspected-narcotics-to-be-brought-to-galle-harbour-today",
@@ -41,12 +58,6 @@
       "headline": "Sri Lanka Offers Rs. 100 Million for Olympic Gold",
       "reason": "score-below-threshold (74 < 75)",
       "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/12/government-bets-big-on-tea-rubber-and-coconuts",
-      "headline": "Government Bets Big on Tea, Rubber and Coconuts",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
