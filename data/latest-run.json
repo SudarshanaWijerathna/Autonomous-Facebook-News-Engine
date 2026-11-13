@@ -1,11 +1,11 @@
 {
-  "runId": "72218c4d",
-  "startedAt": "2026-11-13T15:49:09.107Z",
-  "finishedAt": "2026-11-13T15:50:30.748Z",
+  "runId": "0a46700d",
+  "startedAt": "2026-11-13T17:56:15.275Z",
+  "finishedAt": "2026-11-13T17:57:25.554Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
-  "scored": 5,
+  "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -20,25 +20,19 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/12/free-dual-citizenship-for-future-generations",
-      "headline": "Free Dual Citizenship for Future Generations",
+      "url": "https://newsfirst.lk/2026/11/13/special-commodity-levy-on-several-essential-goods-revised-starting-today",
+      "headline": "Levy Revisions on Essential Goods Take Effect",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/12/hundreds-of-new-ambulances-to-replace-aging-fleet-across-sri-lanka",
-      "headline": "Hundreds of New Ambulances to Replace Aging Fleet",
+      "url": "https://newsfirst.lk/2026/11/13/2027-budget-second-reading-debate-begins-today",
+      "headline": "2027 Budget Second Reading Debate Begins Today",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/11/13/balangoda-kassapa-thero-and-six-others-remanded-over-ruwanwelisaya-unrest",
-      "headline": "Balangoda Kassapa Thero and Six Others Remanded",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/13/stabilization-work-begins-at-kadugannawa-following-landslides-motorists-urged-to-exercise-caution",
-      "headline": "Stabilization Work Begins at Kadugannawa",
+      "url": "https://newsfirst.lk/2026/11/13/rambewa-bus-crash-driver-tested-positive-for-alcohol-cannabis",
+      "headline": "Rambewa Crash Driver Tested Positive for Drugs",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
@@ -49,17 +43,23 @@
       "score": 75
     },
     {
+      "url": "https://newsfirst.lk/2026/11/13/trawler-seized-with-suspected-narcotics-to-be-brought-to-galle-harbour-today",
+      "headline": "Trawler Seized with Suspected Narcotics",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/13/tipper-truck-linked-to-bloemendhal-sanka%e2%80%99-suspended-from-use",
+      "headline": "‘Bloemendhal Sanka’-Linked Truck Suspended",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/13/2027-budget-second-reading-debate-begins-today",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
