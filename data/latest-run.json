@@ -1,7 +1,7 @@
 {
-  "runId": "327e0dac",
-  "startedAt": "2026-11-13T20:18:59.726Z",
-  "finishedAt": "2026-11-13T20:21:16.236Z",
+  "runId": "e22c423e",
+  "startedAt": "2026-11-13T21:28:44.472Z",
+  "finishedAt": "2026-11-13T21:29:54.456Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
@@ -28,31 +28,31 @@
       "url": "https://newsfirst.lk/2026/11/13/2027-budget-second-reading-debate-begins-today",
       "headline": "2027 Budget Second Reading Debate Begins Today",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/13/heroin-and-%e2%80%98ice%e2%80%99-seized-from-trawler-five-arrested",
-      "headline": "Heroin and ‘Ice’ Seized from Trawler; 5 Arrested",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/11/13/laugfs-gas-shipment-reaches-colombo",
       "headline": "LAUGFS Gas Shipment Reaches Colombo",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/13/rambewa-bus-crash-driver-tested-positive-for-alcohol-cannabis",
+      "headline": "Rambewa Crash Driver Tested Positive for Drugs",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/11/13/balangoda-kassapa-thero-and-six-others-remanded-over-ruwanwelisaya-unrest",
       "headline": "Balangoda Kassapa Thero and Six Others Remanded",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/13/trawler-seized-with-suspected-narcotics-to-be-brought-to-galle-harbour-today",
-      "headline": "Trawler Seized with Suspected Narcotics",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/13/heroin-and-%e2%80%98ice%e2%80%99-seized-from-trawler-five-arrested",
+      "headline": "Heroin and ‘Ice’ Seized from Trawler; 5 Arrested",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/11/13/tipper-truck-linked-to-bloemendhal-sanka%e2%80%99-suspended-from-use",
