@@ -1,7 +1,7 @@
 {
-  "runId": "0a46700d",
-  "startedAt": "2026-11-13T17:56:15.275Z",
-  "finishedAt": "2026-11-13T17:57:25.554Z",
+  "runId": "327e0dac",
+  "startedAt": "2026-11-13T20:18:59.726Z",
+  "finishedAt": "2026-11-13T20:21:16.236Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
@@ -31,8 +31,8 @@
       "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/11/13/rambewa-bus-crash-driver-tested-positive-for-alcohol-cannabis",
-      "headline": "Rambewa Crash Driver Tested Positive for Drugs",
+      "url": "https://newsfirst.lk/2026/11/13/heroin-and-%e2%80%98ice%e2%80%99-seized-from-trawler-five-arrested",
+      "headline": "Heroin and ‘Ice’ Seized from Trawler; 5 Arrested",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
@@ -43,22 +43,22 @@
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/13/trawler-seized-with-suspected-narcotics-to-be-brought-to-galle-harbour-today",
-      "headline": "Trawler Seized with Suspected Narcotics",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/13/balangoda-kassapa-thero-and-six-others-remanded-over-ruwanwelisaya-unrest",
+      "headline": "Balangoda Kassapa Thero and Six Others Remanded",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/13/trawler-seized-with-suspected-narcotics-to-be-brought-to-galle-harbour-today",
+      "headline": "Trawler Seized with Suspected Narcotics",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/13/tipper-truck-linked-to-bloemendhal-sanka%e2%80%99-suspended-from-use",
       "headline": "‘Bloemendhal Sanka’-Linked Truck Suspended",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     }
   ],
   "errors": []
