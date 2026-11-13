@@ -1,19 +1,14 @@
 {
-  "runId": "c8bbe3ca",
-  "startedAt": "2026-11-13T13:18:58.997Z",
-  "finishedAt": "2026-11-13T13:20:11.730Z",
+  "runId": "72218c4d",
+  "startedAt": "2026-11-13T15:49:09.107Z",
+  "finishedAt": "2026-11-13T15:50:30.748Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
-  "scored": 6,
+  "afterDedup": 29,
+  "scored": 5,
   "selected": 0,
   "published": 0,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/11/13/special-commodity-levy-on-several-essential-goods-revised-starting-today",
-      "headline": "Levy Revisions on Essential Goods Take Effect",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -30,34 +25,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/13/2027-budget-second-reading-debate-begins-today",
-      "headline": "2027 Budget Second Reading Debate Begins Today",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/12/hundreds-of-new-ambulances-to-replace-aging-fleet-across-sri-lanka",
       "headline": "Hundreds of New Ambulances to Replace Aging Fleet",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/11/13/balangoda-kassapa-thero-and-six-others-remanded-over-ruwanwelisaya-unrest",
       "headline": "Balangoda Kassapa Thero and Six Others Remanded",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/13/trawler-seized-with-suspected-narcotics-to-be-brought-to-galle-harbour-today",
-      "headline": "Trawler Seized with Suspected Narcotics",
+      "url": "https://newsfirst.lk/2026/11/13/stabilization-work-begins-at-kadugannawa-following-landslides-motorists-urged-to-exercise-caution",
+      "headline": "Stabilization Work Begins at Kadugannawa",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/12/sri-lanka-offers-rs-100-million-for-olympic-gold",
-      "headline": "Sri Lanka Offers Rs. 100 Million for Olympic Gold",
-      "reason": "score-below-threshold (74 < 75)",
-      "score": 74
+      "url": "https://newsfirst.lk/2026/11/13/laugfs-gas-shipment-reaches-colombo",
+      "headline": "LAUGFS Gas Shipment Reaches Colombo",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -66,5 +55,11 @@
       "score": 62
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/13/2027-budget-second-reading-debate-begins-today",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
