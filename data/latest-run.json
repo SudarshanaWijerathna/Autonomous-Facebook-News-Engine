@@ -1,13 +1,13 @@
 {
-  "runId": "96604f86",
-  "startedAt": "2026-11-14T12:23:18.363Z",
-  "finishedAt": "2026-11-14T12:24:54.409Z",
+  "runId": "78d912e0",
+  "startedAt": "2026-11-14T14:40:44.098Z",
+  "finishedAt": "2026-11-14T14:42:09.270Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,27 +20,43 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/14/15-of-sri-lankan-adults-affected-by-diabetes",
-      "headline": "15% of Sri Lankan Adults Affected by Diabetes",
-      "reason": "max-posts-per-run-reached",
-      "score": 82
+      "url": "https://newsfirst.lk/2026/11/13/%e2%80%9cthey-built-a-criminal-state-we-are-changing-it%e2%80%9d-president",
+      "headline": "“They Built a Criminal State; We Are Changing It”",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/13/laugfs-gas-announces-steep-price-hike",
+      "headline": "Laugfs Gas Announces Steep Price Hike",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/14/prices-of-exercise-books-to-drop-by-18-from-dec-1",
+      "headline": "Prices of Exercise Books to Drop by 18% from Dec 1",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/14/budget-debate-continues-for-second-day-in-parliament",
+      "headline": "Budget Debate Continues for Second Day in P'ment",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/11/14/suspect-arrested-in-narahenpita-over-illegally-assembled-jeep",
       "headline": "Suspect Arrested Over Illegally Assembled Jeep",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/14/budget-debate-continues-for-second-day-in-parliament",
-      "headline": "Budget Debate Continues for Second Day in P'ment",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/14/18-injured-as-two-private-buses-collide-in-nuwara-eliya",
+      "headline": "18 Injured as Two Private Buses Collide",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
