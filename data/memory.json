@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/29/colombo%e2%80%99s-bus-priority-lane-system-returns",
-    "contentHash": "ac4baae13cdc635e11623938df796aaa9a0b63c715c3539e718e8637dd079185",
-    "headline": "Colombo’s Bus Priority Lane System Returns",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-29T11:28:57.379Z",
-    "fbPostId": "1278802861974766_122121337581402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-09-29T11:29:53.954Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/29/metro-buses-now-running-on-more-colombo-corridors",
-    "contentHash": "28023df11dd5648d64096af432fac673d01e2c6c86c8cb4e0b27ef2f7f6b3657",
-    "headline": "Metro Buses Now Running on More Colombo Corridors",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-29T11:28:57.378Z",
-    "fbPostId": "1278802861974766_122121337665402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-29T11:29:59.635Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/29/sri-lanka-asia-s-best-cultural-and-nature-destination",
-    "contentHash": "9d9124f509971e34e6b237129ff9bfcfb36a19ef216999de86297818056f9908",
-    "headline": "Here's Asia's Best Cultural & Nature Destination",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-29T16:34:45.818Z",
-    "fbPostId": "1278802861974766_122121383799402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-29T16:35:44.089Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/29/man-charged-after-fake-ai-crocodile-image-triggers-emergency-response-in-singapore",
-    "contentHash": "fd9a386fffba2ce0f171ca133fa0ef8553338e2b36e0b4b01f9b25876d65b7a6",
-    "headline": "Singapore Charges Man Over Viral AI Crocodile Hoax",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-29T16:34:45.817Z",
-    "fbPostId": "1278802861974766_122121383913402039",
-    "category": "AI & Tech",
-    "score": 68,
-    "addedAt": "2026-09-29T16:35:49.784Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/30/income-tax-payment-deadline-for-2025-26-ends-today",
-    "contentHash": "7b9a9891a45bff9fa1c2738d9d798b49e6586e5dfc944a4292f07af79bb9ab69",
-    "headline": "Income Tax Payment Deadline For 2025/26 Ends Today",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-30T09:25:22.662Z",
-    "fbPostId": "1278802861974766_122121576063402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-30T09:26:18.360Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/30/what-happens-after-march-2027-imf-outlines-sri-lanka%e2%80%99s-next-steps",
-    "contentHash": "70a791a4dfe23a851787b8af57c08a99a340ff1c9feffb56b40ea2ff7429769f",
-    "headline": "What Happens After March 2027? IMF Outlines Steps",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-30T09:25:22.661Z",
-    "fbPostId": "1278802861974766_122121576141402039",
-    "category": "Business",
-    "score": 85,
-    "addedAt": "2026-09-30T09:26:23.149Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/09/30/gnanasara-thero-fails-to-appear-court-issues-warrant",
     "contentHash": "05ae8643b6a1b672e2933df075fcd23b57056ebffbc283f999c7bbca242acd43",
     "headline": "Court Issues Warrant for Gnanasara Thero",
@@ -2097,6 +2025,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-11-13T10:41:28.737Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/13/%e2%80%9cthey-built-a-criminal-state-we-are-changing-it%e2%80%9d-president",
+    "contentHash": "cb165b00bcad6e0c0af1a3bea619567d016f79b78e26962a128ec106c733d775",
+    "headline": "“They Built a Criminal State; We Are Changing It”",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-14T12:23:51.523Z",
+    "fbPostId": "1278802861974766_122133581013402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-14T12:24:48.166Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/13/laugfs-gas-announces-steep-price-hike",
+    "contentHash": "2d06bfc839ebd30f9905b31984796abca543c7a81a58aef6a608d6b3e963640a",
+    "headline": "Laugfs Gas Announces Steep Price Hike",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-14T12:23:51.523Z",
+    "fbPostId": "1278802861974766_122133581139402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-11-14T12:24:54.408Z",
     "isShadow": false
   }
 ]
