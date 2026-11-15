@@ -1,7 +1,7 @@
 {
-  "runId": "022b3df5",
-  "startedAt": "2026-11-15T15:09:13.522Z",
-  "finishedAt": "2026-11-15T15:10:36.337Z",
+  "runId": "c04bfaba",
+  "startedAt": "2026-11-15T21:54:56.817Z",
+  "finishedAt": "2026-11-15T21:56:08.384Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -37,6 +37,12 @@
     {
       "url": "https://newsfirst.lk/2026/11/15/bay-of-bengal-low-pressure-area-to-move-away-from-sri-lanka-bring-showers-across-island",
       "headline": "Showers Forecast as Bay System Shifts Away",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/15/special-police-team-appointed-to-review-footage-of-the-clash-near-ruwanweli-maha-seya",
+      "headline": "Police Probe Ruwanweli Seya Clash",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
@@ -63,12 +69,6 @@
       "headline": "Court Rejects Balangoda Kassapa Thero's Hearing",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/15/china-s-independently-developed-10-tonne-electric-aircraft-completes-first-piloted-flight",
-      "headline": "China's Electric Aircraft Completes First Flight",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
     }
   ],
   "errors": []
