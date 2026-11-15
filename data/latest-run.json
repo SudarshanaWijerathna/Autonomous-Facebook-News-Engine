@@ -1,19 +1,14 @@
 {
-  "runId": "d5fccd9f",
-  "startedAt": "2026-11-14T19:59:35.287Z",
-  "finishedAt": "2026-11-14T20:00:46.379Z",
+  "runId": "b681f04f",
+  "startedAt": "2026-11-15T07:19:00.156Z",
+  "finishedAt": "2026-11-15T07:20:31.154Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 26,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/11/14/state-jobs-for-graduates-to-match-annual-university-output",
-      "headline": "State Jobs to Match Annual Graduate Output",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,54 +20,32 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/14/15-of-sri-lankan-adults-affected-by-diabetes",
-      "headline": "15% of Sri Lankan Adults Affected by Diabetes",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/13/%e2%80%9cthey-built-a-criminal-state-we-are-changing-it%e2%80%9d-president",
-      "headline": "“They Built a Criminal State; We Are Changing It”",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/13/laugfs-gas-announces-steep-price-hike",
-      "headline": "Laugfs Gas Announces Steep Price Hike",
+      "url": "https://newsfirst.lk/2026/11/14/state-jobs-for-graduates-to-match-annual-university-output",
+      "headline": "State Jobs to Match Annual Graduate Output",
       "reason": "exact-duplicate-in-memory"
     },
     {
       "url": "https://newsfirst.lk/2026/11/14/prices-of-exercise-books-to-drop-by-18-from-dec-1",
       "headline": "Prices of Exercise Books to Drop by 18% from Dec 1",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "reason": "max-posts-per-run-reached",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/14/suspect-arrested-over-double-homicide-in-kalutara",
       "headline": "Suspect Arrested Over Double Homicide in Kalutara",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/11/14/budget-debate-continues-for-second-day-in-parliament",
-      "headline": "Budget Debate Continues for Second Day in P'ment",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/14/suspect-arrested-in-narahenpita-over-illegally-assembled-jeep",
-      "headline": "Suspect Arrested Over Illegally Assembled Jeep",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/11/14/18-injured-as-two-private-buses-collide-in-nuwara-eliya",
+      "headline": "18 Injured as Two Private Buses Collide",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/14/18-injured-as-two-private-buses-collide-in-nuwara-eliya",
-      "headline": "18 Injured as Two Private Buses Collide",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],

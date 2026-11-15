@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/09/30/gnanasara-thero-fails-to-appear-court-issues-warrant",
-    "contentHash": "05ae8643b6a1b672e2933df075fcd23b57056ebffbc283f999c7bbca242acd43",
-    "headline": "Court Issues Warrant for Gnanasara Thero",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-30T20:11:08.244Z",
-    "fbPostId": "1278802861974766_122121694737402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-09-30T20:12:05.105Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/30/case-against-ranil-wickremesinghe-and-former-presidential-secretary-recalled-for-november-11",
-    "contentHash": "fb12893828ce01ebcd1647e92e8915e406b349ed228d593fdb830ab6d4bdd413",
-    "headline": "Case Against Ranil Wickremesinghe Recalled",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-09-30T20:11:08.244Z",
-    "fbPostId": "1278802861974766_122121694833402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-09-30T20:12:12.132Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/09/30/namal-secures-bail-but-remains-in-remand-over-airbus-bribery-case",
-    "contentHash": "e99074f9d4af01fcfb431fa6b99141f8c4dcf31588c04da62f1d3ca51b7675df",
-    "headline": "Namal Secures Bail, But Remains in Remand",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-01T06:39:51.184Z",
-    "fbPostId": "1278802861974766_122121866793402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-01T06:40:50.960Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/01/rumesh-tharanga-arrives-in-sri-lanka-after-historic-asian-games-gold",
     "contentHash": "6aa641b458251e4463e67430cb5fd9d3246f4734d76de825d8d0596fdbedf75c",
     "headline": "Rumesh Tharanga Arrives in Sri Lanka",
@@ -2073,6 +2037,30 @@
     "category": "Sri Lanka",
     "score": 82,
     "addedAt": "2026-11-14T16:41:12.207Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/15/42-903-potential-dengue-mosquito-breeding-sites-found-in-13-districts",
+    "contentHash": "f987628001b74688104ca58b7c3b1bb4b3c30d33edd9cd5e1a28c974504b2bf6",
+    "headline": "42,903 Dengue Breeding Sites Found in 13 Districts",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-15T07:19:27.513Z",
+    "fbPostId": "1278802861974766_122133706497402039",
+    "category": "Sri Lanka",
+    "score": 84,
+    "addedAt": "2026-11-15T07:20:25.808Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/15/laugfs-gas-officials-summoned-before-consumer-affairs-authority",
+    "contentHash": "94559dc1c9da34896500378aabb4af5efde6b32800f7f5125414084da29d33c4",
+    "headline": "LAUGFS Gas Officials Summoned by CAA",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-15T07:19:27.513Z",
+    "fbPostId": "1278802861974766_122133706587402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-15T07:20:31.152Z",
     "isShadow": false
   }
 ]
