@@ -1,10 +1,10 @@
 {
-  "runId": "4dfd3a34",
-  "startedAt": "2026-11-16T07:26:34.757Z",
-  "finishedAt": "2026-11-16T07:28:06.296Z",
+  "runId": "0f71c553",
+  "startedAt": "2026-11-16T13:53:31.978Z",
+  "finishedAt": "2026-11-16T13:55:13.357Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 30,
   "scored": 6,
   "selected": 2,
   "published": 2,
@@ -20,36 +20,26 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/15/aswesuma-payments-for-new-beneficiaries-to-begin-on-november-27",
-      "headline": "New Aswesuma Payments Begin Nov. 27",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/15/five-year-plan-launched-to-return-srilankan-airlines-to-profitability-and-expand-fleet",
-      "headline": "5-Year Turnaround Plan for SriLankan Airlines",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/16/three-arrested-with-over-12kg-of-kush-at-bia",
-      "headline": "Three Arrested with Over 12Kg of Kush at BIA",
+      "url": "https://newsfirst.lk/2026/11/16/456-suspects-arrested-in-police-operation-islandwide",
+      "headline": "456 Suspects Arrested in Police Op Islandwide",
       "reason": "max-posts-per-run-reached",
-      "score": 76
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/11/16/caa-seeks-explanation-from-laugfs-gas-over-price-revision",
-      "headline": "CAA Seeks Explanation From LAUGFS Over Price Hikes",
+      "url": "https://newsfirst.lk/2026/11/16/news1st-mourns-the-loss-of-mohamed-ifham-he-stood-with-the-people-until-the-end",
+      "headline": "News1st Mourns the Loss of Mohamed Ifham",
       "reason": "max-posts-per-run-reached",
-      "score": 75
+      "score": 65
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/11/16/balangoda-kassapa-thero-remanded-after-failing-to-appear",
+      "headline": "Kassapa Thero remanded for missing court",
       "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/16/third-day-of-the-second-reading-of-the-2027-national-budget-today-16",
-      "headline": "3rd Day of the Second Reading of the '27 Budget",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "max-posts-per-run-reached",
       "score": 62
     }

@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/01/jvp-general-secretary-tilvin-silva-meets-indian-external-affairs-minister-jaishankar",
-    "contentHash": "9028e3cd37ea60c16475aa855e6b788e9debdfe4365c72c9ce17b9a145d6b279",
-    "headline": "JVP General Sec Tilvin Silva Meets S.Jaishankar",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-02T09:28:55.689Z",
-    "fbPostId": "1278802861974766_122122194933402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-02T09:29:50.801Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/02/bus-fares-to-remain-unchanged-despite-fuel-price-hike",
-    "contentHash": "62b9468598f7262fc29fbb8e3542f717b9a0a5c67fca4980cd52cad61422d354",
-    "headline": "Bus Fares to Remain Unchanged Despite Price Hike",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-02T09:28:55.688Z",
-    "fbPostId": "1278802861974766_122122195035402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-10-02T09:29:56.543Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/02/train-operations-resume-on-up-country-line-after-11-months",
-    "contentHash": "5a04212d29b88b4a58cd61ac1d91cd573bbe3ff1215f493e33787db4ce690840",
-    "headline": "Train Operations Resume on Up Country Line",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-02T11:14:34.935Z",
-    "fbPostId": "1278802861974766_122122229613402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-10-02T11:15:31.590Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/03/school-meal-programme-reaches-1-5-million-children",
     "contentHash": "ac250c6ed8e1a31370b3c5386d8bd08d8421674f337c22270cbf447df06a05a5",
     "headline": "School Meal Programme Reaches 1.5 Million Children",
@@ -2097,6 +2061,30 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-16T07:28:06.295Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/16/five-killed-in-rambewa-collision-involving-three-buses",
+    "contentHash": "24722dd804521f11780c2b8969a57f057117ddaad0c8283e12037001858ccf98",
+    "headline": "05 Killed in Rambewa Collision Involving 03 Buses",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-16T13:53:59.940Z",
+    "fbPostId": "1278802861974766_122133927387402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-11-16T13:55:06.753Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/16/sri-lanka-moves-to-regulate-crypto-rules-out-digital-assets-as-a-payment-method",
+    "contentHash": "26159661effead94af0a769ad1f59351e8274740a56429da6773918875997b27",
+    "headline": "Sri Lanka Moves to Regulate Crypto",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-16T13:53:59.940Z",
+    "fbPostId": "1278802861974766_122133927501402039",
+    "category": "Business",
+    "score": 76,
+    "addedAt": "2026-11-16T13:55:13.356Z",
     "isShadow": false
   }
 ]
