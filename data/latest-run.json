@@ -1,7 +1,7 @@
 {
-  "runId": "6d2e1f0b",
-  "startedAt": "2026-11-16T20:35:58.051Z",
-  "finishedAt": "2026-11-16T20:37:26.116Z",
+  "runId": "510bfca8",
+  "startedAt": "2026-11-16T22:43:40.859Z",
+  "finishedAt": "2026-11-16T22:44:59.883Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 28,
@@ -33,19 +33,13 @@
       "url": "https://newsfirst.lk/2026/11/16/deep-depression-in-the-bay-of-bengal-to-develop-into-cyclone",
       "headline": "Deep Depression Develops Into Cyclone Today",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 88
+      "score": 85
     },
     {
       "url": "https://newsfirst.lk/2026/11/16/2-676-people-affected-by-adverse-rainy-weather",
       "headline": "2,676 People Affected by Adverse Rainy Weather",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/16/here-s-how-students-will-get-their-first-taste-of-investing",
-      "headline": "Here's How Students Will Get Into Investing",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/16/456-suspects-arrested-in-police-operation-islandwide",
@@ -64,6 +58,12 @@
       "headline": "Kassapa Thero remanded for missing court",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []
