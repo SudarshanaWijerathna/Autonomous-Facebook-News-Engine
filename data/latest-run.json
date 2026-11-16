@@ -1,19 +1,14 @@
 {
-  "runId": "c04bfaba",
-  "startedAt": "2026-11-15T21:54:56.817Z",
-  "finishedAt": "2026-11-15T21:56:08.384Z",
+  "runId": "4dfd3a34",
+  "startedAt": "2026-11-16T07:26:34.757Z",
+  "finishedAt": "2026-11-16T07:28:06.296Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 27,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/11/15/aswesuma-payments-for-new-beneficiaries-to-begin-on-november-27",
-      "headline": "New Aswesuma Payments Begin Nov. 27",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,49 +20,37 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/15/42-903-potential-dengue-mosquito-breeding-sites-found-in-13-districts",
-      "headline": "42,903 Dengue Breeding Sites Found in 13 Districts",
+      "url": "https://newsfirst.lk/2026/11/15/aswesuma-payments-for-new-beneficiaries-to-begin-on-november-27",
+      "headline": "New Aswesuma Payments Begin Nov. 27",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/15/laugfs-gas-officials-summoned-before-consumer-affairs-authority",
-      "headline": "LAUGFS Gas Officials Summoned by CAA",
+      "url": "https://newsfirst.lk/2026/11/15/five-year-plan-launched-to-return-srilankan-airlines-to-profitability-and-expand-fleet",
+      "headline": "5-Year Turnaround Plan for SriLankan Airlines",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/15/bay-of-bengal-low-pressure-area-to-move-away-from-sri-lanka-bring-showers-across-island",
-      "headline": "Showers Forecast as Bay System Shifts Away",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/11/16/three-arrested-with-over-12kg-of-kush-at-bia",
+      "headline": "Three Arrested with Over 12Kg of Kush at BIA",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/15/special-police-team-appointed-to-review-footage-of-the-clash-near-ruwanweli-maha-seya",
-      "headline": "Police Probe Ruwanweli Seya Clash",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/14/18-injured-as-two-private-buses-collide-in-nuwara-eliya",
-      "headline": "18 Injured as Two Private Buses Collide",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/16/caa-seeks-explanation-from-laugfs-gas-over-price-revision",
+      "headline": "CAA Seeks Explanation From LAUGFS Over Price Hikes",
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/15/spacex-catches-part-of-its-starship-rocket-on-return-to-earth",
-      "headline": "Part of Its Starship Rocket Caught at Launch Tower",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/15/court-rejects-request-to-take-up-case-involving-balangoda-kassapa-thero",
-      "headline": "Court Rejects Balangoda Kassapa Thero's Hearing",
-      "reason": "score-below-threshold (62 < 75)",
+      "url": "https://newsfirst.lk/2026/11/16/third-day-of-the-second-reading-of-the-2027-national-budget-today-16",
+      "headline": "3rd Day of the Second Reading of the '27 Budget",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     }
   ],

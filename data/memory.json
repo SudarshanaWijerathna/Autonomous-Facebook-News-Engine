@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/01/rumesh-tharanga-arrives-in-sri-lanka-after-historic-asian-games-gold",
-    "contentHash": "6aa641b458251e4463e67430cb5fd9d3246f4734d76de825d8d0596fdbedf75c",
-    "headline": "Rumesh Tharanga Arrives in Sri Lanka",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-01T21:53:07.311Z",
-    "fbPostId": "1278802861974766_122122039167402039",
-    "category": "Sports",
-    "score": 85,
-    "addedAt": "2026-10-01T21:54:00.371Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/01/jvp-general-secretary-tilvin-silva-meets-indian-external-affairs-minister-jaishankar",
     "contentHash": "9028e3cd37ea60c16475aa855e6b788e9debdfe4365c72c9ce17b9a145d6b279",
     "headline": "JVP General Sec Tilvin Silva Meets S.Jaishankar",
@@ -2085,6 +2073,30 @@
     "category": "Business",
     "score": 75,
     "addedAt": "2026-11-15T10:31:12.515Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/15/cyclonic-storm-expected-to-develop-in-bay-of-bengal-by-tomorrow-16th",
+    "contentHash": "176c0a952f8762f973ab6cb5c5db2f47e7175954fcbdda78dc85204026ba26de",
+    "headline": "Cyclonic Storm Expected to Develop by Tomorrow",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-16T07:27:04.747Z",
+    "fbPostId": "1278802861974766_122133872517402039",
+    "category": "Sri Lanka",
+    "score": 90,
+    "addedAt": "2026-11-16T07:27:59.801Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/15/special-police-team-appointed-to-review-footage-of-the-clash-near-ruwanweli-maha-seya",
+    "contentHash": "5b0d843c2b2d9fb4b723ced879e837fe4251a4139a27c832853db2d01f3fd175",
+    "headline": "Police Probe Ruwanweli Seya Clash",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-16T07:27:04.748Z",
+    "fbPostId": "1278802861974766_122133872595402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-16T07:28:06.295Z",
     "isShadow": false
   }
 ]
