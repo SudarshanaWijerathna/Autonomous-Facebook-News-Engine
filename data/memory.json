@@ -2110,5 +2110,29 @@
     "score": 76,
     "addedAt": "2026-11-17T00:55:51.107Z",
     "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/16/fbi-steps-in-to-help-hunt-down-scam-centres-operating-in-sri-lanka",
+    "contentHash": "e8cb2c3737098d5cd6db62469e0a749e54d4777c874765f820f7e17e3aadd612",
+    "headline": "FBI Steps In to Help Hunt Down Scam Centres",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-17T08:38:51.632Z",
+    "fbPostId": "1278802861974766_122134093731402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-17T08:39:59.834Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/17/cyclonic-storm-akvan-intensifies-over-bay-of-bengal",
+    "contentHash": "eed518772ee7d8240db192a2633bd51b106e9c13ce716e979cb176c398cf3590",
+    "headline": "Cyclonic Storm 'Akvan' Intensifies",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-17T08:38:51.630Z",
+    "fbPostId": "1278802861974766_122134093827402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-17T08:40:04.790Z",
+    "isShadow": false
   }
 ]
