@@ -1,7 +1,7 @@
 {
-  "runId": "45f890cb",
-  "startedAt": "2026-11-18T22:38:39.017Z",
-  "finishedAt": "2026-11-18T22:39:50.242Z",
+  "runId": "febca29a",
+  "startedAt": "2026-11-18T23:26:51.306Z",
+  "finishedAt": "2026-11-18T23:28:07.487Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -43,14 +43,14 @@
     {
       "url": "https://newsfirst.lk/2026/11/18/srilankan-airlines-eyes-comeback-as-government-reveals-turnaround-plan",
       "headline": "SriLankan Airlines Eyes Comeback",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 76
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/11/18/sri-lanka-steps-up-fight-against-crypto-crime-with-global-blockchain-giant",
       "headline": "SL Steps Up Fight Against Crypto Crime",
-      "reason": "category-cap-reached (Business: 1/1 today)",
-      "score": 75
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/18/ex-gotabaya-rajapaksa-aide-granted-bail-by-colombo-court",
