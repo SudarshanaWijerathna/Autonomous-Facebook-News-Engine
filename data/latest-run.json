@@ -1,11 +1,11 @@
 {
-  "runId": "be205f18",
-  "startedAt": "2026-11-18T16:50:56.357Z",
-  "finishedAt": "2026-11-18T16:53:24.597Z",
+  "runId": "fbae376a",
+  "startedAt": "2026-11-18T18:55:52.913Z",
+  "finishedAt": "2026-11-18T18:57:20.368Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
-  "scored": 3,
+  "afterDedup": 28,
+  "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
@@ -20,38 +20,45 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/18/court-warns-elephant-protection-cannot-be-ignored",
+      "headline": "Court Warns Elephant Protection Cannot Be Ignored",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/18/digital-transformation-and-economic-growth-top-agenda-at-pm%e2%80%99s-meeting-with-world-bank",
       "headline": "World Bank, PM Harini Discuss Sri Lanka’s Recovery",
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/18/order-of-colombo-chief-magistrate-releasing-namal-rajapaksa-on-bail-temporarily-suspended",
+      "headline": "Namal's Bail Order Temporarily Suspended",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 81
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/18/srilankan-airlines-eyes-comeback-as-government-reveals-turnaround-plan",
       "headline": "SriLankan Airlines Eyes Comeback",
+      "reason": "category-cap-reached (Business: 1/1 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/18/sri-lanka-steps-up-fight-against-crypto-crime-with-global-blockchain-giant",
+      "headline": "SL Steps Up Fight Against Crypto Crime",
       "reason": "category-cap-reached (Business: 1/1 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 65)",
-      "score": 62
-    }
-  ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/18/sri-lanka-steps-up-fight-against-crypto-crime-with-global-blockchain-giant",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/11/18/ex-gotabaya-rajapaksa-aide-granted-bail-by-colombo-court",
+      "headline": "Ex-Gotabaya Rajapaksa Aide Granted Bail",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/11/18/wildlife-officials-seize-pangolin-meat-illegal-firearms",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/18/supreme-court-upholds-two-year-prison-sentence-for-shashi-weerawansa",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "headline": "Pangolin Meat, Illegal Firearms Seized",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
-  ]
+  ],
+  "errors": []
 }
