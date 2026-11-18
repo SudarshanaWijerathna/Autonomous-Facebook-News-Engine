@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/04/deadline-for-aswesuma-beneficiaries-to-submit-missing-documents-on-october-29",
-    "contentHash": "04ee20b9e8d5a1e4b6f0212bae2bb0beed5faa1d80f2403eca6e20a23e0cd4ed",
-    "headline": "October 29 Deadline for Aswesuma Beneficiaries",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-04T13:35:56.070Z",
-    "fbPostId": "1278802861974766_122122866603402039",
-    "category": "Sri Lanka",
-    "score": 79,
-    "addedAt": "2026-10-04T13:36:49.123Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/04/met-department-amber-advisory-issued-for-severe-lightning-in-several-areas",
-    "contentHash": "9afc7de2d3ada48337ef9a70030306cec238612f14159330f7bb2a5845c51b1c",
-    "headline": "Amber Advisory for Severe Lightning Issued",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-04T15:27:47.637Z",
-    "fbPostId": "1278802861974766_122122920213402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-04T15:28:37.247Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/05/imf-staff-the-sri-lankan-authorities-reached-staff-level-agreement-on-economic-policies-to-conclude-the-seventh-review",
     "contentHash": "dcbd8654d65134739a1a4c72285c72b8b71bb00f260eddc9a162ebb73a5be46e",
     "headline": "IMF & Sri Lanka Reach Staff-Level Agreement on EFF",
@@ -2133,6 +2109,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-18T11:18:22.213Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/18/court-warns-elephant-protection-cannot-be-ignored",
+    "contentHash": "57042811e6bfe625cf28f3c98abd9f8c21715a2a757890ae1978d797ea41ed7c",
+    "headline": "Court Warns Elephant Protection Cannot Be Ignored",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-18T16:51:21.599Z",
+    "fbPostId": "1278802861974766_122134365009402039",
+    "category": "Sri Lanka",
+    "score": 72,
+    "addedAt": "2026-11-18T16:53:24.596Z",
     "isShadow": false
   }
 ]
