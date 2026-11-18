@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/04/gnanasara-thera-to-be-produced-before-colombo-magistrate%e2%80%99s-court-today-04",
-    "contentHash": "4315615dea949853f6058af4bee40f27d2d50a772ed5510db5cb32b452af03f5",
-    "headline": "Gnanasara Thera to Be Produced Before Court Today",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-04T09:27:43.993Z",
-    "fbPostId": "1278802861974766_122122785471402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-04T09:28:34.881Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/04/deadline-for-aswesuma-beneficiaries-to-submit-missing-documents-on-october-29",
     "contentHash": "04ee20b9e8d5a1e4b6f0212bae2bb0beed5faa1d80f2403eca6e20a23e0cd4ed",
     "headline": "October 29 Deadline for Aswesuma Beneficiaries",
@@ -2121,6 +2109,30 @@
     "category": "Sports",
     "score": 75,
     "addedAt": "2026-11-17T17:17:58.550Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/18/tourist-arrivals-in-sri-lanka-close-to-2-million",
+    "contentHash": "b0784ffddf5e2aee4db61cc381dd607872e1a280979959ae5b02b3aa285ed168",
+    "headline": "Tourist Arrivals In Sri Lanka Close to 2 Million",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-18T11:17:18.477Z",
+    "fbPostId": "1278802861974766_122134303467402039",
+    "category": "Business",
+    "score": 81,
+    "addedAt": "2026-11-18T11:18:17.025Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/18/digital-transformation-and-economic-growth-top-agenda-at-pm%e2%80%99s-meeting-with-world-bank",
+    "contentHash": "9d6fa7b54899ea7e41bbdcaa1560ae62643c24481c45d6b28bd863345337f924",
+    "headline": "World Bank, PM Harini Discuss Sri Lanka’s Recovery",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-18T11:17:18.477Z",
+    "fbPostId": "1278802861974766_122134303527402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-18T11:18:22.213Z",
     "isShadow": false
   }
 ]
