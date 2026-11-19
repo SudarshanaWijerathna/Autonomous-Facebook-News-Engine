@@ -1,13 +1,13 @@
 {
-  "runId": "8e8c60a5",
-  "startedAt": "2026-11-19T11:15:24.946Z",
-  "finishedAt": "2026-11-19T11:16:52.960Z",
+  "runId": "f378e021",
+  "startedAt": "2026-11-19T14:36:46.056Z",
+  "finishedAt": "2026-11-19T14:39:22.710Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
-  "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "scored": 4,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,8 +20,8 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/18/saddharathana-thero-taken-into-custody",
-      "headline": "Saddharathana Thero Taken Into Custody",
+      "url": "https://newsfirst.lk/2026/11/18/fitch-says-2027-budget-reinforces-sri-lanka%e2%80%99s-commitment-to-fiscal-discipline-and-debt-reduction",
+      "headline": "Fitch: 2027 Budget Stays on Debt Reduction Path",
       "reason": "exact-duplicate-in-memory"
     },
     {
@@ -34,20 +34,31 @@
       "url": "https://newsfirst.lk/2026/11/19/post-mortem-reveals-cause-of-death-for-kawantissa-the-tusker",
       "headline": "Post-mortem reveals cause of death for Kawantissa",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/19/access-to-nil-diya-pokuna-temporarily-suspended",
-      "headline": "Access to Nil Diya Pokuna Temporarily Suspended",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/19/school-level-awareness-programs-on-new-education-reforms-begin-today",
+      "headline": "School Reform Awareness Programs Begin Today",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/19/haitan-pm-recognises-sri-lankan-troops-contribution-to-joint-anti-gang-operations",
+      "headline": "Haitan PM Recognises SL Troops Contribution",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/19/access-to-nil-diya-pokuna-temporarily-suspended",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
-      "score": 62
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     }
-  ],
-  "errors": []
+  ]
 }
