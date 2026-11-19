@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/05/imf-staff-the-sri-lankan-authorities-reached-staff-level-agreement-on-economic-policies-to-conclude-the-seventh-review",
-    "contentHash": "dcbd8654d65134739a1a4c72285c72b8b71bb00f260eddc9a162ebb73a5be46e",
-    "headline": "IMF & Sri Lanka Reach Staff-Level Agreement on EFF",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-05T10:07:44.961Z",
-    "fbPostId": "1278802861974766_122123080143402039",
-    "category": "Business",
-    "score": 90,
-    "addedAt": "2026-10-05T10:08:39.242Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/05/gnanasara-thera-s-six-year-prison-sentence-reinstated",
-    "contentHash": "75af16455c35d29be974f877ac6b2e8e43c88221b171b68764d90e88b8215fbc",
-    "headline": "Gnanasara Thera's 6-Yr Prison Sentence Reinstated",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-05T10:07:44.960Z",
-    "fbPostId": "1278802861974766_122123080323402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-10-05T10:08:44.417Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/05/parliament-to-debate-anti-corruption-bill-as-supreme-court-flags-key-clauses",
     "contentHash": "85599e5a9e6ff1527c1020b5a3ea9795b9019550d91a04e57a8caf54f5c0d95e",
     "headline": "Parliament to Debate Anti-Corruption Bill",
@@ -2157,6 +2133,30 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-11-19T08:08:10.005Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/18/fitch-says-2027-budget-reinforces-sri-lanka%e2%80%99s-commitment-to-fiscal-discipline-and-debt-reduction",
+    "contentHash": "219e2d4338adeb6a365a21dc37ded46c00a6ca7cdc01d4b1e2cc7c8510383f54",
+    "headline": "Fitch: 2027 Budget Stays on Debt Reduction Path",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-19T11:15:53.607Z",
+    "fbPostId": "1278802861974766_122134507809402039",
+    "category": "Business",
+    "score": 76,
+    "addedAt": "2026-11-19T11:16:48.109Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/19/ms-dhoni-the-end-of-an-era",
+    "contentHash": "0233fc9bf9a8cd1ffa326e5e26961f9d1f04e1db9d148259b2f7aa00c8afb9ae",
+    "headline": "MS Dhoni; The End of an Era!",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-19T11:15:53.605Z",
+    "fbPostId": "1278802861974766_122134507911402039",
+    "category": "Sports",
+    "score": 75,
+    "addedAt": "2026-11-19T11:16:52.958Z",
     "isShadow": false
   }
 ]

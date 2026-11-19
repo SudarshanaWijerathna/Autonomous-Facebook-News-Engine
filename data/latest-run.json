@@ -1,7 +1,7 @@
 {
-  "runId": "31e560ad",
-  "startedAt": "2026-11-19T08:06:36.689Z",
-  "finishedAt": "2026-11-19T08:08:10.007Z",
+  "runId": "8e8c60a5",
+  "startedAt": "2026-11-19T11:15:24.946Z",
+  "finishedAt": "2026-11-19T11:16:52.960Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
@@ -20,25 +20,25 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/18/supreme-court-upholds-two-year-prison-sentence-for-shashi-weerawansa",
-      "headline": "Shashi Weerawansa’s Two-Year Sentence Upheld",
+      "url": "https://newsfirst.lk/2026/11/18/saddharathana-thero-taken-into-custody",
+      "headline": "Saddharathana Thero Taken Into Custody",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/19/school-level-awareness-programs-on-new-education-reforms-begin-today",
-      "headline": "School Reform Awareness Programs Begin Today",
-      "reason": "max-posts-per-run-reached",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/19/air-quality-drops-across-major-sri-lankan-cities-jaffna-records-unhealthy-levels",
+      "headline": "Air quality drops across major Sri Lankan cities",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
-      "url": "https://newsfirst.lk/2026/11/18/sri-lanka-backs-global-action-to-protect-women-and-girls",
-      "headline": "Sri Lanka Backs Global Action to Protect Women",
-      "reason": "max-posts-per-run-reached",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/19/post-mortem-reveals-cause-of-death-for-kawantissa-the-tusker",
+      "headline": "Post-mortem reveals cause of death for Kawantissa",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/19/haitan-pm-recognises-sri-lankan-troops-contribution-to-joint-anti-gang-operations",
-      "headline": "Haitan PM Recognises SL Troops Contribution",
+      "url": "https://newsfirst.lk/2026/11/19/access-to-nil-diya-pokuna-temporarily-suspended",
+      "headline": "Access to Nil Diya Pokuna Temporarily Suspended",
       "reason": "max-posts-per-run-reached",
       "score": 68
     },
