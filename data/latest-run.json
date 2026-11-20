@@ -1,13 +1,13 @@
 {
-  "runId": "8fb2e87c",
-  "startedAt": "2026-11-19T23:39:17.034Z",
-  "finishedAt": "2026-11-19T23:41:19.131Z",
+  "runId": "36ebab9d",
+  "startedAt": "2026-11-20T07:52:08.922Z",
+  "finishedAt": "2026-11-20T07:54:00.970Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
-  "scored": 5,
-  "selected": 0,
-  "published": 0,
+  "scored": 6,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,41 +20,29 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/19/four-of-the-same-family-killed-in-kaduwela-shop-fire",
-      "headline": "04 of the Same Family Killed in Kaduwela Shop Fire",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/19/air-quality-drops-across-major-sri-lankan-cities-jaffna-records-unhealthy-levels",
-      "headline": "Air quality drops across major Sri Lankan cities",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/19/monk-jailed-for-8-years-over-sexual-abuse-of-minor",
-      "headline": "Monk Jailed for 8 Years Over Sexual Abuse of Minor",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "url": "https://newsfirst.lk/2026/11/20/thailand%e2%80%99s-deputy-pm-to-visit-sri-lanka-visa-free-travel-deal-set-to-be-signed",
+      "headline": "Thailand’s Deputy PM to Visit Sri Lanka",
+      "reason": "max-posts-per-run-reached",
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/19/school-level-awareness-programs-on-new-education-reforms-begin-today",
-      "headline": "School Reform Awareness Programs Begin Today",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/20/chamara-sampath-s-bail-request-rejected",
+      "headline": "Chamara Sampath's Bail Request Rejected",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/19/evidence-hearing-recalled-for-december-16-in-johnston-fernando-case",
-      "headline": "Evidence Hearing Recalled for In Johnston Case",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/20/namal-rajapaksa-and-former-krrish-director-further-remanded-until-december-1",
+      "headline": "Namal and Ex-Krrish Director Remanded Till Dec 1",
+      "reason": "max-posts-per-run-reached",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/20/avoid-ds-junction-road-subsidence-causes-heavy-congestion",
+      "headline": "Avoid DS Junction: Heavy Congestion Reported",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/19/post-mortem-reveals-cause-of-death-for-kawantissa-the-tusker",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }

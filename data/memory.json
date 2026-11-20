@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/05/parliament-to-debate-anti-corruption-bill-as-supreme-court-flags-key-clauses",
-    "contentHash": "85599e5a9e6ff1527c1020b5a3ea9795b9019550d91a04e57a8caf54f5c0d95e",
-    "headline": "Parliament to Debate Anti-Corruption Bill",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-05T19:21:11.698Z",
-    "fbPostId": "1278802861974766_122123171835402039",
-    "category": "Sri Lanka",
-    "score": 82,
-    "addedAt": "2026-10-05T19:22:05.825Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://hirunews.lk/english/492526/sri-lanka-reports-rise-in-hiv-cases-as-health-authorities-identify-860-new-detections",
-    "contentHash": "49a017c6f57ee731f65d490f7f15d6f04788bd513c73c8ff6ef1242d88263d12",
-    "headline": "Sri Lanka reports rise in HIV cases as health authorities identify 860 new detections",
-    "sourceId": "hiru-news-en",
-    "publishedAt": "2026-10-05T21:02:45.256Z",
-    "fbPostId": "1278802861974766_122123187225402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-10-05T21:08:00.385Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/06/world-bank-projects-4-4-gdp-growth-for-sri-lanka-exceeding-earlier-projections",
     "contentHash": "3350f08d3bfbdc36dc57f996764149bdd367f3c0ec262f22034d9a2e5e184617",
     "headline": "World Bank Projects 4.4% GDP Growth for Sri Lanka",
@@ -2157,6 +2133,30 @@
     "category": "Sports",
     "score": 75,
     "addedAt": "2026-11-19T11:16:52.958Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/20/central-bank-raises-key-interest-rate-as-inflation-climbs",
+    "contentHash": "518cd123f5896cea2ad27b93b4f7b95ec0736577a9292b816e2f970e6c4e2253",
+    "headline": "Sri Lanka Tightens Monetary Policy",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-20T07:52:38.052Z",
+    "fbPostId": "1278802861974766_122134664061402039",
+    "category": "Business",
+    "score": 84,
+    "addedAt": "2026-11-20T07:53:54.905Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/20/welfare-benefits-board-mandates-bank-account-disclosures-for-aswesuma-recipients",
+    "contentHash": "afd02b3f8aec5b3d7cdfd634a812cc51a06e8d637bc77541b229cee601dbd33e",
+    "headline": "Aswesuma Recipients Must Disclose Bank Details",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-20T07:52:38.051Z",
+    "fbPostId": "1278802861974766_122134664139402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-11-20T07:54:00.968Z",
     "isShadow": false
   }
 ]
