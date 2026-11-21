@@ -1,7 +1,7 @@
 {
-  "runId": "443159c6",
-  "startedAt": "2026-11-21T17:41:15.175Z",
-  "finishedAt": "2026-11-21T17:42:25.957Z",
+  "runId": "71278f26",
+  "startedAt": "2026-11-21T19:55:32.954Z",
+  "finishedAt": "2026-11-21T19:56:46.812Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -35,22 +35,16 @@
       "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=0.86)"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/21-students-of-university-of-jaffna-arrested-over-clash",
-      "headline": "21 Students of University of Jaffna Arrested",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
-      "headline": "Every Law Passed in P'ment Impacts Every Child",
+      "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
+      "headline": "Use of Chaminda Gunasekara's Properties Suspended",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/five-suspects-including-former-police-chief-inspector-further-remanded",
-      "headline": "Former Police Chief Inspector Further Remanded",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
+      "headline": "Every Law Passed in P'ment Impacts Every Child",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -59,16 +53,22 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
-      "headline": "Use of Chaminda Gunasekara's Properties Suspended",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/21/fire-at-thalawathugoda-scrap-yard-brought-under-control",
       "headline": "Fire at Thalawathugoda Brought Under Control",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/21/five-suspects-including-former-police-chief-inspector-further-remanded",
+      "headline": "Former Police Chief Inspector Further Remanded",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/21/suspect-arrested-in-ja-ela-with-over-100-g-of-hashish",
+      "headline": "Suspect Arrested in Ja-Ela with Hashish",
+      "reason": "score-below-threshold (52 < 75)",
+      "score": 52
     }
   ],
   "errors": []
