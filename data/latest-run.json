@@ -1,7 +1,7 @@
 {
-  "runId": "71278f26",
-  "startedAt": "2026-11-21T19:55:32.954Z",
-  "finishedAt": "2026-11-21T19:56:46.812Z",
+  "runId": "60b1932e",
+  "startedAt": "2026-11-21T20:57:52.431Z",
+  "finishedAt": "2026-11-21T20:59:07.449Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 27,
@@ -35,20 +35,20 @@
       "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=0.86)"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
-      "headline": "Use of Chaminda Gunasekara's Properties Suspended",
+      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
+      "headline": "Every Law Passed in P'ment Impacts Every Child",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/21/five-suspects-including-former-police-chief-inspector-further-remanded",
+      "headline": "Former Police Chief Inspector Further Remanded",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
-      "headline": "Every Law Passed in P'ment Impacts Every Child",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
+      "headline": "Use of Chaminda Gunasekara's Properties Suspended",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
@@ -59,8 +59,8 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/five-suspects-including-former-police-chief-inspector-further-remanded",
-      "headline": "Former Police Chief Inspector Further Remanded",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
