@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/07/w15-shooting-deshabandu-and-seven-others-indicted",
-    "contentHash": "2f45bc328f4f30775c135bc360d6310ed38e5f29ab1367ef18f51d32870b14dc",
-    "headline": "W15 Shooting: Deshabandu and Seven Others Indicted",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-07T11:55:20.084Z",
-    "fbPostId": "1278802861974766_122123605845402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-10-07T11:56:44.703Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/07/imf-chief-warns-global-energy-crisis-far-from-over",
     "contentHash": "682759b441b663e15e91fbeb08d19b44b8c155136ec12b000310cbf7b649f6d0",
     "headline": "IMF Chief Warns Global Energy Crisis Far From Over",
@@ -2157,6 +2145,18 @@
     "category": "Business",
     "score": 78,
     "addedAt": "2026-11-21T10:45:52.971Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/21/us-fbi-officials-hold-discussions-with-sri-lanka-police-and-ag%e2%80%99s-department-officials",
+    "contentHash": "2bb8d111049fa3576b2a40ced610f893c374c4b0e772f846d06b574b903fd57c",
+    "headline": "US FBI Officials Hold Discussions with SL Police",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-21T15:50:27.943Z",
+    "fbPostId": "1278802861974766_122134960863402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-21T15:51:44.951Z",
     "isShadow": false
   }
 ]
