@@ -1,13 +1,13 @@
 {
-  "runId": "2d404a10",
-  "startedAt": "2026-11-21T15:50:00.377Z",
-  "finishedAt": "2026-11-21T15:51:44.953Z",
+  "runId": "443159c6",
+  "startedAt": "2026-11-21T17:41:15.175Z",
+  "finishedAt": "2026-11-21T17:42:25.957Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
-  "scored": 5,
-  "selected": 1,
-  "published": 1,
+  "afterDedup": 27,
+  "scored": 6,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/11/21/two-financial-firm-directors-arrested-over-rs-4-billion-fraud",
@@ -25,40 +25,51 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/21/us-fbi-officials-hold-discussions-with-sri-lanka-police-and-ag%e2%80%99s-department-officials",
+      "headline": "US FBI Officials Hold Discussions with SL Police",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/21/budget-committee-stage-debate-begins-today",
       "headline": "Budget Committee Stage Debate Begins Today",
       "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=0.86)"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
-      "headline": "Use of Chaminda Gunasekara's Properties Suspended",
+      "url": "https://newsfirst.lk/2026/11/21/21-students-of-university-of-jaffna-arrested-over-clash",
+      "headline": "21 Students of University of Jaffna Arrested",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 65
+      "score": 75
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
+      "headline": "Every Law Passed in P'ment Impacts Every Child",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/11/21/five-suspects-including-former-police-chief-inspector-further-remanded",
       "headline": "Former Police Chief Inspector Further Remanded",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
+      "headline": "Use of Chaminda Gunasekara's Properties Suspended",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/11/21/fire-at-thalawathugoda-scrap-yard-brought-under-control",
       "headline": "Fire at Thalawathugoda Brought Under Control",
-      "reason": "score-below-threshold (62 < 65)",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
