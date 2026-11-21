@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/06/rumesh-tharanga-makes-history-as-first-sri-lankan-nominated-for-world-athlete-of-the-year",
-    "contentHash": "acaafcb9675023500020805d0b1fe25446e73a4e1a41b25e6d5d79908960223b",
-    "headline": "Historic World Athlete Nomination for Rumesh",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-06T16:53:00.318Z",
-    "fbPostId": "1278802861974766_122123392971402039",
-    "category": "Sports",
-    "score": 90,
-    "addedAt": "2026-10-06T16:54:22.315Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/06/cabinet-approves-fertilizer-subsidy-of-rs-30-000-for-maha-season",
-    "contentHash": "a3aa56effb665e8c5310ca9fb2721b9d6ee5d43f99cc572aa232ba2782b348b1",
-    "headline": "Fertilizer Subsidy of Rs.30,000 for Maha Season",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-07T06:39:52.998Z",
-    "fbPostId": "1278802861974766_122123557593402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-10-07T06:40:42.912Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/06/court-calls-for-fcid-response-on-shiranthi-s-anticipatory-bail-plea",
-    "contentHash": "4d143a43ea8cb7928e8efba97afa6d6a900407a03903531967275e8cb8e592a6",
-    "headline": "Court Calls for FCID Response on Shiranthi's Plea",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-07T06:39:52.998Z",
-    "fbPostId": "1278802861974766_122123557659402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-07T06:40:46.634Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/07/w15-shooting-deshabandu-and-seven-others-indicted",
     "contentHash": "2f45bc328f4f30775c135bc360d6310ed38e5f29ab1367ef18f51d32870b14dc",
     "headline": "W15 Shooting: Deshabandu and Seven Others Indicted",
@@ -2157,6 +2121,30 @@
     "category": "Sri Lanka",
     "score": 68,
     "addedAt": "2026-11-20T16:35:57.584Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/20/budget-2027-clears-second-reading-with-massive-97-vote-majority",
+    "contentHash": "070305ef2a4f24e91fde59d6e0e5f07404774c689060c9df24ea74ca271b6402",
+    "headline": "Budget 2027 Clears Second Reading",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-21T07:49:12.380Z",
+    "fbPostId": "1278802861974766_122134819593402039",
+    "category": "Sri Lanka",
+    "score": 93,
+    "addedAt": "2026-11-21T07:50:09.893Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/20/supreme-court-determination-on-organized-crime-bill-handed-to-speaker",
+    "contentHash": "543e3888691fdee1437eaeae640803cc430ea3f846102b4a852d4f74679aa7d3",
+    "headline": "SC Ruling on Crime Bill Sent to Speaker",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-21T07:49:12.380Z",
+    "fbPostId": "1278802861974766_122134819653402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-21T07:50:14.982Z",
     "isShadow": false
   }
 ]
