@@ -1,13 +1,13 @@
 {
-  "runId": "ca8dea1f",
-  "startedAt": "2026-11-21T07:48:44.205Z",
-  "finishedAt": "2026-11-21T07:50:14.983Z",
+  "runId": "1c901b3b",
+  "startedAt": "2026-11-21T10:44:31.594Z",
+  "finishedAt": "2026-11-21T10:45:52.973Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 27,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,32 +20,48 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/20/supreme-court-determination-on-organized-crime-bill-handed-to-speaker",
+      "headline": "SC Ruling on Crime Bill Sent to Speaker",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/20/budget-2027-clears-second-reading-with-massive-97-vote-majority",
+      "headline": "Budget 2027 Clears Second Reading",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/21/budget-committee-stage-debate-begins-today",
       "headline": "Budget Committee Stage Debate Begins Today",
       "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=0.86)"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/20/over-20-students-hospitalised-after-suspected-food-poisoning-in-maskeliya",
-      "headline": "20 Students Hospitalised for Food Poisoning",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/21/every-law-passed-in-parliament-impacts-every-child%e2%80%99s-life-prime-minister",
+      "headline": "Every Law Passed in P'ment Impacts Every Child",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/21/five-suspects-including-former-police-chief-inspector-further-remanded",
+      "headline": "Former Police Chief Inspector Further Remanded",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/11/21/fire-breaks-out-at-scrap-metal-shop-in-thalawathugoda",
       "headline": "Fire Breaks Out at Scrap Metal Shop",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman",
       "headline": "Use of Chaminda Gunasekara's Properties Suspended",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
