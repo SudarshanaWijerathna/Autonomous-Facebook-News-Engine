@@ -1,13 +1,13 @@
 {
-  "runId": "45e2d3e2",
-  "startedAt": "2026-11-22T10:50:52.902Z",
-  "finishedAt": "2026-11-22T10:52:43.736Z",
+  "runId": "a6f9575b",
+  "startedAt": "2026-11-22T13:30:26.385Z",
+  "finishedAt": "2026-11-22T13:32:19.066Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
+  "afterDedup": 27,
   "scored": 5,
-  "selected": 2,
-  "published": 2,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/11/22/776-complaints-of-sexual-offences-against-children-reported-in-10-months",
@@ -25,32 +25,49 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/two-financial-firm-directors-arrested-over-rs-4-billion-fraud",
-      "headline": "Two Financial Firm Directors Arrested",
+      "url": "https://newsfirst.lk/2026/11/22/special-police-programme-to-prevent-drugs-entering-universities",
+      "headline": "Police Programme to Keep Drugs Out of Universities",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/21/21-students-of-university-of-jaffna-arrested-over-clash",
+      "headline": "21 Students of University of Jaffna Arrested",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/22/copa-reveals-rs-1-6-billion-spent-on-72-incomplete-education-projects",
+      "headline": "COPA Reveals Rs. 1.6 Bn on Education Projects",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/22/government-is-working-together-with-clergy-and-public-to-combat-social-threats-asserts-minister-handunetti",
+      "headline": "Handunetti: Joint Effort to Tackle Social Threats",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/11/22/two-political-figures-remanded-in-separate-police-investigations",
       "headline": "Two Politicians Remanded in Separate Cases",
-      "reason": "max-posts-per-run-reached",
+      "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/fire-at-thalawathugoda-scrap-yard-brought-under-control",
-      "headline": "Fire at Thalawathugoda Brought Under Control",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/22/environmental-licence-of-divulapitiya-e-waste-facility-suspended",
+      "headline": "Divulapitiya E-Waste Facility Licence Suspended",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/21/suspect-arrested-in-ja-ela-with-over-100-g-of-hashish",
-      "headline": "Suspect Arrested in Ja-Ela with Hashish",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/22/deputy-minister-urges-public-not-to-be-swayed-by-grievances-of-those-who-have-lost-privileges",
+      "headline": "Deputy Minister Warns Against Misguided Grievances",
+      "reason": "score-below-threshold (62 < 75)",
       "score": 62
     }
   ],
   "errors": [
     {
-      "url": "https://newsfirst.lk/2026/11/22/awareness-programmes-on-revised-labour-laws-begin-today",
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
