@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/08/shiranthi-rajapaksa-transferred-to-welikada-prison-women%e2%80%99s-section",
-    "contentHash": "429452c0135c95fbc6a99317a684e14b52d706874e1b8363db6e1f94208d5601",
-    "headline": "Shiranthi Transferred To Welikada Women's Section",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-08T10:10:56.559Z",
-    "fbPostId": "1278802861974766_122123925399402039",
-    "category": "Sri Lanka",
-    "score": 88,
-    "addedAt": "2026-10-08T10:11:49.526Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/08/public-urged-to-avoid-selling-vehicles-on-open-transfer-documents",
-    "contentHash": "c29dd28c3738436d1d63d5dcff6e0f46c71fbb5b3d19195c7cf164451f792ae6",
-    "headline": "Public Urged To Not Sell Vehicles On Open Document",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-08T10:10:56.559Z",
-    "fbPostId": "1278802861974766_122123925477402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-08T10:11:54.229Z",
-    "isShadow": false
-  },
-  {
     "url": "https://hirunews.lk/english/493035/us-proposes-70000-fee-for-international-student-work-training",
     "contentHash": "e5c3f967d73745ea63b9c909b530e0f1d30b263faf989d3b5a764d4cd012371e",
     "headline": "US proposes $70,000 fee for international student work training",
@@ -2157,6 +2133,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-11-22T07:38:28.146Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/21/21-students-of-university-of-jaffna-arrested-over-clash",
+    "contentHash": "fe0282555097a8ad602abf5a751e23aa627feb6cc003dc8bdd6e7b8969f70266",
+    "headline": "21 Students of University of Jaffna Arrested",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-22T10:51:20.485Z",
+    "fbPostId": "1278802861974766_122135080905402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-11-22T10:52:39.569Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/22/special-police-programme-to-prevent-drugs-entering-universities",
+    "contentHash": "cb7dee29fed8853b5fe9e837b3192d893a7effb898ef3ae7f3605056ffd639d9",
+    "headline": "Police Programme to Keep Drugs Out of Universities",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-22T10:51:20.484Z",
+    "fbPostId": "1278802861974766_122135080959402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-11-22T10:52:43.734Z",
     "isShadow": false
   }
 ]
