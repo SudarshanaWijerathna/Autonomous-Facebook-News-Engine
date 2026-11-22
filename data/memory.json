@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/07/imf-chief-warns-global-energy-crisis-far-from-over",
-    "contentHash": "682759b441b663e15e91fbeb08d19b44b8c155136ec12b000310cbf7b649f6d0",
-    "headline": "IMF Chief Warns Global Energy Crisis Far From Over",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-07T17:29:09.029Z",
-    "fbPostId": "1278802861974766_122123669409402039",
-    "category": "World",
-    "score": 72,
-    "addedAt": "2026-10-07T17:30:43.577Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/08/shiranthi-rajapaksa-transferred-to-welikada-prison-women%e2%80%99s-section",
     "contentHash": "429452c0135c95fbc6a99317a684e14b52d706874e1b8363db6e1f94208d5601",
     "headline": "Shiranthi Transferred To Welikada Women's Section",
@@ -2157,6 +2145,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-21T15:51:44.951Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/22/776-complaints-of-sexual-offences-against-children-reported-in-10-months",
+    "contentHash": "843f0a952a971f6ef2fdd5b23638f6723df13ff2bcb9a45c018eef075c42424d",
+    "headline": "776 Child Sexual Abuse Complaints in 10 Months",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-22T07:37:06.255Z",
+    "fbPostId": "1278802861974766_122135059413402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-22T07:38:28.146Z",
     "isShadow": false
   }
 ]
