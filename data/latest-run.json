@@ -1,13 +1,13 @@
 {
-  "runId": "37584496",
-  "startedAt": "2026-11-23T08:22:59.002Z",
-  "finishedAt": "2026-11-23T08:24:20.765Z",
+  "runId": "ec590032",
+  "startedAt": "2026-11-23T11:57:07.038Z",
+  "finishedAt": "2026-11-23T11:58:48.232Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 29,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,34 +20,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/3-000-houses-built-under-housing-assistance-scheme-to-be-opened-today",
-      "headline": "3,000 Houses Built Under Housing Scheme Opened",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/23/government-begins-reviewing-outdated-websites-following-dmt-cyberattack",
+      "headline": "Government Begins Reviewing Outdated Websites",
+      "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/committee-stage-debate-of-the-budget-continues-for-second-day-today",
-      "headline": "Committee Stage Debate of The Budget Continues",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/23/3-000-houses-built-under-housing-assistance-scheme-to-be-opened-today",
+      "headline": "3,000 Houses Built Under Housing Scheme Opened",
+      "reason": "max-posts-per-run-reached",
+      "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/23/avish-silva-back-on-the-podium-3rd-overall-at-iame-bambino-cup-uae-round-5",
       "headline": "Avish Silva Back on the Podium",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/23/committee-stage-debate-of-the-budget-continues-for-second-day-today",
+      "headline": "Committee Stage Debate of The Budget Continues",
+      "reason": "max-posts-per-run-reached",
       "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/23/democrats-clinch-historic-house-majority-of-at-least-258-seats-the-largest-since-1992",
-      "headline": "Democrats Clinch Historic House Majority",
-      "reason": "score-below-threshold (52 < 75)",
-      "score": 52
     }
   ],
   "errors": []
