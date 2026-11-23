@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://hirunews.lk/english/493035/us-proposes-70000-fee-for-international-student-work-training",
-    "contentHash": "e5c3f967d73745ea63b9c909b530e0f1d30b263faf989d3b5a764d4cd012371e",
-    "headline": "US proposes $70,000 fee for international student work training",
-    "sourceId": "hiru-news-en",
-    "publishedAt": "2026-10-08T17:27:47.460Z",
-    "fbPostId": "1278802861974766_122124062493402039",
-    "category": "World",
-    "score": 75,
-    "addedAt": "2026-10-08T17:30:12.347Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://hirunews.lk/english/493040/un-weather-body-says-el-nio-set-to-intensify-and-last-until-february-2027",
-    "contentHash": "411d396cf4bc8d09a4b9cb05d86438ab6586ec765925ede94057b61058aaf2fc",
-    "headline": "UN weather body says El Niño set to intensify and last until February 2027",
-    "sourceId": "hiru-news-en",
-    "publishedAt": "2026-10-08T17:27:47.460Z",
-    "fbPostId": "1278802861974766_122124062577402039",
-    "category": "World",
-    "score": 73,
-    "addedAt": "2026-10-08T17:30:18.610Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/08/extreme-weather-two-spill-gates-of-deduru-oya-opened-amid-heavy-rainfall",
-    "contentHash": "e215ed2153e0bcba3220a9bb4a3f306942fd6336119fc81547cac0814cdbe43f",
-    "headline": "Two Spill Gates of Deduru Oya Opened",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-08T19:08:29.531Z",
-    "fbPostId": "1278802861974766_122124080061402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-08T19:10:59.501Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/08/kusal-mendis-appointed-sri-lanka-test-captain-as-dhananjaya-de-silva-steps-down",
-    "contentHash": "764e04d4389a3a262c90ebb8bafd27badb47eb5f16db31fe27c9f09e0fe14b63",
-    "headline": "Kusal Mendis Appointed Sri Lanka Test Captain",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-08T20:45:20.024Z",
-    "fbPostId": "1278802861974766_122124094785402039",
-    "category": "Sports",
-    "score": 85,
-    "addedAt": "2026-10-08T20:46:35.053Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/08/dhananjaya-de-silva-steps-down-as-sri-lanka-test-captain-with-immediate-effect",
-    "contentHash": "dd5abc71aa5422241ca60e6fda5b58394a6e75016f353a10500772e2c7aec516",
-    "headline": "Dhananjaya de Silva Steps Down as SL Test Captain",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-09T06:54:37.209Z",
-    "fbPostId": "1278802861974766_122124212349402039",
-    "category": "Sports",
-    "score": 85,
-    "addedAt": "2026-10-09T06:55:29.528Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/08/court-rejects-preliminary-objections-trial-begins-against-shasheendra-rajapaksa-over-rs-8-85m-compensation-case",
-    "contentHash": "8301e7caed5952016c7588e34071a87b8da71251aaa45d475b8e4a0e69b6da66",
-    "headline": "Trial Begins Against Shasheendra Rajapaksa",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-09T06:54:37.208Z",
-    "fbPostId": "1278802861974766_122124212445402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-09T06:55:34.900Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/09/opposition-submits-no-confidence-motion-against-speaker-dr-jagath-wickramaratne",
     "contentHash": "a3475e396ff096bd46e204dc851d8697bb67ec0716a37c0852705017b9005ee2",
     "headline": "Opposition Files Motion Against Speaker",
@@ -2157,6 +2085,18 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-11-22T10:52:43.734Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/23/government-begins-reviewing-outdated-websites-following-dmt-cyberattack",
+    "contentHash": "8cdb5b80fe82f4387f46ec3b1b1828aebf2753dbae54087f41ac67e5e43d7c32",
+    "headline": "Government Begins Reviewing Outdated Websites",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-23T08:23:27.198Z",
+    "fbPostId": "1278802861974766_122135254071402039",
+    "category": "AI & Tech",
+    "score": 75,
+    "addedAt": "2026-11-23T08:24:20.764Z",
     "isShadow": false
   }
 ]
