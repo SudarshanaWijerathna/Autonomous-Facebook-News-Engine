@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/09/opposition-submits-no-confidence-motion-against-speaker-dr-jagath-wickramaratne",
-    "contentHash": "a3475e396ff096bd46e204dc851d8697bb67ec0716a37c0852705017b9005ee2",
-    "headline": "Opposition Files Motion Against Speaker",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-09T14:50:51.335Z",
-    "fbPostId": "1278802861974766_122124335211402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-09T14:51:43.687Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/09/south-africa-s-navanethem-navi-pillay-wins-2026-nobel-peace-prize",
-    "contentHash": "23526e489bc8c15a56caaeb873fb2dab3bdabd4ddd47c375a74bfd730a1d0d80",
-    "headline": "Navanethem Navi Pillay Wins 2026 Nobel Peace Prize",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-09T14:50:51.335Z",
-    "fbPostId": "1278802861974766_122124335295402039",
-    "category": "World",
-    "score": 81,
-    "addedAt": "2026-10-09T14:51:48.746Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/09/technical-fault-in-ct-simulator-leaves-1-500-patients-waiting-at-maharagama-apeksha-hospital",
     "contentHash": "49889fc990356528e459560e9b41214e2bc6341c5bf6b93454930cec2ba6d3d2",
     "headline": "CT Simulator Fault Hits 1,500 Apeksha Patients",
@@ -2121,6 +2097,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-11-23T11:58:48.230Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/23/adb-approves-200-million-loan-to-boost-msme-financing-and-resilience-in-sri-lanka",
+    "contentHash": "d148f3bd497ea1ccc506b28347dec4a7708cc250401150bb7ba69135cc650636",
+    "headline": "ADB Approves $200 Million Loan to Boost MSME",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-23T16:19:55.898Z",
+    "fbPostId": "1278802861974766_122135326005402039",
+    "category": "Business",
+    "score": 78,
+    "addedAt": "2026-11-23T16:21:31.376Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/23/3-000-houses-built-under-housing-assistance-scheme-to-be-opened-today",
+    "contentHash": "702867bc7667e26af8cdff0f93ab1732160c557cf9c9c5f65c61c88e70fdd2c8",
+    "headline": "3,000 Houses Built Under Housing Scheme Opened",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-23T16:19:55.899Z",
+    "fbPostId": "1278802861974766_122135326071402039",
+    "category": "Sri Lanka",
+    "score": 72,
+    "addedAt": "2026-11-23T16:21:36.263Z",
     "isShadow": false
   }
 ]
