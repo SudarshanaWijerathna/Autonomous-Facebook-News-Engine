@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/09/technical-fault-in-ct-simulator-leaves-1-500-patients-waiting-at-maharagama-apeksha-hospital",
-    "contentHash": "49889fc990356528e459560e9b41214e2bc6341c5bf6b93454930cec2ba6d3d2",
-    "headline": "CT Simulator Fault Hits 1,500 Apeksha Patients",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-10T06:30:32.835Z",
-    "fbPostId": "1278802861974766_122124640347402039",
-    "category": "Sri Lanka",
-    "score": 83,
-    "addedAt": "2026-10-10T06:31:24.285Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-    "contentHash": "8558085760d243d1ab0c0125a8709c1315497f7390cc27f3105a6d4811de3134",
-    "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-10T06:30:32.835Z",
-    "fbPostId": "1278802861974766_122124640443402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-10T06:31:28.851Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/10/six-lives-lost-in-road-accidents-within-24-hours",
     "contentHash": "df5ee038c898f94fda7496fea6efa8d5ada433d5f5b30d741abdd3941fa1c30a",
     "headline": "Six Lives Lost in Road Accidents Within 24 Hours",
@@ -2133,6 +2109,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-24T02:27:56.631Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/23/sri-lanka-on-track-for-record-tourist-arrivals-in-2026-says-foreign-minister",
+    "contentHash": "cb61ae1c21dbdc3378b29633fa8676bf569f9112a4fe373dafa217cebeb9d061",
+    "headline": "Sri Lanka on Track for Record Tourist Arrivals",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-24T10:31:55.189Z",
+    "fbPostId": "1278802861974766_122135476935402039",
+    "category": "Business",
+    "score": 75,
+    "addedAt": "2026-11-24T10:32:58.912Z",
     "isShadow": false
   }
 ]

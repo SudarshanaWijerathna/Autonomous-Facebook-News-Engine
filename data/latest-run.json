@@ -1,19 +1,14 @@
 {
-  "runId": "02288455",
-  "startedAt": "2026-11-24T02:26:21.682Z",
-  "finishedAt": "2026-11-24T02:27:56.632Z",
+  "runId": "febabb3b",
+  "startedAt": "2026-11-24T10:31:26.471Z",
+  "finishedAt": "2026-11-24T10:32:58.913Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 28,
-  "scored": 4,
+  "afterDedup": 29,
+  "scored": 6,
   "selected": 1,
   "published": 1,
   "skipped": [
-    {
-      "url": "https://newsfirst.lk/2026/11/23/pillayan-remanded-until-december-7-over-batticaloa-murder-cases",
-      "headline": "Pillayan Remanded Until December 7",
-      "reason": "exact-duplicate-in-memory"
-    },
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
       "headline": "South Asia Emerges As Rare Coral Recovery Success",
@@ -25,39 +20,40 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/adb-approves-200-million-loan-to-boost-msme-financing-and-resilience-in-sri-lanka",
-      "headline": "ADB Approves $200 Million Loan to Boost MSME",
+      "url": "https://newsfirst.lk/2026/11/23/pillayan-remanded-until-december-7-over-batticaloa-murder-cases",
+      "headline": "Pillayan Remanded Until December 7",
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/sri-lanka-pushes-ahead-with-gsp-discussions",
-      "headline": "Sri Lanka Pushes Ahead with GSP+ Discussions",
+      "url": "https://newsfirst.lk/2026/11/23/cricket%e2%80%99s-rulebook-finally-arrives-in-sinhala-and-tamil",
+      "headline": "Cricket’s Rulebook Arrives in Sinhala and Tamil",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/traffic-alert-ingurukade-junction-interchange-closed-for-ongoing-highway-works",
-      "headline": "Traffic Alert: Ingurukade Interchange Closed",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/23/avish-silva-back-on-the-podium-3rd-overall-at-iame-bambino-cup-uae-round-5",
-      "headline": "Avish Silva Back on the Podium",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
-    }
-  ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
+      "headline": "Kurunegala-Galewela expressway work begins Dec 1",
+      "reason": "score-below-threshold (67 < 75)",
+      "score": 67
     },
     {
       "url": "https://newsfirst.lk/2026/11/23/government-spending-must-be-properly-planned-to-meet-2027-development-targets-presidential-secretary",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
+      "headline": "Proper Spending Key to 2027 Development Goals",
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/budget-debate-on-foreign-affairs-foreign-employment-and-tourism-continues",
+      "headline": "Budget Debate on Foreign Affairs Continues",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
-  ]
+  ],
+  "errors": []
 }
