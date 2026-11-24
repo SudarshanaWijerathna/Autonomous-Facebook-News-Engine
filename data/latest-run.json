@@ -1,13 +1,13 @@
 {
-  "runId": "3dc12d91",
-  "startedAt": "2026-11-24T16:07:49.280Z",
-  "finishedAt": "2026-11-24T16:09:36.653Z",
+  "runId": "e1385096",
+  "startedAt": "2026-11-24T19:14:42.234Z",
+  "finishedAt": "2026-11-24T19:16:22.495Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
-  "scored": 1,
-  "selected": 1,
-  "published": 1,
+  "afterDedup": 29,
+  "scored": 4,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -18,31 +18,45 @@
       "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
       "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
       "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government",
+      "headline": "Government to reclaim idle Mahaweli lands",
+      "reason": "exact-duplicate-in-memory"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
+      "headline": "Kurunegala-Galewela expressway work begins Dec 1",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
+      "headline": "Police Recover T-56, M-16 Ammunition",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/cabinet-greenlights-us-30-million-opec-fund-loan-to-support-sri-lanka%e2%80%99s-structural-reforms",
+      "headline": "Cabinet Greenlights US$ 30 Million OPEC Fund Loan",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/u-s-embassy-announces-two-day-thanksgiving-closure",
+      "headline": "U.S. Embassy to Close for Thanksgiving",
+      "reason": "score-below-threshold (45 < 75)",
+      "score": 45
     }
   ],
   "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
     {
       "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/man-arrested-for-stealing-gold-jewellery-in-colombo",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "url": "https://newsfirst.lk/2026/11/24/284-new-environmental-officers-appointed-to-fill-island-wide-vacancies",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
