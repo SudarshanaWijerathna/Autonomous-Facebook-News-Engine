@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/10/six-lives-lost-in-road-accidents-within-24-hours",
-    "contentHash": "df5ee038c898f94fda7496fea6efa8d5ada433d5f5b30d741abdd3941fa1c30a",
-    "headline": "Six Lives Lost in Road Accidents Within 24 Hours",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-10T14:07:52.696Z",
-    "fbPostId": "1278802861974766_122124809709402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-10-10T14:08:47.764Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/10/digital-signatures-mandatory-for-customs-declarations-from-october-19",
     "contentHash": "86f0d69cf73e15a4297fe616afda155290e52a55c5a97babb0e5ae78df924064",
     "headline": "Customs to Require Digital Signatures from Oct. 19",
@@ -2133,6 +2121,18 @@
     "category": "Sri Lanka",
     "score": 76,
     "addedAt": "2026-11-24T13:24:36.008Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government",
+    "contentHash": "8edc002f8098c714b58a4c6b785d9048d75d77da97285b7673d91d430420c299",
+    "headline": "Government to reclaim idle Mahaweli lands",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-24T16:08:23.680Z",
+    "fbPostId": "1278802861974766_122135536605402039",
+    "category": "Sri Lanka",
+    "score": 72,
+    "addedAt": "2026-11-24T16:09:36.652Z",
     "isShadow": false
   }
 ]

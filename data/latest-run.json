@@ -1,11 +1,11 @@
 {
-  "runId": "d6f462a9",
-  "startedAt": "2026-11-24T13:23:02.260Z",
-  "finishedAt": "2026-11-24T13:24:36.009Z",
+  "runId": "3dc12d91",
+  "startedAt": "2026-11-24T16:07:49.280Z",
+  "finishedAt": "2026-11-24T16:09:36.653Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 31,
-  "scored": 3,
+  "afterDedup": 30,
+  "scored": 1,
   "selected": 1,
   "published": 1,
   "skipped": [
@@ -15,16 +15,9 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
-      "headline": "Kurunegala-Galewela expressway work begins Dec 1",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
-      "headline": "Gampaha Man Arrested Over Illegal Jeep Assembly",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
+      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
+      "reason": "exact-duplicate-in-memory"
     }
   ],
   "errors": [
@@ -34,7 +27,17 @@
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government",
+      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/24/man-arrested-for-stealing-gold-jewellery-in-colombo",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
