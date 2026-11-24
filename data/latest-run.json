@@ -1,11 +1,11 @@
 {
-  "runId": "e1385096",
-  "startedAt": "2026-11-24T19:14:42.234Z",
-  "finishedAt": "2026-11-24T19:16:22.495Z",
+  "runId": "f692c9f2",
+  "startedAt": "2026-11-24T20:43:42.860Z",
+  "finishedAt": "2026-11-24T20:45:10.157Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
-  "scored": 4,
+  "scored": 3,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -31,32 +31,31 @@
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
-      "headline": "Police Recover T-56, M-16 Ammunition",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
+      "headline": "Gampaha Man Arrested Over Illegal Jeep Assembly",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/cabinet-greenlights-us-30-million-opec-fund-loan-to-support-sri-lanka%e2%80%99s-structural-reforms",
-      "headline": "Cabinet Greenlights US$ 30 Million OPEC Fund Loan",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/u-s-embassy-announces-two-day-thanksgiving-closure",
-      "headline": "U.S. Embassy to Close for Thanksgiving",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
+      "url": "https://newsfirst.lk/2026/11/24/284-new-environmental-officers-appointed-to-fill-island-wide-vacancies",
+      "headline": "284 Environmental Officers to Be Recruited",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": [
     {
-      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
+      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/284-new-environmental-officers-appointed-to-fill-island-wide-vacancies",
+      "url": "https://newsfirst.lk/2026/11/24/man-arrested-for-stealing-gold-jewellery-in-colombo",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "stage": "score",
       "message": "Gemini scoring failed after retries"
     }
