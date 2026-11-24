@@ -1,11 +1,11 @@
 {
-  "runId": "7152a75b",
-  "startedAt": "2026-11-23T19:41:54.803Z",
-  "finishedAt": "2026-11-23T19:47:05.223Z",
+  "runId": "1dbe3b2d",
+  "startedAt": "2026-11-24T00:34:47.331Z",
+  "finishedAt": "2026-11-24T00:36:29.741Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 25,
-  "scored": 4,
+  "scored": 6,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -45,10 +45,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/23/traffic-alert-ingurukade-junction-interchange-closed-for-ongoing-highway-works",
+      "headline": "Traffic Alert: Ingurukade Interchange Closed",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/23/sri-lanka-pushes-ahead-with-gsp-discussions",
       "headline": "Sri Lanka Pushes Ahead with GSP+ Discussions",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/23/government-spending-must-be-properly-planned-to-meet-2027-development-targets-presidential-secretary",
+      "headline": "Proper Spending Key to 2027 Development Goals",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/23/avish-silva-back-on-the-podium-3rd-overall-at-iame-bambino-cup-uae-round-5",
+      "headline": "Avish Silva Back on the Podium",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -57,28 +75,11 @@
       "score": 62
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/government-spending-must-be-properly-planned-to-meet-2027-development-targets-presidential-secretary",
-      "headline": "Proper Spending Key to 2027 Development Goals",
+      "url": "https://hirunews.lk/english/502472/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-nyt-says",
+      "headline": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://hirunews.lk/english/502532/zimbabwean-preacher-uebert-angel-detained-over-alleged-sexual-offences",
-      "headline": "Zimbabwean preacher Uebert Angel detained over alleged sexual offences",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
-  "errors": [
-    {
-      "url": "https://newsfirst.lk/2026/11/23/avish-silva-back-on-the-podium-3rd-overall-at-iame-bambino-cup-uae-round-5",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/23/traffic-alert-ingurukade-junction-interchange-closed-for-ongoing-highway-works",
-      "stage": "score",
-      "message": "Gemini scoring failed after retries"
-    }
-  ]
+  "errors": []
 }
