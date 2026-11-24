@@ -1,11 +1,11 @@
 {
-  "runId": "febabb3b",
-  "startedAt": "2026-11-24T10:31:26.471Z",
-  "finishedAt": "2026-11-24T10:32:58.913Z",
+  "runId": "d6f462a9",
+  "startedAt": "2026-11-24T13:23:02.260Z",
+  "finishedAt": "2026-11-24T13:24:36.009Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
-  "scored": 6,
+  "afterDedup": 31,
+  "scored": 3,
   "selected": 1,
   "published": 1,
   "skipped": [
@@ -15,45 +15,33 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/08/20/sri-lanka-is-south-asia%e2%80%99s-most-favored-nation",
-      "headline": "Sri Lanka Is South Asia’s Most Favored Nation",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/23/pillayan-remanded-until-december-7-over-batticaloa-murder-cases",
-      "headline": "Pillayan Remanded Until December 7",
-      "reason": "exact-duplicate-in-memory"
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/23/cricket%e2%80%99s-rulebook-finally-arrives-in-sinhala-and-tamil",
-      "headline": "Cricket’s Rulebook Arrives in Sinhala and Tamil",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
       "headline": "Kurunegala-Galewela expressway work begins Dec 1",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/11/23/government-spending-must-be-properly-planned-to-meet-2027-development-targets-presidential-secretary",
-      "headline": "Proper Spending Key to 2027 Development Goals",
-      "reason": "score-below-threshold (65 < 75)",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
+      "headline": "Gampaha Man Arrested Over Illegal Jeep Assembly",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/budget-debate-on-foreign-affairs-foreign-employment-and-tourism-continues",
-      "headline": "Budget Debate on Foreign Affairs Continues",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
-      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
     }
-  ],
-  "errors": []
+  ]
 }
