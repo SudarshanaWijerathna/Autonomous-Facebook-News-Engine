@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/10/digital-signatures-mandatory-for-customs-declarations-from-october-19",
-    "contentHash": "86f0d69cf73e15a4297fe616afda155290e52a55c5a97babb0e5ae78df924064",
-    "headline": "Customs to Require Digital Signatures from Oct. 19",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-10T17:38:48.417Z",
-    "fbPostId": "1278802861974766_122124912069402039",
-    "category": "Business",
-    "score": 73,
-    "addedAt": "2026-10-10T17:39:44.564Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/10/suspect-arrested-over-fatal-restaurant-shooting-in-kalutara",
-    "contentHash": "f8ed1fd02a7459a5e7315d4ef825b8a2de8a48860a01867d128ca9722b68dc86",
-    "headline": "Suspect Arrested Over Fatal Restaurant Shooting",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-11T06:36:23.382Z",
-    "fbPostId": "1278802861974766_122125191135402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-11T06:37:16.144Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/11/police-to-repatriate-%e2%80%98ran-malli%e2%80%99-to-sri-lanka",
-    "contentHash": "7166112970bc743f9ed378bc3f2eb2634ad4e8a18ecb2bdbaa98271ba7c6a3ff",
-    "headline": "Police To Repatriate ‘Ran Malli’ to Sri Lanka",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-11T09:46:00.331Z",
-    "fbPostId": "1278802861974766_122125258161402039",
-    "category": "Sri Lanka",
-    "score": 76,
-    "addedAt": "2026-10-11T09:46:53.449Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/11/sri-lankan-delegation-to-attend-imf-world-bank-annual-meetings-in-bangkok",
-    "contentHash": "0fae9e6581fa7b4bf763abd6be974cce8517e7374aa832e2d8967011526df0a2",
-    "headline": "SL Delegation To Attend IMF, WB Annual Meetings",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-11T09:46:00.332Z",
-    "fbPostId": "1278802861974766_122125258221402039",
-    "category": "Business",
-    "score": 75,
-    "addedAt": "2026-10-11T09:46:57.628Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/11/government-to-recruit-23-000-teachers-in-2026-says-prime-minister",
     "contentHash": "18b802d8c723dcb9fb8377cc789a155bae1bd51d6f941933ce598f416133a175",
     "headline": "Government to Recruit 23,000 Teachers In 2026",
@@ -2133,6 +2085,30 @@
     "category": "Sri Lanka",
     "score": 72,
     "addedAt": "2026-11-24T16:09:36.652Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/25/gota%e2%80%99s-appeal-against-possible-pta-arrest-fixed-for-march-hearing",
+    "contentHash": "99137a18dba6f038b8e04e4900dbeb85efbcaf617ae35ad1e518374148c7637c",
+    "headline": "Gota’s Appeal Against Possible PTA Arrest",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-25T15:54:38.424Z",
+    "fbPostId": "1278802861974766_122135718279402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-11-25T15:55:44.242Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/25/vasudeva-nanayakkara-appears-before-ciaboc",
+    "contentHash": "76ee5eb491401e1a4b83a9d4af28b578aaf4e6de2c5b84c8ae9dd70a70819841",
+    "headline": "Vasudeva Nanayakkara Appears Before CIABOC",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-25T15:54:38.424Z",
+    "fbPostId": "1278802861974766_122135718333402039",
+    "category": "Sri Lanka",
+    "score": 68,
+    "addedAt": "2026-11-25T15:55:48.711Z",
     "isShadow": false
   }
 ]
