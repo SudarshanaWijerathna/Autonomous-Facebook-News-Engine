@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/11/government-to-recruit-23-000-teachers-in-2026-says-prime-minister",
-    "contentHash": "18b802d8c723dcb9fb8377cc789a155bae1bd51d6f941933ce598f416133a175",
-    "headline": "Government to Recruit 23,000 Teachers In 2026",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-11T17:54:02.055Z",
-    "fbPostId": "1278802861974766_122125416267402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-11T17:54:53.556Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/12/former-president-mahinda-rajapaksa-hospitalised-says-slpp-spokesperson",
     "contentHash": "1fcc8a05040f670568ed617c02d23a902b2aa06193d2f2e703c1ec060021441b",
     "headline": "Former President Mahinda Rajapaksa Hospitalised",
@@ -2109,6 +2097,30 @@
     "category": "Sri Lanka",
     "score": 68,
     "addedAt": "2026-11-25T15:55:48.711Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/25/sri-lanka-breaks-through-15-bn-export-barrier-in-record-time",
+    "contentHash": "1c5533b5cc99ac2c64c21b44b44304bff940f9f6462772267b98a4cac3ce108f",
+    "headline": "Sri Lanka Breaks Through $15 Bn Export Barrier",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-25T18:20:06.277Z",
+    "fbPostId": "1278802861974766_122135739423402039",
+    "category": "Business",
+    "score": 85,
+    "addedAt": "2026-11-25T18:21:11.098Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/25/harini-and-sajith-wear-orange-push-for-action-on-violence-against-women",
+    "contentHash": "58c16e69888883e3711e8c7544517f304843dd1934c80405444d7c57b470427f",
+    "headline": "Harini and Sajith Wear Orange, Push for Action",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-25T18:20:06.277Z",
+    "fbPostId": "1278802861974766_122135739477402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-11-25T18:21:16.460Z",
     "isShadow": false
   }
 ]
