@@ -1,11 +1,11 @@
 {
-  "runId": "cb77f460",
-  "startedAt": "2026-11-24T22:54:09.587Z",
-  "finishedAt": "2026-11-24T22:55:21.713Z",
+  "runId": "81ad8199",
+  "startedAt": "2026-11-24T23:58:48.563Z",
+  "finishedAt": "2026-11-25T00:00:03.716Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
-  "scored": 6,
+  "scored": 5,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -25,34 +25,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
-      "headline": "Kurunegala-Galewela expressway work begins Dec 1",
+      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
+      "headline": "Police Recover T-56, M-16 Ammunition",
       "reason": "score-below-threshold (73 < 75)",
       "score": 73
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
-      "headline": "Police Recover T-56, M-16 Ammunition",
+      "url": "https://newsfirst.lk/2026/11/24/cabinet-greenlights-us-30-million-opec-fund-loan-to-support-sri-lanka%e2%80%99s-structural-reforms",
+      "headline": "Cabinet Greenlights US$ 30 Million OPEC Fund Loan",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/284-new-environmental-officers-appointed-to-fill-island-wide-vacancies",
-      "headline": "284 Environmental Officers to Be Recruited",
+      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
+      "headline": "Gampaha Man Arrested Over Illegal Jeep Assembly",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/man-arrested-for-stealing-gold-jewellery-in-colombo",
-      "headline": "Man Arrested for Stealing Gold Jewellery in Colomb",
-      "reason": "score-below-threshold (63 < 75)",
-      "score": 63
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
-      "headline": "Gampaha Man Arrested Over Illegal Jeep Assembly",
-      "reason": "score-below-threshold (62 < 75)",
-      "score": 62
+      "url": "https://newsfirst.lk/2026/11/24/india-to-fund-first-three-floors-of-new-six-storey-building-for-puttalam-base-hospital",
+      "headline": "New Six-Storey Building for Puttalam Base Hospital",
+      "reason": "score-below-threshold (68 < 75)",
+      "score": 68
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
@@ -61,5 +55,11 @@
       "score": 62
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
