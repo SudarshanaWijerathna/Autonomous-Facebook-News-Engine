@@ -1,11 +1,11 @@
 {
-  "runId": "cca603f0",
-  "startedAt": "2026-11-25T01:28:49.453Z",
-  "finishedAt": "2026-11-25T01:30:05.947Z",
+  "runId": "da468663",
+  "startedAt": "2026-11-25T12:16:15.825Z",
+  "finishedAt": "2026-11-25T12:17:51.466Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 29,
-  "scored": 6,
+  "scored": 4,
   "selected": 0,
   "published": 0,
   "skipped": [
@@ -20,46 +20,45 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government",
-      "headline": "Government to reclaim idle Mahaweli lands",
-      "reason": "exact-duplicate-in-memory"
+      "url": "https://hirunews.lk/english/502934/all-hostages-held-in-colombian-supermarket-freed",
+      "headline": "All hostages held in Colombian supermarket freed",
+      "reason": "batch-cross-source-duplicate-of-news-first-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1",
-      "headline": "Kurunegala-Galewela expressway work begins Dec 1",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
+      "url": "https://newsfirst.lk/2026/11/25/mother-and-son-slashed-in-broad-daylight-at-kolonnawa-hardware-store",
+      "headline": "Mother, Son Slashed in Broad Daylight In Kolonnawa",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
-      "url": "https://newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota",
-      "headline": "Police Recover T-56, M-16 Ammunition",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/cabinet-greenlights-us-30-million-opec-fund-loan-to-support-sri-lanka%e2%80%99s-structural-reforms",
-      "headline": "Cabinet Greenlights US$ 30 Million OPEC Fund Loan",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep",
-      "headline": "Gampaha Man Arrested Over Illegal Jeep Assembly",
+      "url": "https://newsfirst.lk/2026/11/25/vasudeva-nanayakkara-appears-before-ciaboc",
+      "headline": "Vasudeva Nanayakkara Appears Before CIABOC",
       "reason": "score-below-threshold (68 < 75)",
       "score": 68
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/25/woman-killed-after-being-struck-by-bus-near-royal-college-colombo",
+      "headline": "Woman Killed After Being Struck by Bus In Colombo",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
       "reason": "score-below-threshold (62 < 75)",
       "score": 62
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/24/u-s-embassy-announces-two-day-thanksgiving-closure",
-      "headline": "U.S. Embassy to Close for Thanksgiving",
-      "reason": "score-below-threshold (45 < 75)",
-      "score": 45
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://newsfirst.lk/2026/11/25/sjb-executive-member-ananda-palitha-further-remanded-over-rs-3-1-mn-overtime-fraud",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/25/court-rejects-gota%e2%80%99s-bid-to-lift-foreign-travel-ban",
+      "stage": "score",
+      "message": "Gemini scoring failed after retries"
+    }
+  ]
 }
