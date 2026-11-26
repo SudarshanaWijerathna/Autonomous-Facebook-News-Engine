@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/12/former-president-mahinda-rajapaksa-hospitalised-says-slpp-spokesperson",
-    "contentHash": "1fcc8a05040f670568ed617c02d23a902b2aa06193d2f2e703c1ec060021441b",
-    "headline": "Former President Mahinda Rajapaksa Hospitalised",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-12T06:42:02.797Z",
-    "fbPostId": "1278802861974766_122125515069402039",
-    "category": "Sri Lanka",
-    "score": 90,
-    "addedAt": "2026-10-12T06:42:54.575Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/11/president-says-those-who-evaded-law-now-oppose-its-equal-enforcement",
-    "contentHash": "0bb5088ba9267dc32bc69e15c8d463ed9a57e017dd61a9aa3f15f0ce33cfb902",
-    "headline": "President: Law Applies Equally to All",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-12T06:42:02.798Z",
-    "fbPostId": "1278802861974766_122125515147402039",
-    "category": "Sri Lanka",
-    "score": 81,
-    "addedAt": "2026-10-12T06:42:59.386Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/12/shiranthi-rajapaksa%e2%80%99s-anticipatory-bail-bid-rejected-by-court",
     "contentHash": "addd12f0ea45646f5adea5d0a0bf0b7229ad452af4c8c453141b70e166407ee7",
     "headline": "Shiranthi’s Anticipatory Bail Bid Rejected",
@@ -2121,6 +2097,30 @@
     "category": "Sri Lanka",
     "score": 75,
     "addedAt": "2026-11-25T18:21:16.460Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/26/one-year-since-cyclone-ditwah%e2%80%99-national-commemoration-in-badulla",
+    "contentHash": "9506fc15a1e6285ffb2cc3649a2d3a066e9e4b0c91a440ebe7ed589181f459fb",
+    "headline": "One Year Since Cyclone 'Ditwah’",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-26T08:59:41.559Z",
+    "fbPostId": "1278802861974766_122135846427402039",
+    "category": "Sri Lanka",
+    "score": 76,
+    "addedAt": "2026-11-26T09:00:57.301Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/25/january-22-talks-in-new-delhi-aim-to-end-india-sri-lanka-fisheries-row",
+    "contentHash": "ecb3973612286d4d917e7a2dcd0d43007dfffeefb0a89c6f92addbd86d3c0052",
+    "headline": "2027 Talks Aim to End Indo-Sri Lanka Fisheries Row",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-26T08:59:41.560Z",
+    "fbPostId": "1278802861974766_122135846511402039",
+    "category": "Sri Lanka",
+    "score": 75,
+    "addedAt": "2026-11-26T09:01:02.376Z",
     "isShadow": false
   }
 ]
