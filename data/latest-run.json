@@ -1,7 +1,7 @@
 {
-  "runId": "43c3b5bb",
-  "startedAt": "2026-11-26T17:59:56.867Z",
-  "finishedAt": "2026-11-26T18:01:10.633Z",
+  "runId": "36cdc610",
+  "startedAt": "2026-11-26T19:43:29.170Z",
+  "finishedAt": "2026-11-26T19:44:45.309Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -23,13 +23,7 @@
       "url": "https://newsfirst.lk/2026/11/26/13-year-old-girl-among-eight-dead-in-multiple-road-accidents-across-sri-lanka",
       "headline": "Young Girl Among Eight Dead in Road Accident",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/26/sri-lanka-joins-india-and-maldives-in-new-regional-security-roadmap-for-20262027",
-      "headline": "New Regional Security Roadmap for 2026–2027",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
+      "score": 82
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/diana-gamage-pleads-guilty-to-overstaying-visa",
@@ -38,22 +32,28 @@
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/russia-pledges-help-to-bring-sri-lankan-fugitives-home",
-      "headline": "Russia To Help Bring Sri Lankan Fugitives Home",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 75
+      "url": "https://newsfirst.lk/2026/11/26/sri-lanka-and-russia-sign-anti-corruption-deal",
+      "headline": "Sri Lanka and Russia Sign Anti-Corruption Deal",
+      "reason": "score-below-threshold (74 < 75)",
+      "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/balangoda-kassapa-thero-and-others-granted-bail-in-ruwanwelisaya-incident",
       "headline": "Balangoda Kassapa Thero and Others Granted Bail",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/26/india-and-sri-lanka-must-lead-the-indian-ocean-sri-lankan-envoy",
+      "headline": "\"India and Sri Lanka Must Lead the Indian Ocean\"",
+      "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/govt-denies-imposing-restrictions-on-russian-prosecutor-general",
       "headline": "Govt Denies Restrictions On Russian Prosecutor Gen",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 68
+      "reason": "score-below-threshold (65 < 75)",
+      "score": 65
     }
   ],
   "errors": []
