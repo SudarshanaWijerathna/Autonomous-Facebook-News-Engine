@@ -1,13 +1,13 @@
 {
-  "runId": "892a507c",
-  "startedAt": "2026-11-26T11:59:43.024Z",
-  "finishedAt": "2026-11-26T12:01:13.837Z",
+  "runId": "43c3b5bb",
+  "startedAt": "2026-11-26T17:59:56.867Z",
+  "finishedAt": "2026-11-26T18:01:10.633Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 1,
-  "published": 1,
+  "selected": 0,
+  "published": 0,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,16 +20,16 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/indian-ocean-no-longer-safe-from-other-nations%e2%80%99-wars-sri-lanka-warns-of-global-economic-fallout",
-      "headline": "\"Wars Far Away Can Hit Every Household\"",
+      "url": "https://newsfirst.lk/2026/11/26/13-year-old-girl-among-eight-dead-in-multiple-road-accidents-across-sri-lanka",
+      "headline": "Young Girl Among Eight Dead in Road Accident",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/%e2%80%98he-risked-his-own-life-to-save-hers%e2%80%99-sri-lankan-army-chief-honours-homagama-rescue-hero",
-      "headline": "‘He Risked His Own Life to Save Hers’",
+      "url": "https://newsfirst.lk/2026/11/26/sri-lanka-joins-india-and-maldives-in-new-regional-security-roadmap-for-20262027",
+      "headline": "New Regional Security Roadmap for 2026–2027",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/diana-gamage-pleads-guilty-to-overstaying-visa",
@@ -38,15 +38,21 @@
       "score": 76
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/russian-prosecutor-general-arrives-in-sri-lanka-for-talks",
-      "headline": "Russian Prosecutor General Arrives In Sri Lanka",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "url": "https://newsfirst.lk/2026/11/26/russia-pledges-help-to-bring-sri-lankan-fugitives-home",
+      "headline": "Russia To Help Bring Sri Lankan Fugitives Home",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/duran-duran-star-andy-taylor-dies-at-65-his-band%e2%80%99s-iconic-videos-were-filmed-in-sri-lanka",
-      "headline": "Duran Duran Star Andy Taylor Dies at 65",
-      "reason": "score-below-threshold (68 < 75)",
+      "url": "https://newsfirst.lk/2026/11/26/balangoda-kassapa-thero-and-others-granted-bail-in-ruwanwelisaya-incident",
+      "headline": "Balangoda Kassapa Thero and Others Granted Bail",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/26/govt-denies-imposing-restrictions-on-russian-prosecutor-general",
+      "headline": "Govt Denies Restrictions On Russian Prosecutor Gen",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 68
     }
   ],
