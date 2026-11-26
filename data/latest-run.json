@@ -1,7 +1,7 @@
 {
-  "runId": "36cdc610",
-  "startedAt": "2026-11-26T19:43:29.170Z",
-  "finishedAt": "2026-11-26T19:44:45.309Z",
+  "runId": "47e16f98",
+  "startedAt": "2026-11-26T22:06:21.236Z",
+  "finishedAt": "2026-11-26T22:07:42.667Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
@@ -23,7 +23,13 @@
       "url": "https://newsfirst.lk/2026/11/26/13-year-old-girl-among-eight-dead-in-multiple-road-accidents-across-sri-lanka",
       "headline": "Young Girl Among Eight Dead in Road Accident",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 82
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/26/russia-pledges-help-to-bring-sri-lankan-fugitives-home",
+      "headline": "Russia To Help Bring Sri Lankan Fugitives Home",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 78
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/diana-gamage-pleads-guilty-to-overstaying-visa",
@@ -40,12 +46,6 @@
     {
       "url": "https://newsfirst.lk/2026/11/26/balangoda-kassapa-thero-and-others-granted-bail-in-ruwanwelisaya-incident",
       "headline": "Balangoda Kassapa Thero and Others Granted Bail",
-      "reason": "score-below-threshold (72 < 75)",
-      "score": 72
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/26/india-and-sri-lanka-must-lead-the-indian-ocean-sri-lankan-envoy",
-      "headline": "\"India and Sri Lanka Must Lead the Indian Ocean\"",
       "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
