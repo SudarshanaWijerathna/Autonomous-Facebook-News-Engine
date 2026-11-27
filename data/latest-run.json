@@ -1,10 +1,10 @@
 {
-  "runId": "52126ce9",
-  "startedAt": "2026-11-27T11:51:27.850Z",
-  "finishedAt": "2026-11-27T11:52:37.192Z",
+  "runId": "97b77760",
+  "startedAt": "2026-11-27T17:45:01.322Z",
+  "finishedAt": "2026-11-27T17:46:13.712Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 29,
+  "afterDedup": 28,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -25,39 +25,44 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
+      "url": "https://newsfirst.lk/2026/11/27/foreign-flagged-suspected-drug-boat-seized",
+      "headline": "Foreign-Flagged Suspected Drug Boat Seized",
+      "reason": "batch-cross-source-duplicate-of-news-first-en (sim=1.00)"
+    },
+    {
       "url": "https://newsfirst.lk/2026/11/27/investigator-who-helped-uncover-airbus-global-bribery-network-to-appear-in-sri-lanka-in-case-against-namal",
       "headline": "Airbus Investigator To Testify In Namal Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 81
+      "score": 85
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/27/netherlands-to-return-rare-kandyan-war-guns-taken-during-1765-conflict",
+      "headline": "Netherlands to Return Rare Kandyan War Guns",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
     },
     {
       "url": "https://newsfirst.lk/2026/11/27/foreign-flagged-suspected-drug-boat-seized",
       "headline": "Foreign-Flagged Suspected Drug Boat Seized",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/27/sri-lanka-expands-national-cybersecurity-network-to-state-institutions",
-      "headline": "SL Expands National Cybersecurity Network",
-      "reason": "score-below-threshold (72 < 75)",
+      "url": "https://newsfirst.lk/2026/11/27/rs-10-000-allowance-for-police-as-65-000-officers-sign-up-for-electric-bikes",
+      "headline": "65,000 Police Personnel Apply for Electric Bikes",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/27/gammadda-steps-in-to-build-long-awaited-library-for-puttalam-school",
       "headline": "Gammadda Steps In to Build Long-Awaited Library",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/27/25-year-old-arrested-over-rs-1-million-fake-banking-website-scam",
-      "headline": "25 Year-Old Arrested in Rs. 1 Mn Bank Scam",
-      "reason": "score-below-threshold (67 < 75)",
-      "score": 67
+      "reason": "score-below-threshold (62 < 65)",
+      "score": 62
     },
     {
       "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
       "headline": "Op Ed: What One Small Clinic Tells Us About SL",
-      "reason": "score-below-threshold (62 < 75)",
+      "reason": "score-below-threshold (62 < 65)",
       "score": 62
     }
   ],
