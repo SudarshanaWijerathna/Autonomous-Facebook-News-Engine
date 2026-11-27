@@ -1,10 +1,10 @@
 {
-  "runId": "9a9b2d5d",
-  "startedAt": "2026-11-27T19:33:06.243Z",
-  "finishedAt": "2026-11-27T19:34:13.363Z",
+  "runId": "9da23dc8",
+  "startedAt": "2026-11-27T21:48:08.212Z",
+  "finishedAt": "2026-11-27T21:49:19.014Z",
   "shadowMode": false,
-  "discovered": 12,
-  "afterDedup": 8,
+  "discovered": 32,
+  "afterDedup": 28,
   "scored": 6,
   "selected": 0,
   "published": 0,
@@ -30,10 +30,10 @@
       "reason": "batch-cross-source-duplicate-of-news-first-en (sim=1.00)"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/27/one-minute-of-silence-then-heated-words-parliament-remembers-ditwah-victims",
-      "headline": "One Minute of Silence, Then Heated Words",
+      "url": "https://newsfirst.lk/2026/11/27/investigator-who-helped-uncover-airbus-global-bribery-network-to-appear-in-sri-lanka-in-case-against-namal",
+      "headline": "Airbus Investigator To Testify In Namal Case",
       "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
+      "score": 81
     },
     {
       "url": "https://newsfirst.lk/2026/11/27/netherlands-to-return-rare-kandyan-war-guns-taken-during-1765-conflict",
@@ -50,8 +50,8 @@
     {
       "url": "https://newsfirst.lk/2026/11/27/rs-10-000-allowance-for-police-as-65-000-officers-sign-up-for-electric-bikes",
       "headline": "65,000 Police Personnel Apply for Electric Bikes",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "reason": "score-below-threshold (73 < 75)",
+      "score": 73
     },
     {
       "url": "https://newsfirst.lk/2026/11/27/gammadda-steps-in-to-build-long-awaited-library-for-puttalam-school",
