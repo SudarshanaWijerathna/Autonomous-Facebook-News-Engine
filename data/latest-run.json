@@ -1,13 +1,13 @@
 {
-  "runId": "c0e27182",
-  "startedAt": "2026-11-27T01:03:45.877Z",
-  "finishedAt": "2026-11-27T01:05:07.153Z",
+  "runId": "a6e9e1ba",
+  "startedAt": "2026-11-27T09:13:21.617Z",
+  "finishedAt": "2026-11-27T09:14:47.833Z",
   "shadowMode": false,
   "discovered": 32,
-  "afterDedup": 30,
+  "afterDedup": 28,
   "scored": 6,
-  "selected": 2,
-  "published": 2,
+  "selected": 1,
+  "published": 1,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,28 +20,44 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/diana-gamage-pleads-guilty-to-overstaying-visa",
-      "headline": "Diana Gamage Pleads Guilty to Overstaying Visa",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://hirunews.lk/english/503420/no-ban-on-public-taking-mobile-phones-into-police-stations-minister-clarifies",
+      "headline": "No ban on public taking mobile phones into police stations, Minister clarifies",
+      "reason": "batch-cross-source-duplicate-of-hiru-news-en (sim=0.89)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/27/foreign-flagged-suspected-drug-boat-seized",
+      "headline": "Foreign-Flagged Suspected Drug Boat Seized",
+      "reason": "batch-cross-source-duplicate-of-news-first-en (sim=1.00)"
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/27/vijitha-herath-meets-jaishankar-in-delhi-ahead-of-iora-meeting",
+      "headline": "Vijitha Herath Meets Jaishankar in Delhi",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
+      "score": 76
+    },
+    {
+      "url": "https://newsfirst.lk/2026/11/27/foreign-flagged-suspected-drug-boat-seized",
+      "headline": "Foreign-Flagged Suspected Drug Boat Seized",
+      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
       "score": 75
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/russia-pledges-help-to-bring-sri-lankan-fugitives-home",
-      "headline": "Russia To Help Bring Sri Lankan Fugitives Home",
-      "reason": "max-posts-per-run-reached",
-      "score": 74
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/26/balangoda-kassapa-thero-and-others-granted-bail-in-ruwanwelisaya-incident",
-      "headline": "Balangoda Kassapa Thero and Others Granted Bail",
-      "reason": "max-posts-per-run-reached",
+      "url": "https://newsfirst.lk/2026/11/27/sri-lanka-expands-national-cybersecurity-network-to-state-institutions",
+      "headline": "SL Expands National Cybersecurity Network",
+      "reason": "score-below-threshold (72 < 75)",
       "score": 72
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/govt-denies-imposing-restrictions-on-russian-prosecutor-general",
-      "headline": "Govt Denies Restrictions On Russian Prosecutor Gen",
-      "reason": "max-posts-per-run-reached",
-      "score": 65
+      "url": "https://newsfirst.lk/2026/11/27/russia-praises-sri-lanka-for-refusing-to-join-anti-russian-sanctions",
+      "headline": "Russia praises Sri Lanka for rejecting sanctions",
+      "reason": "score-below-threshold (72 < 75)",
+      "score": 72
+    },
+    {
+      "url": "https://newsfirst.lk/2026/09/03/op-ed-what-one-small-clinic-tells-us-about-sri-lanka-s-future",
+      "headline": "Op Ed: What One Small Clinic Tells Us About SL",
+      "reason": "score-below-threshold (62 < 75)",
+      "score": 62
     }
   ],
   "errors": []

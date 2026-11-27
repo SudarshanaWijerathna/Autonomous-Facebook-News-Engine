@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/12/mahinda-kahandagama-remanded-until-october-26",
-    "contentHash": "bad9bf3dddfe50a70a42e192cda320fb9cb292423f094d510a6b86238c2549b1",
-    "headline": "Mahinda Kahandagama Remanded Until October 26",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-13T07:12:04.992Z",
-    "fbPostId": "1278802861974766_122125929195402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-13T07:12:58.410Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/12/chamara-sampath-dassanayake-remanded",
-    "contentHash": "ee1804db2e6cc253d03a53708d7e807b57a8e9685b34a592e1139fcafe66b797",
-    "headline": "Chamara Sampath Dassanayake Remanded",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-13T07:12:04.991Z",
-    "fbPostId": "1278802861974766_122125929237402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-13T07:13:02.143Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/13/imf-projects-sri-lanka-s-economy-to-grow-4-in-2026",
     "contentHash": "1f652047bfc96cfe85d30c6c926ebba436159410077b10a2ca3c5c5ea80ff649",
     "headline": "IMF Projects Sri Lanka's Economy to Grow 4% in '26",
@@ -2133,6 +2109,18 @@
     "category": "Sri Lanka",
     "score": 78,
     "addedAt": "2026-11-27T01:05:07.151Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/27/heavy-rainfall-above-100mm-expected-in-five-provinces",
+    "contentHash": "4fb7238a83fe89e769e3530642309ecee43d26a0e1fca47fe4ef1e644660a3ca",
+    "headline": "Heavy Rainfall Above 100mm Expected",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-27T09:13:52.142Z",
+    "fbPostId": "1278802861974766_122136068445402039",
+    "category": "Sri Lanka",
+    "score": 81,
+    "addedAt": "2026-11-27T09:14:47.831Z",
     "isShadow": false
   }
 ]
