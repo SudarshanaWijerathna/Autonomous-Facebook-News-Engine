@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/12/shiranthi-rajapaksa%e2%80%99s-anticipatory-bail-bid-rejected-by-court",
-    "contentHash": "addd12f0ea45646f5adea5d0a0bf0b7229ad452af4c8c453141b70e166407ee7",
-    "headline": "Shiranthi’s Anticipatory Bail Bid Rejected",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-12T13:23:45.839Z",
-    "fbPostId": "1278802861974766_122125650543402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-12T13:24:41.047Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/12/sri-lanka%e2%80%99s-financial-system-holds-firm-amid-global-turmoil-cbsl-warns-of-rising-household-debt-risks",
-    "contentHash": "2ad0753217a4511ad8d8e7013267ec90bc24cd82cfc0c8f2ec35ff16ad74a567",
-    "headline": "Sri Lanka’s Financial System Holds Firm Amid Risks",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-12T13:23:45.839Z",
-    "fbPostId": "1278802861974766_122125651119402039",
-    "category": "Business",
-    "score": 75,
-    "addedAt": "2026-10-12T13:24:46.900Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/12/mahinda-kahandagama-remanded-until-october-26",
     "contentHash": "bad9bf3dddfe50a70a42e192cda320fb9cb292423f094d510a6b86238c2549b1",
     "headline": "Mahinda Kahandagama Remanded Until October 26",
@@ -2133,6 +2109,30 @@
     "category": "Sri Lanka",
     "score": 81,
     "addedAt": "2026-11-26T12:01:13.835Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/26/13-year-old-girl-among-eight-dead-in-multiple-road-accidents-across-sri-lanka",
+    "contentHash": "7d8ab7c7a1e5d258f69e8bc3e6a5b589811503925fa45a6a0d2b3e9544584b73",
+    "headline": "Young Girl Among Eight Dead in Road Accident",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-27T01:04:12.528Z",
+    "fbPostId": "1278802861974766_122135996235402039",
+    "category": "Sri Lanka",
+    "score": 82,
+    "addedAt": "2026-11-27T01:05:01.876Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/26/sri-lanka-joins-india-and-maldives-in-new-regional-security-roadmap-for-20262027",
+    "contentHash": "e1f9b04aaa332ad5a951e8664c0b229d2e70c3caf5a49e07fe4dd6dbc5103294",
+    "headline": "New Regional Security Roadmap for 2026–2027",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-27T01:04:12.527Z",
+    "fbPostId": "1278802861974766_122135996313402039",
+    "category": "Sri Lanka",
+    "score": 78,
+    "addedAt": "2026-11-27T01:05:07.151Z",
     "isShadow": false
   }
 ]

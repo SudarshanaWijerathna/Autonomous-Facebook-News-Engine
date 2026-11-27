@@ -1,13 +1,13 @@
 {
-  "runId": "0644e224",
-  "startedAt": "2026-11-26T23:55:32.841Z",
-  "finishedAt": "2026-11-26T23:56:38.774Z",
+  "runId": "c0e27182",
+  "startedAt": "2026-11-27T01:03:45.877Z",
+  "finishedAt": "2026-11-27T01:05:07.153Z",
   "shadowMode": false,
   "discovered": 32,
   "afterDedup": 30,
   "scored": 6,
-  "selected": 0,
-  "published": 0,
+  "selected": 2,
+  "published": 2,
   "skipped": [
     {
       "url": "https://newsfirst.lk/2026/09/02/south-asia-emerges-as-rare-coral-recovery-success-story",
@@ -20,40 +20,28 @@
       "reason": "exact-duplicate-in-memory"
     },
     {
-      "url": "https://newsfirst.lk/2026/11/26/13-year-old-girl-among-eight-dead-in-multiple-road-accidents-across-sri-lanka",
-      "headline": "Young Girl Among Eight Dead in Road Accident",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 85
-    },
-    {
-      "url": "https://newsfirst.lk/2026/11/26/sri-lanka-joins-india-and-maldives-in-new-regional-security-roadmap-for-20262027",
-      "headline": "New Regional Security Roadmap for 2026–2027",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 78
-    },
-    {
       "url": "https://newsfirst.lk/2026/11/26/diana-gamage-pleads-guilty-to-overstaying-visa",
       "headline": "Diana Gamage Pleads Guilty to Overstaying Visa",
-      "reason": "category-cap-reached (Sri Lanka: 3/3 today)",
-      "score": 76
+      "reason": "max-posts-per-run-reached",
+      "score": 75
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/russia-pledges-help-to-bring-sri-lankan-fugitives-home",
       "headline": "Russia To Help Bring Sri Lankan Fugitives Home",
-      "reason": "score-below-threshold (74 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 74
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/balangoda-kassapa-thero-and-others-granted-bail-in-ruwanwelisaya-incident",
       "headline": "Balangoda Kassapa Thero and Others Granted Bail",
-      "reason": "score-below-threshold (72 < 75)",
+      "reason": "max-posts-per-run-reached",
       "score": 72
     },
     {
       "url": "https://newsfirst.lk/2026/11/26/govt-denies-imposing-restrictions-on-russian-prosecutor-general",
       "headline": "Govt Denies Restrictions On Russian Prosecutor Gen",
-      "reason": "score-below-threshold (68 < 75)",
-      "score": 68
+      "reason": "max-posts-per-run-reached",
+      "score": 65
     }
   ],
   "errors": []
