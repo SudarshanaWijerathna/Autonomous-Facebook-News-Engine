@@ -1,53 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/13/imf-projects-sri-lanka-s-economy-to-grow-4-in-2026",
-    "contentHash": "1f652047bfc96cfe85d30c6c926ebba436159410077b10a2ca3c5c5ea80ff649",
-    "headline": "IMF Projects Sri Lanka's Economy to Grow 4% in '26",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-13T10:15:48.248Z",
-    "fbPostId": "1278802861974766_122125950627402039",
-    "category": "Business",
-    "score": 81,
-    "addedAt": "2026-10-13T10:17:29.606Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/13/former-minister-johnston-fernando%e2%80%99s-personal-secretary-arrested",
-    "contentHash": "5bbd33853a94ac808b3420a0bbde2246a69eba98e859739958dc7f08b0bb3a6c",
-    "headline": "Johnston Fernando’s Personal Secretary Arrested",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-13T10:15:48.248Z",
-    "fbPostId": "1278802861974766_122125950675402039",
-    "category": "Sri Lanka",
-    "score": 78,
-    "addedAt": "2026-10-13T10:17:34.747Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/13/maharaja-media-network-joins-senter-music-festival-as-strategic-partner-ahead-of-dj-snake%e2%80%99s-sri-lanka-debut",
-    "contentHash": "4b4c2df689a47f8b28d43dcd534609dae0abc2117401b5f5f22bbb82594438a9",
-    "headline": "DJ Snake to Make Sri Lanka Debut This Month",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-14T05:35:22.826Z",
-    "fbPostId": "1278802861974766_122126090097402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-14T05:36:20.944Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/13/court-remands-chinese-national-accused-of-extorting-port-city-investors",
-    "contentHash": "d5b320fc237e6eec7c8d5cad8c13badcca33d171d22a58162af147f6a078a782",
-    "headline": "Suspected Chinese Crime Figure Remanded",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-14T05:35:22.826Z",
-    "fbPostId": "1278802861974766_122126090145402039",
-    "category": "Sri Lanka",
-    "score": 75,
-    "addedAt": "2026-10-14T05:36:25.228Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/14/anojan-sivarasa-wins-lifeline-as-saudi-court-overturns-death-sentence",
     "contentHash": "404ca1f4ed63b926dba4d08163183f581a2d13ebc5a1d2de78819a9d021bcd29",
     "headline": "Death Sentence Against Anojan Sivarasa Set Aside",
@@ -2121,6 +2073,30 @@
     "category": "Sri Lanka",
     "score": 81,
     "addedAt": "2026-11-27T09:14:47.831Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/27/sri-lanka-moves-up-a-tier-as-s-p-cites-stronger-finances-and-rising-reserves",
+    "contentHash": "4d3e582a78c6d8cfc143d4b54fd65c6e6b088edddc8a2072b8bf67e86058edb0",
+    "headline": "S&P Lifts Sri Lanka Rating",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-28T08:32:56.538Z",
+    "fbPostId": "1278802861974766_122136268035402039",
+    "category": "Business",
+    "score": 88,
+    "addedAt": "2026-11-28T08:33:43.116Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/27/growing-hiv-cases-detected-among-15-24-age-group-in-sri-lanka",
+    "contentHash": "e9fa51de229f7fd8f2d38982c55a87dc038289d4bc4852583dbd9cc7ec625ef6",
+    "headline": "Growing HIV Cases Detected Among 15-24 Age Group",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-28T08:32:56.539Z",
+    "fbPostId": "1278802861974766_122136268143402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-28T08:33:47.351Z",
     "isShadow": false
   }
 ]
