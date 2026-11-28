@@ -1,29 +1,5 @@
 [
   {
-    "url": "https://newsfirst.lk/2026/10/14/anojan-sivarasa-wins-lifeline-as-saudi-court-overturns-death-sentence",
-    "contentHash": "404ca1f4ed63b926dba4d08163183f581a2d13ebc5a1d2de78819a9d021bcd29",
-    "headline": "Death Sentence Against Anojan Sivarasa Set Aside",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-14T10:26:24.435Z",
-    "fbPostId": "1278802861974766_122126124675402039",
-    "category": "Sri Lanka",
-    "score": 85,
-    "addedAt": "2026-10-14T10:27:44.385Z",
-    "isShadow": false
-  },
-  {
-    "url": "https://newsfirst.lk/2026/10/14/g24-sri-lanka-changed-the-global-debt-playbook-but-more-reforms-needed",
-    "contentHash": "273c1cfd8e6f61c5caa0dba4f6dd63981bb3e346c0a66952250c5082602e870d",
-    "headline": "G24: Sri Lanka Changed the Global Debt Playbook",
-    "sourceId": "news-first-en",
-    "publishedAt": "2026-10-14T10:26:24.435Z",
-    "fbPostId": "1278802861974766_122126124717402039",
-    "category": "Business",
-    "score": 81,
-    "addedAt": "2026-10-14T10:27:48.890Z",
-    "isShadow": false
-  },
-  {
     "url": "https://newsfirst.lk/2026/10/14/president-assures-support-to-anojan-after-saudi-court-drops-death-sentence",
     "contentHash": "e515f257431c4e93faec2b5e11501f0325ce862bc7e02fa30bb87523745f77b7",
     "headline": "President Assures Support To Anojan",
@@ -2097,6 +2073,30 @@
     "category": "Sri Lanka",
     "score": 85,
     "addedAt": "2026-11-28T08:33:47.351Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/28/tuition-classes-for-2026-g-c-e-ol-examination-prohibitied-from-december-2",
+    "contentHash": "2ebbc86d8f487da5cda26c4e9a478144c87b7ec62fbaf9b15edaaa12103a273e",
+    "headline": "2026 O/L Tuition Classes Banned from December 2",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-28T11:27:32.595Z",
+    "fbPostId": "1278802861974766_122136297789402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-28T11:28:22.329Z",
+    "isShadow": false
+  },
+  {
+    "url": "https://newsfirst.lk/2026/11/28/parliamentary-committee-to-study-black-july-tragedy",
+    "contentHash": "87a25315f9dd24880459b7be2f73504acc85dd715dfd286042378ea2ac3482d8",
+    "headline": "Parliamentary Committee to Study Black July",
+    "sourceId": "news-first-en",
+    "publishedAt": "2026-11-28T11:27:32.594Z",
+    "fbPostId": "1278802861974766_122136297867402039",
+    "category": "Sri Lanka",
+    "score": 85,
+    "addedAt": "2026-11-28T11:28:26.039Z",
     "isShadow": false
   }
 ]
